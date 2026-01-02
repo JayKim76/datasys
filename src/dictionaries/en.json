@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "clients": "Clients",
+        "news": "News",
+        "tech": "Tech Resources",
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "title_start": "Future of Data",
+        "title_end": "Intelligence",
+        "description": "DATASYS empowers enterprises to unlock the true potential of their data with cutting-edge AI infrastructure and secure cloud solutions.",
+        "get_started": "Get Started",
+        "view_solutions": "View Solutions"
+    },
+    "services": {
+        "title": "Core Services",
+        "description": "Comprehensive solutions designed to elevate your business infrastructure.",
+        "bigdata": {
+            "title": "Big Data Mgmt",
+            "desc": "Scalable storage and processing pipelines for massive datasets."
+        },
+        "ai": {
+            "title": "AI Acceleration",
+            "desc": "Optimized proprietary models and training infrastructure."
+        },
+        "security": {
+            "title": "Security Audits",
+            "desc": "Enterprise-grade security protocols and real-time monitoring."
+        },
+        "analytics": {
+            "title": "Analytics",
+            "desc": "Actionable insights derived from complex data streams."
+        }
+    },
+    "clients": {
+        "title": "Trusted by Industry Leaders"
+    },
+    "cta": {
+        "title": "Ready to Transform Your Data?",
+        "description": "Join hundreds of companies that have modernized their infrastructure with DATASYS.",
+        "button": "Contact Sales"
+    },
+    "footer": {
+        "description": "Empowering businesses with intelligent data solutions and next-generation AI infrastructure.",
+        "services": "Services",
+        "company": "Company",
+        "connect": "Connect",
+        "links": {
+            "data_analytics": "Data Analytics",
+            "ai_infra": "AI Infrastructure",
+            "cloud_migration": "Cloud Migration",
+            "security_audit": "Security Audit",
+            "about": "About Us",
+            "careers": "Careers",
+            "blog": "Blog",
+            "contact": "Contact"
+        },
+        "address": "Room 801, 8th Floor, M-Valley W Tower IV,\n14 Magokjungang 1-ro, Gangseo-gu, Seoul",
+        "email": "datasys@datasys.co.kr",
+        "copyright": "DATASYS Inc. All rights reserved."
+    }
+}

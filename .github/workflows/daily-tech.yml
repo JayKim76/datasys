@@ -1,0 +1,35 @@
+name: Daily Tech Resource Update
+
+on:
+  schedule:
+    # Runs at 20:00 UTC (05:00 AM KST) every day
+    - cron: '0 20 * * *'
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  update-tech:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run update scripts
+        run: |
+          node scripts/update-tech.mjs
+          node scripts/update-news.mjs
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated daily tech resource update [skip ci]"
+          file_pattern: "src/data/tech.json src/data/news.json"

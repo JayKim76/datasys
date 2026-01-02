@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1765956415864",
+    "name": "김재근",
+    "email": "data@datasys.co.kr",
+    "phone": "010-1111-2222",
+    "message": "test",
+    "timestamp": "2025-12-17T07:26:55.864Z"
+  },
+  {
+    "id": "1765956534579",
+    "name": "Jay",
+    "email": "abc@def.com",
+    "phone": "01026508464",
+    "message": "ㅇㄹㄴㅇ",
+    "timestamp": "2025-12-17T07:28:54.579Z"
+  },
+  {
+    "id": "1765983390605",
+    "name": "test",
+    "email": "test@test.com",
+    "phone": "000-1111-2222",
+    "message": "test",
+    "timestamp": "2025-12-17T14:56:30.605Z"
+  },
+  {
+    "id": "1765983747627",
+    "name": "aaa",
+    "email": "a@b.c",
+    "phone": "1111111",
+    "message": "sss",
+    "timestamp": "2025-12-17T15:02:27.627Z"
+  },
+  {
+    "id": "1765983750630",
+    "name": "aaa",
+    "email": "a@b.c",
+    "phone": "1111111",
+    "message": "sss",
+    "timestamp": "2025-12-17T15:02:30.630Z"
+  },
+  {
+    "id": "1765983892117",
+    "name": "sss",
+    "email": "ss@aa.k",
+    "phone": "aaaa",
+    "message": "ssss",
+    "timestamp": "2025-12-17T15:04:52.117Z"
+  }
+]
