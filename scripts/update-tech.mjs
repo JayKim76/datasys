@@ -7,7 +7,7 @@ const parser = new Parser();
 
 // RSS Feeds for Tech Content
 // Using Google News RSS for specific high-quality keywords in Korean
-const KEYWORDS = '오라클 AI 데이타베이스 클라우드';
+const KEYWORDS = '오라클 데이터베이스 ("신기능" OR "튜토리얼" OR "가이드" OR "예제" OR "실습" OR "튜닝")';
 const TECH_JSON_PATH = path.join(process.cwd(), 'src/data/tech.json');
 
 async function fetchTechArticle() {

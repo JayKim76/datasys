@@ -4,7 +4,7 @@ import path from 'path';
 
 const parser = new Parser();
 
-const KEYWORDS = 'IT Oracle AI';
+const KEYWORDS = 'Oracle AI "Market" OR "Business" OR "Stock" OR "Trend"';
 const NEWS_JSON_PATH = path.join(process.cwd(), 'src/data/news.json');
 
 async function fetchNews(lang, gl, hl) {
