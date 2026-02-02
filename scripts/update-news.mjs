@@ -4,11 +4,12 @@ import path from 'path';
 
 const parser = new Parser();
 
-const KEYWORDS = 'Oracle AI "Market" OR "Business" OR "Stock" OR "Trend"';
+const EN_KEYWORDS = 'Oracle AI "Market" OR "Business" OR "Stock" OR "Trend"';
+const KO_KEYWORDS = '오라클 AI "시장" OR "사업" OR "주식" OR "동향" OR "전망"';
 const NEWS_JSON_PATH = path.join(process.cwd(), 'src/data/news.json');
 
-async function fetchNews(lang, gl, hl) {
-    const feedUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(KEYWORDS)}&hl=${hl}&gl=${gl}&ceid=${gl}:${hl}`;
+async function fetchNews(lang, gl, hl, keywords) {
+    const feedUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(keywords)}&hl=${hl}&gl=${gl}&ceid=${gl}:${hl}`;
     try {
         const feed = await parser.parseURL(feedUrl);
         return feed.items.slice(0, 6).map((item, index) => ({ // Take top 6
@@ -29,11 +30,11 @@ async function updateNews() {
     console.log('Fetching news...');
 
     // Fetch English News (US)
-    const enNews = await fetchNews('en', 'US', 'en-US');
+    const enNews = await fetchNews('en', 'US', 'en-US', EN_KEYWORDS);
     console.log(`Fetched ${enNews.length} English articles.`);
 
     // Fetch Korean News (KR)
-    const koNews = await fetchNews('ko', 'KR', 'ko');
+    const koNews = await fetchNews('ko', 'KR', 'ko', KO_KEYWORDS);
     console.log(`Fetched ${koNews.length} Korean articles.`);
 
     // Read existing data first to enable accumulation and proper filtering
