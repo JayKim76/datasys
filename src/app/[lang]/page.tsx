@@ -21,57 +21,75 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
     <div className="flex flex-col gap-16 pb-16">
 
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-b from-primary/10 to-transparent pt-20 pb-32">
-        <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-secondary mb-6">
-            {dict.hero.title_start} <span className="text-primary">{dict.hero.title_end}</span>
+      <section className="relative pt-32 pb-40 overflow-hidden">
+        {/* Background Decorative Elements */}
+        <div className="absolute inset-0 bg-grid-pattern opacity-[0.03] z-0 pointer-events-none" />
+        <div className="absolute top-20 right-0 w-[600px] h-[600px] bg-primary/20 rounded-full blur-[100px] animate-float opacity-40 -z-10" />
+        <div className="absolute bottom-0 left-0 w-[400px] h-[400px] bg-accent/20 rounded-full blur-[80px] animate-float opacity-30 -z-10" style={{ animationDelay: '2s' }} />
+
+        <div className="container mx-auto px-4 text-center relative z-10">
+          <div className="inline-flex items-center rounded-full border border-primary/20 bg-primary/5 px-3 py-1 text-sm font-medium text-primary mb-8 backdrop-blur-sm animate-in fade-in slide-in-from-bottom-4 duration-1000">
+            <span className="flex h-2 w-2 rounded-full bg-primary mr-2 animate-pulse"></span>
+            AI-Powered Enterprise Solutions
+          </div>
+
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tight text-secondary mb-8 drop-shadow-sm animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-200">
+            {dict.hero.title_start} <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-blue-500 to-accent relative pb-2">
+              {dict.hero.title_end}
+              <svg className="absolute w-full h-3 bottom-0 left-0 text-primary/20 -z-10" viewBox="0 0 100 10" preserveAspectRatio="none">
+                <path d="M0 5 Q 50 10 100 5" stroke="currentColor" strokeWidth="8" fill="none" />
+              </svg>
+            </span>
           </h1>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-10">
+
+          <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto mb-12 leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-400">
             {dict.hero.description}
           </p>
-          <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Button className="h-12 px-8 text-lg rounded-full">
-              {dict.hero.get_started}
+
+          <div className="flex flex-col sm:flex-row justify-center gap-6 animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-600">
+            <Button className="h-14 px-10 text-lg rounded-full shadow-lg shadow-primary/25 hover:shadow-primary/40 transition-all hover:-translate-y-1">
+              {dict.hero.get_started} <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-            <Button className="h-12 px-8 text-lg rounded-full border-2 border-primary bg-transparent hover:bg-primary/5 text-primary">
+            <Button variant="outline" className="h-14 px-10 text-lg rounded-full border-2 hover:bg-secondary/5 transition-all hover:-translate-y-1">
               {dict.hero.view_solutions}
             </Button>
           </div>
         </div>
-
-        {/* Abstract Background Element */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 -z-10 w-[800px] h-[800px] bg-blue-400/20 rounded-full blur-3xl opacity-30" />
       </section>
 
       {/* Services Section */}
-      <section id="services" className="container mx-auto px-4">
-        <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-secondary mb-4">{dict.services.title}</h2>
-          <p className="text-muted-foreground max-w-2xl mx-auto">
+      <section id="services" className="container mx-auto px-4 relative">
+        <div className="text-center mb-16">
+          <h2 className="text-3xl md:text-5xl font-bold text-secondary mb-6">{dict.services.title}</h2>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             {dict.services.description}
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <ServiceCard
-            icon={<Database className="h-10 w-10 text-primary" />}
+            icon={<Database className="h-12 w-12 text-primary" />}
             title={dict.services.bigdata.title}
             description={dict.services.bigdata.desc}
+            delay={0}
           />
           <ServiceCard
-            icon={<Zap className="h-10 w-10 text-primary" />}
+            icon={<Zap className="h-12 w-12 text-accent" />}
             title={dict.services.ai.title}
             description={dict.services.ai.desc}
+            delay={100}
           />
           <ServiceCard
-            icon={<ShieldCheck className="h-10 w-10 text-primary" />}
+            icon={<ShieldCheck className="h-12 w-12 text-primary" />}
             title={dict.services.security.title}
             description={dict.services.security.desc}
+            delay={200}
           />
           <ServiceCard
-            icon={<BarChart3 className="h-10 w-10 text-primary" />}
+            icon={<BarChart3 className="h-12 w-12 text-accent" />}
             title={dict.services.analytics.title}
             description={dict.services.analytics.desc}
+            delay={300}
           />
         </div>
       </section>
@@ -91,17 +109,17 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 items-center justify-items-center opacity-80 hover:opacity-100 transition-opacity duration-300">
             {[
               { name: "Papa John's", src: '/clients/papajohns.png' },
-              { name: 'Moms Touch', src: '/clients/momstouch.svg' },
-              { name: 'Eyesvision', src: '/clients/eyesvision.svg' },
-              { name: 'Monami', src: '/clients/monami.svg' },
-              { name: 'People Power Party', src: '/clients/ppp.svg' },
+              { name: 'Moms Touch', src: '/clients/momstouch.png' },
+              { name: 'Eyesvision', src: '/clients/eyesvision.jpg' },
+              { name: 'Monami', src: '/clients/monami.jpg' },
+              { name: 'People Power Party', src: '/clients/ppp.png' },
               { name: 'Woongji Tax Univ', src: '/clients/woongji.png' },
-              { name: 'Myongji St Marys', src: '/clients/myongji.svg' },
-              { name: 'Shinhan Financial Plus', src: '/clients/shinhan.svg' },
-              { name: 'Youngpoong', src: '/clients/youngpoong.svg' },
-              { name: 'Welcos', src: '/clients/welcos.svg' },
-              { name: 'Alvogen', src: '/clients/alvogen.svg' },
-              { name: 'Playtong', src: '/clients/playtong.svg' },
+              { name: 'Myongji St Marys', src: '/clients/myongji.jpg' },
+              { name: 'Shinhan Financial Plus', src: '/clients/shinhan.png' },
+              { name: 'Youngpoong', src: '/clients/youngpoong.png' },
+              { name: 'Welcos', src: '/clients/welcos.png' },
+              { name: 'Alvogen', src: '/clients/alvogen.png' },
+              { name: 'Playtong', src: '/clients/playtong.png' },
             ].map((client) => (
               <div key={client.name} className="flex items-center justify-center p-4 bg-white rounded-lg shadow-sm border border-slate-100 w-full h-24 hover:shadow-md transition-shadow relative overflow-hidden group">
                 <div className="relative w-full h-full">
@@ -126,15 +144,20 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
   );
 }
 
-function ServiceCard({ icon, title, description }: { icon: React.ReactNode, title: string, description: string }) {
+function ServiceCard({ icon, title, description, delay = 0 }: { icon: React.ReactNode, title: string, description: string, delay?: number }) {
   return (
-    <Card className="hover:shadow-lg transition-shadow border-t-4 border-t-transparent hover:border-t-primary">
+    <Card
+      className="glass-card hover:shadow-xl transition-all duration-300 border-t-4 border-t-transparent hover:border-t-primary hover:-translate-y-2 group"
+      style={{ animationDelay: `${delay}ms` }}
+    >
       <CardHeader>
-        <div className="mb-4">{icon}</div>
-        <CardTitle>{title}</CardTitle>
+        <div className="mb-4 p-3 bg-slate-50 rounded-2xl w-fit group-hover:bg-primary/10 transition-colors duration-300">
+          {icon}
+        </div>
+        <CardTitle className="text-xl font-bold text-slate-800">{title}</CardTitle>
       </CardHeader>
       <CardContent>
-        <CardDescription className="text-base">{description}</CardDescription>
+        <CardDescription className="text-base leading-relaxed text-slate-600">{description}</CardDescription>
       </CardContent>
     </Card>
   );
