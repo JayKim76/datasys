@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight, BarChart3, Database, ShieldCheck, Zap } from 'lucide-react';
+import { ArrowRight, Activity, Cloud, RefreshCw, Server } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Locale } from '@/i18n-config';
@@ -68,25 +68,25 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <ServiceCard
-            icon={<Database className="h-12 w-12 text-primary" />}
+            icon={<Server className="h-12 w-12 text-primary" />}
             title={dict.services.bigdata.title}
             description={dict.services.bigdata.desc}
             delay={0}
           />
           <ServiceCard
-            icon={<Zap className="h-12 w-12 text-accent" />}
+            icon={<Activity className="h-12 w-12 text-accent" />}
             title={dict.services.ai.title}
             description={dict.services.ai.desc}
             delay={100}
           />
           <ServiceCard
-            icon={<ShieldCheck className="h-12 w-12 text-primary" />}
+            icon={<RefreshCw className="h-12 w-12 text-primary" />}
             title={dict.services.security.title}
             description={dict.services.security.desc}
             delay={200}
           />
           <ServiceCard
-            icon={<BarChart3 className="h-12 w-12 text-accent" />}
+            icon={<Cloud className="h-12 w-12 text-accent" />}
             title={dict.services.analytics.title}
             description={dict.services.analytics.desc}
             delay={300}
