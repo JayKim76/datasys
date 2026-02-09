@@ -11,7 +11,7 @@ interface CtaSectionProps {
 export function CtaSection({ dict, lang }: CtaSectionProps) {
 
     return (
-        <section className="container mx-auto px-4">
+        <section id="cta" className="container mx-auto px-4">
             <div className="bg-secondary rounded-2xl p-12 text-center text-white relative overflow-hidden">
                 <div className="relative z-10">
                     <h2 className="text-3xl font-bold mb-6">{dict.cta.title}</h2>

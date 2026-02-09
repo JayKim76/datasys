@@ -1,43 +1,56 @@
 @import "tailwindcss";
 
 :root {
-  /* Brand Colors - Trustworthy Blue Palette */
-  --color-primary: #0284c7; /* Sky 600 */
-  --color-primary-dark: #0369a1; /* Sky 700 */
-  --color-primary-light: #e0f2fe; /* Sky 100 */
-  
-  --color-secondary: #0f172a; /* Slate 900 */
-  --color-accent: #38bdf8; /* Sky 400 */
+  /* Premium Oracle Enterprise Palette (Dark Mode) */
+  --color-primary: #38bdf8;
+  /* Sky 400 - Electric Blue */
+  --color-primary-dark: #0ea5e9;
+  /* Sky 500 */
+  --color-primary-light: #0f172a;
+  /* Slate 900 */
 
-  --background: #ffffff;
-  --foreground: #0f172a; /* Slate 900 for text */
-  --muted: #f1f5f9; /* Slate 100 */
-  --muted-foreground: #64748b; /* Slate 500 */
+  --color-secondary: #f8fafc;
+  /* Slate 50 - White Text for Headings */
+  --color-accent: #818cf8;
+  /* Indigo 400 */
 
-  --card: #ffffff;
-  --card-foreground: #0f172a;
-  
-  --border: #e2e8f0; /* Slate 200 */
+  --background: #0b1120;
+  /* Deep Navy/Slate - Premium Dark Background */
+  --foreground: #e2e8f0;
+  /* Slate 200 - Main Text */
+
+  --muted: #1e293b;
+  /* Slate 800 */
+  --muted-foreground: #94a3b8;
+  /* Slate 400 */
+
+  --card: #1e293b;
+  /* Slate 800 */
+  --card-foreground: #f8fafc;
+  /* Slate 50 */
+
+  --border: #334155;
+  /* Slate 700 */
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  
+
   --color-primary: var(--color-primary);
-  --color-primary-foreground: #ffffff;
-  
+  --color-primary-foreground: #0f172a;
+
   --color-secondary: var(--color-secondary);
-  --color-secondary-foreground: #ffffff;
-  
+  --color-secondary-foreground: #0f172a;
+
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
-  
+
   --color-card: var(--card);
   --color-card-foreground: var(--card-foreground);
 
   --color-border: var(--border);
-  
+
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
 }
 
@@ -46,14 +59,14 @@ body {
   color: var(--foreground);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
-  background-image: 
-    radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
-    radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
-    radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%);
+  /* Deep Premium Gradient */
+  background-image:
+    radial-gradient(circle at 15% 50%, rgba(56, 189, 248, 0.08), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(129, 140, 248, 0.08), transparent 25%);
   background-attachment: fixed;
 }
 
-/* Custom Utilities for Youngja's Magic */
+/* Custom Utilities */
 @utility animate-float {
   animation: float 6s ease-in-out infinite;
 }
@@ -63,25 +76,44 @@ body {
 }
 
 @keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
 }
 
 @keyframes pulse-glow {
-  0%, 100% { opacity: 1; box-shadow: 0 0 20px var(--color-primary-light); }
-  50% { opacity: 0.5; box-shadow: 0 0 40px var(--color-primary); }
+
+  0%,
+  100% {
+    opacity: 1;
+    box-shadow: 0 0 20px rgba(56, 189, 248, 0.3);
+  }
+
+  50% {
+    opacity: 0.8;
+    box-shadow: 0 0 40px rgba(56, 189, 248, 0.6);
+  }
 }
 
-/* Glassmorphism Card Style */
+/* Premium Glassmorphism Card Style (Dark) */
 .glass-card {
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(30, 41, 59, 0.6);
+  /* Slate 800 with opacity */
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.15);
 }
 
-/* Modern Grid Background */
+/* Modern Cyber Grid Background */
 .bg-grid-pattern {
-  background-size: 40px 40px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.05) 1px, transparent 1px),
-                    linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
 }

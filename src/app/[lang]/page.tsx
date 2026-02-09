@@ -47,12 +47,16 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-6 animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-600">
-            <Button className="h-14 px-10 text-lg rounded-full shadow-lg shadow-primary/25 hover:shadow-primary/40 transition-all hover:-translate-y-1">
-              {dict.hero.get_started} <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button variant="outline" className="h-14 px-10 text-lg rounded-full border-2 hover:bg-secondary/5 transition-all hover:-translate-y-1">
-              {dict.hero.view_solutions}
-            </Button>
+            <Link href="#cta">
+              <Button className="h-14 px-10 text-lg rounded-full shadow-lg shadow-primary/25 hover:shadow-primary/40 transition-all hover:-translate-y-1">
+                {dict.hero.get_started} <ArrowRight className="ml-2 h-5 w-5" />
+              </Button>
+            </Link>
+            <Link href="#services">
+              <Button variant="outline" className="h-14 px-10 text-lg rounded-full border-2 hover:bg-secondary/5 transition-all hover:-translate-y-1">
+                {dict.hero.view_solutions}
+              </Button>
+            </Link>
           </div>
         </div>
       </section>
@@ -151,13 +155,13 @@ function ServiceCard({ icon, title, description, delay = 0 }: { icon: React.Reac
       style={{ animationDelay: `${delay}ms` }}
     >
       <CardHeader>
-        <div className="mb-4 p-3 bg-slate-50 rounded-2xl w-fit group-hover:bg-primary/10 transition-colors duration-300">
+        <div className="mb-4 p-3 bg-white/5 rounded-2xl w-fit group-hover:bg-primary/20 transition-colors duration-300">
           {icon}
         </div>
-        <CardTitle className="text-xl font-bold text-slate-800">{title}</CardTitle>
+        <CardTitle className="text-xl font-bold text-foreground">{title}</CardTitle>
       </CardHeader>
       <CardContent>
-        <CardDescription className="text-base leading-relaxed text-slate-600">{description}</CardDescription>
+        <CardDescription className="text-base leading-relaxed text-muted-foreground">{description}</CardDescription>
       </CardContent>
     </Card>
   );
