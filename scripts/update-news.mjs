@@ -4,8 +4,8 @@ import path from 'path';
 
 const parser = new Parser();
 
-const EN_KEYWORDS = 'Oracle AI "Market" OR "Business" OR "Stock" OR "Trend"';
-const KO_KEYWORDS = '오라클 AI "시장" OR "사업" OR "주식" OR "동향" OR "전망"';
+const EN_KEYWORDS = 'Oracle AI "IT" OR "GenAI" OR "Cloud" OR "Database" OR "Trend"';
+const KO_KEYWORDS = '오라클 AI "IT" OR "생성형" OR "클라우드" OR "데이터베이스" OR "동향"';
 const NEWS_JSON_PATH = path.join(process.cwd(), 'src/data/news.json');
 
 async function fetchNews(lang, gl, hl, keywords) {

@@ -91,26 +91,28 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 items-center justify-items-center opacity-80 hover:opacity-100 transition-opacity duration-300">
             {[
               { name: "Papa John's", src: '/clients/papajohns.png' },
-              { name: 'Moms Touch', src: '/clients/momstouch.png' },
-              { name: 'Eyesvision', src: '/clients/eyesvision.jpg' },
-              { name: 'Monami', src: '/clients/monami.jpg' },
-              { name: 'People Power Party', src: '/clients/ppp.jpg' },
+              { name: 'Moms Touch', src: '/clients/momstouch.svg' },
+              { name: 'Eyesvision', src: '/clients/eyesvision.svg' },
+              { name: 'Monami', src: '/clients/monami.svg' },
+              { name: 'People Power Party', src: '/clients/ppp.svg' },
               { name: 'Woongji Tax Univ', src: '/clients/woongji.png' },
-              { name: 'Myongji St Marys', src: '/clients/myongji.jpg' },
-              { name: 'Shinhan Financial Plus', src: '/clients/shinhan.png' },
-              { name: 'Youngpoong', src: '/clients/youngpoong.png' },
-              { name: 'Welcos', src: '/clients/welcos.png' },
-              { name: 'Alvogen', src: '/clients/alvogen.png' },
-              { name: 'Playtong', src: '/clients/playtong.png' },
+              { name: 'Myongji St Marys', src: '/clients/myongji.svg' },
+              { name: 'Shinhan Financial Plus', src: '/clients/shinhan.svg' },
+              { name: 'Youngpoong', src: '/clients/youngpoong.svg' },
+              { name: 'Welcos', src: '/clients/welcos.svg' },
+              { name: 'Alvogen', src: '/clients/alvogen.svg' },
+              { name: 'Playtong', src: '/clients/playtong.svg' },
             ].map((client) => (
-              <div key={client.name} className="flex items-center justify-center p-4 bg-white rounded-lg shadow-sm border border-slate-100 w-full h-24 hover:shadow-md transition-shadow">
-                <Image
-                  src={client.src}
-                  alt={`${client.name} logo`}
-                  width={140}
-                  height={60}
-                  className="max-h-16 w-auto object-contain"
-                />
+              <div key={client.name} className="flex items-center justify-center p-4 bg-white rounded-lg shadow-sm border border-slate-100 w-full h-24 hover:shadow-md transition-shadow relative overflow-hidden group">
+                <div className="relative w-full h-full">
+                  <Image
+                    src={client.src}
+                    alt={`${client.name} logo`}
+                    fill
+                    className="object-contain p-2 grayscale group-hover:grayscale-0 transition-all duration-300"
+                    sizes="(max-width: 768px) 50vw, (max-width: 1200px) 25vw, 16vw"
+                  />
+                </div>
               </div>
             ))}
           </div>

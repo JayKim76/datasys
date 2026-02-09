@@ -40,7 +40,10 @@ export function middleware(request: NextRequest) {
 
             // Default credentials: admin / password123
             // In production, use environment variables
-            if (user === 'admin' && pwd === 'password123') {
+            const adminUser = process.env.ADMIN_USER || 'admin';
+            const adminPassword = process.env.ADMIN_PASSWORD || 'password123';
+
+            if (user === adminUser && pwd === adminPassword) {
                 // extend lock: authorized, proceed to locale check
             } else {
                 return new NextResponse('Auth Required', {
