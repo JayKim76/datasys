@@ -61,28 +61,57 @@ async function updateTech() {
         console.log('Error reading existing tech.json, starting fresh or aborting if critical.');
     }
 
-    // Check for duplicates based on title to avoid spamming same news
-    const exists = currentData.en.some(item => item.title === newArticle.title);
-    if (exists) {
-        console.log('Article already exists. Skipping.');
-        return;
+    // Deduplication Helper based on unique source ID or strict title
+    const isDuplicate = (list, newItem) => {
+        return list.some(item =>
+            item.title === newItem.title ||
+            item.source_raw_data_id === newItem.source_raw_data_id ||
+            // Check if title is part of [KR] ... format
+            item.title.includes(newItem.title)
+        );
+    };
+
+    // Check for duplicates
+    if (isDuplicate(currentData.ko, newArticle)) {
+        console.log('Article already exists in KO list. Skipping.');
+    } else {
+        console.log(`Adding new article to KO: ${newArticle.title}`);
+        currentData.ko.unshift(newArticle);
     }
 
-    console.log(`Adding new article: ${newArticle.title}`);
+    // Add to EN (with [KR] prefix logic)
+    // Check if original title exists inside any EN title (which might have [KR] prefix)
+    const enDuplicate = currentData.en.some(item => item.title.includes(newArticle.title) || item.source_raw_data_id === newArticle.source_raw_data_id);
 
-    // Add to KO (Target Language)
-    currentData.ko.unshift(newArticle);
+    if (enDuplicate) {
+        console.log('Article already exists in EN list. Skipping.');
+    } else {
+        const enArticle = { ...newArticle, title: `[KR] ${newArticle.title}`, summary: `(Korean Article) ${newArticle.summary}` };
+        console.log(`Adding new article to EN: ${enArticle.title}`);
+        currentData.en.unshift(enArticle);
+    }
 
-    // Add to EN (Use the same content or English placeholder if needed, but for now we mirror it or keep it bilingual)
-    // Since the content is simulated Korean, putting it in EN might be okay or we leave EN alone for "global" updates?
-    // User asked "Make tech resources in Korean".
-    // I will insert it into EN as well but maybe with a [KO] prefix if it's Korean content.
-    const enArticle = { ...newArticle, title: `[KR] ${newArticle.title}`, summary: `(Korean Article) ${newArticle.summary}` };
-    currentData.en.unshift(enArticle);
+    // CLEANUP ROUTINE: Remove duplicates from existing lists
+    // Keep first occurrence based on source_raw_data_id or title
+    const uniqueList = (list) => {
+        const seen = new Set();
+        return list.filter(item => {
+            const signature = item.source_raw_data_id || item.original_title || item.title;
+            // Handle [KR] prefix case for title-based dedup
+            const coreSignature = signature.replace('[KR] ', '');
 
-    // Keep list size manageable? (Optional, maybe keep last 20)
-    // currentData.en = currentData.en.slice(0, 50);
-    // currentData.ko = currentData.ko.slice(0, 50);
+            if (seen.has(coreSignature)) return false;
+            seen.add(coreSignature);
+            return true;
+        });
+    };
+
+    currentData.ko = uniqueList(currentData.ko);
+    currentData.en = uniqueList(currentData.en);
+
+    // Keep list size manageable
+    currentData.en = currentData.en.slice(0, 50);
+    currentData.ko = currentData.ko.slice(0, 50);
 
     await fs.writeFile(TECH_JSON_PATH, JSON.stringify(currentData, null, 2));
     console.log('Successfully updated tech.json');
