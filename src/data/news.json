@@ -1,7 +1,15 @@
 {
   "en": [
     {
-      "id": "en-1771100148681-1",
+      "id": "en-1771186543350-4",
+      "title": "Oracle AI Agents: Enhancing Manufacturing Supply Chains - Manufacturing Digital",
+      "excerpt": "Oracle AI Agents: Enhancing Manufacturing Supply Chains  Manufacturing Digital",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUdsay1ndHRmakpEbmtyRHpZcEVSeXFaSWF6OEotSmR0NGhXRFgxRk1OSmp5MHRBZl8wd0ZuYXFvNXFTV2k2Qzk2eUFna1NGdnFTeFdSTl8weXVtcGlDN0NhdFZnVURoRG1LSDZUOVVubS15VDRCY0E1N3hoVHA2d1dfZkpFQzNwZmdGNmlNOWFuMnEwc1NR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771186543350-3",
       "title": "Accelerating Geospatial Innovation with CARTO on Oracle Autonomous AI Database - Oracle Blogs",
       "excerpt": "Accelerating Geospatial Innovation with CARTO on Oracle Autonomous AI Database  Oracle Blogs",
       "date": "2026-02-14",
@@ -14,6 +22,14 @@
       "excerpt": "Oracle Weighs Air Force Cloud Win Against AI Spending Lawsuits  Yahoo Finance",
       "date": "2026-02-14",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHhhcGlacGlRQ243TUROYXVnS01aS3N0SGZPTUZMWkRjMzlhZnNyYUNNMm00N3ExdTZ5dkV2NzdqMUVhaTc0Vk5QSFVzSWs2ZF8tRS05dGU1SVVKVlpGNFB0ME1xODJ1R3dVWnJMcHUwWmZfd0lTNE1jRmxkd2twMg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771186543350-1",
+      "title": "Data Deep Dive at Oracle AI World Tour New York City - Oracle",
+      "excerpt": "Data Deep Dive at Oracle AI World Tour New York City  Oracle",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VUVfT1F1TEIxOWdyVTFhZG14ZGVpOVBSOUlZTU5TWFdpc0FjNTF1SlNaMFBjWnZkSzlxUGFoN1FRb0lzUUwyWXZQcjY2eGkyVFhJRGJzak5leFl4cUV1RVctU3NVYm8?oc=5",
       "category": "Industry News"
     },
     {
@@ -73,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771100148681-0",
+      "id": "en-1771186543349-0",
       "title": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle - Oracle",
       "excerpt": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle  Oracle",
       "date": "2026-02-12",
@@ -113,7 +129,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771100148681-5",
+      "id": "en-1771186543350-5",
       "title": "Oracle AI Agents Help Supply Chain Leaders Boost Efficiency and Strengthen Resiliency - Oracle",
       "excerpt": "Oracle AI Agents Help Supply Chain Leaders Boost Efficiency and Strengthen Resiliency  Oracle",
       "date": "2026-02-10",
@@ -145,7 +161,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771100148681-4",
+      "id": "en-1771186543350-2",
       "title": "Oracle AI Agents Help Marketing, Sales, and Service Leaders Enhance Customer Experiences - Oracle",
       "excerpt": "Oracle AI Agents Help Marketing, Sales, and Service Leaders Enhance Customer Experiences  Oracle",
       "date": "2026-02-10",
@@ -451,7 +467,7 @@
   ],
   "ko": [
     {
-      "id": "ko-1771100149144-0",
+      "id": "ko-1771186543889-0",
       "title": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약 - 인공지능신문",
       "excerpt": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약  인공지능신문",
       "date": "2026-02-13",
@@ -491,7 +507,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771100149144-2",
+      "id": "ko-1771186543889-2",
       "title": "오라클의 450억~500억 달러 규모의 AI 클라우드 확장 및 업그레이드가 오라클(ORCL) 투자자에게 미치는 영향 - simplywall.st",
       "excerpt": "오라클의 450억~500억 달러 규모의 AI 클라우드 확장 및 업그레이드가 오라클(ORCL) 투자자에게 미치는 영향  simplywall.st",
       "date": "2026-02-11",
@@ -499,7 +515,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771100149144-1",
+      "id": "ko-1771186543889-1",
       "title": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속 - 디지털투데이",
       "excerpt": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속  디지털투데이",
       "date": "2026-02-10",
@@ -515,7 +531,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771100149144-5",
+      "id": "ko-1771186543889-4",
       "title": "오라클 주가 상승···데이터독 실적 호조에 ‘AI 클라우드 반등’ 기대감 확산 - Benzinga",
       "excerpt": "오라클 주가 상승···데이터독 실적 호조에 ‘AI 클라우드 반등’ 기대감 확산  Benzinga",
       "date": "2026-02-10",
@@ -691,11 +707,19 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771100149144-4",
+      "id": "ko-1771186543889-3",
       "title": "한국오라클, 오라클 AI 서밋 2026 서울 개최…\"기업 위한 IT에 집중\" - 디일렉",
       "excerpt": "한국오라클, 오라클 AI 서밋 2026 서울 개최…\"기업 위한 IT에 집중\"  디일렉",
       "date": "2026-02-03",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYX0FkX1Btdm9KVGVtRFphZnpXYzVLc1pxNW9jWEVtVzJoWkwxTU9iZmdBdEpXczJpckE5a3RLemtLN1libjgyUVBIMWNPckxITGhrOXVmYTItTHdzWGZpUjJMTTVsQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1771186543889-5",
+      "title": "한국오라클 \"AI 내재화된 데이터베이스로 기업 혁신 지원\" - 아시아경제",
+      "excerpt": "한국오라클 \"AI 내재화된 데이터베이스로 기업 혁신 지원\"  아시아경제",
+      "date": "2026-02-03",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DcmlIeVpPcHIyV1dWNElaWE1neHJGenBPWEZBLUFEWWdQY2JTNHFNbEVFRDRHU3hCNUl5dWs1b1dLQzdQRG5BWWZUZ0pPNnN5UmRoMEpsSG1Dd0hmaGl6Mg?oc=5",
       "category": "Industry News"
     },
     {
