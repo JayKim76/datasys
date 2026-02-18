@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1771446553648-0",
+      "title": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database - Oracle",
+      "excerpt": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database  Oracle",
+      "date": "2026-02-18",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBLWs5Y0FPdWxNZXpqb3UwcGdRN1F1dmcwQnRDVDV5VE9ITkM5MTdCdGl4ZjBya1gxMTA0bnp1WmJpbExmQ3BkWUZiRnBFeEhhaUVERk8zU2M?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771446553648-1",
+      "title": "Aster DM Healthcare boosts efficiency with Oracle Autonomous AI Database and APEX - Oracle",
+      "excerpt": "Aster DM Healthcare boosts efficiency with Oracle Autonomous AI Database and APEX  Oracle",
+      "date": "2026-02-18",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4NWh3VTk0eTU2czJXSTVsaS1ueVBDNkNGWjZzYlM2NEdhVGJLVEVYemE5U0plU2w4RlBCSjEwZjVWbm51Y1ZRdF9vR1FuUm4teVRHMHY4Vnh4QTBuWjU5eDFmQVB6Z1U?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771446553648-2",
+      "title": "How New Government Cloud Wins and AI Lawsuits Will Impact Oracle (ORCL) Investors - simplywall.st",
+      "excerpt": "How New Government Cloud Wins and AI Lawsuits Will Impact Oracle (ORCL) Investors  simplywall.st",
+      "date": "2026-02-18",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVQyY1l6TWJucWk5VVpfMXdhTVkyTDNBdEw0elVVSVMzOHY4cEFaNG9EOFRwYUVYOF9feGhXamwwRk9KaWstTEtnNHVRdEFMb3hGdmV3RmlFUDRFOWlTVkJCOE5HWU5sSmZZbUZPVEl3bXFJeUdaMzhpY2E1ZEM0UE0zNEFVSDlyS3htamNPNzh6T2UxRjVhRjV5UWRDd1VwOHp1ZVZmeGxWYldrN2l6OC1Eb21jR05QWDhHQkNRMUw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771446553648-5",
+      "title": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now? - The Globe and Mail",
+      "excerpt": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now?  The Globe and Mail",
+      "date": "2026-02-18",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1hpWjJUU3VXWFRGTEJDRG0xQk9pUTZmTl9OZE8zRjc2OThLVUJSV08yX19FSWdjMm9qUkRxcV9IdVF3RklBQUkxVmdaVWhPTVNBdHRRYWd0OHU4SVk0cm5McW1pX2gxcmdnU2t2Nm5Ud09HLW5JM0FaVElmbm0yblBMUXBQeF9aRHVpYXJjemxLNFJ3XzBkUjI3OXllUDF6T05BY3djMDlaVEFwcnktRUZUa3hGYWFIUzZrWmJoaEdsN1oydTNPNW4zNHN5dEFocGpIbHdIZS1Jb0pWSUhv?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1771360060268-3",
       "title": "Oracle Lawsuits Put AI Infrastructure Spending Story Under Scrutiny - simplywall.st",
       "excerpt": "Oracle Lawsuits Put AI Infrastructure Spending Story Under Scrutiny  simplywall.st",
@@ -41,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771360060268-1",
+      "id": "en-1771446553648-4",
       "title": "Data Deep Dive at Oracle AI World Tour New York City - Oracle",
       "excerpt": "Data Deep Dive at Oracle AI World Tour New York City  Oracle",
       "date": "2026-02-14",
@@ -105,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771360060268-0",
+      "id": "en-1771446553648-3",
       "title": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle - Oracle",
       "excerpt": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle  Oracle",
       "date": "2026-02-12",
@@ -483,7 +515,7 @@
   ],
   "ko": [
     {
-      "id": "ko-1771360060755-1",
+      "id": "ko-1771446554132-1",
       "title": "[IT큐레이션] 문제적 기업, 오라클 - ER 이코노믹리뷰",
       "excerpt": "[IT큐레이션] 문제적 기업, 오라클  ER 이코노믹리뷰",
       "date": "2026-02-16",
@@ -491,7 +523,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771360060755-0",
+      "id": "ko-1771446554132-0",
       "title": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약 - 인공지능신문",
       "excerpt": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약  인공지능신문",
       "date": "2026-02-13",
@@ -539,7 +571,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771273195027-2",
+      "id": "ko-1771446554132-5",
       "title": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속 - 디지털투데이",
       "excerpt": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속  디지털투데이",
       "date": "2026-02-10",
@@ -731,7 +763,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771360060755-2",
+      "id": "ko-1771446554132-2",
       "title": "한국오라클, 오라클 AI 서밋 2026 서울 개최…\"기업 위한 IT에 집중\" - 디일렉",
       "excerpt": "한국오라클, 오라클 AI 서밋 2026 서울 개최…\"기업 위한 IT에 집중\"  디일렉",
       "date": "2026-02-03",
@@ -739,7 +771,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771273195027-4",
+      "id": "ko-1771446554132-3",
       "title": "한국오라클 \"AI 내재화된 데이터베이스로 기업 혁신 지원\" - 아시아경제",
       "excerpt": "한국오라클 \"AI 내재화된 데이터베이스로 기업 혁신 지원\"  아시아경제",
       "date": "2026-02-03",
