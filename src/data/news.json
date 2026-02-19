@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1771532595402-1",
+      "title": "Oracle Lawsuits And Federal Wins Reframe AI Spending Risk For Investors - simplywall.st",
+      "excerpt": "Oracle Lawsuits And Federal Wins Reframe AI Spending Risk For Investors  simplywall.st",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzVwNlV4TGN4ZjVxZmxuZlRHWlZkNWYzWHQ4ZFdBZnJldXUwbU04dnIzUU9oX2xuMzh2cXd3R1g5NEc0TXpwYkdiVVhsbWEwckdfazFVYmdZdEo1dEpmOVFsLUlJWUkwMXQweEdvYVNhci1IRmhGbnpDbnJDcEF6Y3dvNTA0UmRJaS1TdXJrQzAxTUpDVDctdU5COWo0Tlk0RG5obHNqMFFVb2lWOXJzdHB4SE80Q19wV3RDdXYwYTc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771532595402-2",
+      "title": "Fujitsu Chooses Oracle Cloud Infrastructure Secure Desktops to Deliver Next-Generation Desktop as a Service (DaaS) on Sovereign Cloud - Oracle Blogs",
+      "excerpt": "Fujitsu Chooses Oracle Cloud Infrastructure Secure Desktops to Deliver Next-Generation Desktop as a Service (DaaS) on Sovereign Cloud  Oracle Blogs",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbklIMVctQm9TSkFrNlhWOVBidTI4bjhFaEVMU2dRQUJoR0tmX2I5SGRKNUpZbFlzeWZfVldnV1JicUNjQzczbHBRd0RERENTaEdEb3lyNkM4cmZhV1h3S1lHRExMQjJSSy1Od1A2ZXlIbE55ZU5jenBucXY4aWIyUGhqTnlTVzZZaFM0N25YUWFROS0yOWkxaQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1771532595402-5",
+      "title": "Oracle Stock (ORCL) Opinions on Q2 Earnings and AI Capex Plans - Quiver Quantitative",
+      "excerpt": "Oracle Stock (ORCL) Opinions on Q2 Earnings and AI Capex Plans  Quiver Quantitative",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHFQanZ1WlhUNUJpZGNabmZyZ2NYdk9VcU1mbmlBN09uQVRxc0MxMkVFSlE1bmhWM1A3QkxaNzh6ZXFnMU9ERktKTjlhNUh5OUdmTlhrYjE1VzRUc1I0cThBNlctSzB1czZ3amtvWjM0Sm0yYk9uSl9OSVJTNzF2Y1dfSERIbXRtVkJKR1IwcGRGd2EwS2xkNDBRQzlaZ0hU?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1771446553648-0",
       "title": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database - Oracle",
       "excerpt": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database  Oracle",
@@ -73,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771446553648-4",
+      "id": "en-1771532595402-0",
       "title": "Data Deep Dive at Oracle AI World Tour New York City - Oracle",
       "excerpt": "Data Deep Dive at Oracle AI World Tour New York City  Oracle",
       "date": "2026-02-14",
@@ -97,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771273194427-3",
+      "id": "en-1771532595402-3",
       "title": "The City of Atlanta Modernizes Constituent Services and Unlocks AI-Driven Innovation with Oracle - Oracle",
       "excerpt": "The City of Atlanta Modernizes Constituent Services and Unlocks AI-Driven Innovation with Oracle  Oracle",
       "date": "2026-02-13",
@@ -137,7 +161,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771446553648-3",
+      "id": "en-1771532595402-4",
       "title": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle - Oracle",
       "excerpt": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle  Oracle",
       "date": "2026-02-12",
@@ -515,7 +539,15 @@
   ],
   "ko": [
     {
-      "id": "ko-1771446554132-1",
+      "id": "ko-1771532595862-0",
+      "title": "[단독] 새마을금고, 금융권 첫 'AI 내장 DB' 전환…코어 계정계까지 간다 - MTN 머니투데이방송",
+      "excerpt": "[단독] 새마을금고, 금융권 첫 'AI 내장 DB' 전환…코어 계정계까지 간다  MTN 머니투데이방송",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZVcxUVJHSnBCNDRJZGN1UF9qWjFQbkcyamllLVdGOUNRa29mMFBmbTNyRXJzc2l1RThzNDljVG15SXA5eE1tWE00d2JHeW5Ed3JJeWpWUHJkUGE3cEpfTWJmaEw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1771532595862-1",
       "title": "[IT큐레이션] 문제적 기업, 오라클 - ER 이코노믹리뷰",
       "excerpt": "[IT큐레이션] 문제적 기업, 오라클  ER 이코노믹리뷰",
       "date": "2026-02-16",
@@ -523,7 +555,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771446554132-0",
+      "id": "ko-1771532595862-2",
       "title": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약 - 인공지능신문",
       "excerpt": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약  인공지능신문",
       "date": "2026-02-13",
@@ -675,7 +707,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771360060755-4",
+      "id": "ko-1771532595862-3",
       "title": "[헬로즈업] 한국오라클 “AI 성패는 데이터” AI 데이터베이스·클라우드 전략 강조 - 헬로티",
       "excerpt": "[헬로즈업] 한국오라클 “AI 성패는 데이터” AI 데이터베이스·클라우드 전략 강조  헬로티",
       "date": "2026-02-04",
@@ -683,7 +715,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1770755738262-3",
+      "id": "ko-1771532595862-5",
       "title": "굿어스데이터, '오라클 AI 서밋 2026'에 골드 스폰서 참가 - 디일렉",
       "excerpt": "굿어스데이터, '오라클 AI 서밋 2026'에 골드 스폰서 참가  디일렉",
       "date": "2026-02-04",
