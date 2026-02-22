@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1771791368576-5",
+      "title": "Software stocks are sliding. Is it time to 'buy the dip'? - USA Today",
+      "excerpt": "Software stocks are sliding. Is it time to 'buy the dip'?  USA Today",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQktTeWZvSEtFQ1FVMlkwYTljQTBUZHBPRWNzbTZHYy1tSmFEY3JqODBVcDJIQlhPbGxwaUctUE52NnhHNjRWOTdza3ZEV0RpT0t0TWpBQWJISWVOeTlTYTJia2o4azR3U2Vaa3RYaHVhMW03XzZ5b2NuRFN4SklBUGlhQy1JUnNiaGlpWUNLSWhOSzRqaEZTRU9ORXVxaFp3NER5VDNzcE1sdDdnaE1aSkd2YWhEV3lpX2Z3?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1771704921149-0",
       "title": "Should You Buy Oracle Stock Right Now? - The Motley Fool",
       "excerpt": "Should You Buy Oracle Stock Right Now?  The Motley Fool",
@@ -9,7 +17,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771704921150-3",
+      "id": "en-1771791368576-2",
       "title": "Oracle Expands Fusion Cloud with 29 Prebuilt AI Agents for SCM and CX - Cloud Wars",
       "excerpt": "Oracle Expands Fusion Cloud with 29 Prebuilt AI Agents for SCM and CX  Cloud Wars",
       "date": "2026-02-20",
@@ -57,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771704921149-1",
+      "id": "en-1771791368576-1",
       "title": "How Oracle’s New Public-Sector AI Cloud Wins At Oracle (ORCL) Has Changed Its Investment Story - Yahoo Finance",
       "excerpt": "How Oracle’s New Public-Sector AI Cloud Wins At Oracle (ORCL) Has Changed Its Investment Story  Yahoo Finance",
       "date": "2026-02-19",
@@ -97,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771704921149-2",
+      "id": "en-1771791368576-4",
       "title": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now? - Yahoo Finance",
       "excerpt": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now?  Yahoo Finance",
       "date": "2026-02-18",
@@ -209,7 +217,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771618861899-4",
+      "id": "en-1771791368576-0",
       "title": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle - Oracle",
       "excerpt": "U.S. Department of the Air Force Accelerates Cloud Modernization with Oracle  Oracle",
       "date": "2026-02-12",
@@ -249,7 +257,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1771704921150-4",
+      "id": "en-1771791368576-3",
       "title": "Oracle AI Agents Help Supply Chain Leaders Boost Efficiency and Strengthen Resiliency - Oracle",
       "excerpt": "Oracle AI Agents Help Supply Chain Leaders Boost Efficiency and Strengthen Resiliency  Oracle",
       "date": "2026-02-10",
@@ -611,7 +619,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771704921587-2",
+      "id": "ko-1771791369029-0",
       "title": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약 - 인공지능신문",
       "excerpt": "美 공군, AI 데이터베이스로 국방 현대화 가속...오라클과 8800만 달러 규모 클라우드 계약  인공지능신문",
       "date": "2026-02-13",
@@ -659,7 +667,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771618862387-5",
+      "id": "ko-1771791369029-5",
       "title": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속 - 디지털투데이",
       "excerpt": "오라클, AI 에이전트 40개 추가…퓨전 클라우드 혁신 가속  디지털투데이",
       "date": "2026-02-10",
@@ -763,7 +771,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771704921587-4",
+      "id": "ko-1771791369029-3",
       "title": "[헬로즈업] 한국오라클 “AI 성패는 데이터” AI 데이터베이스·클라우드 전략 강조 - 헬로티",
       "excerpt": "[헬로즈업] 한국오라클 “AI 성패는 데이터” AI 데이터베이스·클라우드 전략 강조  헬로티",
       "date": "2026-02-04",
@@ -771,7 +779,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771704921587-5",
+      "id": "ko-1771791369029-4",
       "title": "굿어스데이터, '오라클 AI 서밋 2026'에 골드 스폰서 참가 - 디일렉",
       "excerpt": "굿어스데이터, '오라클 AI 서밋 2026'에 골드 스폰서 참가  디일렉",
       "date": "2026-02-04",
@@ -883,7 +891,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1771704921587-3",
+      "id": "ko-1771791369029-1",
       "title": "또 AI 빚투?…오라클, 올해 최대 73조원 자금 조달 계획 - 연합뉴스",
       "excerpt": "또 AI 빚투?…오라클, 올해 최대 73조원 자금 조달 계획  연합뉴스",
       "date": "2026-02-02",
@@ -920,14 +928,6 @@
       "excerpt": "AI 소프트웨어 두 도시 이야기...MS vs 오라클, AI 투자 부담 속 전망 엇갈려  글로벌이코노믹",
       "date": "2026-01-24",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVJwWmtlQ0tVcUZvS1NIckNwYUFaWk9OLTJibG5yQnVIVjIyT0ZtRWlta1VybmI1UTdycG9IVF9QY1cyTl9yNjhpVFFyT0N0RV9FR0lYVkp1cDlieEsxcW1zM3NBSW45T0k1TFRHNkdwYTFUdWhUQS1oU3NmVUFzX3BuZVU5RUtx?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1769997625652-5",
-      "title": "K스타트업, 오라클 타고 글로벌 AI 시장 정조준 - econovill.com",
-      "excerpt": "K스타트업, 오라클 타고 글로벌 AI 시장 정조준  econovill.com",
-      "date": "2026-01-21",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuSjFlcjJxS0Qyalp0Vk9RWHZRUnpuM05MVF9PWWhxdjRTSnFBUy1NVjV5R2RfS2FyLV9nQzAyUExVVTRJOHhUczNSUVhZZy1FS1U0bzBiTWRFSHAwSXgyNV8xQjRQMTVqcUVFdw?oc=5",
       "category": "Industry News"
     }
   ]
