@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1773952049611-5",
+      "title": "Oracle: AI Smart Assistant For Restaurants Enhances POS Support And Operational Efficiency - Pulse 2.0",
+      "excerpt": "Oracle: AI Smart Assistant For Restaurants Enhances POS Support And Operational Efficiency  Pulse 2.0",
+      "date": "2026-03-19",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGIwMzVqcUpEZmtNU0pycE9YS2RHZG02RlhXUnNLUzkzQVhuN0RQTGx3a09zV3hpN2FMSzVwa0JFOVBiampLR2JXN0lQVnE1VGUzWHBvTTBqZndob1Y3cVgtQXBZbDNjdTVqcXhHUFc0Z2RVN09fS1RLR2RNYzQ4TlExU3g3cEloMzE3djB2LXBaSkYzcjduSVVpV25qNW9jeWRPaU9RdkxYRHV5clHSAbMBQVVfeXFMT0FtSk12bmlBNTRZRUtvNkJ4NHAwRFd0VGV1Rkxra0NzNFlacXpDcTVEa2NoVWs2V2IyanVVbmd6aEl5UldMN2JwUXlKWE1WZTlqVklHRUI5MzlaZUdWclZlRVZSVFlaY21BXzMtdGh3bGl6VFFhUFUzZ203VjNXUUJReVI4aWpjVjNsaTVFakQtLWEyVk1QQm9qa2I4dkUxX3lhTnZpU19haUdDZVA0ODgtdnM?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1773865628303-0",
       "title": "New Oracle AI Smart Assistant Capabilities Help Restaurants Streamline Operations and Support - Oracle",
       "excerpt": "New Oracle AI Smart Assistant Capabilities Help Restaurants Streamline Operations and Support  Oracle",
@@ -25,7 +33,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1773865628303-5",
+      "id": "en-1773952049611-3",
+      "title": "Oracle and DeepLearning.AI Launch New Agent Memory Course for AI Developers - Oracle Blogs",
+      "excerpt": "Oracle and DeepLearning.AI Launch New Agent Memory Course for AI Developers  Oracle Blogs",
+      "date": "2026-03-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXcxVkMyNkZCXzc5dDhiNWJibktZbTg2Ui14dmhCOENQSG42a1pYMlJHQzNGUDg4MFZSNWtBOUpmTHh6cFBBMGJnUV9KU0hNYnhsQmtNTTJUMUxoZW5sTng0eld0RlJVQWRPX0ZiM2FGRzF4cWdUTElnVU5BbW9hRGlsZExmVV9NQkdfWW1falFWVzFuR3FmSHg4WGstUDF6aGJaVG00TlJoUEhZT1ZDMg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1773952049611-2",
       "title": "Oracle Expands AI Collaboration with NVIDIA to Deliver Scalable Supercomputing, Accelerated Vector Workloads, and AI Applications - Oracle Blogs",
       "excerpt": "Oracle Expands AI Collaboration with NVIDIA to Deliver Scalable Supercomputing, Accelerated Vector Workloads, and AI Applications  Oracle Blogs",
       "date": "2026-03-17",
@@ -33,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1773865628303-4",
+      "id": "en-1773952049611-1",
       "title": "SEFE chooses Oracle AI Database@Azure to support energy business transformation - Oracle",
       "excerpt": "SEFE chooses Oracle AI Database@Azure to support energy business transformation  Oracle",
       "date": "2026-03-17",
@@ -41,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1773865628303-3",
+      "id": "en-1773952049611-0",
       "title": "Oracle AI Database + NVIDIA Collaboration Advances Enterprise AI at NVIDIA GTC 2026 - Oracle Blogs",
       "excerpt": "Oracle AI Database + NVIDIA Collaboration Advances Enterprise AI at NVIDIA GTC 2026  Oracle Blogs",
       "date": "2026-03-17",
@@ -129,7 +145,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1773779390451-4",
+      "id": "en-1773952049611-4",
       "title": "rom Vision to Velocity: How Oracle AI Database Private Agent Factory Rewires Enterprise Innovation - Oracle Blogs",
       "excerpt": "rom Vision to Velocity: How Oracle AI Database Private Agent Factory Rewires Enterprise Innovation  Oracle Blogs",
       "date": "2026-03-13",
@@ -735,49 +751,33 @@
       "date": "2026-02-19",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjFUSnFlZFFZSXhfTG9XX2FWakV3RWVibWpwcjhrcGxXUHhvb1JoOTdlOGU0ajlBNGxxb0ViRHRuV1V5My0zTHhvZzVzWU5DX2VXdWwwTEk2OVhrYmxjOFpVQXkyM2ktSEkzbW1xZTVhSWNWb3pqNzNDeVhCamR6Yw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1771446553648-0",
-      "title": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database - Oracle",
-      "excerpt": "GoVivace cuts costs in half migrating from MongoDB to Oracle Autonomous Database  Oracle",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBLWs5Y0FPdWxNZXpqb3UwcGdRN1F1dmcwQnRDVDV5VE9ITkM5MTdCdGl4ZjBya1gxMTA0bnp1WmJpbExmQ3BkWUZiRnBFeEhhaUVERk8zU2M?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1771446553648-1",
-      "title": "Aster DM Healthcare boosts efficiency with Oracle Autonomous AI Database and APEX - Oracle",
-      "excerpt": "Aster DM Healthcare boosts efficiency with Oracle Autonomous AI Database and APEX  Oracle",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4NWh3VTk0eTU2czJXSTVsaS1ueVBDNkNGWjZzYlM2NEdhVGJLVEVYemE5U0plU2w4RlBCSjEwZjVWbm51Y1ZRdF9vR1FuUm4teVRHMHY4Vnh4QTBuWjU5eDFmQVB6Z1U?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1771446553648-2",
-      "title": "How New Government Cloud Wins and AI Lawsuits Will Impact Oracle (ORCL) Investors - simplywall.st",
-      "excerpt": "How New Government Cloud Wins and AI Lawsuits Will Impact Oracle (ORCL) Investors  simplywall.st",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVQyY1l6TWJucWk5VVpfMXdhTVkyTDNBdEw0elVVSVMzOHY4cEFaNG9EOFRwYUVYOF9feGhXamwwRk9KaWstTEtnNHVRdEFMb3hGdmV3RmlFUDRFOWlTVkJCOE5HWU5sSmZZbUZPVEl3bXFJeUdaMzhpY2E1ZEM0UE0zNEFVSDlyS3htamNPNzh6T2UxRjVhRjV5UWRDd1VwOHp1ZVZmeGxWYldrN2l6OC1Eb21jR05QWDhHQkNRMUw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1771446553648-5",
-      "title": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now? - The Globe and Mail",
-      "excerpt": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now?  The Globe and Mail",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1hpWjJUU3VXWFRGTEJDRG0xQk9pUTZmTl9OZE8zRjc2OThLVUJSV08yX19FSWdjMm9qUkRxcV9IdVF3RklBQUkxVmdaVWhPTVNBdHRRYWd0OHU4SVk0cm5McW1pX2gxcmdnU2t2Nm5Ud09HLW5JM0FaVElmbm0yblBMUXBQeF9aRHVpYXJjemxLNFJ3XzBkUjI3OXllUDF6T05BY3djMDlaVEFwcnktRUZUa3hGYWFIUzZrWmJoaEdsN1oydTNPNW4zNHN5dEFocGpIbHdIZS1Jb0pWSUhv?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1771791368576-4",
-      "title": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now? - Yahoo Finance",
-      "excerpt": "Microsoft vs. Oracle: Which Cloud & AI Giant Has an Edge Right Now?  Yahoo Finance",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5McDFMa0FrN2FOb2NBQUZXX3Y5TkhLOTVxWHFKX0dGLTd1VTM4WU9KTXJhQ204Y0htLVdsWXY5VkpGX1RhYWpfQlhMZ2V3UXk5MWptVi1DYW8xS0R2WGZ0YjVkWDVWRkNQSGtvTXlMc0lLMGV6LVNGcjdhSUcwUkE?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1773952050025-0",
+      "title": "엔비디아, 오라클과 AI 데이터 '속도 혁신'…벡터 검색 기술 공개 - 지디넷코리아",
+      "excerpt": "엔비디아, 오라클과 AI 데이터 '속도 혁신'…벡터 검색 기술 공개  지디넷코리아",
+      "date": "2026-03-19",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsdXpsVnFPWmhHN0JSc2V2Y1dQaFZubDlqYVYyMjJVYS04RWxYN05ONUdPeDFSb1E5bThrcXJCTDB6YzV6SS0tUVkwX0dkR2c3SDhtOURR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1773952050025-1",
+      "title": "엔비디아, 오라클과 협력하여 데이터 검색 속도 높인다 - elec4",
+      "excerpt": "엔비디아, 오라클과 협력하여 데이터 검색 속도 높인다  elec4",
+      "date": "2026-03-19",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IblVHQ1dySlVLY0JScUZpUzBYdmJVaWJFWldvQmxMNTVBck5Zc3pkeFJPc3JyY0drZUtvVjY5Mm9NWXBVc2lFTUd2N1dPOGlUOWplSU5oY1pWdUtYRzVYbWRfZVMweDZ6X1VfWFR3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1773952050025-2",
+      "title": "[GTC 2026] 엔비디아, 클라우드·엔터프라이즈 AI 전방위 협력 - 더에이아이",
+      "excerpt": "[GTC 2026] 엔비디아, 클라우드·엔터프라이즈 AI 전방위 협력  더에이아이",
+      "date": "2026-03-19",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12Zk1JcUdxel9FSFhsWElXNl9uSGxVOXpxVWNOcHFHcGFieV9pd1hVZlNZSWlmUl8tbUlqdG9OaXVEbHI2a2txOTBWampkOUljZG5oZzh0cTNQaDRsWHhaYWRxelFCR05sb2c?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1773865628715-0",
       "title": "'자바 26' 앞세운 오라클, AI·보안 강화로 엔터프라이즈 공략 가속 - 지디넷코리아",
@@ -787,7 +787,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1773865628715-3",
+      "id": "ko-1773952050025-5",
       "title": "오라클, 자바 26 출시… AI·암호화 기능 통합 지원에 초점 - 조선비즈 - Chosunbiz",
       "excerpt": "오라클, 자바 26 출시… AI·암호화 기능 통합 지원에 초점 - 조선비즈  Chosunbiz",
       "date": "2026-03-18",
@@ -811,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1773865628715-1",
+      "id": "ko-1773952050025-4",
       "title": "AI 품은 30년 자바 생태계, 오라클 엔터프라이즈 왕좌 굳히기 - ER 이코노믹리뷰",
       "excerpt": "AI 품은 30년 자바 생태계, 오라클 엔터프라이즈 왕좌 굳히기  ER 이코노믹리뷰",
       "date": "2026-03-17",
@@ -835,7 +835,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1773865628715-2",
+      "id": "ko-1773952050025-3",
       "title": "오라클, AI 도입에 맞춰 개발 인력 감축 - cio.com",
       "excerpt": "오라클, AI 도입에 맞춰 개발 인력 감축  cio.com",
       "date": "2026-03-13",
@@ -1112,14 +1112,6 @@
       "excerpt": "[단독] 새마을금고, 금융권 첫 'AI 내장 DB' 전환…코어 계정계까지 간다  MTN 머니투데이방송",
       "date": "2026-02-19",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZVcxUVJHSnBCNDRJZGN1UF9qWjFQbkcyamllLVdGOUNRa29mMFBmbTNyRXJzc2l1RThzNDljVG15SXA5eE1tWE00d2JHeW5Ed3JJeWpWUHJkUGE3cEpfTWJmaEw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1771964730548-2",
-      "title": "새로운 정부 클라우드 승소와 AI 소송이 오라클(ORCL) 투자자에게 미치는 영향 - simplywall.st",
-      "excerpt": "새로운 정부 클라우드 승소와 AI 소송이 오라클(ORCL) 투자자에게 미치는 영향  simplywall.st",
-      "date": "2026-02-18",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEUtQ0t3azh0ZjV5OERpbmpFa2YxaEdIODVRc1J5UVllUERlZlBVOTBkcnpvaXdDRTdITGExdnZXbjFQd3c1ZTFTRXpfSFRrM1hGTm55Y3M1TkNFSlFFWmJCV0ltRFVVemRJRUdaNlBjZ1lGQTJNZXRMdjdybFlGU3BUdDBvcldUWVE?oc=5",
       "category": "Industry News"
     }
   ]
