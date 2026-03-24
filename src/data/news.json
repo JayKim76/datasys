@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1774384330177-0",
+      "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
+      "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENleFpwaFN6NnZ5RGJuZmhWcnUwZGFKdjRGWU1fQnNqdGIxc2VIZ3pkRkVYWmdSZzNDR2xjTnZrRG41cmRiQ3N1d01nSDNtREs5SFlSeFBKS3RZby0tV0pHanJqbm5tS1JqZU83bVl4YjhkbTdEQlNUSjJsT0sxYjR3RWhsRFN5S3FiQzVpZExqcFJjZVNXM05tUWR6Qm9xekRYRTJ3UUFWMlk0WGN2UERJRQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774384330177-1",
+      "title": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure - Oracle Blogs",
+      "excerpt": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2s0bnl2Q0Z6cG9rd2kyc1paeFZaRHNKLVNFb3RQeTNManZsYmRQNzhTR0N2b3VVQk1jcFllLW1jOFJEVEQxRzJ6YkJRV0RZd29YYXUtZUlhOHMtQm85WWEzdU5jUWdiTmpHYWNZWUY5ZDFnTzJyd2l3NmhJSHhyU3VIU21IQTh0VnRfUGE1aUxRNnlmUXNZMm1n?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774384330177-2",
+      "title": "Announcing Oracle AI Database Operator for Kubernetes v2.1.0 - Oracle Blogs",
+      "excerpt": "Announcing Oracle AI Database Operator for Kubernetes v2.1.0  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTBlazFyTGpyMHQ1Zng5ZHNYYVZGdUFZYjBUemRIMW1OSzNfcXJCU0ZKS3lKai1uVzFlNnZoWkhRUkktZXhEQTRlU3p6ZVY0MEhjd3NJdEQxQnh1MklNSl85OTVyLXlEMlFjaDRfUlctSk9nNFRhcTROTkFnSE11T1ZEaGhNNG5Qc3B2SkcyeTF5RXBUX25KUzNlVmhVd040aGtsbG0tSFAxZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774384330177-3",
+      "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
+      "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDg3bHM0Q0VGQUNiTjRvaVpELWV0VG1ocDBwX2tMXzFWcVFMSTZHREhWVGJuRkVETkxIT3JjbXR3RTd3eW9Wcm4xelljelBuZ20xSEZQRGc5OHgyNkM3UlZVYnVCX05MNjlzOUN6UWgzUHk3VmpzVDdhY3RRdjdqa01qSnFEOUxtLTd3UEk4RzNTeVFKOFY0RXZLaFZFdTM3ZXRUZlBVeUIxZ1paeWQtOUVJT25UNTJo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774384330177-4",
+      "title": "Oracle Introduces Fusion Agentic Applications - Oracle",
+      "excerpt": "Oracle Introduces Fusion Agentic Applications  Oracle",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVW1YOFlUUTNRTjd5Yk0wcFFsNktOd3hUYWU5VXR3WndUeldfaEpGOTd2bFZ1eTlDaWJHckw1T1N5VWtjVm8tZmQ5R2xrd0l2NTNBOGx5YXAzaWR3VVBCVEVmNmNoQWN1M0UxMTF3MkplQ3dSOXJQMXRFbGR6Tl9SaEdydEZIWlJrSUloQkdqT1dXVTc0N3NaaHc5Q1BveGM?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774384330177-5",
+      "title": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database - Oracle Blogs",
+      "excerpt": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZE9JTE9GeDRPQWkwMHpyTFdUbG1oZVFPcGhJb2lNU05HNjVRZm53XzBTd2R1Z3pOQ3dFMTFZeFM5c0NoOW9yYlNKWWNSZFNta2VUd2tiYWZMeVc5aUVxVjkzVzhURlFlNWRDbnUyazV6Zzd1c1VXM1lJNDZBLVUtdkJ0VXdUbFFNTUdF?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1774297771428-1",
       "title": "Oracle: Anthropic Surge Creates New Problems (NYSE:ORCL) - Seeking Alpha",
       "excerpt": "Oracle: Anthropic Surge Creates New Problems (NYSE:ORCL)  Seeking Alpha",
@@ -735,27 +783,27 @@
       "date": "2026-02-24",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkE0amJ1ZnVQbGladmpOdTNjeU5NSV83QmJzMngxX2dNamhhd0ZTTHdxNzdZQ1FjUWlTbW9HQlJubjd6SnA3REE1Z0lIdUZ4LWVibkFIYk8zajNUOFBFank5ZWtuWXYtMzNKWVpjSmotbWxnVEF1dXNRZDgtb3JFMEZieHNqcU1xSi1BMHN4Unl5ZXFDUHZldkdTWnJxcXhTbV9uNmxVM2otT3gt?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1771878976968-0",
-      "title": "Stargate AI data centers for OpenAI reportedly delayed by squabbles between partners — sources say OpenAI, Oracle, and SoftBank disagreed on who would have ultimate control of the planned data centers - Tom's Hardware",
-      "excerpt": "Stargate AI data centers for OpenAI reportedly delayed by squabbles between partners — sources say OpenAI, Oracle, and SoftBank disagreed on who would have ultimate control of the planned data centers  Tom's Hardware",
-      "date": "2026-02-23",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOODMyWWhZX3JDR1JrdmdFZldJclY5VkpsYXl2SWpfczNDY19Oczg3ZkFpVFEtVGtIczIyb0syZVp2WEJKVUZPM2d2ZDhRMzZIc1Q5UDZvakNlNWxOa21WRHBxR3ZOREpLRU9pSFJtdURoc05PbS1PX2RWSjlkNzJLQ2tFUTNQeU5uVEZjM0Y4RndZSnJhWHZuektOLTZvb3FYNHdjQVdfeUR3TlVOZ2tGeTREc1VRZzBZNFY0ZGJXOS1lT2VaSGZEVzE0VXZLcjlfblBCcTBSS0tBVjE1N0ZhcWZ1c0h0bEVnT2tQVnpjQ2pOby02aWNhYURFMEhLMkRRZ1dJQWZ2ZDVJNERpRVgybjVpTjNvRDMzQjVJZzdHOGdDdEExeGVGa3dRbHZYZUY5TXI5eDNwUUkyVXA2RHNtUVFoOE8yUGc0UkhjaHZGQlhvS2ZzOUpTRHNuUGFXcWdSSFZCWXpEblFlSjRDZTZRaDVpdWFBTlVoZXB3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1771878976968-5",
-      "title": "Oracle Recognized as a Leader in the 2025 Gartner Magic Quadrant for Financial Planning Software - WebWire",
-      "excerpt": "Oracle Recognized as a Leader in the 2025 Gartner Magic Quadrant for Financial Planning Software  WebWire",
-      "date": "2026-02-23",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CNzhXQU5uYzh5ZzdITkNaY0lVajZXOE5mTV9xOTFiaU5nMEpJa1ZwY2VQdERYVUpEQkUxUXZzV2gtYVllWktQMklWX0FPNHByYzI4T2ctYVJlTUI4MW9wVg?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1774297771904-1",
+      "id": "ko-1774384330638-0",
+      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - 인공지능신문",
+      "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  인공지능신문",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYXktYXl2bTFDMnpqU2hDQUFCV0pSaHpnV3lhT0c5YngxX2VWYXpHWmtsY3BZVFN4YktWS2IwV2F1eUQzQmpZQ2hSZEU2bnNJYlBVMmtpNllWNlJEN18tMF9ETWZWdlk?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1774384330638-2",
+      "title": "[美특징주]오라클, AI 수요 가속화로 본격적 반등…개장전 '강보합' - edaily.co.kr",
+      "excerpt": "[美특징주]오라클, AI 수요 가속화로 본격적 반등…개장전 '강보합'  edaily.co.kr",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3NObVFLY2pmTFdmQ1VsQ1d5TkhpeXJ6X0RVY2FyclBHU2V1bUUtVHFySXFKWWtiejBJelRhREtWR214ek44OHlyRVdEVlIwVHZEWEhBRmZSUXQ4UXc4dmJZRC1aYlRoeVNDV1RGZmxqS2I1QWd3dE1kMTV5QkdWSg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1774384330638-1",
       "title": "투자자들이 오라클(ORCL)의 AI 클라우드 푸시 강화와 2027년 매출 전망에 어떻게 대응할 수 있을까요? - simplywall.st",
       "excerpt": "투자자들이 오라클(ORCL)의 AI 클라우드 푸시 강화와 2027년 매출 전망에 어떻게 대응할 수 있을까요?  simplywall.st",
       "date": "2026-03-23",
@@ -811,7 +859,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774297771904-3",
+      "id": "ko-1774384330638-4",
       "title": "엔비디아, MS·구글·오라클 등 빅테크와 맞손…AI 프로덕션 시대 선언 - 지디넷코리아",
       "excerpt": "엔비디아, MS·구글·오라클 등 빅테크와 맞손…AI 프로덕션 시대 선언  지디넷코리아",
       "date": "2026-03-19",
@@ -875,7 +923,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774297771904-5",
+      "id": "ko-1774384330638-5",
       "title": "오라클, AI 도입에 맞춰 개발 인력 감축 - cio.com",
       "excerpt": "오라클, AI 도입에 맞춰 개발 인력 감축  cio.com",
       "date": "2026-03-13",
@@ -915,7 +963,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1773779390985-2",
+      "id": "ko-1774384330638-3",
       "title": "AI로 폭주하는 오라클, 화려한 성장의 이면에 쌓이는 그림자 - 네이버 프리미엄콘텐츠",
       "excerpt": "AI로 폭주하는 오라클, 화려한 성장의 이면에 쌓이는 그림자  네이버 프리미엄콘텐츠",
       "date": "2026-03-11",
@@ -1136,14 +1184,6 @@
       "excerpt": "오펜하이머 업그레이드는 오라클(ORCL)의 AI 인프라스트럭처 리스크 내러티브의 전환점이 될까요?  simplywall.st",
       "date": "2026-02-26",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGljSkJqcmFIZzh6eUZiSldVRURVRTBJR3JOc2Q4V3U2UDJuUE03QWQ2SFBQWXdabFdNVFhKZzl3eGM0cWxWQndjM3dEUFZ1WWNwNExzVVdVUnhmdXNnaS02VHFtR0tSY1hfY2ptRXZnOTBVTWhtY0NHcEhRaFZnRWtoN19TR2d5UWtuRzNZa9IBjwFBVV95cUxOOGljSkJqcmFIZzh6eUZiSldVRURVRTBJR3JOc2Q4V3U2UDJuUE03QWQ2SFBQWXdabFdNVFhKZzl3eGM0cWxWQndjM3dEUFZ1WWNwNExzVVdVUnhmdXNnaS02VHFtR0tSY1hfY2ptRXZnOTBVTWhtY0NHcEhRaFZnRWtoN19TR2d5UWtuRzNZaw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1772051193772-0",
-      "title": "글로벌 IT기업, 잇단 총판 재편…통상적 조정 vs AI 체질 전환 - 지디넷코리아",
-      "excerpt": "글로벌 IT기업, 잇단 총판 재편…통상적 조정 vs AI 체질 전환  지디넷코리아",
-      "date": "2026-02-23",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PbkRLX1RTZk5aMnJLa0J5c0dKQ0JCYzN3ZUVkaWNZb2hydEViTXhzOUE5ZGRzeWNnamlEMG5XS3h6MlphVjdvNnJyU1RYZzZjSmg3aE9B?oc=5",
       "category": "Industry News"
     }
   ]
