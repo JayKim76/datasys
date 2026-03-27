@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1774643264053-1",
+      "title": "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale - Oracle",
+      "excerpt": "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale  Oracle",
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXI2Y1NkZXZXc2ZKajNYdmdDcGx6eWRBc2lGR1hDRVFaV3hkbkxDYmpuemgxem9lZ28tUkVUQXNzWENaNXRuRm1WNUp0MG5KTHhHTXZlNFBKbVFiTS1iRzdDX2FMVUJSZUNSSVlSaUdDOHhETnVWNlh3d2Z3RVVIV0dmTWhaVXJvdTlpYTNNYlVSTHRjdHIzeUZ5UGxHdHdDT1plUVM3Z3BTMmcwTkZscE13?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774643264053-4",
+      "title": "Oracle’s new AI bet: Make the AI database the center of agentic workloads - SiliconANGLE",
+      "excerpt": "Oracle’s new AI bet: Make the AI database the center of agentic workloads  SiliconANGLE",
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDZZMlVhVDhqelN2ZGtqUnNpcUo4N0o3ZjR6Mk56aXZVVlFWcU9mWEFxMzg2ZllydEE0UzNhUjU4bHdKTkEyQ0JLM21RQlBZOGtSZHdYQ1lldUxXS2haOXdCSW43UHhHOWVWdDREOWdyUUQ3MmVJV2RxV0poNHJaZXk1bjA0U05vVUQ5c2tQWjVZMkI5cjUtVWZmbGkxQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1774556858583-0",
       "title": "How to Load Embedding Models into Oracle AI Database in 2026 - Oracle Blogs",
       "excerpt": "How to Load Embedding Models into Oracle AI Database in 2026  Oracle Blogs",
@@ -25,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774556858583-1",
+      "id": "en-1774643264053-2",
       "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
       "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
       "date": "2026-03-24",
@@ -49,11 +65,11 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774556858583-5",
+      "id": "en-1774643264053-0",
       "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
       "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
       "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlA1WU01Nkp4bzhZLU9HT0NqVGN6R1RwWElMQTVGS25TWnlCS2JxUERROF9uWjhaUlpRMm1neWVOWTFHamh6LVRmZzNQblpJZ05Oa1ZXLWpVYzBMdHk2RDlCUkEwWFBPVzFjREwyN3RqYjB6ZndpV3gxMmM4bkpXVHV3R1ZWcGFYOG1uYlRJY1FRMTdfQnVaS3RpN1dLd2FzYktYaGlYOTNacFZfc19WbzVzUFMyUk9PUGUxcW9nZXk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDg3bHM0Q0VGQUNiTjRvaVpELWV0VG1ocDBwX2tMXzFWcVFMSTZHREhWVGJuRkVETkxIT3JjbXR3RTd3eW9Wcm4xelljelBuZ20xSEZQRGc5OHgyNkM3UlZVYnVCX05MNjlzOUN6UWgzUHk3VmpzVDdhY3RRdjdqa01qSnFEOUxtLTd3UEk4RzNTeVFKOFY0RXZLaFZFdTM3ZXRUZlBVeUIxZ1paeWQtOUVJT25UNTJo?oc=5",
       "category": "Industry News"
     },
     {
@@ -73,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774556858583-2",
+      "id": "en-1774643264053-3",
       "title": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai - Oracle Blogs",
       "excerpt": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-03-24",
@@ -81,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774556858583-3",
+      "id": "en-1774643264053-5",
       "title": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems - Oracle Blogs",
       "excerpt": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems  Oracle Blogs",
       "date": "2026-03-24",
@@ -751,59 +767,11 @@
       "date": "2026-02-27",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckd2a2tGY0t0MEZNeEVIWmZEVHRfcGVLTDlnRGtwNG1TOTdHN1BqWWVzeHJxZkU5c1YxZktoektueDlYTjl6M24xN3oxaDEyUTF5dmZmU2VSLVJfR0MyT2FNZjJKUVVlNDIwdkRVcjJGckRuYjRoOWttRG4zMDltZF82eEppbWxpdUlGWFF5OWEyQ0x5S1ZJ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1772655820473-2",
-      "title": "Oracle Red Bull Racing Extends Title Partnership with Oracle in Multi-Year Deal to Power a New Era of Data-Driven Performance - Oracle",
-      "excerpt": "Oracle Red Bull Racing Extends Title Partnership with Oracle in Multi-Year Deal to Power a New Era of Data-Driven Performance  Oracle",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWtvTTlYdHA1MFkzdjhCTDlRY29qRkp2eGhuYnNLWVFjWThYOGprMFB4QUdKaC1pbFpqaUs0WjNCOTVISjk5MG9XSXlYRUF4bjFnZlFxd3VmcmRkTzdnbXhHdmNSbEE1TFBmR2pNd2VIXy12Y3lJZThCQmZSU0JqS1FYZHdNeVl0WF9TQk9ib3pBaGFfaHpHREF1bmtieDZGTTNEWDlWY21RelNiRGtCSXZWRQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772137604957-2",
-      "title": "Legacy, Schmegacy: Oracle, Microsoft, SAP Generate at Least 50% of Revenue from Cloud - Cloud Wars",
-      "excerpt": "Legacy, Schmegacy: Oracle, Microsoft, SAP Generate at Least 50% of Revenue from Cloud  Cloud Wars",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGE4QlRyUVNTeHZUdWFWaTZiYUZRUThkSEF1VlhLd3BLM182WkZNbHBpY0pZcUtWMmVMWE1SOF9WWExHQm5zbVVlNlJ3d2Q1N2czaW5haDJuQTJnQUxCeVlmUkNxNmFuNVJiYzJJb3JLb21fTFdUdlREQnpFcHZwdVhrMlBiVmxGZWYtekJZb2JkRTg2cWFBblY4QjJoX2dwQURDRU1od2V4OHRNYXc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772137604957-3",
-      "title": "Inside Oracle’s new multi-year bet on Red Bull’s AI-driven F1 future - Stock Titan",
-      "excerpt": "Inside Oracle’s new multi-year bet on Red Bull’s AI-driven F1 future  Stock Titan",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHRVYk93bVVXQjVJb0lpV0x2Vl85NzZVLWJwN3lpdmU1b3l4TXFPbXVkTS1oTC1sZXNmenhCcHBySExwQjNTaWJiQ2VRcnRMd3BEX0UxNDdBU0VTamJreURpdmUtU0pqcTdxc2ZXU1B0ZmRRNzVZbW1nZWFzcUhnTkJYVENBWXhvNzJTcUdYTzNiSnR0ek5USDFxallwU3hkTmlxc0ZjVFJQTU9ZQkdmLVBZQmxKOUZhbVE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772137604957-4",
-      "title": "Oracle Extends Title Partnership in Multi-year Deal - Oracle Red Bull Racing",
-      "excerpt": "Oracle Extends Title Partnership in Multi-year Deal  Oracle Red Bull Racing",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3k0c3Y0YWNNR0pVanBZNHYxUlIzMEpnbjBKMjZyWmY0SEtMZHhCeG1sRWJfX2hwTV9TRFV6XzlJaFU1ODJQbEpVNWNtdVBER0xRUVZyOTRCdnN0OV9oQkc3VzFYVXNxT0x6QmY4djMzMDdxaW9rYVFCSFFHbk5YdUQyanFMS3ppT1JYbkhZZ0tKZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772137604957-5",
-      "title": "Oracle Reclaims Momentum as Oppenheimer Issues 'Outperform' Upgrade Amid AI Cloud Expansion - FinancialContent",
-      "excerpt": "Oracle Reclaims Momentum as Oppenheimer Issues 'Outperform' Upgrade Amid AI Cloud Expansion  FinancialContent",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWtxUzZGWlplSkJUbG5NRExqWVdEM0lRN1B1NjdVbjBUbTRDYW8zN0xrNmVLZEJidnU2YmhIeGN5YXF5RmZMREN1X2UxNGNnRjlHYnI0bzZZQWdUYjVURjdnRlpDTGVEMWVmdDhadGlIcUhob2tzMlV0NTlXRDlVWGZLdnBWVTVxWFdxamhYRV9aZzdMSkNlQjlzSnU4Y3hybXcxTXZwdjV3WXplVWtCMTFZWmVPWGVLaTJzV2tHYUVsZnFSemdDZ2VheDRKbU80UmdwS0pkbE4xVkM2TWNScl8zcl8zNFZPWTc4WkpUZkZKQ0IxdHpj?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772483175635-4",
-      "title": "Oracle Red Bull Racing Deal Puts AI Cloud Story In Spotlight - Yahoo Finance",
-      "excerpt": "Oracle Red Bull Racing Deal Puts AI Cloud Story In Spotlight  Yahoo Finance",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PTjZ6ZDRPdDBUSTJYNkpMZnZLQWNnWGJjREZXZmJzelZFckF3cWdBSlIyb1VvLVRQOVM1Rm5pSW1xcWpYU21pVVFST0VFNXQzQTNzNVV2UGo4SFdoTEdpcGUxZEF6UW5VeEw3Y2RlR2Zhb3Z0bVRmSUh0dEtidw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1774556859058-0",
+      "id": "ko-1774643264558-2",
       "title": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원 - 헬로티",
       "excerpt": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원  헬로티",
       "date": "2026-03-26",
@@ -835,7 +803,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774556859058-2",
+      "id": "ko-1774643264558-0",
       "title": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가  디일렉",
       "date": "2026-03-25",
@@ -843,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774470591578-1",
+      "id": "ko-1774643264558-3",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 데일리시큐",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  데일리시큐",
       "date": "2026-03-25",
@@ -859,7 +827,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774470591578-3",
+      "id": "ko-1774643264558-4",
       "title": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표 - BI KOREA",
       "excerpt": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표  BI KOREA",
       "date": "2026-03-25",
@@ -883,7 +851,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774556859058-4",
+      "id": "ko-1774643264558-5",
+      "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 테크월드뉴스",
+      "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  테크월드뉴스",
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jR0wyMEEzWlg1V3JNbk0xVzRDZng0cU1yMEN0ZzNmdURMM2xwYVpkR1FNMDRxaE9INE9xZ1NqLW13SE1jaDVOZmlVeW9kX1I2VkVkN0lrZmU0VDNFRzFGeWFnUTRfaXE2?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1774643264558-1",
       "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - 인공지능신문",
       "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  인공지능신문",
       "date": "2026-03-24",
@@ -1272,14 +1248,6 @@
       "excerpt": "“오라클 시스템 모십니다”···AWS, 클라우드 이전 가속화  시사저널e",
       "date": "2026-03-03",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NXkyZWxEbVo2OGpERzNXeHNYUzlIR0F5dVRQMENKX1pHVENCb1g1cDZBR1Y1QW92cGl2em9IWW1feTRydVAySnMteENUVUEwMjMzbGhUaWZKR1QwbV9ZeDh6RFBsYlE1U0l6ZFFDSlppZ9IBdkFVX3lxTE0zZW84YXVxSDZWZktBNVJ3Y3A2MGxuUC1IbFNhSUkwQXdhZDFncnItVkFDSkNaRmVJTzM0T1FWVG9EYlUyXzRnbzFSaHJPMjh1RnlmOTFqbmNfODA3ckw4WWIxV21HeEFjNDk3Nkw3VVFycC1MYmc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1772309728044-0",
-      "title": "오펜하이머 업그레이드는 오라클(ORCL)의 AI 인프라스트럭처 리스크 내러티브의 전환점이 될까요? - simplywall.st",
-      "excerpt": "오펜하이머 업그레이드는 오라클(ORCL)의 AI 인프라스트럭처 리스크 내러티브의 전환점이 될까요?  simplywall.st",
-      "date": "2026-02-26",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGljSkJqcmFIZzh6eUZiSldVRURVRTBJR3JOc2Q4V3U2UDJuUE03QWQ2SFBQWXdabFdNVFhKZzl3eGM0cWxWQndjM3dEUFZ1WWNwNExzVVdVUnhmdXNnaS02VHFtR0tSY1hfY2ptRXZnOTBVTWhtY0NHcEhRaFZnRWtoN19TR2d5UWtuRzNZa9IBjwFBVV95cUxOOGljSkJqcmFIZzh6eUZiSldVRURVRTBJR3JOc2Q4V3U2UDJuUE03QWQ2SFBQWXdabFdNVFhKZzl3eGM0cWxWQndjM3dEUFZ1WWNwNExzVVdVUnhmdXNnaS02VHFtR0tSY1hfY2ptRXZnOTBVTWhtY0NHcEhRaFZnRWtoN19TR2d5UWtuRzNZaw?oc=5",
       "category": "Industry News"
     }
   ]
