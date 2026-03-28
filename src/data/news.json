@@ -41,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774643264053-2",
+      "id": "en-1774729156923-1",
       "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
       "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
       "date": "2026-03-24",
@@ -65,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774643264053-0",
+      "id": "en-1774729156923-0",
       "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
       "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
       "date": "2026-03-24",
@@ -89,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774643264053-3",
+      "id": "en-1774729156923-2",
       "title": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai - Oracle Blogs",
       "excerpt": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-03-24",
@@ -97,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774643264053-5",
+      "id": "en-1774729156923-3",
       "title": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems - Oracle Blogs",
       "excerpt": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems  Oracle Blogs",
       "date": "2026-03-24",
@@ -110,6 +110,22 @@
       "excerpt": "Analysts praise the new suite of Agentic AI capabilities in Oracle AI Database  Oracle Blogs",
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEI4QnpNLThhN2FmRmd6RWFxSkxoZlIxU19TT0p0OEdUeVZXVXl0a2tjME53bVZJTW9NUkltYzRVYzhBSGlhM0lObmw3WXB5ZUp2V213RXFabGQtdEU2X0Fsa3FDS1RyY3pfTG1kTl9qa015MHE4QlV2MGZ5bnhSY1V2V1RoME5wbmttd1RUcmFFQVFUWGR5amFUZUtfVjdhSFgzM1FRWXQwVFhqVUlnMkhB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774729156923-4",
+      "title": "Announcing Oracle Autonomous AI Vector Database Limited Availability - Oracle Blogs",
+      "excerpt": "Announcing Oracle Autonomous AI Vector Database Limited Availability  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlEtYzBYNkV5RHoxQU1OUzh1cTFxSVlkOUJJLXdOS1l0alpxSENrV052Y3JDcUFfVWNGWWNxam1Uck44QUpKVWQ4YmI5VzZQeGpnSzBtN2ViVDJaTURfWHVyQ21rSnRKb1RGSVRnV0pFX2ZfRHl4VXdRcDhRUlJiU1I3YzZ1b2ZqTXRiTE85R01USFR4OHVpRmZldnIzYXNaM2I0cg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774729156923-5",
+      "title": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools - Oracle",
+      "excerpt": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools  Oracle",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmZDakdDX19TazhQb2FSSGU4bVNaamMtbjEtZlMwaHNUbjhCLUZDX3p1bjRPUFRrcm1haHQwMGV3TVpKMUdtVHgxT3Zna1JnbExvT05RMEJWalVPSERpMkd3ZkNKUmpfYUpUTzlEQjFFaURiSzFCUVlvcWc2OW04dkZWWmNMeko1ZHVCS0Y1VmE3NVV6YVA5bTNJS2hNYzRlc0RhSmxHZzFMc0UtWVBENnB4cjh6bDhYSTk1LVQyYWtSd1drdElUTDViQjJPaF9tN0VEb25nNHo?oc=5",
       "category": "Industry News"
     },
     {
@@ -735,43 +751,11 @@
       "date": "2026-02-28",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OWh5LVJMYXRLSEJHZ2haSUIxZHlKT2c4UlQ3RC1FcGV1SU1KSzNodllsUVhHMXlieFlEQ2JDRkNfMHl2UmlzUU8yX0MxZVA1X0NnQVFna2xFZUJMbVg5d3NlU0hCdElHTmJwUWFyRWRoYURmODRiTm9yeTJBVGM?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1772655820473-5",
-      "title": "Driving innovation in AI transformation and multicloud - Oracle",
-      "excerpt": "Driving innovation in AI transformation and multicloud  Oracle",
-      "date": "2026-02-27",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hVy1zUTV4bXJjY3haSk4wTEw3X180ZEpoaEFzQTgydWlYcjBWTzJOaWNoeDZ5S2toQ2NOeEtTS3Y0OEFmSU9fcTl1Q1lvV2owLVA5ZXpERlZTVW05d3lvX1E4dE5qb29rdlNFLUJaWndNTmlad05MdQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772483175635-2",
-      "title": "Join Us Online: Oracle Globally Distributed AI Database & MAA Customer Summit 2026 - Oracle Blogs",
-      "excerpt": "Join Us Online: Oracle Globally Distributed AI Database & MAA Customer Summit 2026  Oracle Blogs",
-      "date": "2026-02-27",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXdacFBYRmpzNzBLSVlvTXF3SV8wR0J0WE40cEFGWkh4RlEzbUZpSE5YUHNURnZISTdrMTJuSTBBZ2Y5c0c3dS04ZEpLTXpoa1NDOFJsOWRodlh4U1FZbVI2WlM5NWNnTG8xbl9fSjhCbmlaNlVCUEl4YmdHX0VWaTJEdEdvTG9UZTRwdmR6eVgxcDl4NHo2V3otVEl0U2RBWWJoZEFUTXVuU056?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772223562546-3",
-      "title": "Oracle Red Bull Deal Puts AI Cloud Story To The Test - simplywall.st",
-      "excerpt": "Oracle Red Bull Deal Puts AI Cloud Story To The Test  simplywall.st",
-      "date": "2026-02-27",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE05RmxpNmZ1b3JFS0sxV0VKemxYM1F3MFBoZFVBd2l4X3JUNUhrZWlGdlY2d3lmekJfcVRfbEEwc3pvSGxEVWpqQUVXbGRSamhNa1ZrSjVFdDZGRkZwV2lNcXo4ODhFWG9rNlZmRzVPT1FlRDg5QTQ5QW9sQktRMWxsZ0lOa2NOQVg0UktUT1VQbDZRNi15ZmdyZG9scHYtNkk2aXVGQml1N2czTWxCdDBpYkptd9IBuwFBVV95cUxPWmxmck9JYjNwYjVOQTFEN01GY21WbXZqMW9LSWRJRlpZVVNmaDA0ODBPM3VwcVY5VC01VkJVMHMzZHFmMExVYWxqajBOeThjNGl5Y3Rsd3kwLWpPeUdZS192Uk03TEVFOWRsSUdkaEltcGVrVmdBWFA3S1Y4dXdVb3MtcGFvNmRhN21kVnFHcHU4MjB5dmtiWHpHUlVhZ2FHZFJkWlZHV3F4RnBZam1UNm5WOW1JM0tFTC1r?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773000909512-1",
-      "title": "OCI adds Generative AI, Exadata Cloud@Customer, and other authorized services for US government customers - Oracle Blogs",
-      "excerpt": "OCI adds Generative AI, Exadata Cloud@Customer, and other authorized services for US government customers  Oracle Blogs",
-      "date": "2026-02-27",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckd2a2tGY0t0MEZNeEVIWmZEVHRfcGVLTDlnRGtwNG1TOTdHN1BqWWVzeHJxZkU5c1YxZktoektueDlYTjl6M24xN3oxaDEyUTF5dmZmU2VSLVJfR0MyT2FNZjJKUVVlNDIwdkRVcjJGckRuYjRoOWttRG4zMDltZF82eEppbWxpdUlGWFF5OWEyQ0x5S1ZJ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1774643264558-2",
+      "id": "ko-1774729157390-1",
       "title": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원 - 헬로티",
       "excerpt": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원  헬로티",
       "date": "2026-03-26",
@@ -803,7 +787,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774643264558-0",
+      "id": "ko-1774729157390-0",
       "title": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가  디일렉",
       "date": "2026-03-25",
@@ -811,7 +795,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774643264558-3",
+      "id": "ko-1774729157390-3",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 데일리시큐",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  데일리시큐",
       "date": "2026-03-25",
@@ -827,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774643264558-4",
+      "id": "ko-1774729157390-4",
       "title": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표 - BI KOREA",
       "excerpt": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표  BI KOREA",
       "date": "2026-03-25",
@@ -851,7 +835,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774643264558-5",
+      "id": "ko-1774729157390-5",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 테크월드뉴스",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  테크월드뉴스",
       "date": "2026-03-25",
@@ -859,7 +843,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774643264558-1",
+      "id": "ko-1774729157390-2",
       "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - 인공지능신문",
       "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  인공지능신문",
       "date": "2026-03-24",
