@@ -41,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774729156923-1",
+      "id": "en-1774815668072-1",
       "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
       "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
       "date": "2026-03-24",
@@ -65,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774729156923-0",
+      "id": "en-1774815668072-0",
       "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
       "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
       "date": "2026-03-24",
@@ -89,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774729156923-2",
+      "id": "en-1774815668072-2",
       "title": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai - Oracle Blogs",
       "excerpt": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-03-24",
@@ -97,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774729156923-3",
+      "id": "en-1774815668072-3",
       "title": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems - Oracle Blogs",
       "excerpt": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems  Oracle Blogs",
       "date": "2026-03-24",
@@ -121,11 +121,19 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774729156923-5",
+      "id": "en-1774815668072-5",
       "title": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools - Oracle",
       "excerpt": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools  Oracle",
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmZDakdDX19TazhQb2FSSGU4bVNaamMtbjEtZlMwaHNUbjhCLUZDX3p1bjRPUFRrcm1haHQwMGV3TVpKMUdtVHgxT3Zna1JnbExvT05RMEJWalVPSERpMkd3ZkNKUmpfYUpUTzlEQjFFaURiSzFCUVlvcWc2OW04dkZWWmNMeko1ZHVCS0Y1VmE3NVV6YVA5bTNJS2hNYzRlc0RhSmxHZzFMc0UtWVBENnB4cjh6bDhYSTk1LVQyYWtSd1drdElUTDViQjJPaF9tN0VEb25nNHo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774815668072-4",
+      "title": "Introducing Oracle Deep Data Security: Identity-Aware Data Access Control for Agentic AI in Oracle AI Database 26ai - Oracle Blogs",
+      "excerpt": "Introducing Oracle Deep Data Security: Identity-Aware Data Access Control for Agentic AI in Oracle AI Database 26ai  Oracle Blogs",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1I4QjNFUHNxa1IzNFhMcDZsV1Z2a0J0WG4yQ3RlNDBlS005NGNqZFRMYTlmaGhzZmt6ZDhYTk0xZF9MWHpyZG85NjRTTnhBbTFjdzJFRVRYLVlESGZDWXhlemFhWWNTek9qSXlhUm1HNXFwZGZJbGNxSnN6ZkJlc2oxYk5iM0h3WkVNdkNfS2dHZDljTmVJUjRVZWFRNlpESGJ3SktTRXRWNWwwNGhzZmROYkk3YnRDUVZSajcxdnBsb0hyS1F3UlVqQzFNaGtvZlRMRVc1TFg3aDJwQnVsTUJR?oc=5",
       "category": "Industry News"
     },
     {
@@ -727,35 +735,11 @@
       "date": "2026-03-01",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbzV1T2w5eG1SN0w1Q0FsYkRQVE0xRG50OTVwTzhaeUhDLXA4N2dfY3hNMVo4RG9lbUZRSTV3UGswVmFSajlxaUJ6dlV3NzVCX2dobWxxNk02dXc3RTlXTVBzSHdZTHpXNFFhUW84ajhEa1NtaklWZVZRd0Z3Y3VmR0FIYVNkWUJXektSRF9VRXZOb1oycUtIbHh5Q3FSWk83akhBUkxGNXlfc2FNZmhLOW95VTdiWEZldDRSWWVUMi1PRnF3YnU4Q0VRNkM5SERiMEdzV2ZINlF0UGtUdldRbVJZQnFLUkVycmFXa2lhNTRYNnhEbzJqaXltS2Q0UnU5N1pIeXV5TW1LdzJjbkE5bnlkWEM?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1772309727138-4",
-      "title": "Forecasting supplier lead time to optimize supply chain operations - Oracle",
-      "excerpt": "Forecasting supplier lead time to optimize supply chain operations  Oracle",
-      "date": "2026-02-28",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pejVCN0M4TWxQZlE2MXBEVWdDZDFwV2NjWi05LXFuNnJEOE5XaXJHd1E2WDh1MGJ5OVZlQUw2N3gtRXlVaE15anAyQ0FSOWItN3N6RE1aTzdqWmdya0tCZEZCYXdpMFNlUnlzQjNIQUNmWGZ6dC1QM1pTU3lpRU0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772309727138-5",
-      "title": "Improve Customer Service with Real-Time Location Offers - Oracle",
-      "excerpt": "Improve Customer Service with Real-Time Location Offers  Oracle",
-      "date": "2026-02-28",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmc1NUw2amdMWGRfdjlzSzYwOEVzNjVvOVBSRHF5NFVRRUNTOUNtNWctZGFDbFFjVlNzNVRXZHpMSm12a29EMl9xSGxKTm0xVGhidFdKaVJwUjBaS3FSanNubDVMX0FnU2MyLUE2Q04zOG1DVW5BSUpfV25NSFp4a3ctOVdNdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772396161973-5",
-      "title": "Improve financial services operations and performance - Oracle",
-      "excerpt": "Improve financial services operations and performance  Oracle",
-      "date": "2026-02-28",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OWh5LVJMYXRLSEJHZ2haSUIxZHlKT2c4UlQ3RC1FcGV1SU1KSzNodllsUVhHMXlieFlEQ2JDRkNfMHl2UmlzUU8yX0MxZVA1X0NnQVFna2xFZUJMbVg5d3NlU0hCdElHTmJwUWFyRWRoYURmODRiTm9yeTJBVGM?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1774729157390-1",
+      "id": "ko-1774815668547-1",
       "title": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원 - 헬로티",
       "excerpt": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원  헬로티",
       "date": "2026-03-26",
@@ -787,7 +771,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774729157390-0",
+      "id": "ko-1774815668547-0",
       "title": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가  디일렉",
       "date": "2026-03-25",
@@ -795,7 +779,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774729157390-3",
+      "id": "ko-1774815668547-3",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 데일리시큐",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  데일리시큐",
       "date": "2026-03-25",
@@ -811,7 +795,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774729157390-4",
+      "id": "ko-1774815668547-5",
       "title": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표 - BI KOREA",
       "excerpt": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표  BI KOREA",
       "date": "2026-03-25",
@@ -835,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774729157390-5",
+      "id": "ko-1774815668547-4",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 테크월드뉴스",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  테크월드뉴스",
       "date": "2026-03-25",
@@ -843,7 +827,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774729157390-2",
+      "id": "ko-1774815668547-2",
       "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - 인공지능신문",
       "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  인공지능신문",
       "date": "2026-03-24",
