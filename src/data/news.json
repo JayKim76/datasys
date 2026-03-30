@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1774902938773-0",
+      "title": "Mission-ready sovereign AI with Oracle and Mattermost - Oracle Blogs",
+      "excerpt": "Mission-ready sovereign AI with Oracle and Mattermost  Oracle Blogs",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21qT3NpamtlOS1DcS1lZlRlU3BGbVlwWkYteC1DWVo1YXc5RFI2QzBjM2xWRDhkNlpiWU9TVG54dVBoRkxoTlM5WWJaNlJVeW9NSi1XVWN3VDA3aEQwOURHVFlTQzVjLXI0UzREdERYUmZpY2pfWndGWVpXSGRPQmRR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1774902938773-4",
+      "title": "Oracle Expands Nashville Footprint to Support Cloud, AI Growth - ExecutiveBiz",
+      "excerpt": "Oracle Expands Nashville Footprint to Support Cloud, AI Growth  ExecutiveBiz",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1RGc2JnbVlCZXEyc1l0TlplbVMzejZCazdIVU5hRk9LYk1SZ3JaenJObEprYWxFa1hVR2V5V0EzOGRZTnF5SGwwdTNYMEFrTUpTckhfUTRwaUpLQlFWX0hIb0JvRkdKZmI1Z0VrUVN0ZzJaYjVnV2lNQjhodFBSMGQySkN5MDA?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1774643264053-1",
       "title": "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale - Oracle",
       "excerpt": "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale  Oracle",
@@ -25,6 +41,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1774902938773-3",
+      "title": "What Is Generative AI (GenAI)? How Does It Work? - Oracle",
+      "excerpt": "What Is Generative AI (GenAI)? How Does It Work?  Oracle",
+      "date": "2026-03-26",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejdoMEFybGhVS21HUDZocHc5SlpSd3FqWWdibnJnY3N3czVPUFVEM0RtdktEZGVfYXZYODZuWlc3ZTlKZjg4NzNHSEpfWnJKV01kX3NXbUpPRE95MjMwcGpaM0lkRFE1Yk1vdU9VY0tOTkJPZEllOF9WOEMxSkJSR2RaaXJMbFFIYVR0UWV4UlM?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1774470591136-3",
       "title": "Oracle Multicloud – What’s New Blog - Oracle Blogs",
       "excerpt": "Oracle Multicloud – What’s New Blog  Oracle Blogs",
@@ -41,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774815668072-1",
+      "id": "en-1774902938773-2",
       "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
       "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
       "date": "2026-03-24",
@@ -65,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774815668072-0",
+      "id": "en-1774902938773-1",
       "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
       "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
       "date": "2026-03-24",
@@ -89,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774815668072-2",
+      "id": "en-1774902938773-5",
       "title": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai - Oracle Blogs",
       "excerpt": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-03-24",
@@ -727,19 +751,11 @@
       "date": "2026-03-02",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzhjQzVjYVRmVzZBVE9zVS02STJhS0tVeGFhLVVvcXZSOFhFSkFGbUxZWEZuZ1RYWllNX3FFVGlRRXk5RHdRWEZYYnNqODNoWGpHdkdES0R3aVFYVjFSVmFsSzBaQVpudEljNWN0UXJvOENpd0VURnRfd3hVVng4STdCaWhfdUE?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1772742555431-0",
-      "title": "Save the date: Oracle AI World 2026 - Oracle",
-      "excerpt": "Save the date: Oracle AI World 2026  Oracle",
-      "date": "2026-03-01",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbzV1T2w5eG1SN0w1Q0FsYkRQVE0xRG50OTVwTzhaeUhDLXA4N2dfY3hNMVo4RG9lbUZRSTV3UGswVmFSajlxaUJ6dlV3NzVCX2dobWxxNk02dXc3RTlXTVBzSHdZTHpXNFFhUW84ajhEa1NtaklWZVZRd0Z3Y3VmR0FIYVNkWUJXektSRF9VRXZOb1oycUtIbHh5Q3FSWk83akhBUkxGNXlfc2FNZmhLOW95VTdiWEZldDRSWWVUMi1PRnF3YnU4Q0VRNkM5SERiMEdzV2ZINlF0UGtUdldRbVJZQnFLUkVycmFXa2lhNTRYNnhEbzJqaXltS2Q0UnU5N1pIeXV5TW1LdzJjbkE5bnlkWEM?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1774815668547-1",
+      "id": "ko-1774902939326-1",
       "title": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원 - 헬로티",
       "excerpt": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원  헬로티",
       "date": "2026-03-26",
@@ -771,7 +787,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774815668547-0",
+      "id": "ko-1774902939326-0",
       "title": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스, 에이전틱 AI 신기능 추가  디일렉",
       "date": "2026-03-25",
@@ -779,7 +795,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774815668547-3",
+      "id": "ko-1774902939326-2",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 데일리시큐",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  데일리시큐",
       "date": "2026-03-25",
@@ -795,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774815668547-5",
+      "id": "ko-1774902939326-4",
       "title": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표 - BI KOREA",
       "excerpt": "오라클, ‘AI 데이터베이스 에이전틱’ 혁신 발표  BI KOREA",
       "date": "2026-03-25",
@@ -819,7 +835,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1774815668547-4",
+      "id": "ko-1774902939326-5",
       "title": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표 - 테크월드뉴스",
       "excerpt": "오라클, 기업 데이터 위한 AI 데이터베이스 에이전틱 혁신 발표  테크월드뉴스",
       "date": "2026-03-25",
@@ -840,6 +856,14 @@
       "excerpt": "[美특징주]오라클, AI 수요 가속화로 본격적 반등…개장전 '강보합'  edaily.co.kr",
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3NObVFLY2pmTFdmQ1VsQ1d5TkhpeXJ6X0RVY2FyclBHU2V1bUUtVHFySXFKWWtiejBJelRhREtWR214ek44OHlyRVdEVlIwVHZEWEhBRmZSUXQ4UXc4dmJZRC1aYlRoeVNDV1RGZmxqS2I1QWd3dE1kMTV5QkdWSg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1774902939326-3",
+      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - aitimes.kr",
+      "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  aitimes.kr",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYXktYXl2bTFDMnpqU2hDQUFCV0pSaHpnV3lhT0c5YngxX2VWYXpHWmtsY3BZVFN4YktWS2IwV2F1eUQzQmpZQ2hSZEU2bnNJYlBVMmtpNllWNlJEN18tMF9ETWZWdlk?oc=5",
       "category": "Industry News"
     },
     {
