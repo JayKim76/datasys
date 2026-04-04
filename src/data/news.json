@@ -41,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775247951116-2",
+      "id": "en-1775333962085-2",
       "title": "Scaling Agentic AI: Why Transactional Messaging and a Converged Database Matter - Oracle Blogs",
       "excerpt": "Scaling Agentic AI: Why Transactional Messaging and a Converged Database Matter  Oracle Blogs",
       "date": "2026-04-02",
@@ -49,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775075726568-0",
+      "id": "en-1775333962085-1",
       "title": "Oracle AI Factory - Oracle",
       "excerpt": "Oracle AI Factory  Oracle",
       "date": "2026-04-01",
@@ -137,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775247951116-0",
+      "id": "en-1775333962085-0",
       "title": "Oracle Unveils AI Data Platform for US Federal Government - Oracle",
       "excerpt": "Oracle Unveils AI Data Platform for US Federal Government  Oracle",
       "date": "2026-03-31",
@@ -150,6 +150,14 @@
       "excerpt": "Oracle and NetSuite Deliver New AI-Powered Solution for Restaurant Operations  Oracle",
       "date": "2026-03-31",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVlfQVU3MWFMN01YQTFGM2Y0VXdoZGc5dXJiS3pqaFloTUxqUUNyc1U5YkdfQnVObjlpWUJKb0lnN2xFTkhURFZSeW9MTmtvTjhHbzdDY2V2YlNpZF9WVXh0NVdPNnk4WmxMbUhBdVFTUWVuZ3JfNGdUVlkyY01oUklEdVpaLWV1UHQ4UmJqSFIxbTNXZUNwLXpIZkl3eWI2REtQTThSRFlUa3U1QUZBRUJrbGJDUDItSUw3cVE3QzdxdzZRWjdhSld3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1775333962085-5",
+      "title": "Getting Started with Private AI Services Container - Oracle Blogs",
+      "excerpt": "Getting Started with Private AI Services Container  Oracle Blogs",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3BQZnhONUhXaFFIUlpHTlBvT2c3YlNRNVZxMEpyM2RvQmhyNjN1bEZRYzExaHB3Nm55QnRDYzNRYnM2TDNyakhPQzVoQXZBV2sydEY4NzZOckdSaVlKZi1KZm1DRUtWcVllZzU2LXZTY0NCSXhHNWh4V0RkTTFIdzFQT0NDUERvLWpBcA?oc=5",
       "category": "Industry News"
     },
     {
@@ -217,14 +225,6 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1774902938773-2",
-      "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
-      "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENleFpwaFN6NnZ5RGJuZmhWcnUwZGFKdjRGWU1fQnNqdGIxc2VIZ3pkRkVYWmdSZzNDR2xjTnZrRG41cmRiQ3N1d01nSDNtREs5SFlSeFBKS3RZby0tV0pHanJqbm5tS1JqZU83bVl4YjhkbTdEQlNUSjJsT0sxYjR3RWhsRFN5S3FiQzVpZExqcFJjZVNXM05tUWR6Qm9xekRYRTJ3UUFWMlk0WGN2UERJRQ?oc=5",
-      "category": "Industry News"
-    },
-    {
       "id": "en-1774384330177-1",
       "title": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure - Oracle Blogs",
       "excerpt": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure  Oracle Blogs",
@@ -241,7 +241,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775247951116-5",
+      "id": "en-1775333962085-3",
       "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
       "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
       "date": "2026-03-24",
@@ -310,6 +310,14 @@
       "excerpt": "Introducing Oracle Deep Data Security: Identity-Aware Data Access Control for Agentic AI in Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1I4QjNFUHNxa1IzNFhMcDZsV1Z2a0J0WG4yQ3RlNDBlS005NGNqZFRMYTlmaGhzZmt6ZDhYTk0xZF9MWHpyZG85NjRTTnhBbTFjdzJFRVRYLVlESGZDWXhlemFhWWNTek9qSXlhUm1HNXFwZGZJbGNxSnN6ZkJlc2oxYk5iM0h3WkVNdkNfS2dHZDljTmVJUjRVZWFRNlpESGJ3SktTRXRWNWwwNGhzZmROYkk3YnRDUVZSajcxdnBsb0hyS1F3UlVqQzFNaGtvZlRMRVc1TFg3aDJwQnVsTUJR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1775333962085-4",
+      "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
+      "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENleFpwaFN6NnZ5RGJuZmhWcnUwZGFKdjRGWU1fQnNqdGIxc2VIZ3pkRkVYWmdSZzNDR2xjTnZrRG41cmRiQ3N1d01nSDNtREs5SFlSeFBKS3RZby0tV0pHanJqbm5tS1JqZU83bVl4YjhkbTdEQlNUSjJsT0sxYjR3RWhsRFN5S3FiQzVpZExqcFJjZVNXM05tUWR6Qm9xekRYRTJ3UUFWMlk0WGN2UERJRQ?oc=5",
       "category": "Industry News"
     },
     {
@@ -863,35 +871,19 @@
       "date": "2026-03-04",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbng1dTFiQ0JndnYxNWh0WGg4NXVwX0s2SFBmU0c1VGFPZlp4X0p1YkxUWXkyWmtYbXhqNzhvR3VJUGNkN3JnT3VISkhObXd0YjgwSXRyRU0yMkFnT08yd0V3emZLa1JwcXRYNEdnQ21zZk5EREpsX0EyZWdPbDdlRFNaSThoWjJBUVBRN2p6RVFTVTMzSlowQ2dfVjVKR2VydXFJUmVn?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1772569412681-2",
-      "title": "US Air Force Awards Oracle $88M to Expand Cloud One Modernization with OCI, AI Database - ERP Today",
-      "excerpt": "US Air Force Awards Oracle $88M to Expand Cloud One Modernization with OCI, AI Database  ERP Today",
-      "date": "2026-03-03",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFhsRURPVjBFQU5BMzlKMUFCZjdtZzA4d2Y3a3ZkanM5UEJkbjNMMlBWQm1aYWpISEhFSmtqU3FUcm9hLWJCNlduaDVfdzNTZ3ZyR3h2MWRrOEpSNnRqNzdaQ2U1NU1MVThEWW8wN3hWVTZHMFlXb2h1VExMeWR5MmZ2UlY4VHRaLVNWcTFfNUJqRWVYdV85RklNdlVBeVZwZnhmMlBhbw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772569412681-5",
-      "title": "Oracle Lawsuits And F1 AI Push Create Mixed Risk Reward Story - Yahoo Finance Singapore",
-      "excerpt": "Oracle Lawsuits And F1 AI Push Create Mixed Risk Reward Story  Yahoo Finance Singapore",
-      "date": "2026-03-03",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTlaUW1hemlUV1dXUVRGSVJ4Yk1RV2RJQ1hrMHc4UmFHX1d3UzNKU1BhckJaZnhUNzBPU05HMjM3dlFmY0FoNVdIMV9oVTd5amZFUGdTVno2Y0lUd2NUT1d4R1Q4cUtVeUpseXI4TVcyTVZwTkh0Ul9zbDVlZDFleQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1772655820473-3",
-      "title": "St. Joseph’s Health taps Oracle Health AI and analytics to unite patient data - Oracle",
-      "excerpt": "St. Joseph’s Health taps Oracle Health AI and analytics to unite patient data  Oracle",
-      "date": "2026-03-03",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qS1QxUXdac3NHNU9YMmZ4VV9id0d2MmZmVkZDbWc4ekl6V0EtWHJOQk10cDlteW1tX3Z0b3FXUEs4eEZNdTQ3SFkyQnBYRlZmVnF3UGxOQzVxbnQzR2FEWmdFTQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1775247951632-0",
+      "id": "ko-1775333962491-0",
+      "title": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’ - ddaily.co.kr",
+      "excerpt": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’  ddaily.co.kr",
+      "date": "2026-04-04",
+      "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxPZDBReUlxdkpZNkhvV2dqMVpXZkZ5cnJxVkJYM05ZYUg0UUFWUVJ3YjlIRjZ6U0pNRG5zTTRRaUVBNVgzZzJhQ2tQbXdWVmFXbGFHajZQS0FnQ2JyYk1Wa3BVUEY1U0dka2hPTnNKeHphSm9DNHVFUkFzTDJLeTRVb0pEMXlaNkpSTGNHUmxHMG1GdHRwYnV6aUFDWGFXdXhwZDVWNC1tVFJKU2RSc0pKY0tYdHRfbTdQLXNqWTNxMlgwWkpVV0xJQlhmaTJsczkxdERpTkZyNUZDOVFRSldnQ25NUEVlOHFhMWRTNHZPUzFXWVIwSXUwbmVVaDNxQ2NYWmxZbzE1aUlJanVfU1NUV1RRTXpFMlBSeGJucVN1TFZoVFZNbThxNFpVX2tiQ2I2OW5EeW5fcXB3a20xWGlqOEtyRmJOX2h2WnBwZWlxV0oybVFIa1Nfei1VcXd3alBmdG1RQXExQ21EbVppUW9KTjloR1h5M3NhQ3REbk9sNlhOSDktSEhoM0FuMFYtLW9mTUk0V0xSaEJMTHBjSG85bDQ0am80Q3QyR2tENENZeWVmX1p1b3EyOFcxeUIweDhOTGE1Z3FGM1BKZm93Y0x4VHpEdnE2bEJ3bnk5b01zTTNGLURsYXVQYWtNSkZ4RDhOMTA3QkZqWFhjWG9JbXlKbFZreWY5b3hZamZsOWVYclVXY01HOFQwME5TbTliSGlFWmZmc05BeVpRVnA3TFZYWEFPeVc5TVUtcW9tbGkzNkVWVmFra2xFUEZQd19nWlZPZ1lfWHNfRVlkbS1sakl1dk1CaDRsNjFxRDRsRUFyM0FUU1NXQ0NKT2JOeWJwTlgxYTdSUGNXekc5UUhzdmVIRHVaUnhla2wzYjllQ2IwVGJXZk41V0t3R0NqS004ZlBucUZVVHJZcWpnYkl6ZHcySmUzUXhWZ0IycTB3UVQzaTBqOVpPX2QtMmVLajhTUkZhQlFtc3RQOE1RS0tKcFNpR3Q3V3FPSm9aSjlzdi1QM2psRFZZdTlUaUhPbTZrZkxnUmx2bzNsUjdFaU9FNVJOeko5U3ZQNkdoX2ZtY21uaWE1RFZkb2w1cHFEZ1VOLW83ZVVTbXFodTY4UTJadDF0VHo4dlRqUEN0OGlTZ25yRko4ajZrTmY3cVFZU1JxazEyNmUyWHIzTlY4cDBEZUpqVjdjVEpWSkRKb083WF9GTDhNUnJGQkRjRHI1QQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1775333962491-2",
       "title": "오라클의 AI 클라우드 구축 자금 조달을 위한 인력 감축은 오라클(ORCL)의 판도를 바꿀 수 있습니다. - simplywall.st",
       "excerpt": "오라클의 AI 클라우드 구축 자금 조달을 위한 인력 감축은 오라클(ORCL)의 판도를 바꿀 수 있습니다.  simplywall.st",
       "date": "2026-04-02",
@@ -907,7 +899,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775247951632-2",
+      "id": "ko-1775333962491-5",
       "title": "오라클이란 무엇인가? 소프트웨어 거대 기업, AI 투자 급증 속에 수만 명 규모 인력 감축 - TradingKey",
       "excerpt": "오라클이란 무엇인가? 소프트웨어 거대 기업, AI 투자 급증 속에 수만 명 규모 인력 감축  TradingKey",
       "date": "2026-04-02",
@@ -955,11 +947,19 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775247951632-1",
+      "id": "ko-1775333962491-4",
       "title": "오라클, AI 에이전트 업무 자율 수행 '퓨전 에이전틱 애플리케이션' 출시 - 헬로티",
       "excerpt": "오라클, AI 에이전트 업무 자율 수행 '퓨전 에이전틱 애플리케이션' 출시  헬로티",
       "date": "2026-04-01",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6a3hxVUprSU9SLVNBZDY4LUlZM0k1a3RHcXYzeHk0dm9rYzBOWG12ZkxuOFBWWE0tMTMwdXhrTHljWVNNOHUweFZwTTBva0x4emxlYWlRUHVwV3NJbENN?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1775333962491-1",
+      "title": "오라클, AI 투자 확대에 인력 수천명 감축…클라우드·DB 전반 영향 - 지디넷코리아",
+      "excerpt": "오라클, AI 투자 확대에 인력 수천명 감축…클라우드·DB 전반 영향  지디넷코리아",
+      "date": "2026-04-01",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUkVocUlERnQ1cjZjb0VuaVZORVdXa1J1WkY1c2l6Nl9HXzBWdWNHbXZKYldPWEhoUFpQQzIxRDYzTy1JTkZoTW9IcG82YlVJTkdtV2pB?oc=5",
       "category": "Industry News"
     },
     {
@@ -1099,7 +1099,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775247951632-3",
+      "id": "ko-1775333962491-3",
       "title": "오라클, 기업 데이터를 위한 AI 데이터베이스 에이전틱 혁신 발표 - Oracle",
       "excerpt": "오라클, 기업 데이터를 위한 AI 데이터베이스 에이전틱 혁신 발표  Oracle",
       "date": "2026-03-25",
@@ -1496,14 +1496,6 @@
       "excerpt": "F1 기술 협력 이어간다...오라클, 레드불 레이싱과 파트너십 연장  파이낸셜뉴스",
       "date": "2026-03-04",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95VXkyRTVhb2R4R1NpeXE5dkM4RmpkYVA1UzRaaF93SC0zelFGZmhHV1VDUXlGSWJHV08wellpQ0ZUVkl0NlJRMEhrNWh2QmVwa01mRHN2VHUzUdIBXkFVX3lxTE5qNGZKVFhGZUViMzNsaWZKZXhJOG1zX0l1ZEdnYXdCM2wxdFMzX2Zlc0JfbUFQcjJhOXJhaVRWMS1tV082N1NnRlM1TlJRUkpON3V3X3VIY2p6SHM0T1E?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773000909928-5",
-      "title": "“오라클 시스템 모십니다”···AWS, 클라우드 이전 가속화 - 시사저널e",
-      "excerpt": "“오라클 시스템 모십니다”···AWS, 클라우드 이전 가속화  시사저널e",
-      "date": "2026-03-03",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NXkyZWxEbVo2OGpERzNXeHNYUzlIR0F5dVRQMENKX1pHVENCb1g1cDZBR1Y1QW92cGl2em9IWW1feTRydVAySnMteENUVUEwMjMzbGhUaWZKR1QwbV9ZeDh6RFBsYlE1U0l6ZFFDSlppZ9IBdkFVX3lxTE0zZW84YXVxSDZWZktBNVJ3Y3A2MGxuUC1IbFNhSUkwQXdhZDFncnItVkFDSkNaRmVJTzM0T1FWVG9EYlUyXzRnbzFSaHJPMjh1RnlmOTFqbmNfODA3ckw4WWIxV21HeEFjNDk3Nkw3VVFycC1MYmc?oc=5",
       "category": "Industry News"
     }
   ]
