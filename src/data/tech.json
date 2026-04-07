@@ -1,6 +1,24 @@
 {
   "en": [
     {
+      "id": "auto-1775594206430",
+      "title": "[KR] 오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - v.daum.net",
+      "slug": "auto-1775594206430",
+      "summary": "(Korean Article) 오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  v.daum.net",
+      "content": "## 1. 개요\n오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  v.daum.net\n\n## 2. 기술 상세\n본 문서는 자동화된 시스템에 의해 [오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - v.daum.net](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUXNuNmVQbjF2Q1RveFppbVoxU05zVmVYVHZOT0dXcHljQVFpemF1cktFUXp6ZENaam5nM25kRjBuNTlnYjVLM3E5akx0VGc?oc=5)에서 수집되었습니다.\n\n### 주요 시사점\n- 시스템 모니터링 및 성능 지표 분석이 중요합니다.\n- 클라우드 환경 및 온프레미스 데이터베이스의 최적화 사례를 참고해야 합니다.\n\n## 3. 권장 사항\n공식 문서를 검토하고, 변경 사항을 운영 환경에 적용하기 전에 반드시 테스트 시스템에서 검증하시기 바랍니다.",
+      "category": "Database News",
+      "tags": [
+        "Oracle",
+        "Database",
+        "Performance"
+      ],
+      "db_version": "19c/23c",
+      "os": "Linux",
+      "source_type": "rss_auto",
+      "source_raw_data_id": "CBMiT0FVX3lxTE1YUXNuNmVQbjF2Q1RveFppbVoxU05zVmVYVHZOT0dXcHljQVFpemF1cktFUXp6ZENaam5nM25kRjBuNTlnYjVLM3E5akx0VGc",
+      "date": "2026-04-07"
+    },
+    {
       "id": "auto-1774815667311",
       "title": "[KR] 엑셈, 오라클 데이터베이스 SQL 튜닝 세미나 개최 - v.daum.net",
       "slug": "auto-1774815667311",
@@ -109,6 +127,24 @@
     }
   ],
   "ko": [
+    {
+      "id": "auto-1775594206430",
+      "title": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - v.daum.net",
+      "slug": "auto-1775594206430",
+      "summary": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  v.daum.net",
+      "content": "## 1. 개요\n오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  v.daum.net\n\n## 2. 기술 상세\n본 문서는 자동화된 시스템에 의해 [오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - v.daum.net](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUXNuNmVQbjF2Q1RveFppbVoxU05zVmVYVHZOT0dXcHljQVFpemF1cktFUXp6ZENaam5nM25kRjBuNTlnYjVLM3E5akx0VGc?oc=5)에서 수집되었습니다.\n\n### 주요 시사점\n- 시스템 모니터링 및 성능 지표 분석이 중요합니다.\n- 클라우드 환경 및 온프레미스 데이터베이스의 최적화 사례를 참고해야 합니다.\n\n## 3. 권장 사항\n공식 문서를 검토하고, 변경 사항을 운영 환경에 적용하기 전에 반드시 테스트 시스템에서 검증하시기 바랍니다.",
+      "category": "Database News",
+      "tags": [
+        "Oracle",
+        "Database",
+        "Performance"
+      ],
+      "db_version": "19c/23c",
+      "os": "Linux",
+      "source_type": "rss_auto",
+      "source_raw_data_id": "CBMiT0FVX3lxTE1YUXNuNmVQbjF2Q1RveFppbVoxU05zVmVYVHZOT0dXcHljQVFpemF1cktFUXp6ZENaam5nM25kRjBuNTlnYjVLM3E5akx0VGc",
+      "date": "2026-04-07"
+    },
     {
       "id": "auto-1774815667311",
       "title": "엑셈, 오라클 데이터베이스 SQL 튜닝 세미나 개최 - v.daum.net",
