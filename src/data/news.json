@@ -1,7 +1,7 @@
 {
   "en": [
     {
-      "id": "en-1775852756623-0",
+      "id": "en-1775938922077-0",
       "title": "Data Deep Dive at Oracle AI World Tour New York City - Oracle",
       "excerpt": "Data Deep Dive at Oracle AI World Tour New York City  Oracle",
       "date": "2026-04-10",
@@ -9,7 +9,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775852756623-1",
+      "id": "en-1775938922077-1",
       "title": "Oracle AI Database Raises the Bar for Availability and Security Across Mission-Critical Workloads - Oracle",
       "excerpt": "Oracle AI Database Raises the Bar for Availability and Security Across Mission-Critical Workloads  Oracle",
       "date": "2026-04-09",
@@ -17,7 +17,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775852756623-2",
+      "id": "en-1775938922077-2",
       "title": "Analyst Perspectives on Oracle AI Database Mission-Critical Capabilities - Oracle Blogs",
       "excerpt": "Analyst Perspectives on Oracle AI Database Mission-Critical Capabilities  Oracle Blogs",
       "date": "2026-04-09",
@@ -25,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775852756623-3",
+      "id": "en-1775938922077-4",
       "title": "Raising the Standard for Mission-Critical Availability and Security in the Age of AI - Oracle Blogs",
       "excerpt": "Raising the Standard for Mission-Critical Availability and Security in the Age of AI  Oracle Blogs",
       "date": "2026-04-09",
@@ -89,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1775852756623-4",
+      "id": "en-1775938922077-5",
       "title": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database - Oracle Blogs",
       "excerpt": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database  Oracle Blogs",
       "date": "2026-04-07",
@@ -118,6 +118,14 @@
       "excerpt": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database  blogs.oracle.com",
       "date": "2026-04-07",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZE9JTE9GeDRPQWkwMHpyTFdUbG1oZVFPcGhJb2lNU05HNjVRZm53XzBTd2R1Z3pOQ3dFMTFZeFM5c0NoOW9yYlNKWWNSZFNta2VUd2tiYWZMeVc5aUVxVjkzVzhURlFlNWRDbnUyazV6Zzd1c1VXM1lJNDZBLVUtdkJ0VXdUbFFNTUdF?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1775938922077-3",
+      "title": "EBS 12.2 Now Certified with Oracle AI Database 26ai On-Premises Linux x86-64 - Oracle Blogs",
+      "excerpt": "EBS 12.2 Now Certified with Oracle AI Database 26ai On-Premises Linux x86-64  Oracle Blogs",
+      "date": "2026-04-07",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1A3Vzh1LUdCdzIzdDlvQnZtdTROeEtjcXdWTkpXRnFpU2tmWENJZ1dSS3FGMzJRUVlER25aQ25WbGdULU0xaEdEd3R2cjZBVTM5dzhnQTk2U3lDcGFfRmlyVVltN2ZMTklUbVhISTF5MnlNd2l4WmIyUjlIOWhkbmhQZTZYY0xXeC1uV1V0c3ZrZWRTU2FMMWtPbXRjcTdPdXBXU2FLaW9CY2JMZlE?oc=5",
       "category": "Industry News"
     },
     {
@@ -855,51 +863,11 @@
       "date": "2026-03-11",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWdqNVptNXFsbl8wNk51X01qVGx5Qlk0a0lHTDI4SG8wdkk1cFR1dTJoZ0RyN2pqNlpneXFrRFBpRnBuT0x6eTg4a3p4cjYwY2psWG9uek5Ud1I2TklWU0VIdEY0TEF2X0gxUEVIbGk0REc3QnUtY3c5RFh2RFlaWVltUGNtZEJ1bndwTXlIdG1rLWY1enlON2hiN0hoTEEyXzB2aEFPSFUxQi1WOUtjSENrSQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1773174199086-0",
-      "title": "How agentic AI is gives time back to healthcare - Economist Impact",
-      "excerpt": "How agentic AI is gives time back to healthcare  Economist Impact",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZi12RDBPYUMwTC04RnJfWDN2bDN5Z0R4RUc5ZFl5VDgtZ08zVW5hUDVsRnBUZnkwcHIzbXIxYXJwQVdnWWtCQ2dZVXA2ay1wd1lPYmdPTnNrQWlNUXpyQkY0cGJ0VFhJZmtuVnBiU2xobDNkMmdBSnFncGE5ZUM2SmFB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773174199086-1",
-      "title": "Oracle’s massive AI cloud bet draws scrutiny after $50B financing push - TradingView",
-      "excerpt": "Oracle’s massive AI cloud bet draws scrutiny after $50B financing push  TradingView",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVZFU0dZUGROYlBPUUhQa3FNWHlUbTRCcUhrZU9SSDJVMWVoZEd2VlZxUTNxSDBpYVhPUFJsNEFYT2VTNVFXWURxX3ExZ2Y0aWdXaTB4N2cxQVpUTzdIRTF6ZnVWX19mY052UVlUR01qNnpEa2VQXzlnTjFPRDBmYTR1TnYyN2pJQjhGdXNReTlodFJaYlg4WHlMMHoxV0xqb0dORkdyX3JvUmt4LTZHT05BWEhoNG14MC1PTFdvYW1GWE5J?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773174199086-2",
-      "title": "Oracle earnings will show whether its expensive AI bet is starting to pay off - CNBC",
-      "excerpt": "Oracle earnings will show whether its expensive AI bet is starting to pay off  CNBC",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenc2ZXg3dkFWYTRsQzN5Zlp4bk1SSHFDLU85enVOTTB2ZzRpY3hRT1BCVmVLWEU0S19MUUxyMDc4eVk0NkVxX3FHcU1MYmY5SjdVU0tCRHhLaFVjOTBjbWlnMzVhTDdWYjA2UXlYSjIwMnBFSVlBdC1rNXNSeXE5VHJ2Z0vSAYoBQVVfeXFMTWpiUV9zT2FhRXQ4am84Z2hxaXB4UkxMNW1KZmhNdzZnelctMlN3Zm1sMkE4UFlDOEpOcno5dU1UbUFfZGFCYW1RcXhJZEFZYWF5OEVOcTFtaTY1aUtpYTc0SkM2OU1aYTV2dWtmaGdnc2FLUXJ3cUt3dl8xaHg3b2QtVEUzTkRqSVV3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773174199086-3",
-      "title": "Oracle’s AI Infrastructure Bet Is Forcing a Massive Workforce Reset - The National CIO Review",
-      "excerpt": "Oracle’s AI Infrastructure Bet Is Forcing a Massive Workforce Reset  The National CIO Review",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3NYNWhtT0l6Z0R1S3QxWEh3Q0QxMFFVWV9JeUQ4a0h3bHlFQVVhdXVkZkY2NHNHNUJRTmtNLUZkQUxuZmlpUWtLcTFLMEtDMEVhTW9sOXVQZFU3MWJoTnY0RmJQSUlVdDJkanRpNWtyUElMUUt1aktPQUM3bkFJNEpVNXRNUmNrSGE0elJ6blE2VV9pM0NJVzBQOFlYTFJqRl84NEwzSDBCWFNHNF9YbEVvYVFha1EzZEpWdWFfVUM4VnQzRGc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773174199086-5",
-      "title": "Oracle Posts Strong Cloud Revenue Growth Following AI Bookings (ORCL) - Bloomberg.com",
-      "excerpt": "Oracle Posts Strong Cloud Revenue Growth Following AI Bookings (ORCL)  Bloomberg.com",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWdqNVptNXFsbl8wNk51X01qVGx5Qlk0a0lHTDI4SG8wdkk1cFR1dTJoZ0RyN2pqNlpneXFrRFBpRnBuT0x6eTg4a3p4cjYwY2psWG9uek5Ud1I2TklWU0VIdEY0TEF2X0gxUEVIbGk0REc3QnUtY3c5RFh2RFlaWVltUGNtZEJ1bndwTXlIdG1rLWY1enlON2hiN0hoTEEyXzB2aEFPSFUxQi1WOUtjSENrSQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1775852757130-0",
+      "id": "ko-1775938922620-0",
       "title": "“3초 무중단·제로 데이터 손실”…오라클, AI 시대 데이터 인프라 재정의 - 인공지능신문",
       "excerpt": "“3초 무중단·제로 데이터 손실”…오라클, AI 시대 데이터 인프라 재정의  인공지능신문",
       "date": "2026-04-10",
@@ -907,7 +875,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775852757130-2",
+      "id": "ko-1775938922620-2",
       "title": "오라클-AWS, 온프레미스 오라클 워크로드 클라우드 이전 길 연다 - 헬로티",
       "excerpt": "오라클-AWS, 온프레미스 오라클 워크로드 클라우드 이전 길 연다  헬로티",
       "date": "2026-04-09",
@@ -931,6 +899,14 @@
       "category": "Industry News"
     },
     {
+      "id": "ko-1775938922620-5",
+      "title": "‘오라클 AI 데이터베이스@AWS’, 국내 출시 - BI KOREA",
+      "excerpt": "‘오라클 AI 데이터베이스@AWS’, 국내 출시  BI KOREA",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RVHJMOUxUbk5ZOFNDRGNkcl9VSGxpZDY1TGVMa1pfV2xjN3FqVjdYTWhYc3paNXNwVG1sbWlON1c0a3VHZjFxU3czcDZwQVJCaUZnSkJhUHNVcmppck5BZURVSDZmUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "ko-1775594207917-2",
       "title": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’ - 디지털데일리",
       "excerpt": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’  디지털데일리",
@@ -947,7 +923,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775852757130-1",
+      "id": "ko-1775938922620-1",
       "title": "오라클 AI 데이터베이스@AWS, 국내 출시 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스@AWS, 국내 출시  디일렉",
       "date": "2026-04-07",
@@ -979,7 +955,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775852757130-3",
+      "id": "ko-1775938922620-4",
       "title": "오라클, ‘오라클 AI 데이터베이스@AWS’ 국내 출시…서울 리전서 엑사데이터·자율운영 AI DB 제공 - 데일리시큐",
       "excerpt": "오라클, ‘오라클 AI 데이터베이스@AWS’ 국내 출시…서울 리전서 엑사데이터·자율운영 AI DB 제공  데일리시큐",
       "date": "2026-04-07",
@@ -987,7 +963,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1775852757130-4",
+      "id": "ko-1775938922620-3",
       "title": "오라클, 서울 리전에 ‘오라클 AI 데이터베이스@AWS’ 출시 - 아이티데일리",
       "excerpt": "오라클, 서울 리전에 ‘오라클 AI 데이터베이스@AWS’ 출시  아이티데일리",
       "date": "2026-04-07",
@@ -1432,54 +1408,6 @@
       "excerpt": "오라클, 깜짝 실적으로 주가 9.18% 폭등...AI 반도체주 동반 상승  초이스스탁",
       "date": "2026-03-11",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDVU1VRms0TS1aX29INndLdlFXUGdsVklwZl81MlFmbkc2T2cyUUNEX3Fqb3BtdnBYVlc3aFRkaE92WkJNd0lvRFlXR0xIYlpuY05FWENQbUcxNVBCMHF6RzhMS3l2TUU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773174199543-0",
-      "title": "오라클, AI 데이터센터 '부채로 짓고 기술에 뒤처지다'...올해만 주가 23% 폭락 - 한국정보기술진흥원",
-      "excerpt": "오라클, AI 데이터센터 '부채로 짓고 기술에 뒤처지다'...올해만 주가 23% 폭락  한국정보기술진흥원",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMitgVBVV95cUxNZ09lUU1ORXhHTk5VSi1YbHhzTllzNkZQSmlZYUt2bVh0RkdxSUxrVzZEVlpZbU1abTI1LW5nR1EzZEJMM20ycVdzQ3UwZU1jNG9hTjM2QW9tT3hVUVpIb0x4MENMTENtMTF1WlNmUUFKN1g5S2I4SVY4aXlSY2h2OUFXeUoySDNBYVZlM1pERmFvSGVhM0k5SkhLeGRmR3JOSUpZeDg5eXFHTTM2UkJTazg4NDBERGpxZWVqNlNLZmlTbWpCeDFyeHlJYmhEZlNhUHBTOWYyV0NWdUxRMl9Nc1FZUTlHT25oM2VmZUYwVE9GalJhWWUwLWFTejg3SjRqYnRFN0JNcVBnbFdCckxVR3VEb1c5aHBSejJReFNWM1ZTdXNiRktNRE9ZclpxakwzVlpUa21xek5vUjRjck9BeTNUSzhmNUVFd0dEV0trTVVudC1BaGpWcjlab05EMGxWNUxLTy1nLWR5MTU2SXp6V0FDOXBYNWpZeUFISFZ3aTdvdE5qdkhldXBPV2dPR19OMmcxQVhhX09IdnpGczZnLWM2MkRJLURMb2VFQ09BX0haajloeXBMUzBEOHJTbTY1MzB6MUpYNkxTRUdCOWp3c0Q3bzQ5MEpjeGdPbU8zR2pESkdRNVRncWpFaUFFUlNBWEhIVHRIMjl2WGoyREpDTDFfcU9nNHZQeGlkMHZqYk9jYjV3ZjNxSkZrUFk0b0hDTkZWM0xnUGwtcGNfaGJibE9nRHc5RU83T21JOGJ1dWVjUlhOR0xSLUxRQnVzVXhnT05pZzBuLXJJT01vRF9iR1IyT1VWWjJrLTNZeVlxSmxpVWo4bHlVSkRoai1HeVFzNVpXOUdlOURTc09GM0ZzN0tNMjJ1MUhONFhBbUZWS1NLMWV2U2VRU05iMGQtdVJKRHFWWTRB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773174199544-3",
-      "title": "오라클, 3분기 매출 160억 달러 전망···‘AI 인프라 확장’이 매출 부진 징크스 깨나 - Benzinga",
-      "excerpt": "오라클, 3분기 매출 160억 달러 전망···‘AI 인프라 확장’이 매출 부진 징크스 깨나  Benzinga",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORFNqSHJSSFpxSlZFVURQekx4aUUweFJqaF9ETnF6TjZsdTVsMG5hOFNQWlgxdjZLV2Q5LWszeGdXS1Eyc3BpN25HSEpRMDNlZzUtbWFnaloxVExid3M1eVpNYmpHaTJicVpaMUNpb3NNYmF2S2p6a09COWRUbk9ZWUMtR05ZeW82S1dIY3JiN2hTWU9ueFlxcGdMejNGczVxd3lyaUFhbDFMUFJtdFNIcTI0TkgwQV9IMkFTX0dJQlBXdVBOSzUxSHVCdlRsT1FDbnd0eG1qeFVjTUJubzQydlRrSWRSclQwSURUd05ab282QlY3MU1lMFBIMmVlaVVMV3lQbGttbUVSWlZ2WkxCUjhCX0V3ampwYjE3RTJCdEpVOUtrY2R4OVQtQksyaEE1?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773174199544-4",
-      "title": "오라클 실적 'AI 투자 시험대'…500억달러 자금 조달에 시장 촉각 - 뉴스핌",
-      "excerpt": "오라클 실적 'AI 투자 시험대'…500억달러 자금 조달에 시장 촉각  뉴스핌",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sU2lESHFhOFE0dGdCZ0lpZVRnQm92WlVYSjV0QnpiZ2tOOUpacnVlX3RjNm9IQ2YxNWZXVXQ5SXVUQmZaN0ZMNFl1Rm42eXFMOEJTWEhidWM5XzQx?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773260681482-5",
-      "title": "오라클, AI 수요에 연 매출 900억달러 전망…시간외 거래서 급등 - 디지털데일리",
-      "excerpt": "오라클, AI 수요에 연 매출 900억달러 전망…시간외 거래서 급등  디지털데일리",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOOEZxa1dzNGZOVU1fNGZXQTRmdTFocDhKaGVmUFFJN2UyNFVvc25TSlhfRFNUZWFmdFoxYUxCQnhMZWtFelZzTXpDOXZWUmZZN0oyMVVIRnBraGM1MURLaGFvY2E?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773347108853-5",
-      "title": "오라클, AI 특수 클라우드 인프라 급성장 견인 3Q '깜짝 실적'…시간외 7%↑ - 마켓인",
-      "excerpt": "오라클, AI 특수 클라우드 인프라 급성장 견인 3Q '깜짝 실적'…시간외 7%↑  마켓인",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GRWNtaGhET0ROVmh3WUpRSHd3dHBxUExndlQxa0ZHSC1oSUhwZmthMzREV2NtVjJDajhnWmRvYlItaXgtVWpmbXVjZ0xKQkV2MndQUzZkU1VuNk42NVFaYzJZWVhiOVRPSS1wOXRvRnNZVkE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774210605906-5",
-      "title": "오라클 10일 실적 발표…AI 클라우드 성장 지출압박 이길까 - 연합인포맥스",
-      "excerpt": "오라클 10일 실적 발표…AI 클라우드 성장 지출압박 이길까  연합인포맥스",
-      "date": "2026-03-10",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41SGNXaXd0SGozSk56VTJacWVrcG14NzhXU3lYaGFiNlJyTExLNXByclNDcjM2eVFhSHVKRExvVmlhVGFyTUhPdU9qajhsRE1CdG1wRzd6X20yXzZENXlsQUZqTFhIVkN5ejM0ZFFsVUQ?oc=5",
       "category": "Industry News"
     }
   ]
