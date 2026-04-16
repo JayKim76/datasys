@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1776371930293-0",
+      "title": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations - Oracle",
+      "excerpt": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations  Oracle",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEJwTjhKQkJ0Tm9zR1BWQUhwaTZIQnlfT3VPdU4zS01tUjFNWWVVSndrdnBJSUZfRDF3SzZHUEFfU1c2QXhrVWdYejdtYVhnMERVcDFEbWMtQWM5bks4TmRsa1ZkZll4aDQ1d0M2WFc3NDhYd3JhZ1hsa1pTaW1vMldKR3JEeVlxUWI3djZVeGMweFQ3QTJkM2hnd2E3ZVlYRUpRWlpRS1RaZ3NIZ1VwSy1BVG80ZnFOZ3ZB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776371930294-1",
+      "title": "Expanding Oracle Autonomous AI Database Select AI Translate with Google, AWS, and Azure - Oracle Blogs",
+      "excerpt": "Expanding Oracle Autonomous AI Database Select AI Translate with Google, AWS, and Azure  Oracle Blogs",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDJDVXRHdE9tOUxZZy0wMnRubG5CVnpXWGRZUGFUM29uQTZWTDVjWWlPZVFaODNhSnlFRFU0SnZrSTR1S29HTk1ZdHQxVDktQnBnWnVfalUzaVJjREowTXA4d3BhNVNIX3hmYTUwNWFLYkRpZ09DQ0NkMEJjU2hCZ3BFY2hlaVhnY2YzY19wb2NyQUt3Y3d0dktLUUxYTkFfSVVvVlVuekRaLS1PMDFmTFkxbUJxbkIzX3hvLTY4VU5iWGdk?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776371930294-2",
+      "title": "Building ONNX Embedding Workflows in Oracle AI Database with Python - Oracle Blogs",
+      "excerpt": "Building ONNX Embedding Workflows in Oracle AI Database with Python  Oracle Blogs",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnBveFAwbmYxN2R5NzFTMk9LQXpxVjJoYU0tMnFwdkxVY0h5TGwzOHlZa0tOalQtV25qekJwVTB0SWRCZnpHQ3ZzOXBRZy1YdW5kWnN1SU5qa0FaVU83X3lmN2lmbndMOTgyMlF3VUlCV1FmeFMxWjQtYVM2cWZvUWxUUHNkM1J5XzJ2aWlYVUE3MHFDXzFjY0xpVG13MTNZZ3ZrYkFB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776371930294-3",
+      "title": "Oracle and AWS Collaborate to Expand Multicloud Networking - Oracle",
+      "excerpt": "Oracle and AWS Collaborate to Expand Multicloud Networking  Oracle",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnVzTHNCQUp0bWlvdU9KMzZBMjgybHpQUUNMWldJcE9pWHkyZE11eGQ3d3B3Smd0WXp0Nng2cXJlcElBTHVNQlpwWnAxVElZcUM4NTVnQVRyY0U5VlBUbkZ3SHo2M0N5ZDFvQnpvazU0a0g4ZzkxQ3dIcDZER2xsMHdDMVo1SXZUZnNiSTJ5cWFhMko0QUdlZHhteEVlY3NBTGxsb3pURlRxZ0pzYkM4NA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776371930294-4",
+      "title": "Announcing OCI Compute A4 Acceleron Instances for AI and Cloud-Native Workloads - Oracle Blogs",
+      "excerpt": "Announcing OCI Compute A4 Acceleron Instances for AI and Cloud-Native Workloads  Oracle Blogs",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFZJcXNRdGZIa3FKczZYZ1RzZlNyNG4wT3NsR3QtdjBZZUpLckxrdUJKZ01FSHlVUHJNTzJoWWNXMlBjZU5qOTRvWDBJT21vbzA2MWlGYzFNRG1pVmdyQUZvU1JSZHNZdl9GUUUyNzV2X213TkJSRDFsaDZGM19nbjNnVjVsX3VaTXhQcWFnOTR1MzkwMGc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776371930294-5",
+      "title": "Mission-critical security cannot be bolted on, says Oracle - SiliconANGLE",
+      "excerpt": "Mission-critical security cannot be bolted on, says Oracle  SiliconANGLE",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnk4bW1iMVRkSnl0TU5feGdHZ1B5Q0ZiTmNTS2Jaakx1NnVXODVUWjJEMVNwTFhTRUdfR3JHVmEzQXZTai15TDZwbnczYm02dGZOdktqTmFDc2NDQ3oyTmlERU9udk4wOVBJZ19sOFZFajRqcjE1Q1VHZXlsYko0algyZFZRWmhnLUFrSnhTRGI2Uk1mLXZvLW1PWFUyZFg3REhROUprbWo1UlpQVHF3?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1776285506482-0",
       "title": "Oracle bets on AI database convergence for agentic AI - SiliconANGLE",
       "excerpt": "Oracle bets on AI database convergence for agentic AI  SiliconANGLE",
@@ -791,25 +839,25 @@
       "date": "2026-03-16",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkF4b2RZakZzNndoa2d0bVBCV0p4Q3cxd3F3S3JYTTlmQnlzRGxfdWpzZlF4dDl0ZHM3NTVVb2RKSS1lb3EwZDkxVDh2MC1kbXBIVmZtODNQRDJyOUNaUHVEekZmaG5nZWdnOEREelhSU3BTdHlsNzBIY0R5OTZXMVo0ZlFiZTUxQ1VRMHVMSVBreE9XZ0VFa3JJNGhVRU0?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1773605904284-3",
-      "title": "Jefferies cites cloud growth and AI pipeline in Oracle Corporation (ORCL) update - MSN",
-      "excerpt": "Jefferies cites cloud growth and AI pipeline in Oracle Corporation (ORCL) update  MSN",
-      "date": "2026-03-15",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlpCWVdyRXFrRkhGMzFrR3ZJQ3JrTlFtb1ZhWUVHX0Jva25uMnE0WnlGQkkwNW9DeDViZUV5NUhJN3pJeWFLRDN2MkE1TUNKT1ZlWnI4c0FNRWlHbmFsVnY4TFVhcGRDcUdoN0k1WWVLd0JTaFEweVYxZU5mOV9kQ0FSNEZBMldjbjU1MDg5aThCMXBqWnVLbnJGWlBtUGxSREdwc0twS19LSlc5R1dxRDRNTmk2RDVNcm93NnNRdHNMa2RIYWJ5ZlBUUkFnOUZidjdCaDhvVmhYcG9nQ1NONnZIa0VEcXFOMXlfSXhsdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773605904284-4",
-      "title": "What Oracle (ORCL)'s AI‑Fueled Q3 Beat and $553 Billion Backlog Means For Shareholders - simplywall.st",
-      "excerpt": "What Oracle (ORCL)'s AI‑Fueled Q3 Beat and $553 Billion Backlog Means For Shareholders  simplywall.st",
-      "date": "2026-03-15",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnA2VXZ0eXA1bi1pMVRHTm9DZnFWMU5MVl9XcDluUGd0VWRmQmp1Qi0zNG04MkZzUkczUGZ5eDRUcTJaQTFEVmFaaExBNnkxRmNDQTZFZ2dldWRVOFd4X0tzLUtmbEpCWk1rNG9zYzd3LWR1U0VXUGh6VWkxSDFlbkFsMHZBWlliUmlnWXpEUnU5WnkxT3RWbWJTdjRSOTdtM0Zmb09TaksxZ2NxcVVvR2tEZE9Mc0pnekMtbTBJeDjSAcYBQVVfeXFMUE8zNVlkdDlsaldEcl9fUGxuU3ViZUFWMU1yUG9MRmh0bVZrNlpGRlprRUZrd1J1NFhiZ29DaFh6cm5sTmZjcXBJU0JsVHdGOWV0MkxmazE2X2FOOG01Q3F6NUFrTUwzVl93eVpOT2tkRU9HdGtQNGZJTzVEX2x3WVZDa3lPM3Z1bGM4VENhZm1mYnE0UWFqd0pkeUgtLXJQSkp6Y2E3c2loaDQ4NkptODlCbGd0Nm14eDh4dk5qMWJPa0Z2OVBB?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1776371930837-2",
+      "title": "오라클, AWS와 협력 확대…개장전 4% 강세 - 마켓인",
+      "excerpt": "오라클, AWS와 협력 확대…개장전 4% 강세  마켓인",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WZC1JOS1vbUNjajZ1SkItRkFxcGFldXdUQ01CMVBULWhjVEVoU3hyVnRqcDZQRC1kZWdYV2tLdmIyVDBuTFJ4ZDhPc21mMUgxcXNwY3RuaUVjU3NhOTJKZWM3enNNOHdzSUpRU0RnVW1EOXc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776371930837-3",
+      "title": "오라클, AWS와 멀티 클라우드 네트워킹 확장 계획 발표 By Investing.com - Investing.com 한국어",
+      "excerpt": "오라클, AWS와 멀티 클라우드 네트워킹 확장 계획 발표 By Investing.com  Investing.com 한국어",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5VUh5WUJ5dFBYSjVPRGZzX2xHaWxFZXdEZG9WTTVyaVk4VXkySjlTZFV1YWJhMm01RzNka0tQZVhJNWcyWHlsVGw4Rk9XVGxOX293QUhZNzhCU0d0OHdPaTNoNjRhbjRHNnR5WjliUkI?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1776285506969-2",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 상승 4.80%에 4월15일: 어떤 신호인가요? - TradingKey",
@@ -827,7 +875,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776285506969-0",
+      "id": "ko-1776371930837-0",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -835,11 +883,11 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776285506969-1",
+      "id": "ko-1776371930837-1",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화 - 캐드앤그래픽스",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화  캐드앤그래픽스",
       "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS20tcGVQdFZVRG1TMVVhME1FQUh4Y0RXLWxxUzkwNnR3cVNjRFhWZDlUbXdkM2lFdVN1MDEzWTJiUzg0T1NqaTUtSk9YSjhaZEVhNmJmLWNEYnQ3M0RVYTIzLVl4TlR0Z0hLZ0lpUGVzZ2htZ3N4S2I4MktrVFBWckI3LWNNODJMc2ZSYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3NMY193Ty1lWGdPaUdXRm1xdDRidTZIcWVPdkh2WkM3UGhNaGFBZ284TTVkckgzNF9KY09rbFJ2UEw4WVJoYlY5NlpQX25EcTA0Y21TMDV4dEx5ajdJVWpVTkNtYXpJdVNNSDlMZzB5N0F1RVJVRV9UdGxfb1h1c1B3T0ZxNHhNaTJDNXVB?oc=5",
       "category": "Industry News"
     },
     {
@@ -859,7 +907,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776285506969-5",
+      "id": "ko-1776371930837-5",
       "title": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다 - elec4",
       "excerpt": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다  elec4",
       "date": "2026-04-14",
@@ -872,6 +920,14 @@
       "excerpt": "오라클, AI 데이터베이스 업데이트…\"무중단·초고속 복구 구현\"  파이낸셜뉴스",
       "date": "2026-04-14",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ad09wU01iMDVsOEhyNU92Uk85NXU2aVF4UzhKRE5Bd0szS0FXYzVUWU5XTU5FTTdLS1RPTkV4RnVDa0xHYXhqNDk0TnkwQld5ZTR3MnJiZGtaZ9IBXkFVX3lxTE11bWxYbHBTRVU4MHhwOXJCSmthZDdGY0o0RnVCZ3gxM2o5SXQ5UEM3WFhXckVaSDdpTTgtZHZxaVg4R0JzalFFWV8zNV9wMmFNQTVvdnVoaERsQ20tNHc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776371930837-4",
+      "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
+      "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xeXNlWlZTdENWWGdlbTVrR2hWNFNqT2FiSkMxUldpMkpId1J3TkgyNU1ZRTZyUkRnMVpRaTdmeXZ2WnJoYTh4MzFzOEx0c0ZXTjF1X1Nn?oc=5",
       "category": "Industry News"
     },
     {
@@ -1368,14 +1424,6 @@
       "excerpt": "오라클: 멀티클라우드 데이터베이스에서 AI 에이전트 플랫폼까지—기업 자동화의 새로운 시대가 열립니다!  Smartkarma",
       "date": "2026-03-16",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHF2eTRyYVh6djM0aVhqdVpaSVRMNDVhNjQ2dXRmaVlzMEJiYm00aTdfSDY0cWFHYjkxTlRwakx4elJ4cVhSc01Vbk1mNzY0WWozOUlpclJ3RUo2X0t3RUtIb1pYQ0NZMmZWd2tnS2xqUlJMZVFjV1MxMmMtSElRNWszaFlJWHRKZHp4NjVwanYtZDQ5cVFCNU92dXpWRlBNY2c5cHRkUjFxTEdCMXVLbUZjdHVUcGI0d3ZsUGpKMFJMbzF4WVVN?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773605904727-2",
-      "title": "AI 시대 각광받는 '포스트그레SQL'…DB 시장 판 흔든다 - 지디넷코리아",
-      "excerpt": "AI 시대 각광받는 '포스트그레SQL'…DB 시장 판 흔든다  지디넷코리아",
-      "date": "2026-03-15",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUHdvdnczbS12Q3F5akRnTFlNcVFPaTRjQXRYUV92Nkp4d0c4bUFWT0RVY0w5ZDktYnRhMUVfOVE5QWdMWEQwRTVYSWY3eW1WV1Z0dVRn?oc=5",
       "category": "Industry News"
     }
   ]
