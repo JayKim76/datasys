@@ -1,7 +1,23 @@
 {
   "en": [
     {
-      "id": "en-1776371930293-0",
+      "id": "en-1776458147626-0",
+      "title": "Save the date: Oracle AI World 2026 - Oracle",
+      "excerpt": "Save the date: Oracle AI World 2026  Oracle",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNemN3ZV9WbWJPRmhkRE5naE9fdkx6bDc2VjNielZhRHFGdGhvZ25nVUs0ZDZodHZqU1pGYlJyN0FoT0JNQy1YTXd3TTNPZ2Q1ZkFjTUtYem5ZR1BKUmQtNjR2MUNyajFRczRVb21BS0RKZGt1Q0NxdFdhSXRsZFJyT3hjSExpR2d6RGNYdWgyY0FZUmVuWVRtMjFaWV9FYnk3LUY5RlBBMVFsNHB4S2g2akh4enliMUQxSjRMa2QzX0JiNVFyTGFHMHNMVEtPN21MY3VpVVY1TU9FTkFMdnIzVndXVHJleDN2Ry1SR0lvLWlCZVVJdkQzZTJaUFZaWnpJVE4weC11OFE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776458147626-5",
+      "title": "Pain Free Vector similarity search for your apps: Oracle Database REST APIs - Oracle Blogs",
+      "excerpt": "Pain Free Vector similarity search for your apps: Oracle Database REST APIs  Oracle Blogs",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzl0bngyUjRZTTNPYTVoekRaOGRUakxJN1BNZ0VDMXR2NTRrTy03SktuN19mSU1yVGtXZVFGdy1NQmRZTGZIWXl4Vlk2WDNQSkpvNEowRXhqYXpKMnpjT0xqOGx3emdtWDZjaGtpMmxyZ2hERGwxRmsxdjZwUThJRk9kbkJHV0NBczJGdGVKMlVrZzluZHFkclUyMm4yeTc4RzQ1QS1nTXVjdmkx?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776458147626-3",
       "title": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations - Oracle",
       "excerpt": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations  Oracle",
       "date": "2026-04-16",
@@ -17,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776371930294-2",
+      "id": "en-1776458147626-2",
       "title": "Building ONNX Embedding Workflows in Oracle AI Database with Python - Oracle Blogs",
       "excerpt": "Building ONNX Embedding Workflows in Oracle AI Database with Python  Oracle Blogs",
       "date": "2026-04-16",
@@ -97,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776285506482-2",
+      "id": "en-1776458147626-1",
       "title": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database - Oracle Blogs",
       "excerpt": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database  Oracle Blogs",
       "date": "2026-04-14",
@@ -105,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776285506482-3",
+      "id": "en-1776458147626-4",
       "title": "Oracle Helps Utilities Reduce Costs and Deliver Measurable Impact with AI - Oracle",
       "excerpt": "Oracle Helps Utilities Reduce Costs and Deliver Measurable Impact with AI  Oracle",
       "date": "2026-04-13",
@@ -807,41 +823,41 @@
       "date": "2026-03-17",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdTlBZjNLRjd5dXRoMHRRRk9HQmxKbkk1c1Y1SWhMSU4teW5SZnhkZVFYU2c0OUk1MXFCWmxyTm1vcEg5TXY3TkdZWUVWMEc2RVJiZTQySVBXaW8?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1773692940690-0",
-      "title": "Oracle Unleashes 1,000+ AI Agents to Automate Entire Industries - Cloud Wars",
-      "excerpt": "Oracle Unleashes 1,000+ AI Agents to Automate Entire Industries  Cloud Wars",
-      "date": "2026-03-16",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDRNRlotaVhhVEVfWERlZEp3V0lISnNQbjVIYkp0YzNnM0k0MElaVlZ2anMxYnJXZENzSDdXcVhSOWlyRnhKczBlYWtMb25wWVo3blBZbWk0QV82N3IyamJ1Z2cyNXJONmVWb2RHTmNoYnphOFNYOE1xTlVEM0tJWXVjM2JSSFVnN3FaUXVTM0I?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773692940690-3",
-      "title": "Oracle Q3 2026 Earnings: AI Drives 84% Cloud Infrastructure Growth - News and Statistics - IndexBox - Market Intelligence Platform",
-      "excerpt": "Oracle Q3 2026 Earnings: AI Drives 84% Cloud Infrastructure Growth - News and Statistics  IndexBox - Market Intelligence Platform",
-      "date": "2026-03-16",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzYtWTRPR3l3dlVYWnZRZldoUTR3azRMMDhOZl8tZlVYWWxzQm1LU3lUZ3pQalIzLTJjeHkyZjVXT0hKVGRZTE8tcGtuVjZUVF9WUmtubEU4MklwMk14SVhTYkxFaFpPeHZQc3p5andpSGJfWXp6V3VBTmZkY2xyM0xRYTFYWGdaVWNUZC1hLURkR19Xb2NSZUVrMmN1YUYwb0Z1ZEVoYWxvSUti?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773692940690-4",
-      "title": "Larry Ellison Sees Oracle as Safe From SaaS-Pocalpyse—Here’s Why He’s Absolutely Right - 24/7 Wall St.",
-      "excerpt": "Larry Ellison Sees Oracle as Safe From SaaS-Pocalpyse—Here’s Why He’s Absolutely Right  24/7 Wall St.",
-      "date": "2026-03-16",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVlDWVduNVVQWElKdkdOTzhlSVJMbmVpYkhrODJlZE5RVHlJM1NDNmdXUmJRckxOQUZhUWV6Z3Y2N2hxVGZGOWNYZXpFdThiVjVpSnNMVXJudkwyLTNOQmZUUFFiUGhhQ00tODZIM2tNdjFuSzFENDhWbFJkQUxKUTVJZ2hoMFRkY1p0V1FmNVdpUE1Tb09DS2MxTHFNVmFkelJsZ1NhUEY4c2dkVEo4dzE1YXB1ODVEd19PVXg0azdNR21nekdJ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773692940690-5",
-      "title": "Oracle Pumps Up Apps w/ 1,000+ Agents to Automate Industries - Cloud Wars",
-      "excerpt": "Oracle Pumps Up Apps w/ 1,000+ Agents to Automate Industries  Cloud Wars",
-      "date": "2026-03-16",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkF4b2RZakZzNndoa2d0bVBCV0p4Q3cxd3F3S3JYTTlmQnlzRGxfdWpzZlF4dDl0ZHM3NTVVb2RKSS1lb3EwZDkxVDh2MC1kbXBIVmZtODNQRDJyOUNaUHVEekZmaG5nZWdnOEREelhSU3BTdHlsNzBIY0R5OTZXMVo0ZlFiZTUxQ1VRMHVMSVBreE9XZ0VFa3JJNGhVRU0?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1776458148119-0",
+      "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다” - 바이라인네트워크",
+      "excerpt": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”  바이라인네트워크",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVFIwWTlhUkpsSExycTM5X1haa28zdFNTZWhvTDdLVTRuYXRkX3VDNDVDRFg5d3VzazZKS0NrTTlhaEFhZWREd1RsWF84MWc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776458148119-1",
+      "title": "#259 오라클(ORCL), AI 클라우드 급성장과 대규모 투자 부담이 함께 커지는 구간 - 네이버 프리미엄콘텐츠",
+      "excerpt": "#259 오라클(ORCL), AI 클라우드 급성장과 대규모 투자 부담이 함께 커지는 구간  네이버 프리미엄콘텐츠",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXk5WHU2N2F3T3ZOZS1PeEN5d0s3MmlYTDFVb3FRWjNsOThRUHhia1I0cmRGb0dhOEg5ME45Tzg0dUg5ZUpZeEd2b2tjOFMtVG9sR0ZFR3BPendCNUEzajBJZ3JEWVh5UjBKWFBQOElNa0FoTEU1bHAxUG9aTnRwOE92Nk9nYWpxMlc2UGJGRFc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776458148119-3",
+      "title": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다 - v.daum.net",
+      "excerpt": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다  v.daum.net",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HdlFEazRrU2xUeFQtS2VnY0I3TXZNWi1vVkNyQ1U4M0NDOGp1Rkg3eFFsbVo3OHNZRFVvdkVwVHVkN0NrZ19xNTU4Y1F3akk?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776458148119-5",
+      "title": "하산 리즈비 오라클 부사장 “AI 구현의 핵심은 단순화…데이터 이동은 최소화해야” - 전자신문",
+      "excerpt": "하산 리즈비 오라클 부사장 “AI 구현의 핵심은 단순화…데이터 이동은 최소화해야”  전자신문",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84Qkx5ZTRDbGxkVEpxWXJfOUxaaVpLTkhxQ3pFa1RQcEhNV01Yb0FDYzlVSW1tejB1SGNQUmdjNGNNRVItc1U1Q2xPRDRtQQ?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1776371930837-2",
       "title": "오라클, AWS와 협력 확대…개장전 4% 강세 - 마켓인",
@@ -875,7 +891,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776371930837-0",
+      "id": "ko-1776458148119-2",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -923,7 +939,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776371930837-4",
+      "id": "ko-1776458148119-4",
       "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
       "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
       "date": "2026-04-14",
@@ -1416,14 +1432,6 @@
       "excerpt": "AI 품은 30년 자바 생태계, 오라클 엔터프라이즈 왕좌 굳히기  ER 이코노믹리뷰",
       "date": "2026-03-17",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUm9rdDVHR1RHQzlWdW5pdk1NdHF4a2U1X3NITTU4eUZlTGRRa19HVWxEY3VPN1dVVEpjdmhycEdrbHl1M3JGa2Zua1VRVko1QlU1b3Jkazhhb3RHdl9HMnE4djRGODRGNVh0NQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773779390985-1",
-      "title": "오라클: 멀티클라우드 데이터베이스에서 AI 에이전트 플랫폼까지—기업 자동화의 새로운 시대가 열립니다! - Smartkarma",
-      "excerpt": "오라클: 멀티클라우드 데이터베이스에서 AI 에이전트 플랫폼까지—기업 자동화의 새로운 시대가 열립니다!  Smartkarma",
-      "date": "2026-03-16",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHF2eTRyYVh6djM0aVhqdVpaSVRMNDVhNjQ2dXRmaVlzMEJiYm00aTdfSDY0cWFHYjkxTlRwakx4elJ4cVhSc01Vbk1mNzY0WWozOUlpclJ3RUo2X0t3RUtIb1pYQ0NZMmZWd2tnS2xqUlJMZVFjV1MxMmMtSElRNWszaFlJWHRKZHp4NjVwanYtZDQ5cVFCNU92dXpWRlBNY2c5cHRkUjFxTEdCMXVLbUZjdHVUcGI0d3ZsUGpKMFJMbzF4WVVN?oc=5",
       "category": "Industry News"
     }
   ]
