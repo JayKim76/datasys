@@ -1,7 +1,23 @@
 {
   "en": [
     {
-      "id": "en-1776458147626-0",
+      "id": "en-1776543970731-0",
+      "title": "Educators in Italy explore AI innovation at Oracle AI event in Milan - Oracle Blogs",
+      "excerpt": "Educators in Italy explore AI innovation at Oracle AI event in Milan  Oracle Blogs",
+      "date": "2026-04-18",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWZnMVJDYTNROVZubUQ0Ukt3QWRyV0xoV1pqQU9oajNkaTFjSWpEbUFvTTJYWHI1UGxqc2NRY2NaMk1KR1drX082LXAyRXExZHYyUy1tZnhHT2NISFo2VXdDNEloejQtYWFPS09CZWxvekJXYjVSUU1lWDlyUm01ZDdHU3NwRkdqZl9vWUxVUDFuYi1KNk1tQ1g3STA3MXhNRzFV?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776543970731-5",
+      "title": "Building Practical MLOps on OCI: From Training to Serving with Confidence - Oracle Blogs",
+      "excerpt": "Building Practical MLOps on OCI: From Training to Serving with Confidence  Oracle Blogs",
+      "date": "2026-04-18",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2ZXVlZMekZIVWtuVXd2YVR0WGRuam5GckgzSFBvMnZ2cGRRVWRKdTlNTlYzbUdNUjllYzdRcEt2N1BqdHhaLURwdTNzYWNMMUpjNmR6Z3IxNE1NSERYQUdybkZtd0lXUlY2RWhEdzdiVjJwaks3Q0w3ZWllWmlscTNzZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776543970731-3",
       "title": "Save the date: Oracle AI World 2026 - Oracle",
       "excerpt": "Save the date: Oracle AI World 2026  Oracle",
       "date": "2026-04-17",
@@ -14,6 +30,14 @@
       "excerpt": "Pain Free Vector similarity search for your apps: Oracle Database REST APIs  Oracle Blogs",
       "date": "2026-04-17",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzl0bngyUjRZTTNPYTVoekRaOGRUakxJN1BNZ0VDMXR2NTRrTy03SktuN19mSU1yVGtXZVFGdy1NQmRZTGZIWXl4Vlk2WDNQSkpvNEowRXhqYXpKMnpjT0xqOGx3emdtWDZjaGtpMmxyZ2hERGwxRmsxdjZwUThJRk9kbkJHV0NBczJGdGVKMlVrZzluZHFkclUyMm4yeTc4RzQ1QS1nTXVjdmkx?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776543970731-1",
+      "title": "Oracle Shared Knowledge Store (SKS): Context Packs for Agent-Grade Decisions - Oracle Blogs",
+      "excerpt": "Oracle Shared Knowledge Store (SKS): Context Packs for Agent-Grade Decisions  Oracle Blogs",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeG9QS05UejhieEotYmtfUEdqdmxlVkc3aUY5dlBZcDJXaWVnckRkLWV1VnJEUUJjMWRXRHhESFhKd1ljWHFQR1RaRTlXalpBN1E5ZGdHa1NNNHlNeUJPQVo5MU04UGNZa2x2R1o0THVJeEFIdUlsODdDcDVEMHlPM1pQZ0pqaldOa1M3ZA?oc=5",
       "category": "Industry News"
     },
     {
@@ -33,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776458147626-2",
+      "id": "en-1776543970731-4",
       "title": "Building ONNX Embedding Workflows in Oracle AI Database with Python - Oracle Blogs",
       "excerpt": "Building ONNX Embedding Workflows in Oracle AI Database with Python  Oracle Blogs",
       "date": "2026-04-16",
@@ -113,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776458147626-1",
+      "id": "en-1776543970731-2",
       "title": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database - Oracle Blogs",
       "excerpt": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database  Oracle Blogs",
       "date": "2026-04-14",
@@ -783,51 +807,11 @@
       "date": "2026-03-18",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSXpGbDZqRUQ5NEJBREs1ZjBMd3Q2d3ZqQ1g3YXV1VVN3Y2w1emNsX1dkNllsM0xLc05QZ0VQSU13R0xWd2dDNERZbGZqU0s1WDh2bmRyMUthVDBLY25IMVoyUzNiaHpVVU9HLVlwU05JX3lOSjJVOWpKeWZFTmRSQnRQYw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1774297771428-0",
-      "title": "Oracle Expands AI Collaboration with NVIDIA to Deliver Scalable Supercomputing, Accelerated Vector Workloads, and AI Applications - Oracle Blogs",
-      "excerpt": "Oracle Expands AI Collaboration with NVIDIA to Deliver Scalable Supercomputing, Accelerated Vector Workloads, and AI Applications  Oracle Blogs",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTlndnZyU1NHSFNkX0hUWFJsemZuV1R6TUhPYU1sWmg2VmFIMzVWRDJGNzRJR1JtaHNBSkh1dVpOdUdvN0ZnaUZTVkRIWlplRWtLM01rcVp1UldKQmtaeGM1c0NfZ2Z2QnU1OTY3SHZkeVprbzBlcy1lMUREcUsyS1dVT3I2bG0yb2Q4SkxIbw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774297771428-4",
-      "title": "SEFE chooses Oracle AI Database@Azure to support energy business transformation - Oracle",
-      "excerpt": "SEFE chooses Oracle AI Database@Azure to support energy business transformation  Oracle",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxMTEwWTdFTlp5cUlrQXJrWElZNkJFalo3M0VRbDVubFlLQWNoX21vSXpzdnlGazVxOThsYU41NzdaYXJpcTlpTzYtY2dxMHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774297771428-2",
-      "title": "Oracle AI Database + NVIDIA Collaboration Advances Enterprise AI at NVIDIA GTC 2026 - Oracle Blogs",
-      "excerpt": "Oracle AI Database + NVIDIA Collaboration Advances Enterprise AI at NVIDIA GTC 2026  Oracle Blogs",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGJJR2JPVjJrMFBCcWdRcnJndWVpZWFDaVY1S1BWYS1TQ1VwZVNEOTVqUGRDOVZNa1QwQ0w3amF0ZFI5NDlITDZWelNNTE83cXJISkJGMjVVbkF5UkFQODRpRTd4bmpZbURGVjJXT0NKVGRlbnRvQkxaZV8xWWs5MFR3UkFYdHBCYkNLSDBnbnFEMDQyX0J1VjM5dVhNbi1ZOUQzNk5reEhxNHg3NGtjYTNSTUZyQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773779390451-3",
-      "title": "World’s Hottest Cloud and AI Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle - Cloud Wars",
-      "excerpt": "World’s Hottest Cloud and AI Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle  Cloud Wars",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVFmTjZ4LUF3NnBKX3VYRjNyM3ptNnhVVkMyelE5TDQxN3k5ZVkwT0ptWWNneGJOTEZ2dF90clZPanhKaldNWTFSQlY4ZGpIVlN4WVBGc2VvaklZV2owVGItYXFqenA1VnhDanpDN1hZdEIwYzhSTXJZbnA5cEhKZUJUZmgtZEN0Rm1MSFlGeDRXWVBlVWJxclpzQmdlTmRa?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1773779390451-5",
-      "title": "Türk Eximbank enhances efficiency for regulatory reporting with Oracle APEX - Oracle",
-      "excerpt": "Türk Eximbank enhances efficiency for regulatory reporting with Oracle APEX  Oracle",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xdTlBZjNLRjd5dXRoMHRRRk9HQmxKbkk1c1Y1SWhMSU4teW5SZnhkZVFYU2c0OUk1MXFCWmxyTm1vcEg5TXY3TkdZWUVWMEc2RVJiZTQySVBXaW8?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1776458148119-0",
+      "id": "ko-1776543971251-1",
       "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다” - 바이라인네트워크",
       "excerpt": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”  바이라인네트워크",
       "date": "2026-04-17",
@@ -835,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776458148119-1",
+      "id": "ko-1776543971251-5",
       "title": "#259 오라클(ORCL), AI 클라우드 급성장과 대규모 투자 부담이 함께 커지는 구간 - 네이버 프리미엄콘텐츠",
       "excerpt": "#259 오라클(ORCL), AI 클라우드 급성장과 대규모 투자 부담이 함께 커지는 구간  네이버 프리미엄콘텐츠",
       "date": "2026-04-17",
@@ -843,7 +827,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776458148119-3",
+      "id": "ko-1776543971251-4",
       "title": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다 - v.daum.net",
       "excerpt": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다  v.daum.net",
       "date": "2026-04-17",
@@ -891,7 +875,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776458148119-2",
+      "id": "ko-1776543971251-0",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -899,7 +883,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776371930837-1",
+      "id": "ko-1776543971251-3",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화 - 캐드앤그래픽스",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화  캐드앤그래픽스",
       "date": "2026-04-14",
@@ -939,7 +923,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776458148119-4",
+      "id": "ko-1776543971251-2",
       "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
       "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
       "date": "2026-04-14",
@@ -1424,14 +1408,6 @@
       "excerpt": "오라클, 자바 26 출시…AI·암호화 기능 강화와 개발 생태계 통합 가속  뉴스탭",
       "date": "2026-03-18",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWURhVVN1N3pDTFdCaG00OFdtRm9pQU16U0JNTDBJUklac3J1dmRGSDY3SVRpckZ1R0NRNHlILXVhSXlMRTNybmUzQlpLaXlkelZPR2haRFRyNk1JQXlBTDkzVFJUVzJENTc4Rg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1773952050025-4",
-      "title": "AI 품은 30년 자바 생태계, 오라클 엔터프라이즈 왕좌 굳히기 - ER 이코노믹리뷰",
-      "excerpt": "AI 품은 30년 자바 생태계, 오라클 엔터프라이즈 왕좌 굳히기  ER 이코노믹리뷰",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUm9rdDVHR1RHQzlWdW5pdk1NdHF4a2U1X3NITTU4eUZlTGRRa19HVWxEY3VPN1dVVEpjdmhycEdrbHl1M3JGa2Zua1VRVko1QlU1b3Jkazhhb3RHdl9HMnE4djRGODRGNVh0NQ?oc=5",
       "category": "Industry News"
     }
   ]
