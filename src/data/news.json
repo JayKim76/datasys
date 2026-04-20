@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1776717405212-0",
+      "title": "When LLMs Get Lost in Multi‑Turn Chats – and How OCI‑STM Helps - Oracle Blogs",
+      "excerpt": "When LLMs Get Lost in Multi‑Turn Chats – and How OCI‑STM Helps  Oracle Blogs",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU1NmS0p1cjJ3eDBTdFZEUEJSUWEyMmJkZ2U2Ukg0NURQdXEwSzdJd2FRYTFoMm1IU0llQmtfVjY0X2FWVTJDTG5kcFI1Zk5DWkt5bzJIalNGNmVpQkoyMDVGeDdkeTdDOWQ0Uw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776717405212-1",
+      "title": "16 Ways to make a Small Language Model think bigger - Oracle Blogs",
+      "excerpt": "16 Ways to make a Small Language Model think bigger  Oracle Blogs",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlNSE5tR1doVHp4Yll3VjJMeXloQkpadHc0STRsODB1QnowaUxKTXY4U0dHVUQ1ZTFVa2ZsTDZRQnNCWG1oVTd0eUVfMG9JWDlqSl8tMnRpRG10NURMUENWT3JUbkRScWdpQllDTXhfdkVPUUdOSW1vcUVYa2tmYkFiRXZYMWVJREdrbDFyRjI?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776717405212-3",
+      "title": "Oracle vs. ServiceNow: Which Cloud Software Stock Has an Edge Now? - TradingView",
+      "excerpt": "Oracle vs. ServiceNow: Which Cloud Software Stock Has an Edge Now?  TradingView",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTVhUzFRYk5ueWxEWFcxenF5ZnlCc3NaN0NRUUltb1loVnl6SFRlUzJjWXg4Y1paRWVLY3VFZEI5TDdBelJWV1pnVnpla3EwN2llM1E2NVFGM3dxeEwzOVhDRDktd29tdGFieVdUQWJveVVCZ19WNlpYS2tWVjQ0a2FUQ2V6OTQxRG9MdUNKLTFCZXZWTnNrUFllc1dqaW9DeEtaMmp2aF9EWEZyUjQ3dUhDTHA4ZUZXQ0Rr?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776717405212-5",
+      "title": "Positron AI Enters Nvidia Turf With Oracle Deal - EE Times",
+      "excerpt": "Positron AI Enters Nvidia Turf With Oracle Deal  EE Times",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZWNuTTgzTVFjdE9mQlJqU3BVOXRBWnJCUHZlMUNLd2o3TlNkanpfbHQzSGE1bmdEUlhoWklrOFVqc0xXSkFrZUJEQndFaUtrOGt1NGVyWGFnbDdXX09SMkd2UEVXM1hEbnp5OURmWG1vQWxYOV9tZFdqcVc?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1776630441857-2",
       "title": "Educators in Italy explore AI innovation at Oracle AI event in Milan - Oracle Blogs",
       "excerpt": "Educators in Italy explore AI innovation at Oracle AI event in Milan  Oracle Blogs",
@@ -41,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776630441857-1",
+      "id": "en-1776717405212-2",
       "title": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations - Oracle",
       "excerpt": "Mizuho Bank Selects Oracle Autonomous AI Database to Modernize Database Operations  Oracle",
       "date": "2026-04-16",
@@ -57,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776543970731-4",
+      "id": "en-1776717405212-4",
       "title": "Building ONNX Embedding Workflows in Oracle AI Database with Python - Oracle Blogs",
       "excerpt": "Building ONNX Embedding Workflows in Oracle AI Database with Python  Oracle Blogs",
       "date": "2026-04-16",
@@ -751,27 +783,27 @@
       "date": "2026-03-20",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGZuaUs3bDBOZ1Y4eUMwQkhYU0I1aU9NYk5WelVfekw4aG5wcWs1MFN2TzB2QllDQmNOdjRobF84b1JHNjAtcG9PSXViY19aa3ZGb0lxUmxLT1RMTWtHOXVnUjFoVllhaUVaWUQ5UjU3a0kzdHZpNGpWcTQ3RkkwaEwzX0F5d3luOTlB?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1773952049611-5",
-      "title": "Oracle: AI Smart Assistant For Restaurants Enhances POS Support And Operational Efficiency - Pulse 2.0",
-      "excerpt": "Oracle: AI Smart Assistant For Restaurants Enhances POS Support And Operational Efficiency  Pulse 2.0",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGIwMzVqcUpEZmtNU0pycE9YS2RHZG02RlhXUnNLUzkzQVhuN0RQTGx3a09zV3hpN2FMSzVwa0JFOVBiampLR2JXN0lQVnE1VGUzWHBvTTBqZndob1Y3cVgtQXBZbDNjdTVqcXhHUFc0Z2RVN09fS1RLR2RNYzQ4TlExU3g3cEloMzE3djB2LXBaSkYzcjduSVVpV25qNW9jeWRPaU9RdkxYRHV5clHSAbMBQVVfeXFMT0FtSk12bmlBNTRZRUtvNkJ4NHAwRFd0VGV1Rkxra0NzNFlacXpDcTVEa2NoVWs2V2IyanVVbmd6aEl5UldMN2JwUXlKWE1WZTlqVklHRUI5MzlaZUdWclZlRVZSVFlaY21BXzMtdGh3bGl6VFFhUFUzZ203VjNXUUJReVI4aWpjVjNsaTVFakQtLWEyVk1QQm9qa2I4dkUxX3lhTnZpU19haUdDZVA0ODgtdnM?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1776630442356-2",
-      "title": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로” - 디지털데일리",
-      "excerpt": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로”  디지털데일리",
-      "date": "2026-04-18",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03NnRJWlB6bmdReUhCTWxHWncyTGRHZzFhaVRSdGpWNVdrU0IycU1hRlprUjBNS092SUpwSi1KVjdDNF9TdWZmdnQxNTZZMGRBdnpQVUNmTW5QbHYya3JVQ3FGcjk?oc=5",
+      "id": "ko-1776717405818-0",
+      "title": "[디투피플]\"데이터 활용 복잡성 제거해야 엔터프라이즈 AI 제대로 쓴다\" - 디지털투데이",
+      "excerpt": "[디투피플]\"데이터 활용 복잡성 제거해야 엔터프라이즈 AI 제대로 쓴다\"  디지털투데이",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EUjlpMVBvRm9RN1FjRmVzSl9ESHB3NFZ5a19NWlI1cmpRMVFYSldBRG51QkVaSTBXWV92RVZHckUzbjVreVE1enZ1b1JhWWhwYVhPZFZCV0hGQ3cwN3I5a3c1OFVMaEFVMHBvUEktNlN0V0E?oc=5",
       "category": "Industry News"
     },
     {
-      "id": "ko-1776630442356-1",
+      "id": "ko-1776717405818-3",
+      "title": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로” - 디지털데일리",
+      "excerpt": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로”  디지털데일리",
+      "date": "2026-04-18",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KZDE2YUNwRDFSNkNuQkR0N1psY3BTdXh3c0xaSXV3MzMyNUlKMHJOTHlPSWwzRXo3ZUpWc1FWS3lreG1rejZFUk9PVDVEUFhxX2EyQ1YtdTlCaGlHLUVldEZR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776717405818-1",
       "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다” - 바이라인네트워크",
       "excerpt": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”  바이라인네트워크",
       "date": "2026-04-17",
@@ -787,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776630442356-4",
+      "id": "ko-1776717405818-4",
       "title": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다 - v.daum.net",
       "excerpt": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다  v.daum.net",
       "date": "2026-04-17",
@@ -835,7 +867,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776630442356-0",
+      "id": "ko-1776717405818-2",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -883,7 +915,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776630442356-3",
+      "id": "ko-1776717405818-5",
       "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
       "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
       "date": "2026-04-14",
@@ -1304,38 +1336,6 @@
       "excerpt": "최근 주가 약세 이후 오라클(ORCL) 주가는 AI 클라우드 전망을 반영하고 있는가?  simplywall.st",
       "date": "2026-03-21",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFVTS0JoLVBwUmVOMjVaU1hQcEFFZmdFTDFvV3J1blFEb20xRE5oZEtjcktSNTR5cDBVdVRGOHowN0VadmJVbHNhemNkM1B0OTdLZkE1WjhIVmJMN09Qa2V0Q2EtN0RKc0tHb2FpUDNDYldZSktrdEt1dTluRm01SFJtd2JYT0k2bC1qamtKONIBjwFBVV95cUxPTFVTS0JoLVBwUmVOMjVaU1hQcEFFZmdFTDFvV3J1blFEb20xRE5oZEtjcktSNTR5cDBVdVRGOHowN0VadmJVbHNhemNkM1B0OTdLZkE1WjhIVmJMN09Qa2V0Q2EtN0RKc0tHb2FpUDNDYldZSktrdEt1dTluRm01SFJtd2JYT0k2bC1qamtKOA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774038122959-0",
-      "title": "엔비디아, 오라클과 AI 데이터 '속도 혁신'…벡터 검색 기술 공개 - 지디넷코리아",
-      "excerpt": "엔비디아, 오라클과 AI 데이터 '속도 혁신'…벡터 검색 기술 공개  지디넷코리아",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsdXpsVnFPWmhHN0JSc2V2Y1dQaFZubDlqYVYyMjJVYS04RWxYN05ONUdPeDFSb1E5bThrcXJCTDB6YzV6SS0tUVkwX0dkR2c3SDhtOURR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774297771904-4",
-      "title": "엔비디아, 오라클과 협력하여 데이터 검색 속도 높인다 - elec4",
-      "excerpt": "엔비디아, 오라클과 협력하여 데이터 검색 속도 높인다  elec4",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IblVHQ1dySlVLY0JScUZpUzBYdmJVaWJFWldvQmxMNTVBck5Zc3pkeFJPc3JyY0drZUtvVjY5Mm9NWXBVc2lFTUd2N1dPOGlUOWplSU5oY1pWdUtYRzVYbWRfZVMweDZ6X1VfWFR3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774210605906-4",
-      "title": "[GTC 2026] 엔비디아, 클라우드·엔터프라이즈 AI 전방위 협력 - 더에이아이",
-      "excerpt": "[GTC 2026] 엔비디아, 클라우드·엔터프라이즈 AI 전방위 협력  더에이아이",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12Zk1JcUdxel9FSFhsWElXNl9uSGxVOXpxVWNOcHFHcGFieV9pd1hVZlNZSWlmUl8tbUlqdG9OaXVEbHI2a2txOTBWampkOUljZG5oZzh0cTNQaDRsWHhaYWRxelFCR05sb2c?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774384330638-4",
-      "title": "엔비디아, MS·구글·오라클 등 빅테크와 맞손…AI 프로덕션 시대 선언 - 지디넷코리아",
-      "excerpt": "엔비디아, MS·구글·오라클 등 빅테크와 맞손…AI 프로덕션 시대 선언  지디넷코리아",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRkpOSm5sem1yUDlUR2FmU2N6ZGNrcklMYUFlcE1QckUweGRzZTQxLVp0SGp0SVIySUFEOGhLUmhFX2ZuUmc0ZHctT1I3ZnBsaDYtX1FR?oc=5",
       "category": "Industry News"
     }
   ]
