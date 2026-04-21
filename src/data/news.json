@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1776717405212-0",
+      "id": "en-1776804011177-0",
+      "title": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
+      "excerpt": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta  Oracle Blogs",
+      "date": "2026-04-21",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdnRGlzZW9TdldwcTZpM09Ca2ZEQm41QW5sLWZCVXRSRk5tekswVjRGYjdreGZaT2tfR3ZadU1zLW92NHFxUk5mQ3Q2ZmlROEgxaVZiQTRiU0E1ZGZmVC1fRW10M0t5cC1EdDBGWG9TRF9YYzhDVGRQa0VhaVUtVFcxbUx4QUVOWElqMTdlcVJ0Q2hL?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776804011177-1",
+      "title": "From Insight to Impact: How Oracle Is Delivering Real AI Outcomes Across the Enterprise - Oracle Blogs",
+      "excerpt": "From Insight to Impact: How Oracle Is Delivering Real AI Outcomes Across the Enterprise  Oracle Blogs",
+      "date": "2026-04-21",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmRSZ3J4SHE4ZmRZSVo2M29HcXZtd3Y0U3hGa1owbXd4TUpJWnAtS3VrZUZTWVhjTEg3T3R2YzlIY01vMnZMV3lqWERxc05XZjV2UjZ4dnNvaWVfYUhrZ3lJR1ZFcmk5WEpubTlzcEZJVlJJN0tEOFdnblo0XzdRUEJUdUp1QURSZnpnMlFiLXBiQ1lVbWtVRjZ6NW56aGJhcGw4cVpiVThibC1iNFdjNHBtaHJCdk1MQ2l2T1pn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776804011177-2",
+      "title": "Database architecture powers Oracle’s trusted AI strategy - SiliconANGLE",
+      "excerpt": "Database architecture powers Oracle’s trusted AI strategy  SiliconANGLE",
+      "date": "2026-04-21",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk51ZVhrdmZ1aFd2Z0dIb2ZoSjlTbmsxMWptZEdMOVI1S0xIclhqUTZsRjdDdDZVd0ctdE14bDJ1U0ZHTFlPZ0d5M1RSUmFsX0FKQjh3aE5RblF3Ny1KWFgwUXg1RFhaT2dyMTNnZlJEdnZhTDlEMUtEWXUzOGxpZHhnOGxrNFBBYVI0QTN4RTZhVkJtY3Z6SGQ2VVRlY08zY2o0RHB5c1h5M0UwMXo4ZQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776804011177-4",
+      "title": "AI is the new Oracle of Delphi. That’s bad news - The Economist",
+      "excerpt": "AI is the new Oracle of Delphi. That’s bad news  The Economist",
+      "date": "2026-04-21",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR01QLUtWSFE5c0xwT2pvb2lXQ2tRaTRNTEFDRWpTVFJFVG84SExaODU5TUpfR0dmYXpPSlpMVGRxOGpoYlkwSTA5Qllzb3MwZ2NHZ2VxUTZKaWN4SVFpMWRkT0h1NXRwTlJ6UThtQjRFZHl4SFlnd0dEX2V4QkxnRGFoVklaVl9fZ1k1clZVQ1FWUFQzOUxyZkFjVm8?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776804011177-5",
       "title": "When LLMs Get Lost in Multi‑Turn Chats – and How OCI‑STM Helps - Oracle Blogs",
       "excerpt": "When LLMs Get Lost in Multi‑Turn Chats – and How OCI‑STM Helps  Oracle Blogs",
       "date": "2026-04-20",
@@ -30,6 +62,14 @@
       "excerpt": "Positron AI Enters Nvidia Turf With Oracle Deal  EE Times",
       "date": "2026-04-20",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZWNuTTgzTVFjdE9mQlJqU3BVOXRBWnJCUHZlMUNLd2o3TlNkanpfbHQzSGE1bmdEUlhoWklrOFVqc0xXSkFrZUJEQndFaUtrOGt1NGVyWGFnbDdXX09SMkd2UEVXM1hEbnp5OURmWG1vQWxYOV9tZFdqcVc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1776804011177-3",
+      "title": "Cohere Python SDK → OCI Generative AI: Native Support is GA - Oracle Blogs",
+      "excerpt": "Cohere Python SDK → OCI Generative AI: Native Support is GA  Oracle Blogs",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0c1M3VfQy1zY1VGelM5LXN2SkhOblN4ZTMyUmdtTmZFY0RTYXdxOE9Fa1ZlSk1CdWY3enUwemdOS0pKZTdpbXpGbGF3NmltLTJfb3M5ZzNOdlVjNlpidVk0TkpRYXpBd05wd0R4cE50aHo2ZE9GcnZTTVhkR3BKcUxleDVjNzJjdFI3OHFiQ3dvXzBnSTFQeg?oc=5",
       "category": "Industry News"
     },
     {
@@ -775,19 +815,11 @@
       "date": "2026-03-21",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzRDMHdDZ0RBNE9qLWMtalhQSEZTa0J1NWxuRUZjREEta2VFUmFfVHk2cHlEZVB5R0s3YUd6WEpSQXNLd3RwNEt5TzlGN2hnWWdKSzNFQ3kxMy1MUHN2Vmx1bUJUWjMwempFb2ZOdVRESzJtNXZ1dTlHdTRyY0NlYw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1774038122550-3",
-      "title": "Massive News: Oracle's $553 Billion Backlog Could Make It the Most Important AI Stock of 2026, But Is It Too Late to Buy? - The Motley Fool",
-      "excerpt": "Massive News: Oracle's $553 Billion Backlog Could Make It the Most Important AI Stock of 2026, But Is It Too Late to Buy?  The Motley Fool",
-      "date": "2026-03-20",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGZuaUs3bDBOZ1Y4eUMwQkhYU0I1aU9NYk5WelVfekw4aG5wcWs1MFN2TzB2QllDQmNOdjRobF84b1JHNjAtcG9PSXViY19aa3ZGb0lxUmxLT1RMTWtHOXVnUjFoVllhaUVaWUQ5UjU3a0kzdHZpNGpWcTQ3RkkwaEwzX0F5d3luOTlB?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1776717405818-0",
+      "id": "ko-1776804011789-3",
       "title": "[디투피플]\"데이터 활용 복잡성 제거해야 엔터프라이즈 AI 제대로 쓴다\" - 디지털투데이",
       "excerpt": "[디투피플]\"데이터 활용 복잡성 제거해야 엔터프라이즈 AI 제대로 쓴다\"  디지털투데이",
       "date": "2026-04-20",
@@ -795,15 +827,23 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776717405818-3",
+      "id": "ko-1776804011789-2",
       "title": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로” - 디지털데일리",
       "excerpt": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로”  디지털데일리",
       "date": "2026-04-18",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KZDE2YUNwRDFSNkNuQkR0N1psY3BTdXh3c0xaSXV3MzMyNUlKMHJOTHlPSWwzRXo3ZUpWc1FWS3lreG1rejZFUk9PVDVEUFhxX2EyQ1YtdTlCaGlHLUVldEZR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03NnRJWlB6bmdReUhCTWxHWncyTGRHZzFhaVRSdGpWNVdrU0IycU1hRlprUjBNS092SUpwSi1KVjdDNF9TdWZmdnQxNTZZMGRBdnpQVUNmTW5QbHYya3JVQ3FGcjk?oc=5",
       "category": "Industry News"
     },
     {
-      "id": "ko-1776717405818-1",
+      "id": "ko-1776804011789-1",
+      "title": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다 - elec4",
+      "excerpt": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다  elec4",
+      "date": "2026-04-18",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ac2JvOFdjSy1FVUlzMy1yb3hKa0lZdVJQMmFkQ2hmQ2h1N0dTU2NkWkFMRFlDcGNzaXVnQ1VxRnVoUVVNUi1JRVY4bFItU0h4RVlTaFhLa2FFcS1XUVRLblRpdzlBUGZDR25CV0xR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1776804011789-0",
       "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다” - 바이라인네트워크",
       "excerpt": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”  바이라인네트워크",
       "date": "2026-04-17",
@@ -819,7 +859,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776717405818-4",
+      "id": "ko-1776804011789-5",
       "title": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다 - v.daum.net",
       "excerpt": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다  v.daum.net",
       "date": "2026-04-17",
@@ -867,7 +907,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776717405818-2",
+      "id": "ko-1776804011789-4",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -896,14 +936,6 @@
       "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  v.daum.net",
       "date": "2026-04-14",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmX1pOTE81N0F1MHdUN0FKaERxRVdDakJsOVc4YVpyVmpxTjVqclFaWU9FbUlsU09XVW53Rk1PVlNKXzZ3bHBMNllCZ1BjbW8?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776371930837-5",
-      "title": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다 - elec4",
-      "excerpt": "오라클, AI 데이터베이스 기능 강화하며 미션 크리티컬 가용성·보안 높인다  elec4",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ac2JvOFdjSy1FVUlzMy1yb3hKa0lZdVJQMmFkQ2hmQ2h1N0dTU2NkWkFMRFlDcGNzaXVnQ1VxRnVoUVVNUi1JRVY4bFItU0h4RVlTaFhLa2FFcS1XUVRLblRpdzlBUGZDR25CV0xR?oc=5",
       "category": "Industry News"
     },
     {
