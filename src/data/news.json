@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1777062993382-2",
+      "title": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon. - Barron's",
+      "excerpt": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon.  Barron's",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlpUM1RNa2FJNUlrM2R6U09hcmVkX2lsNTlwbl9kNTZoNFVLUHRKdm52X2VZMUNBd2I2ZjNBclIxdExCd0tWbENXR2ZORER2NDE4UUIya1UwME5BOHpSWTlXNEd2bVhzdEZVc25faEhQbUNRT3hyVjBtdG94WjZzci1mT3Q?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1776976996828-0",
       "title": "Turning Invoice Compliance into a Scalable, Auditable Workflow with Private Agent Factory - Oracle Blogs",
       "excerpt": "Turning Invoice Compliance into a Scalable, Auditable Workflow with Private Agent Factory  Oracle Blogs",
@@ -25,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776976996828-2",
+      "id": "en-1777062993382-1",
       "title": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database - Oracle Blogs",
       "excerpt": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database  Oracle Blogs",
       "date": "2026-04-22",
@@ -33,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776976996828-3",
+      "id": "en-1777062993382-0",
       "title": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation - Oracle",
       "excerpt": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation  Oracle",
       "date": "2026-04-22",
@@ -41,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776976996828-5",
+      "id": "en-1777062993382-4",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1  Oracle Blogs",
       "date": "2026-04-22",
@@ -49,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776890560943-3",
+      "id": "en-1777062993382-3",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2  Oracle Blogs",
       "date": "2026-04-22",
@@ -65,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1776890560943-5",
+      "id": "en-1777062993382-5",
       "title": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
       "excerpt": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta  Oracle Blogs",
       "date": "2026-04-21",
@@ -823,35 +831,11 @@
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1I4QjNFUHNxa1IzNFhMcDZsV1Z2a0J0WG4yQ3RlNDBlS005NGNqZFRMYTlmaGhzZmt6ZDhYTk0xZF9MWHpyZG85NjRTTnhBbTFjdzJFRVRYLVlESGZDWXhlemFhWWNTek9qSXlhUm1HNXFwZGZJbGNxSnN6ZkJlc2oxYk5iM0h3WkVNdkNfS2dHZDljTmVJUjRVZWFRNlpESGJ3SktTRXRWNWwwNGhzZmROYkk3YnRDUVZSajcxdnBsb0hyS1F3UlVqQzFNaGtvZlRMRVc1TFg3aDJwQnVsTUJR?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1775333962085-4",
-      "title": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data - Oracle Blogs",
-      "excerpt": "Oracle AI Database Delivers Mission-Critical Agentic AI Built for Business Data  Oracle Blogs",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeENleFpwaFN6NnZ5RGJuZmhWcnUwZGFKdjRGWU1fQnNqdGIxc2VIZ3pkRkVYWmdSZzNDR2xjTnZrRG41cmRiQ3N1d01nSDNtREs5SFlSeFBKS3RZby0tV0pHanJqbm5tS1JqZU83bVl4YjhkbTdEQlNUSjJsT0sxYjR3RWhsRFN5S3FiQzVpZExqcFJjZVNXM05tUWR6Qm9xekRYRTJ3UUFWMlk0WGN2UERJRQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774297771428-1",
-      "title": "Oracle: Anthropic Surge Creates New Problems (NYSE:ORCL) - Seeking Alpha",
-      "excerpt": "Oracle: Anthropic Surge Creates New Problems (NYSE:ORCL)  Seeking Alpha",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUFjU3liRUJ2MEtWeVo4NU1ueXppU3lHMjFKWVhfaEtMd1o0WVZ3bDVWVUhGZG5CWkxMTlNYdUU0VzdhMHIydDVIYWZabHhTbkRVT1ljc0MzZVVybzZXZlJGTzQ2MHI4RERseWZHSWRPSWkzOVNzMENiQ3NIbFZTbmpIVG40aWFpSjc1MQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774297771428-3",
-      "title": "Larry Ellison Yields Spotlight to Oracle’s New CEOs - Cloud Wars",
-      "excerpt": "Larry Ellison Yields Spotlight to Oracle’s New CEOs  Cloud Wars",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDk0WnFWcE8zUGxra2ZBUVc0UUQyUkdVNUs2cHNvWm01OEc0OW5Nc0lLTWhnblFEd0ZqVWg5eUZCWnBVQXV1RkJvRlJMbFZHMjFKTWJfZG1IUFBGT3BCUXVEcEFRS2xZLVJhTllPX2R6QWsyenNQSGtOeGM5bkVaMXhYNkhCN2tHSGdMVmlPMXF4c09USzhVWU9mNA?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1776976997331-0",
+      "id": "ko-1777062993839-0",
       "title": "오라클·구글 클라우드, 자연어로 오라클 DB 조회하는 AI 에이전트 출시 - 디지털투데이",
       "excerpt": "오라클·구글 클라우드, 자연어로 오라클 DB 조회하는 AI 에이전트 출시  디지털투데이",
       "date": "2026-04-23",
@@ -867,7 +851,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776976997331-4",
+      "id": "ko-1777062993839-3",
       "title": "Oracle Financial Software, AI 데이터베이스 도구로 Google Cloud 파트너십 확장 - Investing.com 한국어",
       "excerpt": "Oracle Financial Software, AI 데이터베이스 도구로 Google Cloud 파트너십 확장  Investing.com 한국어",
       "date": "2026-04-22",
@@ -883,7 +867,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776976997331-1",
+      "id": "ko-1777062993839-2",
       "title": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로” - 디지털데일리",
       "excerpt": "‘미토스 쇼크’가 부른 데이터 주권 전쟁…오라클 “AI 에이전트까지 DB 안으로”  디지털데일리",
       "date": "2026-04-18",
@@ -963,7 +947,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776976997331-2",
+      "id": "ko-1777062993839-1",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -1003,7 +987,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776717405818-5",
+      "id": "ko-1777062993839-4",
       "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
       "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
       "date": "2026-04-14",
@@ -1091,7 +1075,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776112985216-4",
+      "id": "ko-1777062993839-5",
       "title": "오라클 AI 데이터베이스@AWS, 국내 출시 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스@AWS, 국내 출시  디일렉",
       "date": "2026-04-07",
@@ -1400,22 +1384,6 @@
       "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  aitimes.kr",
       "date": "2026-03-24",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYXktYXl2bTFDMnpqU2hDQUFCV0pSaHpnV3lhT0c5YngxX2VWYXpHWmtsY3BZVFN4YktWS2IwV2F1eUQzQmpZQ2hSZEU2bnNJYlBVMmtpNllWNlJEN18tMF9ETWZWdlk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774384330638-1",
-      "title": "투자자들이 오라클(ORCL)의 AI 클라우드 푸시 강화와 2027년 매출 전망에 어떻게 대응할 수 있을까요? - simplywall.st",
-      "excerpt": "투자자들이 오라클(ORCL)의 AI 클라우드 푸시 강화와 2027년 매출 전망에 어떻게 대응할 수 있을까요?  simplywall.st",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVhDdUlBUDNhN1JXSWRTU3VWNTR0YjNlLXFQOVR0UEM3OFc1dDNORWRYVmQyYW1qRDQtaHZIV3RoeS0xLUVqRkFMYzltWkVOUHB2MUR4RVVIMlBTV0F1SlN1bU1DS2txWnBPN21zbDU3REZjUWw5S1NkRXJORVVzQlZNZV9ZWFBqUnfSAY8BQVVfeXFMUFFGbHd2ZGQwaDBVeGRqVi14TFM0UWlWMGpkZXN2YXRUcGh3R1Vuc1lmeGwyOHpNeXM2Tk5EeFdYb3k0U0N3NEIycmpCdFVNZktvdlRfb3ZjclF2QV9wNHkyenJqR3JTOVJHM2pxREhmLU54VWdDaDY0N0VaZndaYUROOGcxWG1iSzVOY1JSaDQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774297771904-2",
-      "title": "[D-BIZ IT/기술] 오라클, ‘자바 26’ 전격 출시… AI·클라우드·보안 생태계 정조준 - 데일리비즈온",
-      "excerpt": "[D-BIZ IT/기술] 오라클, ‘자바 26’ 전격 출시… AI·클라우드·보안 생태계 정조준  데일리비즈온",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Z2dIVlc1bnVnbHlfVUNFN1AyLUR1bXB2X0lhal9ySWxzR2hVVTlwNG9iZFVQT1o0eWpObjR0ODdlYlBrQ0t2ZkttZkt6NTBjOWtneUhmbGRaZVRxSzh3eDBzNWQ1dnhyeHBfNQ?oc=5",
       "category": "Industry News"
     }
   ]
