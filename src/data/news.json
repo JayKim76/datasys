@@ -1,7 +1,7 @@
 {
   "en": [
     {
-      "id": "en-1777062993382-2",
+      "id": "en-1777148941739-4",
       "title": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon. - Barron's",
       "excerpt": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon.  Barron's",
       "date": "2026-04-24",
@@ -33,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777062993382-1",
+      "id": "en-1777148941739-1",
       "title": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database - Oracle Blogs",
       "excerpt": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database  Oracle Blogs",
       "date": "2026-04-22",
@@ -41,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777062993382-0",
+      "id": "en-1777148941739-0",
       "title": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation - Oracle",
       "excerpt": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation  Oracle",
       "date": "2026-04-22",
@@ -49,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777062993382-4",
+      "id": "en-1777148941739-3",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1  Oracle Blogs",
       "date": "2026-04-22",
@@ -57,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777062993382-3",
+      "id": "en-1777148941739-2",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2  Oracle Blogs",
       "date": "2026-04-22",
@@ -73,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777062993382-5",
+      "id": "en-1777148941739-5",
       "title": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
       "excerpt": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta  Oracle Blogs",
       "date": "2026-04-21",
@@ -751,91 +751,11 @@
       "date": "2026-03-25",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFpSSkEyNHlhU3pnOE1PeE9fbzd4c081Tzl4Tkc3OTFIWGhFXzA3aVN4UFg2aVNEVmVpZGVCVHgzT3hwT0hPcS1kQUhWa19HbGlyeEtiMm83N3k3RGY3OUxhaWZ5RG1oYWJfWEJSS2ZTV0Nia3AtQWJFVjBoY1YtWUVyQXExR3lQMFdBeThFOXhOY2wzOFNHSXZLS1BrWVJxTS1pYWpCejVjTW52dmZMRmhkMVFSYTJZRWF3eGZjTFhQUjVZWU5wSmt0Tkg3bEU?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1774384330177-1",
-      "title": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure - Oracle Blogs",
-      "excerpt": "More Oracle Autonomous AI Database deployment options on Oracle AI Database@Azure  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2s0bnl2Q0Z6cG9rd2kyc1paeFZaRHNKLVNFb3RQeTNManZsYmRQNzhTR0N2b3VVQk1jcFllLW1jOFJEVEQxRzJ6YkJRV0RZd29YYXUtZUlhOHMtQm85WWEzdU5jUWdiTmpHYWNZWUY5ZDFnTzJyd2l3NmhJSHhyU3VIU21IQTh0VnRfUGE1aUxRNnlmUXNZMm1n?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774384330177-2",
-      "title": "Announcing Oracle AI Database Operator for Kubernetes v2.1.0 - Oracle Blogs",
-      "excerpt": "Announcing Oracle AI Database Operator for Kubernetes v2.1.0  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTBlazFyTGpyMHQ1Zng5ZHNYYVZGdUFZYjBUemRIMW1OSzNfcXJCU0ZKS3lKai1uVzFlNnZoWkhRUkktZXhEQTRlU3p6ZVY0MEhjd3NJdEQxQnh1MklNSl85OTVyLXlEMlFjaDRfUlctSk9nNFRhcTROTkFnSE11T1ZEaGhNNG5Qc3B2SkcyeTF5RXBUX25KUzNlVmhVd040aGtsbG0tSFAxZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775420500352-4",
-      "title": "Oracle Unveils AI Database Agentic Innovations for Business Data - Oracle",
-      "excerpt": "Oracle Unveils AI Database Agentic Innovations for Business Data  Oracle",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDg3bHM0Q0VGQUNiTjRvaVpELWV0VG1ocDBwX2tMXzFWcVFMSTZHREhWVGJuRkVETkxIT3JjbXR3RTd3eW9Wcm4xelljelBuZ20xSEZQRGc5OHgyNkM3UlZVYnVCX05MNjlzOUN6UWgzUHk3VmpzVDdhY3RRdjdqa01qSnFEOUxtLTd3UEk4RzNTeVFKOFY0RXZLaFZFdTM3ZXRUZlBVeUIxZ1paeWQtOUVJT25UNTJo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774470591136-5",
-      "title": "Oracle Introduces Fusion Agentic Applications - Oracle",
-      "excerpt": "Oracle Introduces Fusion Agentic Applications  Oracle",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVW1YOFlUUTNRTjd5Yk0wcFFsNktOd3hUYWU5VXR3WndUeldfaEpGOTd2bFZ1eTlDaWJHckw1T1N5VWtjVm8tZmQ5R2xrd0l2NTNBOGx5YXAzaWR3VVBCVEVmNmNoQWN1M0UxMTF3MkplQ3dSOXJQMXRFbGR6Tl9SaEdydEZIWlJrSUloQkdqT1dXVTc0N3NaaHc5Q1BveGM?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774902938773-5",
-      "title": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai - Oracle Blogs",
-      "excerpt": "Introducing Private Agent Factory: Unlocking the Agentic AI Potential in Enterprises with Oracle AI Database 26ai  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTzhnbGFUdC0zVVN4bll2Mm5FclYzWkN6WkJLVWJFbHA5RURGNFRFQTJZc3dveEJmZUtLRDk1eWxUZWtuMDlyZzljbzFDTHZuZG1ldW1pNng3LVAzOU4yYkwyakx0SzJaMEU3bWktMFZDM0ZMLXhUZURZc1cxQ1BMYkJFNjFSd3hfaWFsSFhFWlVlblJweFNwSGxJUXQ5aUg5cGZWWWZ2Z0NyQTNSSDRDTVFNV1dhSEtIcElzUW9HWVlDYjZZR1dtdDd5NDlneGFrWDFfZm5tY1FqTk45ckdF?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774815668072-3",
-      "title": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems - Oracle Blogs",
-      "excerpt": "Introducing Oracle AI Agent Memory: A Unified Memory Core for Enterprise AI Systems  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0pnajJ1d01wNHliU1pvQ19teGRwWWFUQmFmN2FNWDVtLVpqbzRMUmkxWXNfWU93U18wOVFENHhkczZzOXN1eWlFNC1jNk5OUEFWQ2dELVg0bnV3OWM2VGhoWlhRcC1aal9EcGNPb2VKNVpwRmUxcWRXYmN6Wkl0cVF3TWx6R1gzeGxIc3oxdHZqRF9PNE82RVRkdlZLOXJPOEMzOG1IaHZfWUdhYU92YzVpVXA1aDA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774556858583-4",
-      "title": "Analysts praise the new suite of Agentic AI capabilities in Oracle AI Database - Oracle Blogs",
-      "excerpt": "Analysts praise the new suite of Agentic AI capabilities in Oracle AI Database  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEI4QnpNLThhN2FmRmd6RWFxSkxoZlIxU19TT0p0OEdUeVZXVXl0a2tjME53bVZJTW9NUkltYzRVYzhBSGlhM0lObmw3WXB5ZUp2V213RXFabGQtdEU2X0Fsa3FDS1RyY3pfTG1kTl9qa015MHE4QlV2MGZ5bnhSY1V2V1RoME5wbmttd1RUcmFFQVFUWGR5amFUZUtfVjdhSFgzM1FRWXQwVFhqVUlnMkhB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774729156923-4",
-      "title": "Announcing Oracle Autonomous AI Vector Database Limited Availability - Oracle Blogs",
-      "excerpt": "Announcing Oracle Autonomous AI Vector Database Limited Availability  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlEtYzBYNkV5RHoxQU1OUzh1cTFxSVlkOUJJLXdOS1l0alpxSENrV052Y3JDcUFfVWNGWWNxam1Uck44QUpKVWQ4YmI5VzZQeGpnSzBtN2ViVDJaTURfWHVyQ21rSnRKb1RGSVRnV0pFX2ZfRHl4VXdRcDhRUlJiU1I3YzZ1b2ZqTXRiTE85R01USFR4OHVpRmZldnIzYXNaM2I0cg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774815668072-5",
-      "title": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools - Oracle",
-      "excerpt": "Oracle Expands AI Agent Studio for Fusion Applications with Agentic Applications Builder and New Intelligent Workflow Tools  Oracle",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmZDakdDX19TazhQb2FSSGU4bVNaamMtbjEtZlMwaHNUbjhCLUZDX3p1bjRPUFRrcm1haHQwMGV3TVpKMUdtVHgxT3Zna1JnbExvT05RMEJWalVPSERpMkd3ZkNKUmpfYUpUTzlEQjFFaURiSzFCUVlvcWc2OW04dkZWWmNMeko1ZHVCS0Y1VmE3NVV6YVA5bTNJS2hNYzRlc0RhSmxHZzFMc0UtWVBENnB4cjh6bDhYSTk1LVQyYWtSd1drdElUTDViQjJPaF9tN0VEb25nNHo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774815668072-4",
-      "title": "Introducing Oracle Deep Data Security: Identity-Aware Data Access Control for Agentic AI in Oracle AI Database 26ai - Oracle Blogs",
-      "excerpt": "Introducing Oracle Deep Data Security: Identity-Aware Data Access Control for Agentic AI in Oracle AI Database 26ai  Oracle Blogs",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1I4QjNFUHNxa1IzNFhMcDZsV1Z2a0J0WG4yQ3RlNDBlS005NGNqZFRMYTlmaGhzZmt6ZDhYTk0xZF9MWHpyZG85NjRTTnhBbTFjdzJFRVRYLVlESGZDWXhlemFhWWNTek9qSXlhUm1HNXFwZGZJbGNxSnN6ZkJlc2oxYk5iM0h3WkVNdkNfS2dHZDljTmVJUjRVZWFRNlpESGJ3SktTRXRWNWwwNGhzZmROYkk3YnRDUVZSajcxdnBsb0hyS1F3UlVqQzFNaGtvZlRMRVc1TFg3aDJwQnVsTUJR?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1777062993839-0",
+      "id": "ko-1777148942156-0",
       "title": "오라클·구글 클라우드, 자연어로 오라클 DB 조회하는 AI 에이전트 출시 - 디지털투데이",
       "excerpt": "오라클·구글 클라우드, 자연어로 오라클 DB 조회하는 AI 에이전트 출시  디지털투데이",
       "date": "2026-04-23",
@@ -851,7 +771,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777062993839-3",
+      "id": "ko-1777148942156-5",
       "title": "Oracle Financial Software, AI 데이터베이스 도구로 Google Cloud 파트너십 확장 - Investing.com 한국어",
       "excerpt": "Oracle Financial Software, AI 데이터베이스 도구로 Google Cloud 파트너십 확장  Investing.com 한국어",
       "date": "2026-04-22",
@@ -947,7 +867,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777062993839-1",
+      "id": "ko-1777148942156-1",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-14",
@@ -1019,7 +939,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776112985216-1",
+      "id": "ko-1777148942156-3",
       "title": "“3초 무중단·제로 데이터 손실”…오라클, AI 시대 데이터 인프라 재정의 - 인공지능신문",
       "excerpt": "“3초 무중단·제로 데이터 손실”…오라클, AI 시대 데이터 인프라 재정의  인공지능신문",
       "date": "2026-04-10",
@@ -1075,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777062993839-5",
+      "id": "ko-1777148942156-4",
       "title": "오라클 AI 데이터베이스@AWS, 국내 출시 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스@AWS, 국내 출시  디일렉",
       "date": "2026-04-07",
@@ -1131,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1776976997331-5",
+      "id": "ko-1777148942156-2",
       "title": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - 지디넷코리아",
       "excerpt": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  지디넷코리아",
       "date": "2026-04-07",
@@ -1360,30 +1280,6 @@
       "excerpt": "오라클, 기업 데이터를 위한 AI 데이터베이스 에이전틱 혁신 발표  Oracle",
       "date": "2026-03-25",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWUzUmdGbm9iUTBkMGNTTGRFbG9Hc3JwRTB0MmFoQ2dZV0M3ZGtrT0pmdHlwUUVCS0RyZFk0azhuTk92SThpcVI3RGpuX3ZVVmtRZElSZU05bV9ZV0xBYWhjbFJZbWVrMjBYMnBDQkFGZXV3RXBxM09XX0NzU0lWNjB1Q0NKTXpPZWFheTROWlJCTFBXSFRfd18tYmdEQXVwYWV2czZEbjU3dFBDQkFfV3FtSTJtVENhdWtrMw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775507358431-5",
-      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - 인공지능신문",
-      "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  인공지능신문",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYXktYXl2bTFDMnpqU2hDQUFCV0pSaHpnV3lhT0c5YngxX2VWYXpHWmtsY3BZVFN4YktWS2IwV2F1eUQzQmpZQ2hSZEU2bnNJYlBVMmtpNllWNlJEN18tMF9ETWZWdlk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774384330638-2",
-      "title": "[美특징주]오라클, AI 수요 가속화로 본격적 반등…개장전 '강보합' - edaily.co.kr",
-      "excerpt": "[美특징주]오라클, AI 수요 가속화로 본격적 반등…개장전 '강보합'  edaily.co.kr",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3NObVFLY2pmTFdmQ1VsQ1d5TkhpeXJ6X0RVY2FyclBHU2V1bUUtVHFySXFKWWtiejBJelRhREtWR214ek44OHlyRVdEVlIwVHZEWEhBRmZSUXQ4UXc4dmJZRC1aYlRoeVNDV1RGZmxqS2I1QWd3dE1kMTV5QkdWSg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774902939326-3",
-      "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결” - aitimes.kr",
-      "excerpt": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”  aitimes.kr",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYXktYXl2bTFDMnpqU2hDQUFCV0pSaHpnV3lhT0c5YngxX2VWYXpHWmtsY3BZVFN4YktWS2IwV2F1eUQzQmpZQ2hSZEU2bnNJYlBVMmtpNllWNlJEN18tMF9ETWZWdlk?oc=5",
       "category": "Industry News"
     }
   ]
