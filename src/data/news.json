@@ -1,7 +1,7 @@
 {
   "en": [
     {
-      "id": "en-1777235335235-4",
+      "id": "en-1777323153578-2",
       "title": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon. - Barron's",
       "excerpt": "Oracle Stock Is No High-Risk AI Play, Says Analyst. Why It Can Challenge Microsoft, Amazon.  Barron's",
       "date": "2026-04-24",
@@ -33,7 +33,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777235335235-1",
+      "id": "en-1777323153578-5",
+      "title": "Oracle #1 on Spider 2.0 Lite with SOMA-SQL - Oracle Blogs",
+      "excerpt": "Oracle #1 on Spider 2.0 Lite with SOMA-SQL  Oracle Blogs",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTc1SkcwRzJJVy1OX2h5M2otSGtIOUdWa25udDJMY3J3WUZnTlY3dDNZa2VyVXUtWWh5TzFlbFMtajdqajNQeHVuSzdTOGgzN3NHTzY2TVFkSkFYNWF5WWN4QVY5eU9QVWYtRzFXMUZlSWZFMnpERll2ZDc1amRKaw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777323153578-1",
       "title": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database - Oracle Blogs",
       "excerpt": "Bringing Business Data Insights to Every User with Gemini Enterprise and Oracle AI Database  Oracle Blogs",
       "date": "2026-04-22",
@@ -41,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777235335235-0",
+      "id": "en-1777323153578-0",
       "title": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation - Oracle",
       "excerpt": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation  Oracle",
       "date": "2026-04-22",
@@ -49,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777235335235-3",
+      "id": "en-1777323153578-3",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise – Part 1  Oracle Blogs",
       "date": "2026-04-22",
@@ -57,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777235335235-2",
+      "id": "en-1777323153578-4",
       "title": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2 - Oracle Blogs",
       "excerpt": "Unlocking Data Insights with the Oracle AI Database Agent in Gemini Enterprise: Part 2  Oracle Blogs",
       "date": "2026-04-22",
@@ -719,25 +727,57 @@
       "date": "2026-03-27",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDZZMlVhVDhqelN2ZGtqUnNpcUo4N0o3ZjR6Mk56aXZVVlFWcU9mWEFxMzg2ZllydEE0UzNhUjU4bHdKTkEyQ0JLM21RQlBZOGtSZHdYQ1lldUxXS2haOXdCSW43UHhHOWVWdDREOWdyUUQ3MmVJV2RxV0poNHJaZXk1bjA0U05vVUQ5c2tQWjVZMkI5cjUtVWZmbGkxQQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1774556858583-0",
-      "title": "How to Load Embedding Models into Oracle AI Database in 2026 - Oracle Blogs",
-      "excerpt": "How to Load Embedding Models into Oracle AI Database in 2026  Oracle Blogs",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakVmYjhMUEFUOXNDMUtPdTdnMXc4WGRrdTh6clpodzE2bTBEa0loMnk1MnhiSlpjdVMzcFd3c1JPRW5KMjF4aUx6UGtialZZV0kyQ1hrV29mWnBGOTVybGh3bGtpX1RGZU1VR1hwYjRjSkFvWW1aV0o1MGFnMTBaelFELXJMTDJuVFJQTjhjczR4WmJxZUh1LTZMVWQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774902938773-3",
-      "title": "What Is Generative AI (GenAI)? How Does It Work? - Oracle",
-      "excerpt": "What Is Generative AI (GenAI)? How Does It Work?  Oracle",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejdoMEFybGhVS21HUDZocHc5SlpSd3FqWWdibnJnY3N3czVPUFVEM0RtdktEZGVfYXZYODZuWlc3ZTlKZjg4NzNHSEpfWnJKV01kX3NXbUpPRE95MjMwcGpaM0lkRFE1Yk1vdU9VY0tOTkJPZEllOF9WOEMxSkJSR2RaaXJMbFFIYVR0UWV4UlM?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1777323154160-0",
+      "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
+      "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YWHp2emdDd1Y3ME9xd0tUTDI5a0hzb1BGdlV5aFptcFNjS3Byek00M2RfcGxOemU2ajJTbUNQQTZjTzZpdFdDdEI5Sktoc3VINGpuMk9KbE9hZDMzN0tTVlZrRmZEdw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777323154160-1",
+      "title": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시 - 헬로티",
+      "excerpt": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시  헬로티",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByQS03VDRCTGNHRlc4ZVFqS0xTQnN4eTdhbFR1WWVTbHo4Tnh2NUIxQnA0UHBNWGRLRERRM3NPREo0OUdyV1N3SnlTUUNNQjRmLXhUdERIRDk5Zm1scHc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777323154160-2",
+      "title": "[오라클, '데이터베이스 중심 AI' 본격화… 구글과 멀티클라우드 동맹 강화] 오라클이 구글 클라우드와의 파트너십을 확대하며 엔터프라이즈 데이터에 인공지능(AI)을 직접 결합하는 '데이터베이스 중심 AI' 전략을 본격화한다. - AI넷",
+      "excerpt": "[오라클, '데이터베이스 중심 AI' 본격화… 구글과 멀티클라우드 동맹 강화] 오라클이 구글 클라우드와의 파트너십을 확대하며 엔터프라이즈 데이터에 인공지능(AI)을 직접 결합하는 '데이터베이스 중심 AI' 전략을 본격화한다.  AI넷",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1VZmppbFRGMFlWZkVtRjlSMG9RS0xYWk5jQ29kVjgzSkJWdGt6cmM0Y19iXzROTlc2LW9uNHNaTlg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777323154160-3",
+      "title": "\"SQL 몰라도 매출 분석\"…오라클·구글, 엔터프라이즈 AI 공략 본격화 - v.daum.net",
+      "excerpt": "\"SQL 몰라도 매출 분석\"…오라클·구글, 엔터프라이즈 AI 공략 본격화  v.daum.net",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aRGJlUHVmV1lEc1I4ZmNFWGExcVBHc0hkbmdqYjdKWmR5ZHVDdVlZX1RidHpkZjd0Vjg0Q3lIOUcyQUtkMXkyS2RzN1VlTE0?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777323154160-4",
+      "title": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속 - 테크월드",
+      "excerpt": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속  테크월드",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTSWVmdE9RNm1NUDRIWElYUXRYbmtGa2ZnSlpLSFF2b19VMzM3WlVLRndMRUVxdVM4TXpXT3VJTHJvS3htanBCTTNlWmQ4WDM3N2dMN0c1ck8zVFNNRHZFbGZUSWxadDlz?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777323154160-5",
+      "title": "오라클, 구글 클라우드와 협력 확대하며 AI 기반 데이터 활용 혁신 가속 - elec4",
+      "excerpt": "오라클, 구글 클라우드와 협력 확대하며 AI 기반 데이터 활용 혁신 가속  elec4",
+      "date": "2026-04-27",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZUhCUUlfSS1aYXNWVVIzVmE3RDZ5bWxBb0ItdzhuZldob0R6T0dlVWRsSHRES2FQQUNhQWtHNWxtLVlFREdJaGJ3UnNxVXRKN3ZrNWc2aUluZG5ZNko0MXJ0enkzOURURFZVQm1n?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1777235335776-0",
       "title": "[AI는 지금] 스타게이트 '자금 경고등'…오라클 인프라 투자, 월가 부담 키운다 - zdnet.co.kr",
@@ -1176,38 +1216,6 @@
       "excerpt": "“오라클, AI 투자 확대 속 구조조정으로 수천 명 감원”  전자신문",
       "date": "2026-03-31",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wZ0pDQlIxYk9Cb3ZaYWVQNDQ1TVFNLWNtYUhKS3c0OTVvT0VtNlBiUVY0RjJCYkc0ZkZuc2RkLVFyVVRYa3dRMzRlOXRKdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774989257737-5",
-      "title": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원 - 헬로티",
-      "excerpt": "오라클, 멀티클라우드·온프레미스 전 환경서 에이전틱 AI 구축 지원  헬로티",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoMkRLWGk2anNDb3h4eFplRy1Uc0ZzWjdNeEktd09mOWpZWTIyWW9seFFZSGVrMkhzQmJiMXpFX2RtV0VuWWxzX2dMZ2ZUakRiT1IyVmJGUlAtQkFvb0U0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774556859058-1",
-      "title": "[글로벌] 오라클, 기업 데이터·AI 통합 '에이전틱 데이터베이스' 공개 - 테크M",
-      "excerpt": "[글로벌] 오라클, 기업 데이터·AI 통합 '에이전틱 데이터베이스' 공개  테크M",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVjdIWkZEaUhDWElMNndKQ1pOR2E1REIxbjJoTzluZjBxby0yc1FLSkRzTS1GNXVKNHlkY185WmVtYTF5WHg2MzRCazJFTFpEelo2Q0ZNaUJ2WWstaWFMSmxrY3psa05PM2fSAWpBVV95cUxNMVY3SFpGRGlIQ1hJTDZ3SkNaTkdhNURCMW4yaE85bmYwcW8tMnNRS0pEc00tRjV1SjR5ZGNfOVplbWExeVh4NjM0QmsyRUxaRHpaNkNGTWlCdllrLWlhTEpsa2N6bGtOTzNn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774556859058-3",
-      "title": "‘파일럿의 벽 넘는다’ 에이전틱 AI 운영 환경에 집중하는 빅테크 - 더에이아이",
-      "excerpt": "‘파일럿의 벽 넘는다’ 에이전틱 AI 운영 환경에 집중하는 빅테크  더에이아이",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMDVLUUFMR0hfbzlLckxsOUthYmZQbG9ZaXhrdWl1N1dSUjdzcGJ6Nl9QOTlEN0tqZGlacDVRbVcxUkpQRmpqMzM0Q0tSc3dRLTNvSVEwMFZqU2RBR095b1BHOVJZYkFVd2c?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774556859058-5",
-      "title": "오라클, ‘오라클 AI 데이터베이스’ 에이전틱 AI 기능 강화 - 디지털경제뉴스",
-      "excerpt": "오라클, ‘오라클 AI 데이터베이스’ 에이전틱 AI 기능 강화  디지털경제뉴스",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UdVI2M0NPN095eEkydmpaNUJSRjFDaE9NczI0VkZmWkxPX1JjSGhMcXhkdnVYVFdmX3Y2a3h5UGhrZ2Y4RGdDRVBrS0NqYTlEcmpuRVVDSFFYTXJLejNiOVlNeUk3dHU0cWc?oc=5",
       "category": "Industry News"
     }
   ]
