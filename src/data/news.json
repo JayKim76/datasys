@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1777409940394-0",
+      "id": "en-1777495968453-0",
+      "title": "Oracle AI Database Private Agent Factory: Enterprise FAQ - Oracle Blogs",
+      "excerpt": "Oracle AI Database Private Agent Factory: Enterprise FAQ  Oracle Blogs",
+      "date": "2026-04-29",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW4xeF9PdHFtRnQ0YUgtVzlqU3pheE56ckEwM05IUEN6Y2pSWVB2OUZqbVdJdm8wTEYzY2JtYnlEMXU3QXZ6TGFCVWRtUXAzV2ZjNmVfY2JNQVpQR29rS2dmQXVRa1Q2SlFscGtHQ0w5T3dNT1hXc0k1QkxKUmJ6WnJGN1V3SUN4V2k4UzlmM3Zha1U?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777495968453-1",
+      "title": "Bridging Oracle Autonomous AI Database and Snowflake: Reading Iceberg Tables with Open Catalog Integration - Oracle Blogs",
+      "excerpt": "Bridging Oracle Autonomous AI Database and Snowflake: Reading Iceberg Tables with Open Catalog Integration  Oracle Blogs",
+      "date": "2026-04-29",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV09CZzdIVmFXRGVDTVp0WklsUXJmRFJiR0Jvcy1ZVUVrazJFc0ViWWpGWmZ2Rzl4M0RkUnRqOWRCSGlxSnN3LURBMWJCcXY4ZTBsQjBOUmRYdThCQ0Q1dlJ4WEVmMFAtS1hsTEt5TVFJdS1pMnJYQ3dmcUwySGI4S2pyYWZsWVVJT2dDYjNfMVMzek1jVVRqZHZ2S1BsemhNSEtLdVJ1aEJmZEhoQ01GREFkUHAyU0JUaTJOMg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777495968453-2",
+      "title": "Accelerating Vulnerability Detection and Response at Oracle - Oracle Blogs",
+      "excerpt": "Accelerating Vulnerability Detection and Response at Oracle  Oracle Blogs",
+      "date": "2026-04-29",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHpZTmR4bzFSRWtMblVVaEZrbUlpX1N3TDV1SHhwWGNZNHBtTFk1M0RNc1Z6MVlUMElFMURpZ0x3V1NXUXRXMnRLemdyWHJvdkJHZ0dPQktzQk9YZS02dTZ6MVlOc0I2djRBZFVaRF9GUV9QbmdNZXJLMW5xU3NaWjB4bVFuV2Y3UUpEOVFacWEtVU9WWnFFNw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777495968453-3",
+      "title": "OpenAI Shortfall Puts Oracle AI Cloud Commitments And Concentration Risk In Focus - Yahoo Finance",
+      "excerpt": "OpenAI Shortfall Puts Oracle AI Cloud Commitments And Concentration Risk In Focus  Yahoo Finance",
+      "date": "2026-04-29",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG5qSFM2TW5lb25NamVnWXQ2UUdZWE5yZ3UwbTk1TEx6aFkyVTBFZE5vZjZucklGQ3ZtbzRJc3dfZkttWFNVQVQtYUIwbHJUd2tyQ1k0QlZidktCQlNfLTZPSElZeU5yV0ZmbUYxX1lrR1UzZWExY3RrdHN2RS1peUR2YWNIUzI5dm44OUJwNUFBeGp5WFJIaDBfZEo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777495968453-4",
       "title": "Agentic AI in the Enterprise: A Practical Example in Inventory and Supplier Coordination - Oracle Blogs",
       "excerpt": "Agentic AI in the Enterprise: A Practical Example in Inventory and Supplier Coordination  Oracle Blogs",
       "date": "2026-04-28",
@@ -81,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777409940394-2",
+      "id": "en-1777495968453-5",
       "title": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation - Oracle",
       "excerpt": "Oracle Expands Powerful AI Capabilities in Oracle AI Database@Google Cloud to Supercharge Enterprise Data Innovation  Oracle",
       "date": "2026-04-22",
@@ -747,6 +779,14 @@
   ],
   "ko": [
     {
+      "id": "ko-1777495968897-0",
+      "title": "공룡의 진화, AI 시대의 붉은 제국 - 오라클(ORCL) - 네이버 프리미엄콘텐츠",
+      "excerpt": "공룡의 진화, AI 시대의 붉은 제국 - 오라클(ORCL)  네이버 프리미엄콘텐츠",
+      "date": "2026-04-29",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1NVc3VWeGRXeFNydGhuT052X2JqQmlUU1NUVEp2Y01BUl9JNHNpS0JRMlJoOGQtanVOWXVJWVJ1dnlyaDJ3R3lLYTRPcWItaUVtT0s4eVZGaU1iMGtlVDgyNEt5a2RVNWVDY2h5OVdGZWhmTGt5UjNoeUdyaGtWX2J4QVpNQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "ko-1777409940887-1",
       "title": "오라클, 오픈AI 실적 부진설에 'AI 거품론' 확산…주가 3%↓ - 마켓인",
       "excerpt": "오라클, 오픈AI 실적 부진설에 'AI 거품론' 확산…주가 3%↓  마켓인",
@@ -771,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777409940887-0",
+      "id": "ko-1777495968897-1",
       "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
       "date": "2026-04-27",
@@ -779,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777409940887-2",
+      "id": "ko-1777495968897-2",
       "title": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시 - 헬로티",
       "excerpt": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시  헬로티",
       "date": "2026-04-27",
@@ -803,7 +843,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777409940887-5",
+      "id": "ko-1777495968897-3",
       "title": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속 - 테크월드",
       "excerpt": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속  테크월드",
       "date": "2026-04-27",
@@ -811,7 +851,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777323154160-5",
+      "id": "ko-1777495968897-5",
       "title": "오라클, 구글 클라우드와 협력 확대하며 AI 기반 데이터 활용 혁신 가속 - elec4",
       "excerpt": "오라클, 구글 클라우드와 협력 확대하며 AI 기반 데이터 활용 혁신 가속  elec4",
       "date": "2026-04-27",
@@ -824,6 +864,14 @@
       "excerpt": "[AI는 지금] 스타게이트 '자금 경고등'…오라클 인프라 투자, 월가 부담 키운다  zdnet.co.kr",
       "date": "2026-04-26",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWV9vamJBMFpOb0ZLRlNzM1NBZEphNGhnQjVsQXdvNmhlaUVkbFFWSVVPZDRHRWJpZDBCTm5jdXZlWVlhOUszakVJNGE2cmJsSUt6cExn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1777495968897-4",
+      "title": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다 - ER 이코노믹리뷰",
+      "excerpt": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다  ER 이코노믹리뷰",
+      "date": "2026-04-26",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USTNIcWtoQXJXMFBQb0NvTWh1ejhmYVdVdGpGV2ppTFZfeklvdmdWUFJER3lKWkoxbTFsbjlQOE55M2FSTjhvNGdKd0tnS205T3I4eUN5LXhwM21lNFdidHo2bzBlazQ5c1FRTA?oc=5",
       "category": "Industry News"
     },
     {
