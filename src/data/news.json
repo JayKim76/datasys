@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1777582222104-0",
+      "id": "en-1777668084434-0",
+      "title": "Oracle AI Agent Memory: A Governed, Unified Memory Core for Enterprise AI Agents - Oracle Blogs",
+      "excerpt": "Oracle AI Agent Memory: A Governed, Unified Memory Core for Enterprise AI Agents  Oracle Blogs",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnRIbmRfR2RkRGZKMjY5ZFgyaXpqdnRPU3llaVJUMFkyNnVLZVBOSVJ4bkJiZmRGSUJSaGJyRWlGRnpPTjdEUDJ1Y1R3Znl5NnFsbUFiYkF6SWVXdHJqSDBQVnQzazRoOS1TdTNMbmIzaEpaV2VQcFpONVphUGNEdFFyanFaTXZOeGVKSTdRN3BSMTZWSk81Rlo3c0VjV3FuNHc4elVMajJQdnFsSkRCQl96WWs?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777668084434-1",
+      "title": "Select AI by Release: A Quick Guide to 26ai and 19c Capabilities - Oracle Blogs",
+      "excerpt": "Select AI by Release: A Quick Guide to 26ai and 19c Capabilities  Oracle Blogs",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmg1dGFFSzY0X3p4RkVpRHl5QlNfdGJJTXpWYnFmOVREbnhaMlh2Y09SdXVqRTFMRVJUSy1fdDk5RWFtYmkyOFlBOUlWR3B4SVU1T2dacENjeEdBUEdFcEtMOW4zQVpUN2pibEJaYjRDODRTRWh0cFRyNC1pZV9wZjlkM0hZVG1hZjlxWGloU3EtWWxQVHN4UVFEcnJGMnlj?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777668084434-2",
+      "title": "A University Use Case for OCI Generative AI Agents in Research Compliance - Oracle Blogs",
+      "excerpt": "A University Use Case for OCI Generative AI Agents in Research Compliance  Oracle Blogs",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uQ0w5NUQ4Z1ZvZnN3ZG9SQmFCQXROVHByMGVFQjY4bS1uaFBhVUwxYUo5WHltUWlGT0hLZmd5cHpCRFYtYUlVOEpLdHppZE9NQ05tdFF2TnJZYy1LdzlDWkRZb1hZeWQtc0xhN1d2N3ZrNXpTR1lzLUlR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777668084434-3",
+      "title": "The Evidence and Control Layer for Production-Ready Agentic AI - Oracle Blogs",
+      "excerpt": "The Evidence and Control Layer for Production-Ready Agentic AI  Oracle Blogs",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcW5oREVTYnpTWkZCVnRqbHJodWYzYmRsdF9xQ0x0RS05UG9IeHRqbDlyNGlzTUMtVGk3MEM4SXp5SkhNQnJRU0poeE9ZTmd5T3FYeG5SYmMzaUk2X3U4WG0tWDZYODUxei1uekttTFloVmdOZjlOTFVrelluc2FjeU50WkMza0U?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1777668084434-4",
       "title": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats - Oracle Blogs",
       "excerpt": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats  Oracle Blogs",
       "date": "2026-04-30",
@@ -25,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777582222104-2",
+      "id": "en-1777668084434-5",
       "title": "Oracle AI Database Private Agent Factory: Enterprise FAQ - Oracle Blogs",
       "excerpt": "Oracle AI Database Private Agent Factory: Enterprise FAQ  Oracle Blogs",
       "date": "2026-04-29",
@@ -719,97 +751,17 @@
       "date": "2026-04-01",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSV9FVnBVTWZ1eml2Q01uUGR3dm42enQ1d1RfSkp2WW9HeHk3b00xOGpYVWpLMWZGRFJUa2R6c0pZbUx5S3Jxd296SDZUcEVlSF82aDV2cWdXWnAtblVDOU5uMThlMEtDN1dOT1dWMXhQQ3FpaVVfMDNTWFM1TE5laUZVelpMN1hva1E2Y2I0SmpaWXE0U3hMMVhieEQ0aUlqNkphZzhR?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1775247951116-1",
-      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending - CNBC",
-      "excerpt": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending  CNBC",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWDd1VXBvQWcwcDFmbHZlRUk0aEoxcmJ5SGJKQW8yMEczRjJIVERubFRqc2tDUGRHSkcwd3Rkakc0YjJPQ2U1VExuZGZuTF9DQmNSMEZxdk5XVUFnRWNRQTlnUTZSdlNLQWpZdWZpSE_SAXZBVV95cUxQQ1F1bUtBSmctcDNFRVhCNFJSX0xQcnRGMHpMNF9mRkdLZEN0cXQtU0pveV9Gbl9Bc0R0akRoRkFJcHFnV0Flc0UwQ1RmUUdpeHNraHJyN1FLTkNqbTFRQzBmVU14UXVZYTdnWk5ZeHh1amI5Q05R?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774989257113-1",
-      "title": "Oracle Lays Off Workers Amid Heavy AI Investment - WSJ",
-      "excerpt": "Oracle Lays Off Workers Amid Heavy AI Investment  WSJ",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOeTRHeUpvMDh3VV9hZ2ctUThqM2liZ0JKTVZqNTV6ajZjODlPUFVobHItdzBzejJrd0JPSkdRcVhMb2xWZmp1dVd0ZEpOYndiVnVRYWVqZlBaTlZSaUxfUmdJZHE1cC1nTF9hZVFfTnprakVtdzFrWjd1MThQZzBTVjVhdXZIXzF5TmlMXzVZQ2FsOUR4MHFGRG1wOVptU2ZQU1VxVXJuc2hSa0QtMjNaNTVqVnJ0NWZtbEhMQ0FLdGltV05iaFd2ck4zMUVxN2lHU2VxaVZRaGw5N0pCSk5uUHY5cjdteFdkSUJ2NnY3ZEExeXZ6U25aajIwNTlCM0FYX2ltNDZIWHcxZWNDOENNTTJrc0VMVVNPdVBOX2czTDRiSWJ1N3hmYTlWY1ZxbUJEa2xGWDRQR2tYdl9UbzJUWmtaOVlKaUkyYmppNnppMjQ4QVcxQVh3SFFTRDFvSi1QTE4xX25IanBXcXdsanJhaklSLVp2Ujl6SVRUWE8tSVQybnBxYnZwLWthNndjSEE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774989257113-2",
-      "title": "Oracle Lays Off Employees As It Curbs Costs During AI Buildout - Business Insider",
-      "excerpt": "Oracle Lays Off Employees As It Curbs Costs During AI Buildout  Business Insider",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFg5d2FmLXJIbEVYWWZYX1FxQUR4WEdQNlVLUGtkTUhuOTEzYnBqaEJUcUJyV1UtaE5rUHBPc0J5MmUxZGw1MERhSlZ3bGJHT3pGcWJ2Y0J2WkZITmdhWmdtVlRpTU5BeTBvQUEtVWEyNURUQTNseXRCWktGLTB1dF9ELW43bTV3a1o1NjFzY1RibHNV?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774989257113-3",
-      "title": "Oracle Begins Employee Layoffs to Reduce Costs During AI Infrastructure Expansion - MLQ.ai",
-      "excerpt": "Oracle Begins Employee Layoffs to Reduce Costs During AI Infrastructure Expansion  MLQ.ai",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmFlX3BzakNOazFLREc0WHY1QTdQNl9Qd2FPTXg4bnEzQnY0ci10SDRyT3F2aVJ5b25iNUY1enp3NVFKUElqb0xTeXRQb0NIWkVqWHFrM1BLU2E2RUdZMnMzdl9KTnZETFdTVTlfWmJpY1dWM3d2ZWhZUnpLbW0tZjA3R0lVUEd6YmNDMDJ4NFlpaldHMHhGc1IwTnlSeUd0MEFhVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774989257113-4",
-      "title": "Oracle Launches AI Data Platform Tailored for US Federal Agencies - MLQ.ai",
-      "excerpt": "Oracle Launches AI Data Platform Tailored for US Federal Agencies  MLQ.ai",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeldheGtfTzBOM1FIS0tHaUpkMDJqdUlIUVFlQi01ZFlLMUVhd1B4cUt6SDExM3A4LUdYcTZ1M1V0ZUgyTVhZTmRTMF96NkNXS2RXeXJGX0puOEowQ25ORFF3NUJIV3N4cVh1Q3lhWUJ1ZlIxM00wVXdXdE9TRUNVRERWUG1sbWt1YmEtRTNndw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774989257113-5",
-      "title": "Oracle layoffs reported as company pushes deeper into AI - Austin American-Statesman",
-      "excerpt": "Oracle layoffs reported as company pushes deeper into AI  Austin American-Statesman",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelZLWDQ2NXpSUEt3NGJ1MERKRmlnNEZnTjVVWmQ2X3pDdTlRZ2w1LXp6S2hKS1RTYWdEcS1XdjVZbFJ6OExuSXFwQkdncDRBZHRvcUdRM0JkN2psLUFPODdFTnQwbU9wNHJPV2J2dXNJUUZ2SDBSbFB6R05pLXVaaUhpUFNaaWtFQjJCX19YeENPTTJSVkJXc1RMQlVQUGF5eWc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775507357986-5",
-      "title": "Oracle Unveils AI Data Platform for US Federal Government - Oracle",
-      "excerpt": "Oracle Unveils AI Data Platform for US Federal Government  Oracle",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1Yxa0N1bHZvZjY2ZTZkYmFlYkRqaXJ0WjJTTWR3bjR0TkprRG9mT0tKZlQzcW53Q1N1M1BXdFlvbzZfV1lMSkktelVjcHBkWXc3Z0JoTllYWV9udDJ2aFBfNXNzLThVVTNVQWpYME5RdnpQTU90bXNpMFFqSWxBTXJ4TktkMDh4eGF3OHZKa0YzYmxnSmNNNWZ5dG5OV2ROWjVsQ1g4QkZhSHJJWE9z?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775420500352-5",
-      "title": "Oracle and NetSuite Deliver New AI-Powered Solution for Restaurant Operations - Oracle",
-      "excerpt": "Oracle and NetSuite Deliver New AI-Powered Solution for Restaurant Operations  Oracle",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVlfQVU3MWFMN01YQTFGM2Y0VXdoZGc5dXJiS3pqaFloTUxqUUNyc1U5YkdfQnVObjlpWUJKb0lnN2xFTkhURFZSeW9MTmtvTjhHbzdDY2V2YlNpZF9WVXh0NVdPNnk4WmxMbUhBdVFTUWVuZ3JfNGdUVlkyY01oUklEdVpaLWV1UHQ4UmJqSFIxbTNXZUNwLXpIZkl3eWI2REtQTThSRFlUa3U1QUZBRUJrbGJDUDItSUw3cVE3QzdxdzZRWjdhSld3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775333962085-5",
-      "title": "Getting Started with Private AI Services Container - Oracle Blogs",
-      "excerpt": "Getting Started with Private AI Services Container  Oracle Blogs",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3BQZnhONUhXaFFIUlpHTlBvT2c3YlNRNVZxMEpyM2RvQmhyNjN1bEZRYzExaHB3Nm55QnRDYzNRYnM2TDNyakhPQzVoQXZBV2sydEY4NzZOckdSaVlKZi1KZm1DRUtWcVllZzU2LXZTY0NCSXhHNWh4V0RkTTFIdzFQT0NDUERvLWpBcA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774902938773-0",
-      "title": "Mission-ready sovereign AI with Oracle and Mattermost - Oracle Blogs",
-      "excerpt": "Mission-ready sovereign AI with Oracle and Mattermost  Oracle Blogs",
-      "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY21qT3NpamtlOS1DcS1lZlRlU3BGbVlwWkYteC1DWVo1YXc5RFI2QzBjM2xWRDhkNlpiWU9TVG54dVBoRkxoTlM5WWJaNlJVeW9NSi1XVWN3VDA3aEQwOURHVFlTQzVjLXI0UzREdERYUmZpY2pfWndGWVpXSGRPQmRR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1774902938773-4",
-      "title": "Oracle Expands Nashville Footprint to Support Cloud, AI Growth - ExecutiveBiz",
-      "excerpt": "Oracle Expands Nashville Footprint to Support Cloud, AI Growth  ExecutiveBiz",
-      "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1RGc2JnbVlCZXEyc1l0TlplbVMzejZCazdIVU5hRk9LYk1SZ3JaenJObEprYWxFa1hVR2V5V0EzOGRZTnF5SGwwdTNYMEFrTUpTckhfUTRwaUpLQlFWX0hIb0JvRkdKZmI1Z0VrUVN0ZzJaYjVnV2lNQjhodFBSMGQySkN5MDA?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1777668084889-3",
+      "title": "Oracle Corp (ORCL) 주식 시작했습니다 상승 3.61%에 5월1일: 변동 원인 - TradingKey",
+      "excerpt": "Oracle Corp (ORCL) 주식 시작했습니다 상승 3.61%에 5월1일: 변동 원인  TradingKey",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW00TXVxRm9XQUxRVHBabEJJNy1RVmNKMW9UU25jaTZnd3RRUG1QNmI5NEFsX1c1bXE4WjNBd2JLZU1YQVMxYVJLSFAyeWNuYnlLWm9SOE1tMm9mZS1CLUZxX2FQbEJUdkJpN08yYkxGLTM0cGFzR0M2Rm04MVN1TkVEWTh2cS1JTTVKd1RVYw?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1777495968897-0",
       "title": "공룡의 진화, AI 시대의 붉은 제국 - 오라클(ORCL) - 네이버 프리미엄콘텐츠",
@@ -843,7 +795,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777582222587-0",
+      "id": "ko-1777668084889-0",
       "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
       "date": "2026-04-27",
@@ -851,7 +803,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777582222587-1",
+      "id": "ko-1777668084889-1",
       "title": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시 - 헬로티",
       "excerpt": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시  헬로티",
       "date": "2026-04-27",
@@ -875,7 +827,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777582222587-3",
+      "id": "ko-1777668084889-4",
       "title": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속 - 테크월드",
       "excerpt": "오라클, AI 데이터베이스앳구글 클라우드 AI 기능 강화…엔터프라이즈 데이터 혁신 가속  테크월드",
       "date": "2026-04-27",
@@ -891,7 +843,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777582222587-2",
+      "id": "ko-1777668084889-2",
       "title": "오라클-구글 클라우드, AI 기반 데이터 혁신 위해 파트너십 확대 - 캐드앤그래픽스",
       "excerpt": "오라클-구글 클라우드, AI 기반 데이터 혁신 위해 파트너십 확대  캐드앤그래픽스",
       "date": "2026-04-27",
@@ -907,7 +859,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777582222587-4",
+      "id": "ko-1777668084889-5",
       "title": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다 - ER 이코노믹리뷰",
       "excerpt": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다  ER 이코노믹리뷰",
       "date": "2026-04-26",
@@ -1304,46 +1256,6 @@
       "excerpt": "오라클, AI 투자 확대에 인력 수천명 감축…클라우드·DB 전반 영향  지디넷코리아",
       "date": "2026-04-01",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUkVocUlERnQ1cjZjb0VuaVZORVdXa1J1WkY1c2l6Nl9HXzBWdWNHbXZKYldPWEhoUFpQQzIxRDYzTy1JTkZoTW9IcG82YlVJTkdtV2pB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774989257737-0",
-      "title": "\"오라클, AI 투자 확대 속 수천명 수준 감원\" - 디지털투데이",
-      "excerpt": "\"오라클, AI 투자 확대 속 수천명 수준 감원\"  디지털투데이",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54N28tZlkwUXU5WXRwLW80d1VkYVpGdDF0YkF0RU00ZXFMMm1mUFh2aTRnS1pUOVJPSnM4MW1HMV9nUk0tQkhvS3RveENVV1ZDNEdpUll6eU11RWtySXFleUZKVnpYeFQxMGtDckdETjd6b2M?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774989257737-1",
-      "title": "오라클, 코파일럿 넘어 ‘실행형 AI’로 업무 수행하는 AI 에이전트 시대 연다 - elec4",
-      "excerpt": "오라클, 코파일럿 넘어 ‘실행형 AI’로 업무 수행하는 AI 에이전트 시대 연다  elec4",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LV2ctS1lKQ05aTlMzeXVWbElCTGpSa2QzZTBsdkt5TGtzalhRNUNrNDZ0aExMZWZXQjR6MzNfWld5aXFfZm1fWUdTaTNVSlBKQms5clI0bUlnMDFJV3JwdlpiNWdHakE1Q1A0Q1RR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774989257737-2",
-      "title": "오라클, ‘퓨전 에이전틱 애플리케이션’ 공개…엔터프라이즈 AI 전환 가속 - 테크월드뉴스",
-      "excerpt": "오라클, ‘퓨전 에이전틱 애플리케이션’ 공개…엔터프라이즈 AI 전환 가속  테크월드뉴스",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NWNVblQ5UDVEQVNXUTJXR0puVkt2bElfMzdiV2hMZE9xX3VFeExaQUlGVGNiMlpab1dGYlVfalAyN2JudnR5STNkQUl6MVNTeDJ0MXJRZ2xBdTRpSFJ3Mmc2Zk1nYURx?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1774989257737-3",
-      "title": "오라클, ‘퓨전 에이전틱 앱’ 공개 ··· AI 자율 실행 시대 본격화 - 데이터넷",
-      "excerpt": "오라클, ‘퓨전 에이전틱 앱’ 공개 ··· AI 자율 실행 시대 본격화  데이터넷",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xYlFrdjVoQ0FqenFCSjZhSTNteFI4dG1taFd6RW1YMGZHWndJRnc5S1FfeW5aTVZOUENFQVRGZ2dhSEpXWVI2U1JJNWx4b0hKdmNLamJIR0cwcHh4dkNSRnhMSFE0LU9VOHZNUg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775075727008-4",
-      "title": "“오라클, AI 투자 확대 속 구조조정으로 수천 명 감원” - 전자신문",
-      "excerpt": "“오라클, AI 투자 확대 속 구조조정으로 수천 명 감원”  전자신문",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wZ0pDQlIxYk9Cb3ZaYWVQNDQ1TVFNLWNtYUhKS3c0OTVvT0VtNlBiUVY0RjJCYkc0ZkZuc2RkLVFyVVRYa3dRMzRlOXRKdw?oc=5",
       "category": "Industry News"
     }
   ]
