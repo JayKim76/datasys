@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1778014435364-1",
+      "title": "OCI Observability for Agentic AI - Oracle Blogs",
+      "excerpt": "OCI Observability for Agentic AI  Oracle Blogs",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkFRY1ZMOGJGRTNrRTRnRW12R1RTUG5kQVA0NVdyYTFGS0Y1dnQ1SDhTUHJVX2VyT01tZmFaREVNY2NOMVN0WS1obW1Ld04xS1dCczhnc1J4VFlzR1dGNHcwcjhON1JJNnlrSDBBN3FEdV9WN0FCMEQyc1JpZ01TaXVn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778014435364-5",
+      "title": "Oracle AI to be integrated into DoD classified networks - SDxCentral",
+      "excerpt": "Oracle AI to be integrated into DoD classified networks  SDxCentral",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFdBR1lKQ2E3ZWJQU2RQZFl6ZDZKSWpIZ1FWbDdXbVV4SVR6MWtabE5ENEFlY1R4WUROTENDQXJmRGdvWU5tRFJZbnE5UXFRbjY1UTJ5ZXZHNDUwR2UtUjVqajQ2cXFHN2UtbU55eU9GZW1PRXNadHhmaHNjeXN5ZjdyVzRzSlpqR1BaWFpJQl84dw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1777928316961-0",
       "title": "Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push - 24/7 Wall St.",
       "excerpt": "Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push  24/7 Wall St.",
@@ -33,6 +49,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1778014435364-0",
+      "title": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud - IBM Newsroom",
+      "excerpt": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud  IBM Newsroom",
+      "date": "2026-05-04",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTVZUHpEby1yakxHOS12bXVFZXlFZHU4QlZTWDZfSURoTkk5c19wOXNqQ2tpeGhTVDdDXzRham1ZeFlBUWhkcVdxZ1k2blh1VzQxa3JBMFVRZ1htQkF0UldVR2x4Y240OXRSRWw0NTh3YXRQenVqRXNOeUJzb3Zjd0pndFFyRjVCQkJNbU9ZRkFuc1IyZ2NUd2QxNTNGd2dHSGNEWkhQeDRvSjFzR1ZGTS1yZw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1777840373868-4",
       "title": "Oracle’s Defense AI Win Highlights Government Cloud Role And Valuation Gap - Yahoo Finance",
       "excerpt": "Oracle’s Defense AI Win Highlights Government Cloud Role And Valuation Gap  Yahoo Finance",
@@ -49,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777840373868-1",
+      "id": "en-1778014435364-4",
       "title": "Oracle Deep Data Security Is Now Available in Oracle AI Database 26ai - Oracle Blogs",
       "excerpt": "Oracle Deep Data Security Is Now Available in Oracle AI Database 26ai  Oracle Blogs",
       "date": "2026-05-02",
@@ -89,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777928316961-2",
+      "id": "en-1778014435364-2",
       "title": "The Department of War Announces Agreement with Oracle to Deploy AI Capabilities on Classified Cloud Networks - Oracle",
       "excerpt": "The Department of War Announces Agreement with Oracle to Deploy AI Capabilities on Classified Cloud Networks  Oracle",
       "date": "2026-05-01",
@@ -97,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1777928316961-3",
+      "id": "en-1778014435364-3",
       "title": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats - Oracle Blogs",
       "excerpt": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats  Oracle Blogs",
       "date": "2026-04-30",
@@ -731,7 +755,15 @@
   ],
   "ko": [
     {
-      "id": "ko-1777928317409-0",
+      "id": "ko-1778014435946-5",
+      "title": "오라클, 국방 AI 계약 수주로 저평가 부각 - 데일리바이트(DAILY BYTE)",
+      "excerpt": "오라클, 국방 AI 계약 수주로 저평가 부각  데일리바이트(DAILY BYTE)",
+      "date": "2026-05-03",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yb0tKSzVaWlFYNEF0R19FdjhKTkw4UjEzUzFLU0UyTEVseW5tOHZfTWVTeGlZbENyUVp1VjUyWHo2UXNRNXA0LV9lZmw3VHROY0luMUZiVkQ0M0tmcnhNa3JxelRvT09xY1FZ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778014435946-0",
       "title": "연료전지 AI 캠퍼스와 더 깊은 구글 제휴에 따라 오라클(ORCL)의 불황 사례가 바뀔 수 있습니다. - simplywall.st",
       "excerpt": "연료전지 AI 캠퍼스와 더 깊은 구글 제휴에 따라 오라클(ORCL)의 불황 사례가 바뀔 수 있습니다.  simplywall.st",
       "date": "2026-05-02",
@@ -744,6 +776,14 @@
       "excerpt": "Oracle Corp (ORCL) 주식 시작했습니다 상승 3.61%에 5월1일: 변동 원인  TradingKey",
       "date": "2026-05-01",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW00TXVxRm9XQUxRVHBabEJJNy1RVmNKMW9UU25jaTZnd3RRUG1QNmI5NEFsX1c1bXE4WjNBd2JLZU1YQVMxYVJLSFAyeWNuYnlLWm9SOE1tMm9mZS1CLUZxX2FQbEJUdkJpN08yYkxGLTM0cGFzR0M2Rm04MVN1TkVEWTh2cS1JTTVKd1RVYw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778014435946-4",
+      "title": "오라클, AI 인프라 경쟁 새 판 짠다… \"GPU 아닌 데이터 통제권\" - 한국클라우드신문",
+      "excerpt": "오라클, AI 인프라 경쟁 새 판 짠다… \"GPU 아닌 데이터 통제권\"  한국클라우드신문",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYnpSd2VORlVGY2gzb21wclA1U1ExWnc5aTRZR3BkM0QzNW5FbXd5UU9jOFZfTENMUjhleWY0cndvNzk1eXhLdnJMcGd6OXNIaWxiSzJ1MExsSmNmWHdJMmtYUkVURE5wWGUxQ1pNTdIBc0FVX3lxTE5sSFUtR3FESEJSZ1F5VnJlS0lBOEE1NmI3RlZiekFCczZjR0NabFIzc2hDOUdDMkxiclR4LXg2SmE1cWhYZGZLV1pwNmROdWk2aF9GM015X205WURRUWhORDhXbkJDWjhMYXRjRlZhSTN5MXc?oc=5",
       "category": "Industry News"
     },
     {
@@ -779,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777928317409-2",
+      "id": "ko-1778014435946-2",
       "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
       "date": "2026-04-27",
@@ -931,7 +971,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777928317409-3",
+      "id": "ko-1778014435946-3",
       "title": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다 - 지디넷코리아",
       "excerpt": "[AI 리더스] \"AI를 DB 안으로\"…오라클, AI 도입 공식 뒤집는다  지디넷코리아",
       "date": "2026-04-17",
@@ -955,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1777928317409-1",
+      "id": "ko-1778014435946-1",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-16",
@@ -1160,14 +1200,6 @@
       "excerpt": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  지디넷코리아",
       "date": "2026-04-07",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTnYwTXc4LUY2WmFXbGhOR3BWT21TZkxzOTBfcnpDX0xUTnpIQWJ6WlNQZ2dpRmZXWXYtc2dIdFhBOENkbVNyU1Y1eDA3VlJFMVY5WEJ3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775333962491-0",
-      "title": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’ - ddaily.co.kr",
-      "excerpt": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’  ddaily.co.kr",
-      "date": "2026-04-04",
-      "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxPZDBReUlxdkpZNkhvV2dqMVpXZkZ5cnJxVkJYM05ZYUg0UUFWUVJ3YjlIRjZ6U0pNRG5zTTRRaUVBNVgzZzJhQ2tQbXdWVmFXbGFHajZQS0FnQ2JyYk1Wa3BVUEY1U0dka2hPTnNKeHphSm9DNHVFUkFzTDJLeTRVb0pEMXlaNkpSTGNHUmxHMG1GdHRwYnV6aUFDWGFXdXhwZDVWNC1tVFJKU2RSc0pKY0tYdHRfbTdQLXNqWTNxMlgwWkpVV0xJQlhmaTJsczkxdERpTkZyNUZDOVFRSldnQ25NUEVlOHFhMWRTNHZPUzFXWVIwSXUwbmVVaDNxQ2NYWmxZbzE1aUlJanVfU1NUV1RRTXpFMlBSeGJucVN1TFZoVFZNbThxNFpVX2tiQ2I2OW5EeW5fcXB3a20xWGlqOEtyRmJOX2h2WnBwZWlxV0oybVFIa1Nfei1VcXd3alBmdG1RQXExQ21EbVppUW9KTjloR1h5M3NhQ3REbk9sNlhOSDktSEhoM0FuMFYtLW9mTUk0V0xSaEJMTHBjSG85bDQ0am80Q3QyR2tENENZeWVmX1p1b3EyOFcxeUIweDhOTGE1Z3FGM1BKZm93Y0x4VHpEdnE2bEJ3bnk5b01zTTNGLURsYXVQYWtNSkZ4RDhOMTA3QkZqWFhjWG9JbXlKbFZreWY5b3hZamZsOWVYclVXY01HOFQwME5TbTliSGlFWmZmc05BeVpRVnA3TFZYWEFPeVc5TVUtcW9tbGkzNkVWVmFra2xFUEZQd19nWlZPZ1lfWHNfRVlkbS1sakl1dk1CaDRsNjFxRDRsRUFyM0FUU1NXQ0NKT2JOeWJwTlgxYTdSUGNXekc5UUhzdmVIRHVaUnhla2wzYjllQ2IwVGJXZk41V0t3R0NqS004ZlBucUZVVHJZcWpnYkl6ZHcySmUzUXhWZ0IycTB3UVQzaTBqOVpPX2QtMmVLajhTUkZhQlFtc3RQOE1RS0tKcFNpR3Q3V3FPSm9aSjlzdi1QM2psRFZZdTlUaUhPbTZrZkxnUmx2bzNsUjdFaU9FNVJOeko5U3ZQNkdoX2ZtY21uaWE1RFZkb2w1cHFEZ1VOLW83ZVVTbXFodTY4UTJadDF0VHo4dlRqUEN0OGlTZ25yRko4ajZrTmY3cVFZU1JxazEyNmUyWHIzTlY4cDBEZUpqVjdjVEpWSkRKb083WF9GTDhNUnJGQkRjRHI1QQ?oc=5",
       "category": "Industry News"
     }
   ]
