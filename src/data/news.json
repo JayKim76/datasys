@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1778101350238-0",
+      "title": "Oracle Multicloud – What’s News - Oracle Blogs",
+      "excerpt": "Oracle Multicloud – What’s News  Oracle Blogs",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3c3aDc3aW1CbVN4Q2MydlhuNVhPZm4wZmZrVFdoQXdiTHdBOUl4d1ZsNXpvY19iWXgxXzNjMmY0MXIzN3VhOVJxQXNNVXN0aHFyekotcHJKalFTbG5INDZkbUFLMEQ3OHZRZ0NETlhxSjlhUko0QWU1ZlhUS0NJSy1JVlI?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778101350238-1",
+      "title": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security - Cloud Wars",
+      "excerpt": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security  Cloud Wars",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMC15ekNzTVZiLVNyajEyeDVYQXNZbVdONlQ0QlZ4WGNVMmdXekwzUkdRNHlxSEoxYm9aaUU5eXFUbmw4dTZSbUdYZ1JDWkg1VW5VNUpvWDNqaWpSUmNWQUFHMXRqOHRhMm1SM1JOSG91YUxTbjM5akJpdUZXVGhSRXB0NFd1TnphbG5La0V6bW1PTUs3MlJEUUE1QVpKdHRMTmtfTWc3dmZkbmdsbW1YNG1B?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778101350238-2",
+      "title": "Getting Started with AI Vector Search LiveLabs Workshop Updates - Oracle Blogs",
+      "excerpt": "Getting Started with AI Vector Search LiveLabs Workshop Updates  Oracle Blogs",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SX2Jxa2RMY0V4YmNRLVdlaTJJZ0Q2S1JMeEE4Z3BUQUxjYklpX19KZ24tS2Q2eDhVYVIxWmxpalM5bUNxdWIwWlBYVzNxakptcUxNNDBtQlRkbGVLYVNfS1BsMVhwX0JIWE5XbTlkMHRtQWc3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778101350238-5",
+      "title": "Getting Started with the Vector Index Service – Part 1 - Oracle Blogs",
+      "excerpt": "Getting Started with the Vector Index Service – Part 1  Oracle Blogs",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVI0cDc0X3dpTEJmUk14c2xKVFoxZkMzWkQtUzB2ZXF2enJsVlBZc2RXcEVHRU1qQklqNUZVWWh0ampSOS13cG1xLTJtVkhuSVpUaXZkOU5mS0RXSDVLQ294TUo3SG9tWU1lVWVzbkFoRWR6T1FEeEJkSVNJenBrekFMMk9OZw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1778014435364-1",
       "title": "OCI Observability for Agentic AI - Oracle Blogs",
       "excerpt": "OCI Observability for Agentic AI  Oracle Blogs",
@@ -49,7 +81,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778014435364-0",
+      "id": "en-1778101350238-3",
       "title": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud - IBM Newsroom",
       "excerpt": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud  IBM Newsroom",
       "date": "2026-05-04",
@@ -113,7 +145,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778014435364-2",
+      "id": "en-1778101350238-4",
       "title": "The Department of War Announces Agreement with Oracle to Deploy AI Capabilities on Classified Cloud Networks - Oracle",
       "excerpt": "The Department of War Announces Agreement with Oracle to Deploy AI Capabilities on Classified Cloud Networks  Oracle",
       "date": "2026-05-01",
@@ -743,17 +775,41 @@
       "date": "2026-04-06",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRzQ0FPeDJMY3BvWTE0eVJfVDFtOTZ5Mjg3NllBYXA4UFNlbElxMlJNSEhrdkZwVExNNEZnRGxyVWVma3dmLVNwWTZrano1OEtqTHYxVDBiT3YxS0lvTnNZdjhMdXN3NUJabVhwa1RTNlFkTVVGNnBscWZ2Z1V5ZTF3WFhKNVZSYy1DZ1czM2VPMjNmZWVVc0lzTlM?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1775420500352-0",
-      "title": "Myth of the AI Oracle - Lawfare",
-      "excerpt": "Myth of the AI Oracle  Lawfare",
-      "date": "2026-04-05",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jUWw3SFNBN0NRbkxDN1BYTG1feHI0UWhBaDZzYjNlcGF1am5iWHc5X2ppdGNKaGdkSUNfNTRwZUY2ZVJSTUZ4Y1F3ajYySXhxNHhVM09DeEg4UFBEUVppa0VoR1hUVG4tWUE?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1778101350629-0",
+      "title": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요? - simplywall.st",
+      "excerpt": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요?  simplywall.st",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkRzOVZJZDhad3podDhaQ2FUOFAwSk9mNHBaUFJ1NlN2cG1rd3p3Mk1PaXdwNUpFd0ZBc255MExfODN0RVdkczNIQW1JdXdUY1JHSkstc1NoNl9DeUVrUEJPel9MdGtIQVpmWVYwUk1Kd2xOdVlzdTRFQW5nV1l5TkJzNEhIdjR4ZEF1eC1HTdIBjwFBVV95cUxOMkRzOVZJZDhad3podDhaQ2FUOFAwSk9mNHBaUFJ1NlN2cG1rd3p3Mk1PaXdwNUpFd0ZBc255MExfODN0RVdkczNIQW1JdXdUY1JHSkstc1NoNl9DeUVrUEJPel9MdGtIQVpmWVYwUk1Kd2xOdVlzdTRFQW5nV1l5TkJzNEhIdjR4ZEF1eC1HTQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778101350629-1",
+      "title": "보난자랩 \"OCI 전환으로 클라우드 비용 50% 절감\" - 지디넷코리아",
+      "excerpt": "보난자랩 \"OCI 전환으로 클라우드 비용 50% 절감\"  지디넷코리아",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qeXRneTRlSGtLaHhDWW1IWEZ4R2RNSXkwR0ZUY0lmdHcxZnVWZVpfOHIwNURIVGE3bE82clUxZ0tsdm1ialR3VmNUTzloUTV0ME9XeHp3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778101350629-3",
+      "title": "보난자랩, 오라클 클라우드로 디지털자산 데이터 서비스 인프라 전환 - 디지털투데이",
+      "excerpt": "보난자랩, 오라클 클라우드로 디지털자산 데이터 서비스 인프라 전환  디지털투데이",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12dnZwQVJ2Y3ZBZnJWV1NlVlM2bmMzUnY3SnlQT3JLdFY3ZjFZMEpaSk5DODRZODAtLXN4bHRTN0FPejFRaGQtbU51dllSLVZoNFJab19nTWdUWDdtTmprZE1SM0lJVXR3SkFBb0VQM2tQMWc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778101350629-5",
+      "title": "아리엘, 오라클 AI 지출 우려에도 매수 - 데일리바이트(DAILY BYTE)",
+      "excerpt": "아리엘, 오라클 AI 지출 우려에도 매수  데일리바이트(DAILY BYTE)",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Za0VYYnloSGVxcm1mN3NXS1V5TVl2c1ByVmpxUml0M3hlTU5SU1o0bm5zaTIyVk9hTlNQVjhOYk96dG1IbmNURTlUNHh0S0p3WU1UNlktQnNtTEtIcWJ0UXBaeU1heHI5XzZB?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1778014435946-5",
       "title": "오라클, 국방 AI 계약 수주로 저평가 부각 - 데일리바이트(DAILY BYTE)",
@@ -819,7 +875,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778014435946-2",
+      "id": "ko-1778101350629-4",
       "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
       "date": "2026-04-27",
@@ -995,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778014435946-1",
+      "id": "ko-1778101350629-2",
       "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시 - Oracle",
       "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경에서 가용성과 보안의 새로운 기준 제시  Oracle",
       "date": "2026-04-16",
