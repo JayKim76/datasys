@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1778273187643-0",
+      "title": "What’s New in AI? May 2026 Edition - Oracle Blogs",
+      "excerpt": "What’s New in AI? May 2026 Edition  Oracle Blogs",
+      "date": "2026-05-08",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HRHc4WEUtM1NDdlRIQlR0Sl9mXzQxQnFDbjJuN1FXTW5BUGZSRWZsR2p0R18xWE1CT1ZTNVdSd05KclQ3akh1Vkd4Ynp3SDYtZFY0c0o1Y1ZSbDVHWm1obWkzMXJPeEkzb1A3LUxLZXVYZ1h2SHNn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778273187643-2",
+      "title": "IBM & Oracle Expand Partnership to Help Enterprise Scale AI - AI Magazine",
+      "excerpt": "IBM & Oracle Expand Partnership to Help Enterprise Scale AI  AI Magazine",
+      "date": "2026-05-08",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1dFS1FKNFhRYS1UZHZ4WXBnbVpZZkFZS2M4U1lIdHlIYnJicjlHZVh0YnM0WW1WWmtiV0xGUkpFWWRHSkFsVExPd2JfZ05lV2JKUnJUd0dvd2xkVTRLa0pFbmM5Vnp6S3ZrRHpndF8zVXQ0eWtsdHZKd19IcVhuaWlNMWVObXlNSjhncnpB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778273187643-4",
+      "title": "Eightfold AI Announces Integration of Agentic Interviewing with Oracle Fusion Cloud Recruiting - HRTech Series",
+      "excerpt": "Eightfold AI Announces Integration of Agentic Interviewing with Oracle Fusion Cloud Recruiting  HRTech Series",
+      "date": "2026-05-08",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGJ6R2lST2tremEwcEVYbmszMHV3OGdCTGUxYjN4RW9LNEplQjFReUpZYllBZEVXSmRqQVZwNE1HdEVDaVNleDRqT3FlWEU3cF8xZjZfbjdMeXQ1c0lvUGJqb01KZnlmbHRDUWtrR0NUNHl6SFhVMHI2eUV2NEQyNDJyLVhFSENzUm9CSUxsS1RpNGtnRGR5X25KT24zX3ZTdThuOEVPamdwUzJkZEpjSS00clEzdV9xMThyV2k4LTNmZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778273187643-5",
+      "title": "Drive-Thru Ordering Assistant using OCI GenAI - Oracle Blogs",
+      "excerpt": "Drive-Thru Ordering Assistant using OCI GenAI  Oracle Blogs",
+      "date": "2026-05-08",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3dqbTdFcmhqZHNNRzdBWEI3SGg3RzFUODBPZmNxTVFsVE1QVDN4ZlgyelRUWkYxQnk5bXVHNFA4eUNJYzREbXNRNFdsdGgtNThzOUhHemVISlRIYUt3YWRrMjFKcXJIWTgwSGFuWnpobE93ZjVNZzgxUkJIWkJBb0NSajNka25NeXJ3UDVoUURBUkU?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1778187466785-0",
       "title": "Revolutionizing Oracle AI Database@AWS Monitoring with Generative AI - Oracle Blogs",
       "excerpt": "Revolutionizing Oracle AI Database@AWS Monitoring with Generative AI  Oracle Blogs",
@@ -33,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778101350238-1",
+      "id": "en-1778273187643-3",
       "title": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security - Cloud Wars",
       "excerpt": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security  Cloud Wars",
       "date": "2026-05-06",
@@ -105,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778187466785-2",
+      "id": "en-1778273187643-1",
       "title": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud - IBM Newsroom",
       "excerpt": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud  IBM Newsroom",
       "date": "2026-05-04",
@@ -695,55 +727,23 @@
       "date": "2026-04-08",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVJKX2p5ZDNsZ21aN1lvOHhKd1BvZElsMk1JLUJQRXM0aHZOR0hDWkpadlBiTlZwTkNGMDFlckZnUkFmLXdxcHhjaE45Z1BjN1owdmRpcGxMdFVVeGg2djFCdDNhd2M2TUFaVTZhRFZpQmc0aHNZZE9XSjUwSXhDRkdnVnpJakky?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1775938922077-5",
-      "title": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database - Oracle Blogs",
-      "excerpt": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database  Oracle Blogs",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZE9JTE9GeDRPQWkwMHpyTFdUbG1oZVFPcGhJb2lNU05HNjVRZm53XzBTd2R1Z3pOQ3dFMTFZeFM5c0NoOW9yYlNKWWNSZFNta2VUd2tiYWZMeVc5aUVxVjkzVzhURlFlNWRDbnUyazV6Zzd1c1VXM1lJNDZBLVUtdkJ0VXdUbFFNTUdF?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775594207287-2",
-      "title": "Oracle’s AI Pivot Is Reshaping How It Builds Software, Staffs Teams, and Funds Growth - ERP Today",
-      "excerpt": "Oracle’s AI Pivot Is Reshaping How It Builds Software, Staffs Teams, and Funds Growth  ERP Today",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREN4VUtEbFBjUGh2RmFxZnRhOGR1aUd4R0xqU1R4RWQyX09VY19WTXZKM1dRZ0dFUU9CTGkxQ3lncGpBaDgwNjM0amdZSHJPTFRadlUyOFNBb1BOVVlBY1cwaklOcHJRNE5fbGxTYUxRWDNWRGcyRzhMUFBsVHF0RzF1U3FhM05GQ1FOSXAyMGg2QXlSRjJ4cDM4aVV2aDVFVi00?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775594207287-4",
-      "title": "Oracle signals massive AI opportunity as layoffs hit - thestreet.com",
-      "excerpt": "Oracle signals massive AI opportunity as layoffs hit  thestreet.com",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUlmUlBucUZBd1p0QTVxLVpvbWFHQzV1S3p5Vm4yMDZ5enRBZ0N1VU5FaGVFNHlOXzVISWlYQnpHcU55eUxhUTNPa1I2UlUtZ1NJM2hOelZoWDY5bFF0T0I2dGYzdHMwVzRzemc5R25qdUpud0ZCSTZGb1lXbXNIYnRmOUR3MmRmNzZWeHFVS0tEZHBQQkhMOWVQUQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1775680423990-1",
-      "title": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database - blogs.oracle.com",
-      "excerpt": "Oracle AI Database@Google Cloud: New Region Launches + Restore Options for Autonomous AI Database  blogs.oracle.com",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZE9JTE9GeDRPQWkwMHpyTFdUbG1oZVFPcGhJb2lNU05HNjVRZm53XzBTd2R1Z3pOQ3dFMTFZeFM5c0NoOW9yYlNKWWNSZFNta2VUd2tiYWZMeVc5aUVxVjkzVzhURlFlNWRDbnUyazV6Zzd1c1VXM1lJNDZBLVUtdkJ0VXdUbFFNTUdF?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776025514110-5",
-      "title": "EBS 12.2 Now Certified with Oracle AI Database 26ai On-Premises Linux x86-64 - Oracle Blogs",
-      "excerpt": "EBS 12.2 Now Certified with Oracle AI Database 26ai On-Premises Linux x86-64  Oracle Blogs",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1A3Vzh1LUdCdzIzdDlvQnZtdTROeEtjcXdWTkpXRnFpU2tmWENJZ1dSS3FGMzJRUVlER25aQ25WbGdULU0xaEdEd3R2cjZBVTM5dzhnQTk2U3lDcGFfRmlyVVltN2ZMTklUbVhISTF5MnlNd2l4WmIyUjlIOWhkbmhQZTZYY0xXeC1uV1V0c3ZrZWRTU2FMMWtPbXRjcTdPdXBXU2FLaW9CY2JMZlE?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1778187467265-1",
+      "id": "ko-1778273188113-0",
+      "title": "한국오라클, 'K-패션 AI 혁신 세미나' 성료… 업계 관계자 관심↑ - 패션비즈",
+      "excerpt": "한국오라클, 'K-패션 AI 혁신 세미나' 성료… 업계 관계자 관심↑  패션비즈",
+      "date": "2026-05-08",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UYjhHSUtJcTJEaE5Pc2oyczJtT01PYUtneW9ta1NRZmJyOUMyZUoxcldQTTkxbUkwTEt3Si1hZFM0bHJSMW5rWXJXVG4wWEFj?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778273188113-2",
       "title": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요? - simplywall.st",
       "excerpt": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요?  simplywall.st",
       "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkRzOVZJZDhad3podDhaQ2FUOFAwSk9mNHBaUFJ1NlN2cG1rd3p3Mk1PaXdwNUpFd0ZBc255MExfODN0RVdkczNIQW1JdXdUY1JHSkstc1NoNl9DeUVrUEJPel9MdGtIQVpmWVYwUk1Kd2xOdVlzdTRFQW5nV1l5TkJzNEhIdjR4ZEF1eC1HTdIBjwFBVV95cUxOMkRzOVZJZDhad3podDhaQ2FUOFAwSk9mNHBaUFJ1NlN2cG1rd3p3Mk1PaXdwNUpFd0ZBc255MExfODN0RVdkczNIQW1JdXdUY1JHSkstc1NoNl9DeUVrUEJPel9MdGtIQVpmWVYwUk1Kd2xOdVlzdTRFQW5nV1l5TkJzNEhIdjR4ZEF1eC1HTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVZPc3cweUR4QmFOcEN0RzQ3RnNDS0dscm15V0RTLThWNzFNQkJvNHRBR2JuaXhKa01oWDVBeVpoVXJvTENaRGI0MDBabzBQTTdfZDhMSG9vRjI2MDZUbTZ6MndKcE5Ib2xHbFBmUnJzVVZLQm1ZamF4RVExMWM4T1FncFlDRTlvdlHSAY8BQVVfeXFMTjJEczlWSWQ4Wnd6aHQ4WkNhVDhQMEpPZjRwWlBSdTZTdnBta3d6dzJNT2l3cDVKRXdGQXNueTBMXzgzdEVXZHMzSEFtSXV3VGNSR0pLLXNTaDZfQ3lFa1BCT3pfTHRrSEFaZllWMFJNSndsTnVZc3U0RUFuZ1dZeU5CczRISHY0eGRBdXgtR00?oc=5",
       "category": "Industry News"
     },
     {
@@ -763,11 +763,19 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778187467265-2",
+      "id": "ko-1778273188113-4",
       "title": "How to Value Oracle’s Stock in the AI Era - TIKR.com",
       "excerpt": "How to Value Oracle’s Stock in the AI Era  TIKR.com",
       "date": "2026-05-06",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VVczUktFOXFmMEQ4b216aktVdlBxMzY5Yk1VSlFSZVhZcEVoSmVaX1NWR1JKNng1TUxwM1pteDNUQUM2bnlmdFJaaDIzYW9NOUtLR193cHBMZWczNVo4amZ5MHNEZmMwdjlfWlNVMHRxMWJLaTdISw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778273188113-1",
+      "title": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화 - Oracle",
+      "excerpt": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화  Oracle",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUJkMkNKMmZ1N2RUd2M5T09kaUgwYXBPZFNPNG42WkQxZUNEX3RmOFBNdGdFZDZjczBSSDJGbFYzZmEzU1NwbkdVdGl6SG5pMVc5Y2w2VXlDMnB2SGxsSXJ0VTR0OU5SdzZCbVRHWGtqUTYwTlROQzlJN2ExT2N0TWxWMGUyZVltYnRfb19ZNTF3Mm5LaU5SSnlodXhkNFg3RWt5VTZpbGczZ3c1QmpjSEhJUXJQWHlqejVJYzRTSFY?oc=5",
       "category": "Industry News"
     },
     {
@@ -776,6 +784,14 @@
       "excerpt": "아리엘, 오라클 AI 지출 우려에도 매수  데일리바이트(DAILY BYTE)",
       "date": "2026-05-05",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Za0VYYnloSGVxcm1mN3NXS1V5TVl2c1ByVmpxUml0M3hlTU5SU1o0bm5zaTIyVk9hTlNQVjhOYk96dG1IbmNURTlUNHh0S0p3WU1UNlktQnNtTEtIcWJ0UXBaeU1heHI5XzZB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778273188113-5",
+      "title": "오라클, 160억달러 데이터센터 투자 추진...AI 인프라 경쟁 본격화 - 레디앙",
+      "excerpt": "오라클, 160억달러 데이터센터 투자 추진...AI 인프라 경쟁 본격화  레디앙",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YX1dwMXFBSlRGdS05NU9kSDVLTm5yU1A4VXdqZHlId3QxNTRPQnhnYlR3SUctMzIxeWg0R0lfZjRINXNYbzl2Y0REREhqb25NMzN4aGdBZ0YtZ3FTa3o4VjE4ZWJucVRQ?oc=5",
       "category": "Industry News"
     },
     {
@@ -843,7 +859,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778187467265-3",
+      "id": "ko-1778273188113-3",
       "title": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원 - 디일렉",
       "excerpt": "오라클 AI 데이터베이스앳구글 클라우드, 제미나이 지원  디일렉",
       "date": "2026-04-27",
@@ -1144,86 +1160,6 @@
       "excerpt": "‘오라클 AI 데이터베이스@AWS’, 국내 출시  BI KOREA",
       "date": "2026-04-08",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RVHJMOUxUbk5ZOFNDRGNkcl9VSGxpZDY1TGVMa1pfV2xjN3FqVjdYTWhYc3paNXNwVG1sbWlON1c0a3VHZjFxU3czcDZwQVJCaUZnSkJhUHNVcmppck5BZURVSDZmUQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775594207917-2",
-      "title": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’ - 디지털데일리",
-      "excerpt": "오라클, AI 데이터센터 위해 최대 500억달러 조달…클라우드 인프라 확장에 ‘올인’  디지털데일리",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOTzlnczRxblNxM01UMm5iRk9xbVpXZHp4TERRMExENUZNd1Ztd0hRaWFHaWNNY0RfZW9Fcy1rLTFvOW80VGhhQWZfaVdtSGJCOWFWRlFnemVPRWNvYXdwaklmV3VRQXE1TWY1SVpEeE1IeE03NDBLUWpRWDBKalZPS2dzaEt4NklLZkt3NVZZMXhWdVV2WDNSQV9CZ0huUklnVGotRnVKejF6cm9GWDlPR1BwRDdZR0hpaFMyOXRodWFrZElUSWsxM013ZTRfbzl3YjZ2QU5VQjYyZWg2elhOZzBoRERjRk5UcU90MFNBbnBVb1ZZSVJhdlh6dXZFcnUtcDh0NHNuQm9zZXpiSWJSUkVXd0pZcFBlTGtGSzkzQXA4M0s0Wm5aRTVQV25LeGxXR1pSWENUNm1rSk5PaUtUMzZMOFU2aFU3UFFXajlJT2F3d28xMzZMVTlvZXBrQTk5blgxdlV1blNqWWpCeXlpQ3FsN3p1bURMSHo5NFlTZ0JEMTg2WXRUeGxkZ2dMY3VtNGh5YzI4NGM0aWdObENEZDJOZlZYZWJfQ1lidWpDV21GN2FPQ1ZIbzV2N3JqMDRFRWRiQ1h6LVFvY0FDclFndXMtVS12NFlWT1lvaV9lbkU1aWdScW1nMTZFNGJfZ0V2SS1iSVkwTmJTUjZOcXdMd1BIbDZ2MkVBSEJnLS1sRjJjRGtZYVFKMzVRRzVvV1g5eThKU2lfUEtPakp0Z2xlWTFZLWIydDhQZDBzb0pVV2Y3Rkp3OGNxbTBJTEpMc0NhVXllOFUtUE90Rk14MENoVlMxbWlxZmN1Q1pPZzdJNWtUcWxuVWdhMkpWNjNwZEZkM2l6ZzFnZ1hJRnJvazE1d0V6aGsxOEVMM09FU2tmcXAzWVA4MmFDUmZEY2F0SXdBVWlScjhnTnFSem9Pb2VIMnBxdUhNZ1FRY0k5c0FpSjdLNk9WbDJLaTkydDd0aG5ON0pNQTIyaEtKUGttVXUxc3YwelNUNzN1c2hvem5uRzVLR0daem1NTEF3UkRmN3U1VlczUHFlbWN4MTRXWXBIcXFlSjFZU05ySHRUVW91bzJMZVpXV0N0WWNkTUx6NHVmTmVYYS12ci02S1FyWVhrRWM1VFdLSFdKc05tLWlBaHBtZ2tpUG42R0lrbS11WFVLRWhFd3NzakZlNFhPSmpKYUo1MGxxelc4dldJMXBmY3ZMaG5JX01MUklPNA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775767201004-1",
-      "title": "오라클 AI 데이터베이스@AWS, 국내 출시 - Oracle",
-      "excerpt": "오라클 AI 데이터베이스@AWS, 국내 출시  Oracle",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZG11ZjdYRXJwdGFKVEZKLXJlZTVFbTVpWEtuUXpySndkc0kzZnAxYm14VV9adjVzTW1YZmY2Qjk5RzUxR3FxZ3BmM3hVYjlfUHhWc2NIakZjOUVSRG5wWVhPekYzczV5N20yZU5TUTd3aGl1NnZUaGhOOGUzUXRPLWJrYTNnekk5RHVkZEdOVERkTFVLUmkw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777235335776-4",
-      "title": "오라클 AI 데이터베이스@AWS, 국내 출시 - 디일렉",
-      "excerpt": "오라클 AI 데이터베이스@AWS, 국내 출시  디일렉",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XczR4bnQyLVZOS0dBOWR5OXBWU19BN2g2bnBfSFhWZjV1YWVOd2o4RGRmdW9xQldiQU1zTXlodzhCQWh4M1psWkFNU2JPUDNNYl9oSENLT3J0QkFnV1BYb09HOGZBZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775594207917-3",
-      "title": "오라클, 기업 데이터를 위한 AI 데이터베이스 에이전틱 혁신 발표 - 블록체인어스",
-      "excerpt": "오라클, 기업 데이터를 위한 AI 데이터베이스 에이전틱 혁신 발표  블록체인어스",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SZmZaMWtWOEVyVVBncUdfRi1hajZNc2g0eWlHQkxONGVySUdOTlgtNkdsUWdQM1VqdVlCUEJEcEx6V3JGQXNUb1FQX181VkxvZGp1czhmajREUEZWTXg4b3hTbU8yT3BOZGsyU1JIa0s?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775680424607-3",
-      "title": "오라클·AWS, 국내 기업에 'AI 데이터베이스' 서비스 제공 - 연합뉴스",
-      "excerpt": "오라클·AWS, 국내 기업에 'AI 데이터베이스' 서비스 제공  연합뉴스",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IbHhQWUpYVUcyMlNPNnRyMWljYV9CR1RjY3hlZ3dyR0t0WjhOMGNlejlCYWJ1Q2R2QUc0M3I1MF9LeWFSR3ZSZVJqNWpWVnV2VHU3Wkx6c2JTcUtHWGRrT9IBYEFVX3lxTE1IbHhQWUpYVUcyMlNPNnRyMWljYV9CR1RjY3hlZ3dyR0t0WjhOMGNlejlCYWJ1Q2R2QUc0M3I1MF9LeWFSR3ZSZVJqNWpWVnV2VHU3Wkx6c2JTcUtHWGRrTw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775594207917-5",
-      "title": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - v.daum.net",
-      "excerpt": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  v.daum.net",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUXNuNmVQbjF2Q1RveFppbVoxU05zVmVYVHZOT0dXcHljQVFpemF1cktFUXp6ZENaam5nM25kRjBuNTlnYjVLM3E5akx0VGc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776025514634-4",
-      "title": "오라클, ‘오라클 AI 데이터베이스@AWS’ 국내 출시…서울 리전서 엑사데이터·자율운영 AI DB 제공 - 데일리시큐",
-      "excerpt": "오라클, ‘오라클 AI 데이터베이스@AWS’ 국내 출시…서울 리전서 엑사데이터·자율운영 AI DB 제공  데일리시큐",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zbURjVFVRQS1zVFRYNFdjelA0Zjh5SWNIaGtaTVQ0amxvX2w3dm1UdVhaMFd5T290SXhSeDlKcVctcXVVNGhfVWt5UC12cnZoMFo2UUVoWDhQUXBzLWFGV18yN3JKbnFLc3Zscw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776025514634-3",
-      "title": "오라클, 서울 리전에 ‘오라클 AI 데이터베이스@AWS’ 출시 - 아이티데일리",
-      "excerpt": "오라클, 서울 리전에 ‘오라클 AI 데이터베이스@AWS’ 출시  아이티데일리",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWWpvVFBGMkc4ZGxOazg2VTRSRV90OXdrcnpmOFNFMk1aZm5DX2QxQWpZdG5sOThWTWZvTzlVaWJmcG1qQW1kM0dpdWVXUWFxQWNUdTZTMGg4SmZ6S1ByUmpsdU1MWWc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1775852757130-5",
-      "title": "오라클·AWS, 국내 기업에 'AI 데이터베이스' 서비스 제공 - v.daum.net",
-      "excerpt": "오라클·AWS, 국내 기업에 'AI 데이터베이스' 서비스 제공  v.daum.net",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR05oX0FieU4tWTNsYVRjdmF3Rmt1U1FUU1Fta0p2WDB1bkNhcmwzLXFUbk9RNjZTVFBkT1BfVHVlRGZDT0taVWhuR2hXRWpYNnJDWg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777148942156-2",
-      "title": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화 - 지디넷코리아",
-      "excerpt": "오라클-AWS, 'AI 데이터베이스' 서울 리전 제공…서비스 연계 강화  지디넷코리아",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTnYwTXc4LUY2WmFXbGhOR3BWT21TZkxzOTBfcnpDX0xUTnpIQWJ6WlNQZ2dpRmZXWXYtc2dIdFhBOENkbVNyU1Y1eDA3VlJFMVY5WEJ3?oc=5",
       "category": "Industry News"
     }
   ]
