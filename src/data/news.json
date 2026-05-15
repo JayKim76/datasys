@@ -1,7 +1,31 @@
 {
   "en": [
     {
-      "id": "en-1778792553763-0",
+      "id": "en-1778878313817-0",
+      "title": "Major new capabilities in Oracle AI Database API for MongoDB - Oracle Blogs",
+      "excerpt": "Major new capabilities in Oracle AI Database API for MongoDB  Oracle Blogs",
+      "date": "2026-05-15",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckNYOERTWmVLNVJaOThpVWhjeXc0S25PeEFmSWNiNlBvdjA3ZEZzS1JBT01vSFJkVnNzNEUyMFpLSUQ2WFUtRF9hSXkxTFh4bVA4bWR0ckFTV2t2MDRDbm0wai1TdWdtR01WWUdLVHF3UnRmeU95MGVVV0szelR3aVpkVHFuUkpGYmNKcDhjSnZtM2J4MmQzWmY4UW1TU096V0pCd2ptYVUybmIt?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778878313817-1",
+      "title": "Oracle Went From Tech Dinosaur to AI Heavyweight - Barchart.com",
+      "excerpt": "Oracle Went From Tech Dinosaur to AI Heavyweight  Barchart.com",
+      "date": "2026-05-15",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGd1Z0hRaHNITlhqUVFrUEtFb0dVck94MG9VRlFzR1hMeVdhQzItV2g1RzF1NUdoLWRhaGdkRi1DanQybndKaU5aT0FjTVphWmhfeXR2cTlZY0RtQ2ROU2pkSUtHbmZqV3hBTmpRTmo0X1dNVXBqM2ZTcGdnVnFVcnRKNXdheW56MWJUelVIRDVkZlRUcnl3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778878313817-2",
+      "title": "Oracle Expands Defense AI Push - GuruFocus",
+      "excerpt": "Oracle Expands Defense AI Push  GuruFocus",
+      "date": "2026-05-15",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcHpZbkx2N0ZLZkZBX2VrMmlRQmppVnNxRUw0VTJwV0g3bmdrdmRnSFhWZGpNWDdBdGVPc3NWUG9fbU9Wa3BNR1F5NkROeVJFYi1vYTgwT29jVlBOQlU0a0diOFRlc045aWdCM2VlN0NLWTltbVFnXw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778878313817-4",
       "title": "From Documents to Decisions: A Managed Knowledge Agent on Oracle Cloud Infrastructure (OCI) - Oracle Blogs",
       "excerpt": "From Documents to Decisions: A Managed Knowledge Agent on Oracle Cloud Infrastructure (OCI)  Oracle Blogs",
       "date": "2026-05-14",
@@ -30,6 +54,14 @@
       "excerpt": "Introducing Oracle Backend for Firebase: Build Mobile and Web Apps on Oracle AI Database  Oracle Blogs",
       "date": "2026-05-14",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMm05dkFzcndyWWxuRFByVDItSWhNUmlGM2IyZkFsNlROSUkyRS00UlVHM01SMG1tLThSelVXYlJfRjlWOFpOOG10Q3VxVUxUX2x6aXB3Xy02MmNZd0dsNmk4TTFUbnVKRS12N3h1dlZBbVAyRTZlc3VuTlpTU0tYNnVhYnRoRm1XZHF4YVJWY2plZmNpOUw3U1NjNElwN2hJV0VBMWRXZXRfSmxpeWhWSkJrRWJVcklhdFF2VVp3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1778878313817-5",
+      "title": "Leading Utilities Recognized by Oracle for Advancing AI, Cloud, and Customer Innovation - Oracle",
+      "excerpt": "Leading Utilities Recognized by Oracle for Advancing AI, Cloud, and Customer Innovation  Oracle",
+      "date": "2026-05-14",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWU4tekN2X1NvaTB2SzJMaV9ibEVhc0JmeXd0blk4S3RWZnZrcVEwdWZxdk5ESzI4MFl5TXBFcW01ZHdPMF9PX2pwdWpULWt5VmNyM0NheEFEcDdYd1ZSVzRBZlJwYzBrU0hOQkRnWm5pbmQ5bkt4TkxBNVNvVWFzNTY5ZW90ckpsVmgwQVJmTDNGTDBLN08tdURLdnVzSldjRS1UdV9XM2E3cFNXREtPTW5CMnM3QzF4V0JpbGRDWklNbGtvdkhkOFhTblVRYTM1Z2Zrb2tLdk1sUQ?oc=5",
       "category": "Industry News"
     },
     {
@@ -65,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778792553763-4",
+      "id": "en-1778878313817-3",
       "title": "Oracle Solidifies AI Infrastructure Positioning: Will it Drive Growth? - Zacks Investment Research",
       "excerpt": "Oracle Solidifies AI Infrastructure Positioning: Will it Drive Growth?  Zacks Investment Research",
       "date": "2026-05-13",
@@ -751,41 +783,17 @@
       "date": "2026-04-15",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR19VUzh3Q1pGbUwya0lFdnZpaHBxQnYzZmtFT0UzT3pPVDMxWE00N1ljYTRJRWw4c2JKUU9PZVdkNHZNVjY5TjQ5djZobXBIN0RYY091VjdZVWw1T25hSTkwZjVQSUZWLVZBbE9RMjNEWFNjRmswRzJCN2VIUFFxSTZLR3VYWmY3Z0hTc29tcjEyb0dabHdQVkh1ZGNLX1J5R05DVUZYYjhBMWc?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1776199372921-0",
-      "title": "Consolidate Oracle Fusion AI Data Platform and E-Business Suite Data with Oracle AI Data Platform - Oracle Blogs",
-      "excerpt": "Consolidate Oracle Fusion AI Data Platform and E-Business Suite Data with Oracle AI Data Platform  Oracle Blogs",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXNyMmp4TEM3OE1wTEF6bFAtSG50enB2VmNhNExkQ3F0c2h1eDVqVzFzaFkycXdNelpuTmp4b3pNdEJPVDFzQXV2SHlDZXBtZ1VtMjlzcVFKVGw3QmYtR1N2MlJJQUNkUVV3emlfanVyWmJydVg0eWJPbUkxdUZJZmdFZ1RabGd3SXNnNXUxVjc2WWhFa0dRc3BjVkg3T0puQnhXV0gzeGpoVEFCREpLU0hTd3RKSlJVOUdjVlVmanVEb3VkYTZqakYwVDg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776199372921-3",
-      "title": "Oracle Redefines Mission-Critical Tiers as AI Workloads Demand Always-On Data - The Futurum Group",
-      "excerpt": "Oracle Redefines Mission-Critical Tiers as AI Workloads Demand Always-On Data  The Futurum Group",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnNMWjRRcGZkbXJJMkViNWRDb2hKLUQwRlNGQ3RZX0EzNnB0WmZVZXlVUFBCNEdFOEJreUF2QlY2bWtOaXVsWVdtNU9fRGplSFl1M0dGTVlRUWVrb0Naa2RpY0VBcGw4X2IwVE92TWU3bm9HMENraEk3NzNtaFJNNUc3VlJ2MzByRDJGRWdoNVhUdFYtUXFqd0JEakN3c3U4N0s1b19xcnlrRTl5My1zel9B?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776199372921-4",
-      "title": "Oracle Ties AI Software Cloud Expansion And Power Deals Into Growth Narrative - Yahoo Finance",
-      "excerpt": "Oracle Ties AI Software Cloud Expansion And Power Deals Into Growth Narrative  Yahoo Finance",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZV91Nm4yTFpzVjR4NEpsa1VmUjg5U3ZFTHZSR25KM2ltWjdwMzdRZm9rb0lOU2ZUWkhKQWE4VFY2R0x3a0JxaXdXR0dnMmM5NFNqTFozd1JmYm1BaVVNcDc2N05oamNENTVON3d2UDZWVmVnZ3ZYN1FTVmpHMVFlbldzSG96am5sVWxQWlhXRDRkaENhRUsxSGVn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776543970731-2",
-      "title": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database - Oracle Blogs",
-      "excerpt": "How I Added Memory to an AI Agent Using Spring AI and Oracle AI Database  Oracle Blogs",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWNua3g3VWNLcC1leHdieDNFTk03X1NzTWhpb1JRd3dpdGZWeTk1VzhfQlRwRGZkb2lBOWQ5QWxTWHM4YllsR3VPUXRGb0VwNjA0RW5oM3Q0OVlrMjlqemZsVWVJSC16LUlSQkZ1QUZGbFUyLVZ6VjJ5RGdkSGk3QTcyclFBd0V0emhwb3JOTjBiWVp3ZjdkSnlQZnlWSXZtNzZTNUl5Yjk?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1778878314228-0",
+      "title": "경기혁신센터·오라클, AI·데이터 스타트업 30개사 육성 프로그램 가동 - 플래텀(Platum)",
+      "excerpt": "경기혁신센터·오라클, AI·데이터 스타트업 30개사 육성 프로그램 가동  플래텀(Platum)",
+      "date": "2026-05-15",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwQy1sOVRuOVIyc0VqdW1NYUg0NGF3MU53TDlmRkJaazYzb0picEdGT2JQLWxJek9hQkFkS25oYmxYN1FSdjZfdw?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1778792554177-0",
       "title": "오라클 “기업 AI 도입률 71%, 실제 운영은 1%뿐… 문제는 데이터 환경” - 디지털데일리",
@@ -795,7 +803,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778792554177-3",
+      "id": "ko-1778878314228-3",
       "title": "오라클 2만~3만명 감원이 AI·클라우드 투자 스토리에 주는 질문 - simplywall.st",
       "excerpt": "오라클 2만~3만명 감원이 AI·클라우드 투자 스토리에 주는 질문  simplywall.st",
       "date": "2026-05-13",
@@ -803,7 +811,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778792554177-1",
+      "id": "ko-1778878314228-1",
       "title": "오라클·삼성전자 협력 확대...반도체 개발 인프라 ‘AI·클라우드 체제’ 전환 가속 - 레디앙",
       "excerpt": "오라클·삼성전자 협력 확대...반도체 개발 인프라 ‘AI·클라우드 체제’ 전환 가속  레디앙",
       "date": "2026-05-13",
@@ -811,7 +819,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778792554177-2",
+      "id": "ko-1778878314228-2",
       "title": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화 - 디일렉",
       "excerpt": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화  디일렉",
       "date": "2026-05-12",
@@ -840,6 +848,14 @@
       "excerpt": "삼성전자, 오라클 손잡고 반도체 개발 환경 재편…'자바'로 운영·보안 강화  지디넷코리아",
       "date": "2026-05-12",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZ0lBSmlvdmxaajdnWDJEeU5CT2ZoalMxejBWNDdMTkMydVQxN0Jqcmh0SlY2NzllTlRlaEtpaUdwLWRHdXFQeVNmUFl5ZDdXNzlENnFB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1778878314228-5",
+      "title": "오라클 클라우드 Free Tier 무료서버 만들기1 - 브런치",
+      "excerpt": "오라클 클라우드 Free Tier 무료서버 만들기1  브런치",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kRlpGeWItSGlmNkdvT1lRaFNmY2VCZVczNTlaUVZwZjdIaGhMYkIxc3JDcFZ3d2phZlhyeDNYM1RtRkRNblp5UlhR?oc=5",
       "category": "Industry News"
     },
     {
@@ -1075,7 +1091,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1778792554177-4",
+      "id": "ko-1778878314228-4",
       "title": "오라클, 오라클 AI 데이터베이스앳구글 클라우드 AI 기능 강화… 엔터프라이즈 데이터 혁신 가속화한다 - Oracle",
       "excerpt": "오라클, 오라클 AI 데이터베이스앳구글 클라우드 AI 기능 강화… 엔터프라이즈 데이터 혁신 가속화한다  Oracle",
       "date": "2026-04-22",
@@ -1184,46 +1200,6 @@
       "excerpt": "오라클, 블룸에너지와 2.8GW AI 연료전지 계약  에너지안전신문",
       "date": "2026-04-15",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2dXFMWHJlYWFJWUtVLTQ5YlpCTlpqdnZIVkFNRC0zc3U4Z0poZEpZajRpYkRrZ1JGdjdWZmpVcTVxU1FkSThQNnNjcy1oYktZUUVZZTRmS3hXblI4UHZHNFYyOWk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776630442356-5",
-      "title": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화 - 캐드앤그래픽스",
-      "excerpt": "오라클 AI 데이터베이스, 미션 크리티컬 환경의 가용성과 보안 기준 강화  캐드앤그래픽스",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3NMY193Ty1lWGdPaUdXRm1xdDRidTZIcWVPdkh2WkM3UGhNaGFBZ284TTVkckgzNF9KY09rbFJ2UEw4WVJoYlY5NlpQX25EcTA0Y21TMDV4dEx5ajdJVWpVTkNtYXpJdVNNSDlMZzB5N0F1RVJVRV9UdGxfb1h1c1B3T0ZxNHhNaTJDNXVB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776199373449-2",
-      "title": "오라클, AI 데이터베이스 가용성·보안 기능 강화 - 위클리포스트",
-      "excerpt": "오라클, AI 데이터베이스 가용성·보안 기능 강화  위클리포스트",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40SWhGajZmOHZWNEMtWV9ueFNPOGtXaXJSQjlROFlQdG9HbjNmSVdDS2V6NmNyRUFlMGFvYjN1SGN1SzkwVnJ5ZUNCaWZ6c1h1THdRV05NUjNDZjMxR2hLbEV3MnU4VmJpeU1R?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776285506969-3",
-      "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - v.daum.net",
-      "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  v.daum.net",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmX1pOTE81N0F1MHdUN0FKaERxRVdDakJsOVc4YVpyVmpxTjVqclFaWU9FbUlsU09XVW53Rk1PVlNKXzZ3bHBMNllCZ1BjbW8?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1776199373449-5",
-      "title": "오라클, AI 데이터베이스 업데이트…\"무중단·초고속 복구 구현\" - 파이낸셜뉴스",
-      "excerpt": "오라클, AI 데이터베이스 업데이트…\"무중단·초고속 복구 구현\"  파이낸셜뉴스",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ad09wU01iMDVsOEhyNU92Uk85NXU2aVF4UzhKRE5Bd0szS0FXYzVUWU5XTU5FTTdLS1RPTkV4RnVDa0xHYXhqNDk0TnkwQld5ZTR3MnJiZGtaZ9IBXkFVX3lxTE11bWxYbHBTRVU4MHhwOXJCSmthZDdGY0o0RnVCZ3gxM2o5SXQ5UEM3WFhXckVaSDdpTTgtZHZxaVg4R0JzalFFWV8zNV9wMmFNQTVvdnVoaERsQ20tNHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777062993839-4",
-      "title": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화 - 지디넷코리아",
-      "excerpt": "오라클, AI 데이터베이스 '무중단 시대' 선언…초고가용성 강화  지디넷코리아",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xeXNlWlZTdENWWGdlbTVrR2hWNFNqT2FiSkMxUldpMkpId1J3TkgyNU1ZRTZyUkRnMVpRaTdmeXZ2WnJoYTh4MzFzOEx0c0ZXTjF1X1Nn?oc=5",
       "category": "Industry News"
     }
   ]
