@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1779483793790-0",
+      "title": "CoreWeave vs. Oracle: Which AI Infrastructure Stock is the Better Pick? - Zacks Investment Research",
+      "excerpt": "CoreWeave vs. Oracle: Which AI Infrastructure Stock is the Better Pick?  Zacks Investment Research",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFRuSlgzZFRodzlBOFlnNmJwQlgzU21BYlZ5MW04ZGxvcVh3S0VWanhNWDlyWVBmRWlfbVVWMzdvaWF3Zm9BRGVKdV9td081Zk96Qkw3cXpOdTVHNDZCMGVFYlhVRUtsMlFuY1dOV0VyV21ldjQta1VQZDVkeGxOMk5MNENjWVJibFM0anZmNnZvT3QtWlJJejZiWHNMQ2lmcVVlZkpuczZPMENZQ3c?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779483793790-2",
+      "title": "The No-Compromise AI Foundation: Oracle Reimagines the Database for the Agentic Era - The Futurum Group",
+      "excerpt": "The No-Compromise AI Foundation: Oracle Reimagines the Database for the Agentic Era  The Futurum Group",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1czY19sMWd3aU5vWG51OVBuM0lrWFFzWWc4a1YzYk90V2w1cnRXR0FUejZyN3JRb1JKRVNBUlFDVTJuTVFqYU5abWZCZzVVTXotRVZPRXdJWXhPdko5TnRLb0JnRFZHRDRLaDhQcHBSU2psYUxDZS1TZml5LTVxT1NHV0xVSWhGdHZjazRUUWVXbk8zMlZTSllzdk1BU2g0N3JrOVJXeUJKT3ZGcnc4?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779483793790-3",
+      "title": "Oracle Raises 2027 Revenue Target as AI Cloud Backlog Surges - TradingView",
+      "excerpt": "Oracle Raises 2027 Revenue Target as AI Cloud Backlog Surges  TradingView",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFE0VjBqYzdXbTBXZ0pYcDdLM1FNWGVmY3dnNzlGTml5LUNzeGlvSTJOWkpGUzcyYXFJNGVxMU55d2RKSFU4R0FXVmFaaEhNcGZTdWZWM2VTQi16alJEMW14TVFLRURDYWE1cTVnc0tCSUE0dmgtN1VpTXBlbFhGejdnZjRlWGFaakpSY2sxQ1JvQWlodXVnRlFkQnI4eTBKZTJNdmJEX1NOTENMUERFY21mUDdVaTVFWDRFbQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779483793790-4",
+      "title": "Oracle Analysts See Up to 45% Upside as AI Cloud Growth Accelera - GuruFocus",
+      "excerpt": "Oracle Analysts See Up to 45% Upside as AI Cloud Growth Accelera  GuruFocus",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXgwa2d3Tmk1RFllM0owbFVHSTdPck9JLTlvNVh4eXY0V3JkTHpRWTM5NGtSdVVzbVQzWUxERnplWnlsNWg3Z0ViRUZVVGsxeGhyd2VXa1VpQWlMTjJyQloxNmZaWVlfYzhyU0RfV1ZBekxjVkk3eEZ3NWlLbEN1bUlwRFZ5YXc5Vjl3WGtXcTdmdEJ1ZEo1OWJTdG9wX0lNcVRiWTBVckQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1779398489997-0",
       "title": "Oracle Moves Deeper Into AI Plumbing With Expanded Beam Standards Role - Yahoo Finance",
       "excerpt": "Oracle Moves Deeper Into AI Plumbing With Expanded Beam Standards Role  Yahoo Finance",
@@ -49,7 +81,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779313357293-0",
+      "id": "en-1779483793790-1",
       "title": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build - Oracle Blogs",
       "excerpt": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build  Oracle Blogs",
       "date": "2026-05-20",
@@ -105,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779313357293-3",
+      "id": "en-1779483793790-5",
       "title": "Oracle IBM AI Cloud Alliance And What It Might Mean For ORCL Valuation - Yahoo Finance",
       "excerpt": "Oracle IBM AI Cloud Alliance And What It Might Mean For ORCL Valuation  Yahoo Finance",
       "date": "2026-05-19",
@@ -783,43 +815,19 @@
       "date": "2026-04-22",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQck5YdTVzOU10emMxbEtDcWZEVkxpNmxfWEdIdU8zOEc3dFZQMmtnR3lKNmR6SXpaNHk3SEpTbzVUOGJrTGRka1YwN0U1RVRXcHVtZmxQS2ZENlUwQjNhaEQtMm96TlB6Mmwtd0dPMGRxSEJraUxWTjRJQk5kcTlaNmRVYTJBUE0tdm9WQ3RUMHh5UUlqSjA4UEhZWEQ3bzAxMHpyRnJjVQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1777235335235-5",
-      "title": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
-      "excerpt": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta  Oracle Blogs",
-      "date": "2026-04-21",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdnRGlzZW9TdldwcTZpM09Ca2ZEQm41QW5sLWZCVXRSRk5tekswVjRGYjdreGZaT2tfR3ZadU1zLW92NHFxUk5mQ3Q2ZmlROEgxaVZiQTRiU0E1ZGZmVC1fRW10M0t5cC1EdDBGWG9TRF9YYzhDVGRQa0VhaVUtVFcxbUx4QUVOWElqMTdlcVJ0Q2hL?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776804011177-1",
-      "title": "From Insight to Impact: How Oracle Is Delivering Real AI Outcomes Across the Enterprise - Oracle Blogs",
-      "excerpt": "From Insight to Impact: How Oracle Is Delivering Real AI Outcomes Across the Enterprise  Oracle Blogs",
-      "date": "2026-04-21",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmRSZ3J4SHE4ZmRZSVo2M29HcXZtd3Y0U3hGa1owbXd4TUpJWnAtS3VrZUZTWVhjTEg3T3R2YzlIY01vMnZMV3lqWERxc05XZjV2UjZ4dnNvaWVfYUhrZ3lJR1ZFcmk5WEpubTlzcEZJVlJJN0tEOFdnblo0XzdRUEJUdUp1QURSZnpnMlFiLXBiQ1lVbWtVRjZ6NW56aGJhcGw4cVpiVThibC1iNFdjNHBtaHJCdk1MQ2l2T1pn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776804011177-2",
-      "title": "Database architecture powers Oracle’s trusted AI strategy - SiliconANGLE",
-      "excerpt": "Database architecture powers Oracle’s trusted AI strategy  SiliconANGLE",
-      "date": "2026-04-21",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk51ZVhrdmZ1aFd2Z0dIb2ZoSjlTbmsxMWptZEdMOVI1S0xIclhqUTZsRjdDdDZVd0ctdE14bDJ1U0ZHTFlPZ0d5M1RSUmFsX0FKQjh3aE5RblF3Ny1KWFgwUXg1RFhaT2dyMTNnZlJEdnZhTDlEMUtEWXUzOGxpZHhnOGxrNFBBYVI0QTN4RTZhVkJtY3Z6SGQ2VVRlY08zY2o0RHB5c1h5M0UwMXo4ZQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1776804011177-4",
-      "title": "AI is the new Oracle of Delphi. That’s bad news - The Economist",
-      "excerpt": "AI is the new Oracle of Delphi. That’s bad news  The Economist",
-      "date": "2026-04-21",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR01QLUtWSFE5c0xwT2pvb2lXQ2tRaTRNTEFDRWpTVFJFVG84SExaODU5TUpfR0dmYXpPSlpMVGRxOGpoYlkwSTA5Qllzb3MwZ2NHZ2VxUTZKaWN4SVFpMWRkT0h1NXRwTlJ6UThtQjRFZHl4SFlnd0dEX2V4QkxnRGFoVklaVl9fZ1k1clZVQ1FWUFQzOUxyZkFjVm8?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1779398490449-0",
+      "id": "ko-1779483794204-0",
+      "title": "“미래 계약 끌어와 AI 키웠다”… AMD·오라클, OpenAI로 얽힌 자금 회로 - 뉴스로드",
+      "excerpt": "“미래 계약 끌어와 AI 키웠다”… AMD·오라클, OpenAI로 얽힌 자금 회로  뉴스로드",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kNVhVVEVsbTQtZHYydTFnUWhwOVY1MkN6Sy1MT1FTekRFSXZ2ZWRzbGR1QjZLMWMyelNUUDhSUG1kQUE4amRjbUQwQnhaamNwWmJFWXowVTgyTTNfdHItTnpxdTg0WDVnVXlz0gFvQVVfeXFMUEYtWG1sQ0pKaTBqS1pzZlI3UVQybGVFY25BdXBSenF0U1Bram5tS2JKQ0RsRVFsWGdwMjhoQ0dXakNUNVdDZ1llb19Dcjk4ZTdFeDAxVFFjQ2owTWt1TUNXcUJvbm9fWHlwQmo3SzB3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1779483794204-1",
       "title": "에이전틱 AI 시대, 미션 크리티컬 인프라의 새로운 표준이 필요하다 - 테크월드",
       "excerpt": "에이전틱 AI 시대, 미션 크리티컬 인프라의 새로운 표준이 필요하다  테크월드",
       "date": "2026-05-20",
@@ -1075,7 +1083,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1779398490449-5",
+      "id": "ko-1779483794204-3",
       "title": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시 - 헬로티",
       "excerpt": "오라클, 제미나이 엔터프라이즈 연동 AI 데이터베이스 에이전트 출시  헬로티",
       "date": "2026-04-27",
