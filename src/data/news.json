@@ -1,6 +1,38 @@
 {
   "en": [
     {
+      "id": "en-1779918372020-0",
+      "title": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI - Oracle Blogs",
+      "excerpt": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI  Oracle Blogs",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWG5iNldjaFcwaGJyRWFSZmFIUFAzZWlpakdNR3ZLTXBlbW9IbDlsb0RCSGlYZXhsN1VUNmVVeHZ1SHhVcVpBMXUtaFRqaHBNOGhoQW05QlpGX2N5bmZTZ3ZJTVFtMHhXS0tvcVlpSWxVWk9EN3c0bnZkYlZjVjQ3bkRsQS1yRER2?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779918372020-1",
+      "title": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story - simplywall.st",
+      "excerpt": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story  simplywall.st",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2pLYVhqYkxYRkM0Z0N6Z2Z0c1RKZDZoVVd2UDM3SWlkT1lDTV81ckV2S3czVUhlZkVvU0YwblNfYkFWSnlKaGJOZXRERU5JeFZYcGR1SEtHYWhOSzJVSkllUEZjblpYMlNUWERudzE5QTV4VURRT05RN05jd0VRZlRpZmhjb0M0RllMZDBLSHFQWmx4V2xfRnpRV1lJVTFIbHV1dU1HYXdVakFxZlFQWmd0Vmo1LWJ1djlfdjdyMkTSAcYBQVVfeXFMT1BQT0hMVFd3SFBIM2I3emxZajh0SWRDczY5U3ZQMW1YNjI1NU5iMmd6T2xINlNudS1KUkduUFdUMXM5UUZhdU95Sm9POFp1SEJFV3R4Nkdlb1NQU2hwTHZ0U05BZmVaVHlDOXNNX2JnMWEweERQeGpHUDctZ1cyUGs4dFpZYkxqY0twOGJoOXpuUHZaWmh2TE9VUTNyNEpNcnBlaE52N1FxU1ZhVzV5YlZlU1c1WEMzNGhabTg4R0lNSGNsVldn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779918372020-3",
+      "title": "Cloud and AI learning are the focus of Oracle Academy Cloud Day, Tanzania - Oracle Blogs",
+      "excerpt": "Cloud and AI learning are the focus of Oracle Academy Cloud Day, Tanzania  Oracle Blogs",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMzJNWHFYYlR5Vk1ELWs2eHA5bzFqOGU3Q2s5T1I5cTNTbmRRd0pPWmRBV28yTEg0eWNrVWRGa0JCTFEwQ280alhCT3Nia2ZKTnBSa0h3dXdZTlQzTDlQMlpYazgwUWpabTNyc3BoVC1JOFk1ekxPaVo1YWtrV3Q5TkkyR1ozaTdRQUlpRVRDQ2lHSzdpYzhrckpLNWNsVjBxdjVmbElMbXE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1779918372020-5",
+      "title": "Continuous Prediction Made Easy with OCI Data Science ADS Regression Operator - Oracle Blogs",
+      "excerpt": "Continuous Prediction Made Easy with OCI Data Science ADS Regression Operator  Oracle Blogs",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVcwUHVIUlgtWFlBSkZWS0RpU2g4VnFORWFQUkpDakRFQ2VoNHNDN1c2dV9XWG43TEk1dnN3ZTBibUZuVnExZUIwRVpNcVdPTFc2OEZiOVM4NWJoWXFhV0xQZFpCN0FTSC1aYXRqM1I0Yk1zUURvSS12MHVtRXhUSkRZYUlYb2VkVVg2VXRvMTJlTVU?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1779830911285-0",
       "title": "Educators in Indonesia attend workshop on Applied Database Systems with Oracle AI Database - Oracle Blogs",
       "excerpt": "Educators in Indonesia attend workshop on Applied Database Systems with Oracle AI Database  Oracle Blogs",
@@ -33,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779830911285-3",
+      "id": "en-1779918372020-2",
       "title": "Oracle’s AI Round Trip Revenue Raises Questions On Cloud Growth Quality - Yahoo Finance",
       "excerpt": "Oracle’s AI Round Trip Revenue Raises Questions On Cloud Growth Quality  Yahoo Finance",
       "date": "2026-05-25",
@@ -73,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779830911285-4",
+      "id": "en-1779918372020-4",
       "title": "Oracle and the AI boom’s hidden debt bomb - Fast Company",
       "excerpt": "Oracle and the AI boom’s hidden debt bomb  Fast Company",
       "date": "2026-05-23",
@@ -827,7 +859,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1779830911666-2",
+      "id": "ko-1779918372464-0",
+      "title": "오라클(ORCL) AI·클라우드 성장 내러티브와 50.7% 저평가 공정가치 재점검 - simplywall.st",
+      "excerpt": "오라클(ORCL) AI·클라우드 성장 내러티브와 50.7% 저평가 공정가치 재점검  simplywall.st",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWdsQXhEWks1bDJrTjVXczlqZ0JfRklnNDRrSmMycVJ0dlZ3MUV4ckRtMnIzRjBPenYwWVFvaV9pb2FiN2FHNmhtRDRWSXNNbHU4d2xvM0QxaWtCMWREU21PVGpoX01xSHQtRElnTkZaMG40S2hHa0lfcllzQjQwVnJJZU03cGtYYWfSAY8BQVVfeXFMT2Etb0owVEg1dVM1dXo0QzhJS0VsYTFoaW16aXdjY0hmZlBXZnhlZ0Q0MlZlNXloWi1aOEJFdjJDOTFuLVdoU0FPOFMxQUstbzJ3S1RLZlRQRGxhTTRacllxaWJZS05VQXM5NVZkTUhBWVYyUHNlYjh2OU85dkVEd3ZTUTlfcG1ub1gyUTlBc0k?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1779918372464-5",
       "title": "“미래 계약 끌어와 AI 키웠다”… AMD·오라클, OpenAI로 얽힌 자금 회로 - 뉴스로드",
       "excerpt": "“미래 계약 끌어와 AI 키웠다”… AMD·오라클, OpenAI로 얽힌 자금 회로  뉴스로드",
       "date": "2026-05-22",
@@ -1136,22 +1176,6 @@
       "excerpt": "오라클-구글 클라우드, AI 기반 데이터 혁신 위해 파트너십 확대  캐드앤그래픽스",
       "date": "2026-04-27",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTRocXRLMjNTRFpTQlk5c0lKTnFlT1RQRW5OTmFnT3kxYzRydzdQYm9lbzBGVlVLdVR1T3VLX1pDdTh3N2gtUUhkeGozNGRVTTF5M0g3UzZCdVZSZ3BhRHZGLXBzMXRSb2RkTlVsc24zUFloZktZbWUwbVUtYUx0cXBiS25QdXRPRzFpYnhR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777235335776-0",
-      "title": "[AI는 지금] 스타게이트 '자금 경고등'…오라클 인프라 투자, 월가 부담 키운다 - zdnet.co.kr",
-      "excerpt": "[AI는 지금] 스타게이트 '자금 경고등'…오라클 인프라 투자, 월가 부담 키운다  zdnet.co.kr",
-      "date": "2026-04-26",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWV9vamJBMFpOb0ZLRlNzM1NBZEphNGhnQjVsQXdvNmhlaUVkbFFWSVVPZDRHRWJpZDBCTm5jdXZlWVlhOUszakVJNGE2cmJsSUt6cExn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777668084889-5",
-      "title": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다 - ER 이코노믹리뷰",
-      "excerpt": "오라클·구글 클라우드, AI 데이터베이스 에이전트로 엔터프라이즈 공략 나서다  ER 이코노믹리뷰",
-      "date": "2026-04-26",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USTNIcWtoQXJXMFBQb0NvTWh1ejhmYVdVdGpGV2ppTFZfeklvdmdWUFJER3lKWkoxbTFsbjlQOE55M2FSTjhvNGdKd0tnS205T3I4eUN5LXhwM21lNFdidHo2bzBlazQ5c1FRTA?oc=5",
       "category": "Industry News"
     }
   ]
