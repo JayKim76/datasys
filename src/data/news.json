@@ -1,15 +1,23 @@
 {
   "en": [
     {
-      "id": "en-1780091079776-0",
+      "id": "en-1780173851238-0",
       "title": "Make Enterprise Video Searchable on Oracle Cloud Infrastructure (OCI) - Oracle Blogs",
       "excerpt": "Make Enterprise Video Searchable on Oracle Cloud Infrastructure (OCI)  Oracle Blogs",
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEdyeVQtNTVsWm5vQXFwekdqQnEtUUVIWjlCRVpiUXBvSHpNbEpnQmYyZXhiY3BnUmY4bjdyTmJlb3VRbE5HZFlGRXd4SnZ5Q3k5NW1EYjJMVUNEOXMwMG8zU0tEVnhNR0tOLVFBcFVIRlh4cXIyRFlISnk3LThQNWp6Q043ZVd3eDVR?oc=5",
       "category": "Industry News"
     },
     {
-      "id": "en-1780091079776-1",
+      "id": "en-1780173851238-3",
+      "title": "Observability for Multi Agent Systems - Oracle Blogs",
+      "excerpt": "Observability for Multi Agent Systems  Oracle Blogs",
+      "date": "2026-05-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnpIZWRWTnlIRi05ZUxOSXl5aEdIZWdKdkkxck9zVkNQRndWMzFQYUpQb3dKeHQtOURLbmsydnRIRWVZM2psNXdmcWRlY2FveEItdkxnOXNqUzRYX1d4TWlFejlqTlkwZFBqQmFwcmIwbFVUa2tva0c5Q2VvOWVzZE1KQnQ4WDRt?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780173851238-4",
       "title": "AI-Powered Cloud Ops: Managing OCI Through Natural Language with a Custom MCP Server - Oracle Blogs",
       "excerpt": "AI-Powered Cloud Ops: Managing OCI Through Natural Language with a Custom MCP Server  Oracle Blogs",
       "date": "2026-05-29",
@@ -38,6 +46,14 @@
       "excerpt": "ORCL Surges As Oracle Wins Aggressive AI Price Target Hikes  timothysykes.com",
       "date": "2026-05-29",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSTg0Y1lHbjczci1KZnVlZzNNal9YRkZvaDNOS1A0ZTQwbnJ2OFdoanozM0xjYnJCWVE0cy1fNlV6cGRqNnhCcU1ZUTA2VmxfejFVcmxJSXp3YXpmbTUyOXZ4TS1qakRuOXlJZjBEdHh6NlVjWHdWVzA1Si1hQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780173851238-5",
+      "title": "The trust layer for enterprise AI on Oracle: prove identity, scope, policy, and evidence for every assistant action - Oracle Blogs",
+      "excerpt": "The trust layer for enterprise AI on Oracle: prove identity, scope, policy, and evidence for every assistant action  Oracle Blogs",
+      "date": "2026-05-29",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk4xY0NZc1NpVTNvUEllc3I5T280clJiNkdOcTh2dVlSNVdiV2tTa3hCWVpsS0NmV2gyakZRejhkWm9zQTVLaUlxWjJ4eGlTdVRDVDk3OEdPTzVUOWdWbFVXcHRZTnNpQ1JHSGlmYlkyQkhLSkFibmNlWC16Vk1oNmsweFVCRTIybi11NUxfcGNkbkZobDBYYVNTT25qZ1RRRUtXQ3I0b19HSG5aNExlRXN5cmFEd0pzV0FhQThiazlZcjBnRnRvSGRzYWk1Q1U3ZVMtbVJ3MGdicngxclYwag?oc=5",
       "category": "Industry News"
     },
     {
@@ -73,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780004966526-5",
+      "id": "en-1780173851238-1",
       "title": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story - simplywall.st",
       "excerpt": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story  simplywall.st",
       "date": "2026-05-27",
@@ -129,7 +145,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780091079776-3",
+      "id": "en-1780173851238-2",
       "title": "Oracle’s AI Round Trip Revenue Raises Questions On Cloud Growth Quality - Yahoo Finance",
       "excerpt": "Oracle’s AI Round Trip Revenue Raises Questions On Cloud Growth Quality  Yahoo Finance",
       "date": "2026-05-25",
@@ -839,55 +855,23 @@
       "date": "2026-04-30",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0JuTTNzS3JFYlpqVHpEM3JuYzVNakFCWFFnOEtrT0RSalB2OEQyaFVZZWttMDBTd3Nhd093VjZUbFFQeEZkLUlzcnZrY0hXcG45SGZ6eGp1QVBrbUNUMklTSHFFbzBjbV9Oc2p1dVl1dnBiOUhnZTd1SVdaLVI1Vm5WT1YtX01ocjFmVUMySVNsR2ZmaTRNdi1ieDFaQllVUy1JM2hQdXF3bk1WLUhJQWprNTlRdlBocTNDbDBMNzMxQ1k?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1777840373868-2",
-      "title": "Oracle AI Database Private Agent Factory: Enterprise FAQ - Oracle Blogs",
-      "excerpt": "Oracle AI Database Private Agent Factory: Enterprise FAQ  Oracle Blogs",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW4xeF9PdHFtRnQ0YUgtVzlqU3pheE56ckEwM05IUEN6Y2pSWVB2OUZqbVdJdm8wTEYzY2JtYnlEMXU3QXZ6TGFCVWRtUXAzV2ZjNmVfY2JNQVpQR29rS2dmQXVRa1Q2SlFscGtHQ0w5T3dNT1hXc0k1QkxKUmJ6WnJGN1V3SUN4V2k4UzlmM3Zha1U?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777495968453-1",
-      "title": "Bridging Oracle Autonomous AI Database and Snowflake: Reading Iceberg Tables with Open Catalog Integration - Oracle Blogs",
-      "excerpt": "Bridging Oracle Autonomous AI Database and Snowflake: Reading Iceberg Tables with Open Catalog Integration  Oracle Blogs",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV09CZzdIVmFXRGVDTVp0WklsUXJmRFJiR0Jvcy1ZVUVrazJFc0ViWWpGWmZ2Rzl4M0RkUnRqOWRCSGlxSnN3LURBMWJCcXY4ZTBsQjBOUmRYdThCQ0Q1dlJ4WEVmMFAtS1hsTEt5TVFJdS1pMnJYQ3dmcUwySGI4S2pyYWZsWVVJT2dDYjNfMVMzek1jVVRqZHZ2S1BsemhNSEtLdVJ1aEJmZEhoQ01GREFkUHAyU0JUaTJOMg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777582222104-4",
-      "title": "Accelerating Vulnerability Detection and Response at Oracle - Oracle Blogs",
-      "excerpt": "Accelerating Vulnerability Detection and Response at Oracle  Oracle Blogs",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHpZTmR4bzFSRWtMblVVaEZrbUlpX1N3TDV1SHhwWGNZNHBtTFk1M0RNc1Z6MVlUMElFMURpZ0x3V1NXUXRXMnRLemdyWHJvdkJHZ0dPQktzQk9YZS02dTZ6MVlOc0I2djRBZFVaRF9GUV9QbmdNZXJLMW5xU3NaWjB4bVFuV2Y3UUpEOVFacWEtVU9WWnFFNw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777495968453-3",
-      "title": "OpenAI Shortfall Puts Oracle AI Cloud Commitments And Concentration Risk In Focus - Yahoo Finance",
-      "excerpt": "OpenAI Shortfall Puts Oracle AI Cloud Commitments And Concentration Risk In Focus  Yahoo Finance",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG5qSFM2TW5lb25NamVnWXQ2UUdZWE5yZ3UwbTk1TEx6aFkyVTBFZE5vZjZucklGQ3ZtbzRJc3dfZkttWFNVQVQtYUIwbHJUd2tyQ1k0QlZidktCQlNfLTZPSElZeU5yV0ZmbUYxX1lrR1UzZWExY3RrdHN2RS1peUR2YWNIUzI5dm44OUJwNUFBeGp5WFJIaDBfZEo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777582222104-5",
-      "title": "Oracle AI World 2026 - Oracle",
-      "excerpt": "Oracle AI World 2026  Oracle",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQVBYVHpDR2F2NDFpN1AzSFNydF9zUkRIbFRGams2WXY2ckNnNjNPanJEUWZFWjJhMGVXc013LUUybm9NRXk0dmtfcExOSUFWU1AtaHpvbDFKUEdEYlJWUG1rallRR3FRRF9jRWxDMkdUTmwxNEJvZmlYai1lbEwyRDFmSzF5bTc4Q3FBU0Vlem1RcFk4QjliWkdoTm5UVWN5b1FZUlM3aWxzYU5BOGlQWktvaldjb2JoQzlUM0w3c3YweGdUY0M3MjJpMVM2dHpvMVJvZzdVbzJkVGZ6eTNCT0l4VGZGUG1uSjdDeHhqS3Y3N2NZbk1JYTN1Yw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1780091080245-0",
+      "id": "ko-1780173851691-2",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 상승 6.39%에 5월29일: 핵심 원인 공개 - TradingKey",
       "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 상승 6.39%에 5월29일: 핵심 원인 공개  TradingKey",
       "date": "2026-05-29",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmNQM2p4bGhKVGs3dkFfcVFnTFFtUWN2cUMxQVA1RUE2NjM4OGxlNlBXS3hxT2tBZ3pTUU40X202d2h5c04tTzZIenljcXM3dGdoTHBYRW5nRmV1RFV5bVhEMk8zR0w1bHlsekpjNHlDM2puMDI5eDFucDV6Yy04aVNLQUFSamRvOFJmaHloOA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1780173851691-0",
+      "title": "미 정부 클라우드와 엔터프라이즈 AI 계약으로 재조명받는 오라클 투자스토리 - simplywall.st",
+      "excerpt": "미 정부 클라우드와 엔터프라이즈 AI 계약으로 재조명받는 오라클 투자스토리  simplywall.st",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWhqaTVQekxJOEN5TmNiUTFNaEpuT3ZwZHMwbTVveDRveDM3QXpkSjdFRmpCOHdrMXpheWROM3A5eDdnbThTQXNBa3VnXzg1ZHRfSEd6R2JtTnZacHlPdmY0cjhCVU9hQWpLb2MzdmRqdS1uX1BERjExMnBDZ2xxd1BXME5Rb0xBdGtGUjUwONIBjwFBVV95cUxNcWhqaTVQekxJOEN5TmNiUTFNaEpuT3ZwZHMwbTVveDRveDM3QXpkSjdFRmpCOHdrMXpheWROM3A5eDdnbThTQXNBa3VnXzg1ZHRfSEd6R2JtTnZacHlPdmY0cjhCVU9hQWpLb2MzdmRqdS1uX1BERjExMnBDZ2xxd1BXME5Rb0xBdGtGUjUwOA?oc=5",
       "category": "Industry News"
     },
     {
@@ -1128,14 +1112,6 @@
       "excerpt": "오라클, AI 인프라 경쟁 새 판 짠다… \"GPU 아닌 데이터 통제권\"  한국클라우드신문",
       "date": "2026-04-30",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYnpSd2VORlVGY2gzb21wclA1U1ExWnc5aTRZR3BkM0QzNW5FbXd5UU9jOFZfTENMUjhleWY0cndvNzk1eXhLdnJMcGd6OXNIaWxiSzJ1MExsSmNmWHdJMmtYUkVURE5wWGUxQ1pNTdIBc0FVX3lxTE5sSFUtR3FESEJSZ1F5VnJlS0lBOEE1NmI3RlZiekFCczZjR0NabFIzc2hDOUdDMkxiclR4LXg2SmE1cWhYZGZLV1pwNmROdWk2aF9GM015X205WURRUWhORDhXbkJDWjhMYXRjRlZhSTN5MXc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1777928317409-5",
-      "title": "공룡의 진화, AI 시대의 붉은 제국 - 오라클(ORCL) - 네이버 프리미엄콘텐츠",
-      "excerpt": "공룡의 진화, AI 시대의 붉은 제국 - 오라클(ORCL)  네이버 프리미엄콘텐츠",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1NVc3VWeGRXeFNydGhuT052X2JqQmlUU1NUVEp2Y01BUl9JNHNpS0JRMlJoOGQtanVOWXVJWVJ1dnlyaDJ3R3lLYTRPcWItaUVtT0s4eVZGaU1iMGtlVDgyNEt5a2RVNWVDY2h5OVdGZWhmTGt5UjNoeUdyaGtWX2J4QVpNQQ?oc=5",
       "category": "Industry News"
     }
   ]
