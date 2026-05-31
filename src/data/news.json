@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1780260540490-3",
+      "title": "ORCL Surges As Oracle Wins Big AI Price Target Hikes - timothysykes.com",
+      "excerpt": "ORCL Surges As Oracle Wins Big AI Price Target Hikes  timothysykes.com",
+      "date": "2026-05-31",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05aDlWWm9pdWhLY184dkVvWFBRMTY4a2lsVEktVHJFSkphOE9XNmZ3NFdoZWZXM2NsMm9pRjNENkxZeEhkUzR3VlRoQjZtbkpQSVE2bE1ONzJHaUI3OG5yUG1tZWJtNk1VQXVES25HbUZoYl9fS2drMkdyellIUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1780173851238-0",
       "title": "Make Enterprise Video Searchable on Oracle Cloud Infrastructure (OCI) - Oracle Blogs",
       "excerpt": "Make Enterprise Video Searchable on Oracle Cloud Infrastructure (OCI)  Oracle Blogs",
@@ -81,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780004966526-0",
+      "id": "en-1780260540490-0",
       "title": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI - Oracle Blogs",
       "excerpt": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI  Oracle Blogs",
       "date": "2026-05-27",
@@ -89,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780173851238-1",
+      "id": "en-1780260540490-1",
       "title": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story - simplywall.st",
       "excerpt": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story  simplywall.st",
       "date": "2026-05-27",
@@ -113,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779830911285-0",
+      "id": "en-1780260540490-4",
       "title": "Educators in Indonesia attend workshop on Applied Database Systems with Oracle AI Database - Oracle Blogs",
       "excerpt": "Educators in Indonesia attend workshop on Applied Database Systems with Oracle AI Database  Oracle Blogs",
       "date": "2026-05-26",
@@ -329,7 +337,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1779655357068-3",
+      "id": "en-1780260540490-2",
       "title": "Oracle IBM AI Cloud Alliance And What It Might Mean For ORCL Valuation - Yahoo Finance",
       "excerpt": "Oracle IBM AI Cloud Alliance And What It Might Mean For ORCL Valuation  Yahoo Finance",
       "date": "2026-05-19",
@@ -561,7 +569,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1778533832067-0",
+      "id": "en-1780260540490-5",
       "title": "AI agents know SQL. Oracle Database Skills teach them Oracle - Oracle Blogs",
       "excerpt": "AI agents know SQL. Oracle Database Skills teach them Oracle  Oracle Blogs",
       "date": "2026-05-11",
@@ -831,35 +839,11 @@
       "date": "2026-05-01",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVdLdkM2UGlaYmdnZHBJQTNjQUJXZ2N4WjhnaHFNNnlCT2V6elBYME5USFVveHRLTkFRWFdmRnJUcmlqTXlVRmlONHRQSmc4SEtXMmtyTnpqT1lEWHJGUkdkMmRqZmdaY0JKSXVnOThXeC1EeE9sYlhNMFVqX0JpaDFyTlN5UVNxTVBNU2x4dWdHLXMyQlREME5sOHJDU2RhYU1EaHdmYnZ6dTd3ZmJrWVlJdl9faHQ5aWk5WVNsRVpmeGF1WEcxZDh4OG0yM3hEcy1KZW5Jd3Bab2REMkxFaGMybUxsWm1QRV9yWExtbkNOems?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1778014435364-3",
-      "title": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats - Oracle Blogs",
-      "excerpt": "Take Action Today: Protect Your Oracle Database Against AI-Enabled Cybersecurity Threats  Oracle Blogs",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQUtwNE1HQnlBSjlHa2JHQ1RScjlmcEFzd3h2RVo5XzNBSkxMODIzbHloSjVNaEJzejJQWHgyeHZyQ0lLd0JrM1hpUzBjY3JrWDJITHhDRnMwbE5GNTg3eGtZVk9vZ1dIeV9Bdlp0T2ZJN1NmZ3dGaUJicVlydEpDdl9sUFhXckZsdzlrV1RDbUZrQWNWbDlLVFZoVXEzQ3VZSWhFZDQ5Q05BWURBdHZFUjZZaG51MzZLZTFRMFZ3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777582222104-1",
-      "title": "Oracle Customer Success Services: Patching and Upgrade Center for Databases and Applications - Oracle Blogs",
-      "excerpt": "Oracle Customer Success Services: Patching and Upgrade Center for Databases and Applications  Oracle Blogs",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlliRG9HZVFMTXNVQzlTMHliQVppVnY1eTItNHlocUdWeWd6V29TOGJqN3dCNXRaTWxHVXA1dFM5Qm1vYTJ4WndldkNSQ0VlVDB2MVYyN0ZGVGpyUTJiSWJiR011TTRickFFOTdGaF84Tzc4Wk5VNWIzVUtqOTA0WXNMSVl6U0Z5VzNMQ2RjOG5PWFlQczMzem9vTk9tR2NDeW5TZUl5WFZsVmdLa0xjSnN4b1JCc0lrS0dEUXlsQWNWSEk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777582222104-3",
-      "title": "A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory - SiliconANGLE",
-      "excerpt": "A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory  SiliconANGLE",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0JuTTNzS3JFYlpqVHpEM3JuYzVNakFCWFFnOEtrT0RSalB2OEQyaFVZZWttMDBTd3Nhd093VjZUbFFQeEZkLUlzcnZrY0hXcG45SGZ6eGp1QVBrbUNUMklTSHFFbzBjbV9Oc2p1dVl1dnBiOUhnZTd1SVdaLVI1Vm5WT1YtX01ocjFmVUMySVNsR2ZmaTRNdi1ieDFaQllVUy1JM2hQdXF3bk1WLUhJQWprNTlRdlBocTNDbDBMNzMxQ1k?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1780173851691-2",
+      "id": "ko-1780260540966-1",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 상승 6.39%에 5월29일: 핵심 원인 공개 - TradingKey",
       "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 상승 6.39%에 5월29일: 핵심 원인 공개  TradingKey",
       "date": "2026-05-29",
@@ -915,7 +899,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780091080245-4",
+      "id": "ko-1780260540966-5",
       "title": "오라클(ORCL) AI·클라우드 계약과 실적 랠리 이후 지금 주가가 저평가인지 점검하기 - simplywall.st",
       "excerpt": "오라클(ORCL) AI·클라우드 계약과 실적 랠리 이후 지금 주가가 저평가인지 점검하기  simplywall.st",
       "date": "2026-05-16",
@@ -1104,14 +1088,6 @@
       "excerpt": "Oracle Corp (ORCL) 주식 시작했습니다 상승 3.61%에 5월1일: 변동 원인  TradingKey",
       "date": "2026-05-01",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW00TXVxRm9XQUxRVHBabEJJNy1RVmNKMW9UU25jaTZnd3RRUG1QNmI5NEFsX1c1bXE4WjNBd2JLZU1YQVMxYVJLSFAyeWNuYnlLWm9SOE1tMm9mZS1CLUZxX2FQbEJUdkJpN08yYkxGLTM0cGFzR0M2Rm04MVN1TkVEWTh2cS1JTTVKd1RVYw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778014435946-4",
-      "title": "오라클, AI 인프라 경쟁 새 판 짠다… \"GPU 아닌 데이터 통제권\" - 한국클라우드신문",
-      "excerpt": "오라클, AI 인프라 경쟁 새 판 짠다… \"GPU 아닌 데이터 통제권\"  한국클라우드신문",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYnpSd2VORlVGY2gzb21wclA1U1ExWnc5aTRZR3BkM0QzNW5FbXd5UU9jOFZfTENMUjhleWY0cndvNzk1eXhLdnJMcGd6OXNIaWxiSzJ1MExsSmNmWHdJMmtYUkVURE5wWGUxQ1pNTdIBc0FVX3lxTE5sSFUtR3FESEJSZ1F5VnJlS0lBOEE1NmI3RlZiekFCczZjR0NabFIzc2hDOUdDMkxiclR4LXg2SmE1cWhYZGZLV1pwNmROdWk2aF9GM015X205WURRUWhORDhXbkJDWjhMYXRjRlZhSTN5MXc?oc=5",
       "category": "Industry News"
     }
   ]
