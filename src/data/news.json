@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1780694230605-0",
+      "title": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates - Arm Newsroom",
+      "excerpt": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates  Arm Newsroom",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1OMl9JbDdDVXh1Z0xHMjExYjN4bGhmczNfZy1ma3RYbG1IaW5saW5fdGpYbGdJcUh2ODZsVjVfcEVaMWQ4WVhiaGZ0V2NlNS1ibXE1VFBJNUFsWkJzUjEtTmc0WDlPY0hPQTFjdVFXWlliVDkwWGdyMVFOcTZpalp6bVJ6Yzg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780694230605-1",
+      "title": "The Rise of the FinOps Database Conversation - Oracle Blogs",
+      "excerpt": "The Rise of the FinOps Database Conversation  Oracle Blogs",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2FoM2E2YjNyQ2czako5dnZCWU5yVV9VVmlyQXhqQVVVVno2M002MmVRRk10VVB0WENESGZ3akxCai1mbm5qMlVUTG5qWnZhVlJNOWlxUGFwejI0QW9VcC10YjhNVngyMzlVaFMzdTZvOXpweGVxTDNXMTdlbmpWb0NqWVQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780694230605-2",
+      "title": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative - ERP Today",
+      "excerpt": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative  ERP Today",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWNPUmdtU0RGQ1ZDVFI4REd2UHV2N3VsTGcxUHliQXR6QVh2WEE0ZExSTU50UExsSC1KUks0VW5vc3VzaUFyUm9iUjNUcFB4a24wN1pVMHc3bjV6NWZkZmVzOGZmcHhpX0dBVW8yTDZpeHdsZXpibzJ3OW1lcndodUVSbUMwcy1VTWdkcHJB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780694230605-3",
+      "title": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings - Investor's Business Daily",
+      "excerpt": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings  Investor's Business Daily",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMy01OURoXzVZOFNjTmhuOUNlTkFmTEtuay1LQkNGWk03eWpBQkZiaFFhRXJhcDFRMVdtRGN1ekxUU2JRTXBrRDBYNDFYTUpiSHRuQVZSZHpnaFdLQXF2SktRVlVrd05LcEo0QnByV05qVjdPdm1qcHlBYjdZWjNsLWhHVTZWR1IxTlp5ZTBMZmwzSEllZndrTVVmcDBNd3NnQWYwaGRtN2Q4NFRfelM3SW5OMWdpajVsRGF5VjdJRTZ3RFB1cmN1a0NRbw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780694230605-4",
+      "title": "Oracle Q4 Earnings Preview: Expect AI Demand to Push ORCL Stock Even Higher - Barchart.com",
+      "excerpt": "Oracle Q4 Earnings Preview: Expect AI Demand to Push ORCL Stock Even Higher  Barchart.com",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjdyWGxXWDhpdThmUzBIZ2NMZi1GTHFZYjFSNXc1czk4Z0Q4MkpzdlZLU3VpcFY5Rm9FTVJZRUYtYUZIRVRvMmdkQXVGSURxY2lYTnZJVkw3TWZpSm9sUGd2QkdobUZfY3hQb2NILWtyRUJaVVRHMFhGVVpNVEcwYUkxR1FGSFFzTWJqUGJnUi1YWDBlUDZGRDNqM0lMNjRBSnU5dFozUm1BcWp0anlLVkQyUDRHVVZyZVE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780694230605-5",
+      "title": "Oracle's AI Spending Bill Keeps Growing: Capex Could Hit $100 Billion As Stargate Expands - Benzinga",
+      "excerpt": "Oracle's AI Spending Bill Keeps Growing: Capex Could Hit $100 Billion As Stargate Expands  Benzinga",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbE5MQ3pxa0RndWxHa1BJMGd0Uk9rZDVBbnpQR0VIRjBhblA2dm55OVNEc2xuTTZXOEVCWElnSXVyYm1rSGVCLW5aOUVDa01OajJ3UGpmT0FabDQ3YVRhb2xydnVWN2lsSzZfOXV2QzhGRWxUT0JwQU5uWmdyS0hVUnU5ZTBpNFV5NG5VTEs4am11cVJKUklsVUVnTmF2ZnRDRFZMS0NmcnRlQTZ4U2xCemRDeHBnQTVrejNnU1lLSTcta3U4ckVBVXg3ZFNURE9SZTUtUVl6c3Q5cllsM1FmOGlJdG93VGt0NU5vanhFRktndw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1780608221024-0",
       "title": "Airis Labs and Oracle Cloud Infrastructure bring AI-enabled media exploitation to secure missions - Oracle Blogs",
       "excerpt": "Airis Labs and Oracle Cloud Infrastructure bring AI-enabled media exploitation to secure missions  Oracle Blogs",
@@ -70,14 +118,6 @@
       "excerpt": "Installing Oracle Analytics Server 2026 Using an Oracle Autonomous AI Database Wallet  Oracle Blogs",
       "date": "2026-06-02",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd2IwYkp5VTdSYTRXYTdPYi1WQUEyV1YxSU9mV3dFOV9fZ1oycGMya1ltdHNnLWtUb3ZDVjJPVXl3VzdRNktGbUcxSUd3bDRoMXlWbFBqYUM3Szk1NklUNGhaU2N0dm1MdGt3akdGUWYyT3NYUVYxSkZMd3JCU0pIUVk3VjV6SGNYUzhUbHhlQ0o4YTdxSUtBUy1VMEx5aFN1OXpZdjBiTU1iSUF5cTg4VGdJajlkQk5VNHNCZA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780608221024-1",
-      "title": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates - Arm Newsroom",
-      "excerpt": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates  Arm Newsroom",
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1OMl9JbDdDVXh1Z0xHMjExYjN4bGhmczNfZy1ma3RYbG1IaW5saW5fdGpYbGdJcUh2ODZsVjVfcEVaMWQ4WVhiaGZ0V2NlNS1ibXE1VFBJNUFsWkJzUjEtTmc0WDlPY0hPQTFjdVFXWlliVDkwWGdyMVFOcTZpalp6bVJ6Yzg?oc=5",
       "category": "Industry News"
     },
     {
@@ -887,49 +927,25 @@
       "date": "2026-05-05",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmdsbUlhX1BLT1NoMG9iMEdON2d4dE1ZLTB4U3hZVjdOdS1Fa09JUnZkZUpZY1FQYWRKLUUyVjhUZFk0R1AxUUF1OThhbVRCV1RhQk4wdS1MT0pLaVM1OTJPc1l3VEMwRUZKNXJxRkRvaE9PNF9FUjkyT3NaMVpjcU02akJ4WU1Dd0NmWXRjU2NlQWU0aUx0R1FCSkxJNkZIWm5lMFY2MV9zZw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1777928316961-0",
-      "title": "Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push - 24/7 Wall St.",
-      "excerpt": "Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push  24/7 Wall St.",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHcwWk9pU3g2MndXWnFrQmF6ZXl2ZTNzeWNaeGcwaEhIbGFpS09qRjUydU5fSlhiUjBtV0EtU3BmcU11Z3c3LVVPemZhc29RU19TYzlMVks1R1JhT05SdHBKRWxOSnFUNTdZYTY4NHFINmJNMk01eFNaZ0ZZRVJYalZvY1YxU0dYeDlNNFpKc1hqYWV2QTZzbW5pTG9IRlBldm1uT2NfY0hjTUdY?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777928316961-1",
-      "title": "Move Faster from Insight to Action with AI-Powered Fusion Data Intelligence - Oracle Blogs",
-      "excerpt": "Move Faster from Insight to Action with AI-Powered Fusion Data Intelligence  Oracle Blogs",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWl2VzRNdTBfWEhuZUJZaG1sMDBIVWlFTWoxd2FHRzM0YzhPNVdNaHM1cXNJeWNLQnJBdUFMczZndmtkS2NKcG9seVU1eHdvaFNuQ3NVb1Nvd3VwUkJVSk1SQ0xZNS0zYUdOaE1ORDdUWTlpckcyNXFCdzRqMGk5LXBUMDFTYUM5Q096RG1qVml0dHNBYU1wN3NMWEhpenFHVnU4UnpBVmZMVHZDOXVZ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777928316961-4",
-      "title": "Oracle Fusion Cloud SCM 26B: Advancing Autonomous Supply Chains with Built-In AI - Oracle Blogs",
-      "excerpt": "Oracle Fusion Cloud SCM 26B: Advancing Autonomous Supply Chains with Built-In AI  Oracle Blogs",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFZqNWpGcXF0MVB5OXBBeUx2b01adXd0UHdXQVV1TnpzNUwtSnQ1TWktd25ncTdBeEI5Slc3cGZoS0UyZHUySXJ4VWotMFhybUV6NXVMWE84SjhoajgzY1Z5d2huQlBvZkk0ckRFNVNQZU10dW1SOFh1cDhtWktEU3YwX1VyNjVkaW5jSFA2SUVPdDgxRGZVYVlKb3FWOXRpMjBhXzhfcTdEWW14?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1777928316961-5",
-      "title": "AIOS develops customized reporting and planning solutions with Oracle APEX in the EU Sovereign Cloud - Oracle Blogs",
-      "excerpt": "AIOS develops customized reporting and planning solutions with Oracle APEX in the EU Sovereign Cloud  Oracle Blogs",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXpaRTBDQzdFTXZPazN3MFk4WlU0blVfVDdrSWVWZUlHMGt2dW0weW5OVkFiUFRaVG9FT1J2VXRFVENjWWxpUXBuZWtLajFkTng2S2U5VEozUlZGNk5aQndfblpIN2tGYThmRkFyV20wVE44dzJrN1hiajVXNjlDaHk5U2dTcmtwdXFTN2dwaTYyTkNYSUdqUWZzUmN2dV9XVWhTX1FOWDFFZ0ItTzlmcTNOS3d0Yy1mNVpoQmdHRE12TC1fTXhwTllMMEJPRk0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778707019232-4",
-      "title": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud - IBM Newsroom",
-      "excerpt": "IBM and Oracle Expand Partnership to Help Organizations Modernize with AI and Cloud  IBM Newsroom",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTVZUHpEby1yakxHOS12bXVFZXlFZHU4QlZTWDZfSURoTkk5c19wOXNqQ2tpeGhTVDdDXzRham1ZeFlBUWhkcVdxZ1k2blh1VzQxa3JBMFVRZ1htQkF0UldVR2x4Y240OXRSRWw0NTh3YXRQenVqRXNOeUJzb3Zjd0pndFFyRjVCQkJNbU9ZRkFuc1IyZ2NUd2QxNTNGd2dHSGNEWkhQeDRvSjFzR1ZGTS1yZw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1780694231036-0",
+      "title": "오라클(ORCL)의 AI 지출 전략은 해자를 강화할 것인가, 아니면 대차대조표를 늘릴 것인가? - simplywall.st",
+      "excerpt": "오라클(ORCL)의 AI 지출 전략은 해자를 강화할 것인가, 아니면 대차대조표를 늘릴 것인가?  simplywall.st",
+      "date": "2026-06-04",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZm1fbkhwdzI4NnNMVFJVX1l1SmtvRTFaREJQUjVYYmdaMnhwS0pXdm1pV2pfcmdqcHp1UGFXS0NYUlpDcnZXZjdULVBQZTRJSkxQWmk2R1g2R3gzNmF0dDZiTzRDRVE0TFZxV0NiYnZhUE1OMnNiMHhEOXA1RzlraFhUVnE3Qjl3SmfSAY8BQVVfeXFMTm5pOTV5cGhSbzc2ZzVuZG90TWtIUWpMUzg3bGhGNWZ2WkRYN2lnd25EdktnVExaUFg2UFpkd3JnMHNUV0xxS0xZVEV4MHJ0TmZDU1VNLW5oeHp4T2lIcVpkTV8xNWNrYlhfME9fNllKUkRMVGVsWjcxM3pOTnhDLWpSelNpMllVck1oU1pVenc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1780694231036-5",
+      "title": "[랭킹연구소] 오라클 래리 엘리슨, 구글 래리 페이지 제치고 세계 2위 부호 오른 결정적 변수 - 뉴스스페이스",
+      "excerpt": "[랭킹연구소] 오라클 래리 엘리슨, 구글 래리 페이지 제치고 세계 2위 부호 오른 결정적 변수  뉴스스페이스",
+      "date": "2026-06-04",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jRGZmMl9zRjZ2bE11WmlISFZGVzdsczVWSVFVSl9UQ2FJUFpqNXRnRmVyY2gtcWFMSmVwM3ZxZ0hQZm5NRm1mbUJaRWJJN1laWlB4ZTRhdFh6OWlaT3FudA?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1780525407472-0",
       "title": "Bloom 연료전지 계약으로 Oracle AI 데이터 센터 전력 리스크 겨냥 - simplywall.st",
@@ -939,7 +955,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780608221587-2",
+      "id": "ko-1780694231036-1",
       "title": "스코샤뱅크, AI 클라우드 포지셔닝에 Oracle 금융 소프트웨어 목표가 상향 - Investing.com 한국어",
       "excerpt": "스코샤뱅크, AI 클라우드 포지셔닝에 Oracle 금융 소프트웨어 목표가 상향  Investing.com 한국어",
       "date": "2026-06-02",
@@ -947,7 +963,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780608221587-1",
+      "id": "ko-1780694231036-3",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 상승 5.56%에 6월1일: 변동 원인 - TradingKey",
       "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 상승 5.56%에 6월1일: 변동 원인  TradingKey",
       "date": "2026-06-01",
@@ -955,7 +971,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780608221587-3",
+      "id": "ko-1780694231036-4",
       "title": "오라클, 엔비디아 차세대 Vera CPU 핵심 파트너 선정…AI 인프라 경쟁력 강화 - 매일경제 마켓",
       "excerpt": "오라클, 엔비디아 차세대 Vera CPU 핵심 파트너 선정…AI 인프라 경쟁력 강화  매일경제 마켓",
       "date": "2026-06-01",
