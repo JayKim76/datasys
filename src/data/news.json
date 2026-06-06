@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1780779264381-0",
+      "title": "Oracle and the AI Boom’s Hidden Debt Bomb - inc.com",
+      "excerpt": "Oracle and the AI Boom’s Hidden Debt Bomb  inc.com",
+      "date": "2026-06-06",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUm5EaWJMb3NtSU0wUWVlS0ZxZ1ExR0dqM0ZQMU5TNmpINkIzQUs0QUU1Qm9sLVhNRXpyUExRajJ4LVB5Z0NnbTZTczRoMlJFOFNrNE10c1Fxc0VGajZrcGxDeWdlTWYyVzRCUGN5MHhBTGMtMFZIUFJXcWQ3OGRuanNUT3VRVkFhOE1IWmQ1Y0djbkZh?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1780694230605-0",
       "title": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates - Arm Newsroom",
       "excerpt": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates  Arm Newsroom",
@@ -17,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780694230605-2",
+      "id": "en-1780779264381-3",
       "title": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative - ERP Today",
       "excerpt": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative  ERP Today",
       "date": "2026-06-05",
@@ -25,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780694230605-3",
+      "id": "en-1780779264381-4",
       "title": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings - Investor's Business Daily",
       "excerpt": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings  Investor's Business Daily",
       "date": "2026-06-05",
@@ -49,7 +57,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780608221024-0",
+      "id": "en-1780779264381-2",
+      "title": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings - Yahoo Finance",
+      "excerpt": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings  Yahoo Finance",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0xRdm5CeklWS09FcnFNOUJyTlRoOGNiRUhiUHZCRmpndExPbU5lRHppSGpaZG9XbWEyclZOTW13bU1ZWkZuT00tTWtGOGJtbHhQQVAwUTh2ZHNXT2N6Z0tKYnJyUVdiR0J4Uk1NcmVWMWE3am81ODRXdjBFLWJZNWJaa2huenlTaUlaeg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780779264381-1",
       "title": "Airis Labs and Oracle Cloud Infrastructure bring AI-enabled media exploitation to secure missions - Oracle Blogs",
       "excerpt": "Airis Labs and Oracle Cloud Infrastructure bring AI-enabled media exploitation to secure missions  Oracle Blogs",
       "date": "2026-06-04",
@@ -57,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780608221024-2",
+      "id": "en-1780779264382-5",
       "title": "Tricentis to Showcase AI-Powered Oracle Testing at Ascend 2026 - Business Wire",
       "excerpt": "Tricentis to Showcase AI-Powered Oracle Testing at Ascend 2026  Business Wire",
       "date": "2026-06-04",
@@ -903,33 +919,25 @@
       "date": "2026-05-06",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVI0cDc0X3dpTEJmUk14c2xKVFoxZkMzWkQtUzB2ZXF2enJsVlBZc2RXcEVHRU1qQklqNUZVWWh0ampSOS13cG1xLTJtVkhuSVpUaXZkOU5mS0RXSDVLQ294TUo3SG9tWU1lVWVzbkFoRWR6T1FEeEJkSVNJenBrekFMMk9OZw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1778014435364-1",
-      "title": "OCI Observability for Agentic AI - Oracle Blogs",
-      "excerpt": "OCI Observability for Agentic AI  Oracle Blogs",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkFRY1ZMOGJGRTNrRTRnRW12R1RTUG5kQVA0NVdyYTFGS0Y1dnQ1SDhTUHJVX2VyT01tZmFaREVNY2NOMVN0WS1obW1Ld04xS1dCczhnc1J4VFlzR1dGNHcwcjhON1JJNnlrSDBBN3FEdV9WN0FCMEQyc1JpZ01TaXVn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778014435364-5",
-      "title": "Oracle AI to be integrated into DoD classified networks - SDxCentral",
-      "excerpt": "Oracle AI to be integrated into DoD classified networks  SDxCentral",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFdBR1lKQ2E3ZWJQU2RQZFl6ZDZKSWpIZ1FWbDdXbVV4SVR6MWtabE5ENEFlY1R4WUROTENDQXJmRGdvWU5tRFJZbnE5UXFRbjY1UTJ5ZXZHNDUwR2UtUjVqajQ2cXFHN2UtbU55eU9GZW1PRXNadHhmaHNjeXN5ZjdyVzRzSlpqR1BaWFpJQl84dw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778445484110-4",
-      "title": "Oracle will patch more often to counter AI cybersecurity threat - cio.com",
-      "excerpt": "Oracle will patch more often to counter AI cybersecurity threat  cio.com",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmdsbUlhX1BLT1NoMG9iMEdON2d4dE1ZLTB4U3hZVjdOdS1Fa09JUnZkZUpZY1FQYWRKLUUyVjhUZFk0R1AxUUF1OThhbVRCV1RhQk4wdS1MT0pLaVM1OTJPc1l3VEMwRUZKNXJxRkRvaE9PNF9FUjkyT3NaMVpjcU02akJ4WU1Dd0NmWXRjU2NlQWU0aUx0R1FCSkxJNkZIWm5lMFY2MV9zZw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1780779264782-0",
+      "title": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\" - 뉴스웍스",
+      "excerpt": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\"  뉴스웍스",
+      "date": "2026-06-06",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qcXgwOGp5d0piR0h1MkV5MUs3MmR3QkhTYkt2VzhQd21UamxnZWhZUGtUM2NZRlRGY3l4WVY3YnBtVjloNm55UU1CbFJFWUpTQ3pydnV4LVVPMTdYYm5JLXQwMUVja3NXNHZ2TzJHVQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1780779264782-2",
+      "title": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어 - TradingKey",
+      "excerpt": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어  TradingKey",
+      "date": "2026-06-05",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFpCLVhkeFgwNmRtalpXcWdhYnJYTEtXck5JOEZ3aFVHOGVZM1c1ckhFZWhseldxUVZobWN6VUhuSVAxc0daSzZ4QzJvVE10UzROLUtuenpjWEJ3elVIeEtGNUxvQV9GX0Rvc0RfcHlLeEkzbEJpNy1rQXN2TjZpbmktaEt1WTJjdl9pNTZmd1BEYnVJRGtjTmdWMXNmenBxaEdMQVFrajZ4d1k1RzRNV0NGNDZnd05VYWRxVEk1eV93RG4ycmVMN3Fja2N5bmRlcWFPV1hWVXdBODRRRVQ2amd2T3E?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1780694231036-0",
       "title": "오라클(ORCL)의 AI 지출 전략은 해자를 강화할 것인가, 아니면 대차대조표를 늘릴 것인가? - simplywall.st",
@@ -1139,7 +1147,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780608221587-4",
+      "id": "ko-1780779264782-4",
       "title": "오라클, 기업 데이터 기반 ‘AI 데이터베이스’ 에이전틱 혁신 공개 - elec4",
       "excerpt": "오라클, 기업 데이터 기반 ‘AI 데이터베이스’ 에이전틱 혁신 공개  elec4",
       "date": "2026-05-12",
@@ -1200,22 +1208,6 @@
       "excerpt": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화  Oracle",
       "date": "2026-05-06",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUJkMkNKMmZ1N2RUd2M5T09kaUgwYXBPZFNPNG42WkQxZUNEX3RmOFBNdGdFZDZjczBSSDJGbFYzZmEzU1NwbkdVdGl6SG5pMVc5Y2w2VXlDMnB2SGxsSXJ0VTR0OU5SdzZCbVRHWGtqUTYwTlROQzlJN2ExT2N0TWxWMGUyZVltYnRfb19ZNTF3Mm5LaU5SSnlodXhkNFg3RWt5VTZpbGczZ3c1QmpjSEhJUXJQWHlqejVJYzRTSFY?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778187467266-5",
-      "title": "아리엘, 오라클 AI 지출 우려에도 매수 - 데일리바이트(DAILY BYTE)",
-      "excerpt": "아리엘, 오라클 AI 지출 우려에도 매수  데일리바이트(DAILY BYTE)",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Za0VYYnloSGVxcm1mN3NXS1V5TVl2c1ByVmpxUml0M3hlTU5SU1o0bm5zaTIyVk9hTlNQVjhOYk96dG1IbmNURTlUNHh0S0p3WU1UNlktQnNtTEtIcWJ0UXBaeU1heHI5XzZB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778358903013-5",
-      "title": "오라클, 160억달러 데이터센터 투자 추진...AI 인프라 경쟁 본격화 - 레디앙",
-      "excerpt": "오라클, 160억달러 데이터센터 투자 추진...AI 인프라 경쟁 본격화  레디앙",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YX1dwMXFBSlRGdS05NU9kSDVLTm5yU1A4VXdqZHlId3QxNTRPQnhnYlR3SUctMzIxeWg0R0lfZjRINXNYbzl2Y0REREhqb25NMzN4aGdBZ0YtZ3FTa3o4VjE4ZWJucVRQ?oc=5",
       "category": "Industry News"
     }
   ]
