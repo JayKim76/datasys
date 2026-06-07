@@ -1,7 +1,7 @@
 {
   "en": [
     {
-      "id": "en-1780779264381-0",
+      "id": "en-1780866037541-2",
       "title": "Oracle and the AI Boom’s Hidden Debt Bomb - inc.com",
       "excerpt": "Oracle and the AI Boom’s Hidden Debt Bomb  inc.com",
       "date": "2026-06-06",
@@ -25,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780779264381-3",
+      "id": "en-1780866037541-3",
       "title": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative - ERP Today",
       "excerpt": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative  ERP Today",
       "date": "2026-06-05",
@@ -33,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780779264381-4",
+      "id": "en-1780866037541-4",
       "title": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings - Investor's Business Daily",
       "excerpt": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings  Investor's Business Daily",
       "date": "2026-06-05",
@@ -57,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1780779264381-2",
+      "id": "en-1780866037541-1",
       "title": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings - Yahoo Finance",
       "excerpt": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings  Yahoo Finance",
       "date": "2026-06-05",
@@ -166,6 +166,14 @@
       "excerpt": "Scotiabank raises Oracle stock price target on AI cloud positioning  Investing.com",
       "date": "2026-06-02",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUhfay1yZDlRR2laZkVWTXdmTDJHOEt6ZFJIMG9EZlJDQy1Ta2FZU0ducmY3YjJXeDRQY2hsbkJMWF9wdWJySDNCRUNIQnVyaWZhSjZDcTRDQmlsdjN3TkJySDV3dHFZYkVOWXNYVEFJUXFUblkxcTJFRDE1Wmh4YXJzVG5NX01nVFB3YVNyTDloc1NLMUZVTUlKY2hlMkN4RWlnN0tnSG15cjdkb3AtSVBqa0k1YW1PMzdVZHc2X1dHTThXV1E?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1780866037541-0",
+      "title": "Provision OCI GoldenGate on Oracle AI Database@Google Cloud - Oracle Blogs",
+      "excerpt": "Provision OCI GoldenGate on Oracle AI Database@Google Cloud  Oracle Blogs",
+      "date": "2026-06-02",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY01zQ0xpamhhbW9Ic1EyOEF4OG5takYxSzdiTm1GQkpTeUItaGZuRU1zczdJTzktNlpHYWZXYlI1NTNmR3dtQk9hcmktWVFfOGl5NGtnYkdSRXRUWXdhS1VHY2hrYTM2Z0ROaUhlYk5JYThNTXRqTnVhWjNKbU5mSFYwM0xJQXlCNkVRVEE5dmN0dGJmeDJPcy1nS1NlQ1dFRkdoTjZkYjhfS2M?oc=5",
       "category": "Industry News"
     },
     {
@@ -895,35 +903,11 @@
       "date": "2026-05-07",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWR1VktwS0xDNmhYNVhuVS1OSVgyXzhKT0NvT21DSjBDZjlVU0tqeWtWLTFLV0F5djNpZkxYczJKaVJCbjVNYnZMVF9WSkZIWTBSLXVDNHdZTTg4ZEpQem1CM203YVRROERlSVhsQVMzeVdQWTllaUVkdUdiWEVNbWJpQ0FtQmdRdDJKTjk4Y1M1WHdKek5DZHlZV2hqYjNVWElkSFVpb2pNdUpVVEx1OE1idUdYbEkzUElKVG10QnTSAcYBQVVfeXFMT3ZIRk5BZTdGaW44Y2RHN25FSG84Y1V2b2FMMmZla050d3dPazJsRDRKT3hMQUx5VTlHa242OThOaExMcnBudllhUkQtR0M3bXVkUi1PZWlyamRzT1QzVURGeFUxX1pvVkM2NjlpYjNUcS0tTWgyWnpmZXI0ZGV4d284cDNKQU1YaFFVQmNxUnBzdm1lWVFpWElHU1NzWHI4SlVxbmFqMHNubmZSUVRtX2cwVTljX3ZnX2hmY1hYX0t3VkZLMXR3?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1778533832067-4",
-      "title": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security - Cloud Wars",
-      "excerpt": "Oracle Advances AI Database Strategy with Near-Zero Downtime and Post-Quantum Security  Cloud Wars",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMC15ekNzTVZiLVNyajEyeDVYQXNZbVdONlQ0QlZ4WGNVMmdXekwzUkdRNHlxSEoxYm9aaUU5eXFUbmw4dTZSbUdYZ1JDWkg1VW5VNUpvWDNqaWpSUmNWQUFHMXRqOHRhMm1SM1JOSG91YUxTbjM5akJpdUZXVGhSRXB0NFd1TnphbG5La0V6bW1PTUs3MlJEUUE1QVpKdHRMTmtfTWc3dmZkbmdsbW1YNG1B?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778101350238-2",
-      "title": "Getting Started with AI Vector Search LiveLabs Workshop Updates - Oracle Blogs",
-      "excerpt": "Getting Started with AI Vector Search LiveLabs Workshop Updates  Oracle Blogs",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SX2Jxa2RMY0V4YmNRLVdlaTJJZ0Q2S1JMeEE4Z3BUQUxjYklpX19KZ24tS2Q2eDhVYVIxWmxpalM5bUNxdWIwWlBYVzNxakptcUxNNDBtQlRkbGVLYVNfS1BsMVhwX0JIWE5XbTlkMHRtQWc3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778101350238-5",
-      "title": "Getting Started with the Vector Index Service – Part 1 - Oracle Blogs",
-      "excerpt": "Getting Started with the Vector Index Service – Part 1  Oracle Blogs",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVI0cDc0X3dpTEJmUk14c2xKVFoxZkMzWkQtUzB2ZXF2enJsVlBZc2RXcEVHRU1qQklqNUZVWWh0ampSOS13cG1xLTJtVkhuSVpUaXZkOU5mS0RXSDVLQ294TUo3SG9tWU1lVWVzbkFoRWR6T1FEeEJkSVNJenBrekFMMk9OZw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1780779264782-0",
+      "id": "ko-1780866037966-2",
       "title": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\" - 뉴스웍스",
       "excerpt": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\"  뉴스웍스",
       "date": "2026-06-06",
@@ -931,7 +915,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780779264782-2",
+      "id": "ko-1780866037966-0",
+      "title": "오라클은 클라우드 후발주가 아니라 AI 인프라 수주주로 재평가받고 있습니다! 차트분석을 통한 매매 대응전략 공개합니다! (zgYeQKEN6G) - Fathom Journal",
+      "excerpt": "오라클은 클라우드 후발주가 아니라 AI 인프라 수주주로 재평가받고 있습니다! 차트분석을 통한 매매 대응전략 공개합니다! (zgYeQKEN6G)  Fathom Journal",
+      "date": "2026-06-06",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52cG1kWDIyVmRKSmpsZTdPTFV6Yk5rRXBjNjJwVGJkNVhzT28tc3JieWw4YTFmdU1GUzZ0UVZuTm9ESGVPWWFZSnZzWHM3U201UmJUNzFYMFFmWkJqT2tNYVc4eGRBcUd2Njh3QU5YejFEMnVBUHc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1780866037966-1",
       "title": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어 - TradingKey",
       "excerpt": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어  TradingKey",
       "date": "2026-06-05",
@@ -939,7 +931,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1780694231036-0",
+      "id": "ko-1780866037966-3",
       "title": "오라클(ORCL)의 AI 지출 전략은 해자를 강화할 것인가, 아니면 대차대조표를 늘릴 것인가? - simplywall.st",
       "excerpt": "오라클(ORCL)의 AI 지출 전략은 해자를 강화할 것인가, 아니면 대차대조표를 늘릴 것인가?  simplywall.st",
       "date": "2026-06-04",
@@ -1168,46 +1160,6 @@
       "excerpt": "한국오라클, 'K-패션 AI 혁신 세미나' 성료… 업계 관계자 관심↑  패션비즈",
       "date": "2026-05-08",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UYjhHSUtJcTJEaE5Pc2oyczJtT01PYUtneW9ta1NRZmJyOUMyZUoxcldQTTkxbUkwTEt3Si1hZFM0bHJSMW5rWXJXVG4wWEFj?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778533832523-4",
-      "title": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요? - simplywall.st",
-      "excerpt": "오라클(ORCL)은 최근 AI 클라우드 모멘텀과 혼합된 주식 실적 이후 가치를 제공하고 있을까요?  simplywall.st",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVZPc3cweUR4QmFOcEN0RzQ3RnNDS0dscm15V0RTLThWNzFNQkJvNHRBR2JuaXhKa01oWDVBeVpoVXJvTENaRGI0MDBabzBQTTdfZDhMSG9vRjI2MDZUbTZ6MndKcE5Ib2xHbFBmUnJzVVZLQm1ZamF4RVExMWM4T1FncFlDRTlvdlHSAY8BQVVfeXFMTjJEczlWSWQ4Wnd6aHQ4WkNhVDhQMEpPZjRwWlBSdTZTdnBta3d6dzJNT2l3cDVKRXdGQXNueTBMXzgzdEVXZHMzSEFtSXV3VGNSR0pLLXNTaDZfQ3lFa1BCT3pfTHRrSEFaZllWMFJNSndsTnVZc3U0RUFuZ1dZeU5CczRISHY0eGRBdXgtR00?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778187467266-4",
-      "title": "보난자랩 \"OCI 전환으로 클라우드 비용 50% 절감\" - 지디넷코리아",
-      "excerpt": "보난자랩 \"OCI 전환으로 클라우드 비용 50% 절감\"  지디넷코리아",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qeXRneTRlSGtLaHhDWW1IWEZ4R2RNSXkwR0ZUY0lmdHcxZnVWZVpfOHIwNURIVGE3bE82clUxZ0tsdm1ialR3VmNUTzloUTV0ME9XeHp3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778101350629-3",
-      "title": "보난자랩, 오라클 클라우드로 디지털자산 데이터 서비스 인프라 전환 - 디지털투데이",
-      "excerpt": "보난자랩, 오라클 클라우드로 디지털자산 데이터 서비스 인프라 전환  디지털투데이",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12dnZwQVJ2Y3ZBZnJWV1NlVlM2bmMzUnY3SnlQT3JLdFY3ZjFZMEpaSk5DODRZODAtLXN4bHRTN0FPejFRaGQtbU51dllSLVZoNFJab19nTWdUWDdtTmprZE1SM0lJVXR3SkFBb0VQM2tQMWc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778533832523-5",
-      "title": "How to Value Oracle’s Stock in the AI Era - TIKR.com",
-      "excerpt": "How to Value Oracle’s Stock in the AI Era  TIKR.com",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VVczUktFOXFmMEQ4b216aktVdlBxMzY5Yk1VSlFSZVhZcEVoSmVaX1NWR1JKNng1TUxwM1pteDNUQUM2bnlmdFJaaDIzYW9NOUtLR193cHBMZWczNVo4amZ5MHNEZmMwdjlfWlNVMHRxMWJLaTdISw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1779568723488-5",
-      "title": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화 - Oracle",
-      "excerpt": "보난자랩, 오라클 클라우드 인프라스트럭처로 디지털자산 데이터 서비스 운영 고도화  Oracle",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUJkMkNKMmZ1N2RUd2M5T09kaUgwYXBPZFNPNG42WkQxZUNEX3RmOFBNdGdFZDZjczBSSDJGbFYzZmEzU1NwbkdVdGl6SG5pMVc5Y2w2VXlDMnB2SGxsSXJ0VTR0OU5SdzZCbVRHWGtqUTYwTlROQzlJN2ExT2N0TWxWMGUyZVltYnRfb19ZNTF3Mm5LaU5SSnlodXhkNFg3RWt5VTZpbGczZ3c1QmpjSEhJUXJQWHlqejVJYzRTSFY?oc=5",
       "category": "Industry News"
     }
   ]
