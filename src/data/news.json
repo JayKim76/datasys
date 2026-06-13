@@ -1,7 +1,15 @@
 {
   "en": [
     {
-      "id": "en-1781299439794-0",
+      "id": "en-1781384550082-3",
+      "title": "5 things Oracle’s CEOs want you to know - thestreet.com",
+      "excerpt": "5 things Oracle’s CEOs want you to know  thestreet.com",
+      "date": "2026-06-13",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMG5nSkdQSHRWNW9Wa1gzbnBBbUpVbTZUVjZaOFBqYlJ5VnBKZEJmc3p5Vk94Umw5eEF3R0hTM3FHSlpKQ0xkNnpScGpla2xkOXJod1JZZGZQWnA1WjliVHRNYjBKQ01lQ3ZJWGY1U2RKNkUxaF9EU3JPOWhsdXFHaHdodUVZTVlEWUZnYW1nRDZSejUwcldDSjJVc0Q2Ukpsb3dobFJ4TEpDX3FvRWdWMzc4eTlCSlYzeWs3WkM2djdzSlFZbmNV?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1781384550082-1",
       "title": "Oracle Is an AI Success. It May Not Be Enough. - Barron's",
       "excerpt": "Oracle Is an AI Success. It May Not Be Enough.  Barron's",
       "date": "2026-06-12",
@@ -41,6 +49,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1781384550082-0",
+      "title": "Microsoft Build recap – enabling developers to build AI apps grounded in secure, governed data - Oracle Blogs",
+      "excerpt": "Microsoft Build recap – enabling developers to build AI apps grounded in secure, governed data  Oracle Blogs",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRWN0QzBzOWp4MGpRWDR5aFhZc0VFR1ZBcWxiOGUwOGZPUThkMjZFYXRXR1JHZjItQkI0UTJIWjZCbGxDcWZfMHlMVmFFTkpWSG1HdjliMWtTNHVuOXlHZWtNQm5HZ2Y4SXRZQmVLT2d0QmlRZHc?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1781214825944-0",
       "title": "New AI Vector Search Ask TOM Office Hours - Oracle Blogs",
       "excerpt": "New AI Vector Search Ask TOM Office Hours  Oracle Blogs",
@@ -49,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1781214825944-1",
+      "id": "en-1781384550082-5",
       "title": "Cognizant Powers AI-Driven Talent Acquisition with Oracle Fusion Cloud Recruiting - PR Newswire",
       "excerpt": "Cognizant Powers AI-Driven Talent Acquisition with Oracle Fusion Cloud Recruiting  PR Newswire",
       "date": "2026-06-11",
@@ -137,11 +153,19 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1781299439794-5",
+      "id": "en-1781384550082-4",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment - OpenAI",
       "excerpt": "Access OpenAI models and Codex through your Oracle cloud commitment  OpenAI",
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55VVFwTHI2a21SMkRfWWc4cUY2UkZBWVhNZkctQ2xMSXNBcGpqSTg4Q0hkaTlYR3huZDVkVzVwVW5ERWt2cmVNeHdGLUEyRnhVTUdyd0RFVEZGd1Z1?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1781384550082-2",
+      "title": "Oracle Q4 Earnings: Cloud, AI Surge As Spending Spikes - crn.com",
+      "excerpt": "Oracle Q4 Earnings: Cloud, AI Surge As Spending Spikes  crn.com",
+      "date": "2026-06-10",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSC1QczJ0bDhxb1hwNUtyNkpzeDBJdTJrZm1ZUF9leko5RDFNTFlBZXBhdC1fWmtCSUx3SWZsYzFJMm9xUzdObXZSbURST0hUeTVTX0NEd2xsTC11a29fZHU5TUk5LVJtcGVhQW90UVdFWTNfaHhSQWZnN2k2WmFKb084ak9xVjJ5aF8zeUJR?oc=5",
       "category": "Industry News"
     },
     {
@@ -967,49 +991,17 @@
       "date": "2026-05-13",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hWSWFpZmhYaDRSaTE5M3FuenFVdGVDSDFyNkZ5R0pETDBqYndmaFJybzgxNmFBcmN3djNSUzgzcExkVEc5c1VPVXNXZ24tR1pkTzZzQndrWlRvN1lWSF91UFNVZXhoRGo0UDFTLXBqaFAwZl9qU3dSaFgxRUpKbV9vbGVVYkdjRzdZb3AwQ3NjdWV4SU0tZzRrTGFvWVFlR1I2TGdSSS1vd3VaLVE?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1778963878302-5",
-      "title": "Gain Agentic Access to Any Oracle Database in the Cloud with Native, Enterprise-grade Managed MCP Servers in OCI - Oracle Blogs",
-      "excerpt": "Gain Agentic Access to Any Oracle Database in the Cloud with Native, Enterprise-grade Managed MCP Servers in OCI  Oracle Blogs",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakhKdGEzSHp4VFFVc0ctYkZrQ2FZbHZqZVdWYTNCdnhWV1AtLTZoUWVsWXNmWDRZNTh1Nm95bGJRcWdEMXNFQnE3ZExFOVN1UVZya2FSbktPd3FPUWdaZ1N5cnpRaFFEZlB3UWFRVUJFaENpc2lEc0tSTjFZaUxyRWVpQUZ5WktvazJ3LTRtZmt5Uk9BUVFta0hOMUxFbWljelhLUHc1aXA0eHBvV3VyUGhtYlB0MWlWU2ExSWtKT1MxM2JodzA5N3RsaWhGemxudlg1VVhBVE4tQlVBNkE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778620190573-1",
-      "title": "Oracle Job Cuts Test AI Growth Story And Valuation Upside - simplywall.st",
-      "excerpt": "Oracle Job Cuts Test AI Growth Story And Valuation Upside  simplywall.st",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUV6bzdEOXhkbXZGWUZxNm0zclVlcllnNHF2cUNfZ3ZzWnRsaGtwNEU0ZmpHTlpQeXp3NFBTX3l4YThwbnhzaThSdUhiYkRNOGtxdlhZQzhLMkduUGJqWlYyeWJIR1ZHdXNuOERTRDRzNVRETnVxN25ZUjNZaFkwSm95ZkM2Z0Vjd0VxcUFod2lxN0xtV195X3p4ZmxNNS1uOXJWMjdNSEJyOWdKejViZnc5R2Qxc3lfM1FVc9IBwgFBVV95cUxQZFZhazNkU0tvRGJJVFhCN2tSZGVUN3dwUy1qb3VYaUVSbm03UXJXaG5JOFFkQTRSMkxfcTktVnh2czBzSG5aV0U1TWt6VTZ6NUZ3SDZDYUNCZTJsM2RweEplckdRb3UyN2hmRHRKWmNWY2VKLXRZSWJYT3kzQ2x4eWo2d3NKSWJaaUw3RjJXNkwyeXZUS2FfMmg2Z2t1Tm1mUDkzQlBTWnE2a0RaZUwyRnZZeDdLdGdEZ0FwRTZjNHFqQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778707019232-1",
-      "title": "Oracle AI Database@AWS Now Available in Switzerland - Oracle",
-      "excerpt": "Oracle AI Database@AWS Now Available in Switzerland  Oracle",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOTNxZlBGR1prMWlRTXY0OHVsalhlNms1Q0hDQUNDY190Vm9JdkdEdHpvNExYUGF2aVBHNnc2RlNST2NTQ05VTERLUzRLMkZwSE5qb29OSFRFNXI5VVU0MDVQZDlpSDZ6YUZISGZadXFzQnl5cEplSlR3b0xVTGlmVEhrVWxhUWdPTnU5eTdZa3pOcm5nUEcwN0N5QmhpeGhXWTRIc21hVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778620190573-4",
-      "title": "Oracle NetSuite announces AI innovations for Brazil enterprises - BNamericas",
-      "excerpt": "Oracle NetSuite announces AI innovations for Brazil enterprises  BNamericas",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbng4bTI1TUVLRWllX19MX0JpZEtLemNsRVlOU2hFV0NGQmdQQk9NVW4tN2t3cm43b3QtcTdrSGZzazBfR3drQVRLRDU2VWlQbmw4aHA5LWJvVGh2bUo4ZU9neHdXMEh6aThVNTRKV1BOUnRFTmtOU2xTaDhHOTVpSmQxdDNUS1VuRVlyeFZYNjN6dExBREs5NzN2YXpLRXc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1778620190573-5",
-      "title": "Oracle Layoff Shift Puts S&P 500 Index Spotlight on AI Strategy - Kalkine Media",
-      "excerpt": "Oracle Layoff Shift Puts S&P 500 Index Spotlight on AI Strategy  Kalkine Media",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMFE4UXd1NGtTa1V2d2xlYVd2Q0p3bjJzeGFvX21HN3E2YmNJeUdQblZwR05ETFZZaC03NXZiaWdMZndLN1p4RVpQanpGV2NOXzlyeHVlLWpXX3V0UXQ5YUlSVXR0WHdzRk9XN3dodEtzQUx5YTZyR0ZBcndmZ3plenU1TTJOM0dkaG1DM1g0QXlLOWdkNjNPZzR6Q1hMYmt3VTVqZTNrRHp2M29a?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1781384550501-5",
+      "title": "오라클, 400억달러 투자 부담에 급락…증권가는 \"성장 논리 유효\" - 마켓인",
+      "excerpt": "오라클, 400억달러 투자 부담에 급락…증권가는 \"성장 논리 유효\"  마켓인",
+      "date": "2026-06-13",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYTnVKeVJKU2t3eHI4SE45R1N2QVZ0WEpzMnRIZGxaNjhuTXo4RXJvRmtGUTNoYUduZlpMZlVxOEpSUnJ5c0lGRDI1TTQzM1k4NzQxZG55ZDVIeS1hMTA5enpnUmNIRUVuNmE2aWZ3a2VJRHc?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1781299440282-0",
       "title": "오라클, AI 투자 비대화에 마진 잠식 우려 속 소프트웨어 부문 부진에 보합세 - 마켓인",
@@ -1019,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781299440282-3",
+      "id": "ko-1781384550501-1",
       "title": "코그니전트, 오라클 퓨전 클라우드 리크루팅 도입으로 AI 기반 인재 채용 혁신 - 인공지능신문",
       "excerpt": "코그니전트, 오라클 퓨전 클라우드 리크루팅 도입으로 AI 기반 인재 채용 혁신  인공지능신문",
       "date": "2026-06-11",
@@ -1027,15 +1019,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781299440282-2",
+      "id": "ko-1781384550501-2",
       "title": "오라클, AI 클라우드 질주에도 투자 부담…시간외 주가 6%↓ - v.daum.net",
       "excerpt": "오라클, AI 클라우드 질주에도 투자 부담…시간외 주가 6%↓  v.daum.net",
       "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82T3NPU0ZJLWMxNy02dGwtcnpXSHV2ck94X25YTXdnUXBRNkxienJhRktIQmtuVU0yZ2hvVi1TWmhIUnNFaldSbUxNdU9lbnMtNHRJaA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVFhucll0eVhHRXEzV3M3X2RoOU9QR3AyX2FDV0FvMklnTHV3d3NlTllDaU94ck5KSWRxajBzeVJibnFhd0FQQmdzdw?oc=5",
       "category": "Industry News"
     },
     {
-      "id": "ko-1781299440282-4",
+      "id": "ko-1781384550501-3",
       "title": "\"AI 인프라, 클라우드보다 큰 시장\"…오라클은 왜 700억 달러를 미리 쏟아붓나 - 네이버 프리미엄콘텐츠",
       "excerpt": "\"AI 인프라, 클라우드보다 큰 시장\"…오라클은 왜 700억 달러를 미리 쏟아붓나  네이버 프리미엄콘텐츠",
       "date": "2026-06-11",
@@ -1099,7 +1091,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781299440282-1",
+      "id": "ko-1781384550501-0",
       "title": "오라클, AI 실적 성장에도 주가 하락…데이터센터 투자 부담 영향 - 전자신문",
       "excerpt": "오라클, AI 실적 성장에도 주가 하락…데이터센터 투자 부담 영향  전자신문",
       "date": "2026-06-10",
@@ -1107,7 +1099,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781299440282-5",
+      "id": "ko-1781384550501-4",
       "title": "AI 클라우드 매출 폭발 '오라클'…투자 부담이 발목 - 대한데일리",
       "excerpt": "AI 클라우드 매출 폭발 '오라클'…투자 부담이 발목  대한데일리",
       "date": "2026-06-10",
@@ -1320,54 +1312,6 @@
       "excerpt": "오라클·삼성전자 협력 확대...반도체 개발 인프라 ‘AI·클라우드 체제’ 전환 가속  레디앙",
       "date": "2026-05-13",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HUnVrZWFWVEFUUXZDNmhiVm1EVUlkOS04WjVJN1Y5dGxlSUlIcmljNnZCemptM2hDbFlGVUxMRzlIRHJIZzBHM09sUnlUUXFidGRFbjJUc0pKUFN3cDJhZmc2dE1RdWgw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1779050348715-3",
-      "title": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화 - 디일렉",
-      "excerpt": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화  디일렉",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTldtTGpVUWg0QmpsNVN2WEpKYVVFd1duWGJpdkdnWXJ3UWpRaUY4VzExLVFPdW9Lb3YtZktuRVI1YTJKV1owWENnNUplb096MGREV2twbjdtSmExQ3RDcVJERnpPdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778707019685-5",
-      "title": "[위클리AI] 오라클-삼성전자, 앤트로픽-스페이스X 각각 손잡았다 ‘파트너십 확장’ - 동아일보",
-      "excerpt": "[위클리AI] 오라클-삼성전자, 앤트로픽-스페이스X 각각 손잡았다 ‘파트너십 확장’  동아일보",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pUWFSYm00ekw3UVc3MzFOM1FBMVBwcHNFeHRCOWM0NnUtWTlOclotaFRuUVIxeUhDSHBxY1hfakQ0SWtxdmxYb2NUVElYam1aNE90dTRPeU9sMVBHX3RUUFB1WHBBdHlpWEdsT0d6TdIBZkFVX3lxTE0yYjk0dEZHLXhDX0xLb0xJUEFoOVZGbDU4OE9US1d1clhhcnVVckluMkFZRUtlWVlBb2t0dlJMX3E0c3F5UFpPWVZTY25GeE9sVEl5THZUczh4ZFJwelV6TE9KeUsydw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778620191074-2",
-      "title": "오라클, 삼성전자에 ‘자바’ 지원…IT 운영 단순화·보안 강화 지원 - 아이티데일리",
-      "excerpt": "오라클, 삼성전자에 ‘자바’ 지원…IT 운영 단순화·보안 강화 지원  아이티데일리",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sUTJpQ0NyLVUxM0FhTUpCYndYUGtKNkpjbnZoLVN2TnJVNXFNVHFrWUt6SHVLVWxkcXFnc1dwQ2FzbzV1dnJGeWRTOEViQzNrM1pNcXg2TDROZGlPc25Ib0lwNFFPMk0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778620191074-3",
-      "title": "삼성전자, 오라클 손잡고 반도체 개발 환경 재편…'자바'로 운영·보안 강화 - 지디넷코리아",
-      "excerpt": "삼성전자, 오라클 손잡고 반도체 개발 환경 재편…'자바'로 운영·보안 강화  지디넷코리아",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZ0lBSmlvdmxaajdnWDJEeU5CT2ZoalMxejBWNDdMTkMydVQxN0Jqcmh0SlY2NzllTlRlaEtpaUdwLWRHdXFQeVNmUFl5ZDdXNzlENnFB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1778878314228-5",
-      "title": "오라클 클라우드 Free Tier 무료서버 만들기1 - 브런치",
-      "excerpt": "오라클 클라우드 Free Tier 무료서버 만들기1  브런치",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kRlpGeWItSGlmNkdvT1lRaFNmY2VCZVczNTlaUVZwZjdIaGhMYkIxc3JDcFZ3d2phZlhyeDNYM1RtRkRNblp5UlhR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1780779264782-4",
-      "title": "오라클, 기업 데이터 기반 ‘AI 데이터베이스’ 에이전틱 혁신 공개 - elec4",
-      "excerpt": "오라클, 기업 데이터 기반 ‘AI 데이터베이스’ 에이전틱 혁신 공개  elec4",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iN2dyRThLaTJZTE5keXhXM3ZNVVlkSURBYVRtbjRFeU5LOUt3ejZYSHdwVUZfUTdOdTVrWmlrbk5IeWFDNFY4QnNSMWljX2FjWjdxeHV5NnBCMGtMS3dLR3B0M0ZITnJrT0E1RF9ScGY0aWt1c2RpQkUwaw?oc=5",
       "category": "Industry News"
     }
   ]
