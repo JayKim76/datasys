@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1781902877296-0",
+      "title": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together - Oracle Blogs",
+      "excerpt": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together  Oracle Blogs",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEVUdDVndUpDN3VPQnlqMkFyWDdKQlJOVmZXR2wzSVRHNUJUM2VKcmwzQ1JaUURsVWozYURKelF5cXdfYmJFUlF6aVlYbHNBRzByRXYyZzJ2M2tpUURpdEptRFAwRzZnYnNXaVowb1huWkVFcWlTZE5nMHFMTTlKTXBDSk9MWEVpQmZNc3A2VG0wUnVaNGV2aUZTOHJrN2kwSWFFQ0FqamdEalk?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1781902877296-1",
+      "title": "Oracle (ORCL) Rolls Out Hotel AI While Landing A $395.8 Million Federal Deal - simplywall.st",
+      "excerpt": "Oracle (ORCL) Rolls Out Hotel AI While Landing A $395.8 Million Federal Deal  simplywall.st",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnNyT0MxcnFKdkhQZUQ0eVB3Q1lIQUtFWndVWlp4clI2WDVFbUNlamc0aXdYNWVqZkxaakpzUUxWUWYtREZSSllaa0JCc1ZJT1JYcjVRemxVZ29LaXJ0S3hrbkhPbHNhUmtJZnZaZ2QzaGF6RjluczU0MWJHQXlJaktDTGNqeGtnYzl4Ql9tTnR5bkZDbXR5b2J1U2FWeFhyWWRrMHg4b3dKYlBFUXRTSEtmbkhaWUc4M1FXUlVZNNIBxAFBVV95cUxNb1NidE1hUnZiRHVBMmFpamFXTThuNDFQVFFRRFJlUmJfSmpRckhwdDRlNEFqclNpNE1UZFozbEcwdkt4bGowa0xJekhWWmV3V19hNnFWR25zalloVjZldnc4ZlpSbkp6RERrdFhweHprZzdBaUtQT2xJdElHNHBsRzR6R1ZUdFZnUEMtSFVsS0d4b01WcUdjLTNrdktCV0RGUzk2ajlaUXJtM0U5Z2JPaE5BbGVJUmQ5TUVJdTFOdFhtb3l0?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1781902877296-3",
+      "title": "An Agent Skill that uses Kafka Java APIs for Oracle AI Database - Oracle Blogs",
+      "excerpt": "An Agent Skill that uses Kafka Java APIs for Oracle AI Database  Oracle Blogs",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1hjRUVLbnpsV19hT3ByS25nX1NKbGMzSUU3eGFlVmE0dHVaZXp0SzgxQW4xZm1ueklMMklzUWpUcnFpUVNhNTNpWE5XWHRuVTU0cGVybjE0Nk5Udkgtamh3U0ZyZWVRSEg1YmhFWFM3WE55TmNUN2lCVXI3VUZsMGg1cW0tS1FsbU84MHZ4blN2cmlCT04xTV9tazVRWlRF?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1781819815553-0",
       "title": "Semantic Caching with Spring AI, Oracle AI Database 26ai, and Oracle True Cache: The Architecture Before the Code - Oracle Blogs",
       "excerpt": "Semantic Caching with Spring AI, Oracle AI Database 26ai, and Oracle True Cache: The Architecture Before the Code  Oracle Blogs",
@@ -57,7 +81,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1781733189404-2",
+      "id": "en-1781902877296-5",
       "title": "Akta Brings AI-First Cloud Video Workflows to Oracle Cloud Infrastructure - Sports Video Group",
       "excerpt": "Akta Brings AI-First Cloud Video Workflows to Oracle Cloud Infrastructure  Sports Video Group",
       "date": "2026-06-17",
@@ -81,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1781819815553-3",
+      "id": "en-1781902877296-2",
       "title": "New AI Capabilities in Oracle OPERA Cloud Supercharge Hotel Operations - PR Newswire",
       "excerpt": "New AI Capabilities in Oracle OPERA Cloud Supercharge Hotel Operations  PR Newswire",
       "date": "2026-06-16",
@@ -97,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1781819815553-5",
+      "id": "en-1781902877296-4",
       "title": "Oracle Bakes AI Into Opera Cloud Hotel Operations - Skift",
       "excerpt": "Oracle Bakes AI Into Opera Cloud Hotel Operations  Skift",
       "date": "2026-06-16",
@@ -983,67 +1007,19 @@
       "date": "2026-05-19",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzJEMUZpWTVnVG85RjhKdHhSb0dOT2lEUVE0MWNDWVhJd0x3TXlKcVNKTGQwcS1LeDN4Z2NRMTdpQ3F6RHp3bk9YZklkVHJKSmd6YlRzOHlCcGpLai12OFpRQVBfS3g3dU5NVHMweklhWDM5MEZkSlFFTUZ1QUE2WWN5ai1GWUkxa19Cbzc3elNfa0tDc21JWXRhaV8xWV8wZFh1S3cxdktuVHAxcnJtdlk5UXowUQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-0",
-      "title": "Getting Started with the Vector Index Service – Part 2 - Oracle Blogs",
-      "excerpt": "Getting Started with the Vector Index Service – Part 2  Oracle Blogs",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU19Ta1loMWVtaVU5ei0wQkY4S0dnVGppNDhSUElBYjljNXA5Nk5DbzhwQkFWUkhWdDVXU2d0VVZkQXdsVjc1MTRHNUFiTHFLUHY5QVhCazRhVEZqeldqcFlqdDJ2ZUhYdTN1eDItbnZaYXNSS1NHc2s1Q2o4TWxsRi1BQzRwQTl1RmdLUHBtbw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-1",
-      "title": "Salesforce vs. Oracle: Which AI-Driven Cloud Stock Is a Better Buy? - Zacks Investment Research",
-      "excerpt": "Salesforce vs. Oracle: Which AI-Driven Cloud Stock Is a Better Buy?  Zacks Investment Research",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlpia3d1ckowdl9XY01VdVU2N29pbWlXaGRLZnJ1Z0RaNHV5SENfNWVTbUZaUXBKcDNpaTdOSUFXdnZuS1ltc3VIR0RKX2pMRzVGRXR3SG9wdEdHakpENmtMM1pZMHZWbGN2RlpWemlDd1IxV3FXdldtY2JOMGJIWXFPcXdwUTJ1bkttZE45S21sQXVCSUZWSFlqYTdsTzZUWG5zbW04SXk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-2",
-      "title": "Oracle’s Expanding Defense AI Role And What It Could Mean For Investors - Yahoo Finance",
-      "excerpt": "Oracle’s Expanding Defense AI Role And What It Could Mean For Investors  Yahoo Finance",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3pQd2stN241YTF1UlJYUkt6VzV6dlNtWkVuWjlydlBGdEhMa3k0S3VyRUctTTlMaDBVblZMU3JxY3htTTlEZ3U2bTlqQ0kzamlJVlV0Q05wQTV0S0tQX0tCeF91d2V2YVR0NE0zZjNLV3BkcVEtYURhY1g1U2k5bW9iUjFzR2x6WEJvSWJuWXJPclVMX05MbmpSdzdXdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-3",
-      "title": "How Investors Are Reacting To Oracle (ORCL) Deepening AI And U.S. Defense Cloud Partnerships - simplywall.st",
-      "excerpt": "How Investors Are Reacting To Oracle (ORCL) Deepening AI And U.S. Defense Cloud Partnerships  simplywall.st",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdndvWlNDX0FKVjl2dzZ5aXRlR2V3M180akNoODFUZEQwUXhDQ0RyTi01MktTWHlfdkVhampqYUdkUnBVYlhvQVZ2WnZrU09PaXN0cGdJeVV6NF9lUHo1Q0g0c2ZSZnE0VVBNODhaemFxaFlfSmN1MFVURzlYQmY4TlRyMWRwXzlOUW5SUHJhSEREcmc5eVQ4Rmk3ajFhY2FKc05XTHJDU2xfWEJTOEo2MzZJSHNxcXdiLXpxeW92Yk_SAcYBQVVfeXFMTVVNdEpUZURhaGh1Y3B1Z0pteGp6SUVsT0VLdWl5TGdCNk9HRzlwcXdPdFUxN3gwcVJpMlg5RV9ZcEdEY1JsME1MUXZVYWxqaERidW1IYkZpbmotdmh6N2tqX0pBOW5NMWNRWnVnMGNldTZORUFMaVhHejVhQ2tYUnYzS3I0QkRMWEQ0RnM1VjJVRmhhaHhuMDNQaUJydE1ZTHBoMU9qVERsbGFjSWM1cEZiVW5TU1dXUUZ6OWtNYXlSQTg4bDRn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-4",
-      "title": "The Oldest New Thing in AI - CDOTrends",
-      "excerpt": "The Oldest New Thing in AI  CDOTrends",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlTHBrajc4bWpsZ0pEd2p0Zl9kMDVDV1prNEZTc0dZdExkVVV1TDhpdjY3TlVfOThhWUJJRGR1emR1Y3NqS196aEl2U01sNzhDOTdsTGp2X2JZX3FxRzMzRFRiSXc0LXc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779138154293-5",
-      "title": "Oppenheimer Boosts Oracle Stock Price Target as AI Demand Drives Growth - TIKR.com",
-      "excerpt": "Oppenheimer Boosts Oracle Stock Price Target as AI Demand Drives Growth  TIKR.com",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGpiODU1RE5iREN5STJGZGo5a01fNGVpUzktN3lfR0Y4TFVrRVR3N2hKSzZlSVNpRmt4a2MtNkEzMHl6a0QxNWlVcnZDckR3bEhrU25CWV8ycVlUUjVEbndheHhFTU9XMUVueDdMaUN5T25hLTFraldNa28zN2ZnYV9sOGtFSENpX20yWGhzRXJReEdXLTd3bHBscjlEa2tlc2xYMGZaeHFqYUU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779225077300-4",
-      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs - NVIDIA Blog",
-      "excerpt": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs  NVIDIA Blog",
-      "date": "2026-05-18",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PQTRsd3pHVG1vQjVrUDc1MVhZYVJReURFUlVQU2xXdVpMbW16dnFIcmRPR0s4QWpOVVp3Z0FlWUhkWGFYd01DaXU4QWFHbThxMDhpajRXXzhHS1pT?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1781819816015-0",
+      "id": "ko-1781902877790-0",
+      "title": "마이크로소프트(MSFT) 30억 달러 오라클 클라우드 계약 접고 AI 전략 바꿨다 - simplywall.st",
+      "excerpt": "마이크로소프트(MSFT) 30억 달러 오라클 클라우드 계약 접고 AI 전략 바꿨다  simplywall.st",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUhILWpiRzlMWHpUZ2RHSWpmazVHSkpCejd0djFWYlpNSW56OWh1YzJDNldJcnpBaUxBRFVmeWVVRFRiS2NNZ3cxazhvdE9tdi1td2w4bUZpUS11dkJFYTI0S1JIQ3dKZzdwUzVYRV94eUhDcDA3RjZkLUsxbTJ5QmdjSEo4RnVsZHZ3VTQzWm41OTg4b1HSAZYBQVVfeXFMTXlISC1qYkc5TFh6VGdkR0lqZms1R0pKQno3dHYxVmJaTUluejlodWMyQzZXSXJ6QWlMQURVZnllVURUYktjTWd3MWs4b3RPbXYtbXdsOG1GaVEtdXZCRWEyNEtSSEN3Smc3cFM1WEVfeHlIQ3AwN0Y2ZC1LMW0yeUJnY0hKOEZ1bGR2d1U0M1puNTk4OG9R?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1781902877790-1",
       "title": "[단독]한국오라클, 제품 가격 10% 인상 - 전자신문",
       "excerpt": "[단독]한국오라클, 제품 가격 10% 인상  전자신문",
       "date": "2026-06-18",
@@ -1059,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781819816015-3",
+      "id": "ko-1781902877790-3",
       "title": "MS, 오라클 클라우드 임대 불발 보도에 주가 하락 - KB Think",
       "excerpt": "MS, 오라클 클라우드 임대 불발 보도에 주가 하락  KB Think",
       "date": "2026-06-17",
@@ -1067,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781819816015-1",
+      "id": "ko-1781902877790-2",
       "title": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험 - cio.com",
       "excerpt": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험  cio.com",
       "date": "2026-06-15",
@@ -1131,7 +1107,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1781733189835-4",
+      "id": "ko-1781902877790-5",
       "title": "오라클, AI 클라우드 질주에도 투자 부담…시간외 주가 6%↓ - 지디넷코리아",
       "excerpt": "오라클, AI 클라우드 질주에도 투자 부담…시간외 주가 6%↓  지디넷코리아",
       "date": "2026-06-11",
