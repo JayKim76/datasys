@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1782249838700-0",
+      "id": "en-1782335785660-0",
+      "title": "Scale ONNX Embedding Models with External Data in Oracle AI Database - Oracle Blogs",
+      "excerpt": "Scale ONNX Embedding Models with External Data in Oracle AI Database  Oracle Blogs",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVk1qZHpOS3VPbVNuNmc5U1hFejZoT2kzZnhGczhVSWQwUHg0RTY4bC1nMDFzT1ZaOWMwVHZRNi1QRmdXQlNjNnFyZjByaVh4dXJRRWp4Sk5uazRuTnlFLXpNU1ZQYjN4QVdrTTBRMFRGWnBmQ0JUdTItRkZCbU9sVUNaQ09uemdzWTBaMFV2bkdxVC1RZktEX2E2MGdaQ2RxUkQxZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782335785660-1",
+      "title": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock. - The Motley Fool",
+      "excerpt": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock.  The Motley Fool",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDNlYWpkNWtUclJXbzduVDNnYmlvaVdYai1xUXJZUzNXVVNMbEFVYWoxc0pHSHZLdEJHaXdZMjdfeHU1Wk5tRGFIdERtXy1kQ2NmZHJ2UkltT3B0dlQ3VlZzS243dXcxblI5UTg5dzBZSFhqRnd5a01CcGFlT2dwWG02N29zQkJ6LVJaUkdya2hIR09vOTJF?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782335785660-2",
+      "title": "Oracle Health Extends AI into the Operating Room in Collaboration with Theator - PR Newswire",
+      "excerpt": "Oracle Health Extends AI into the Operating Room in Collaboration with Theator  PR Newswire",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeFdIdFdNRmJ2a1JjUFpDaDY0b0V0N0xTbkdSZkVBYlZTT3lSei1YcG1zc2Z4eDlUQ3Vkd28wcWdNVUlkdnFYTENNT1NFRk5LODRsU2lLRlVfeDYzWl9MY0FPQXBZR1ZFNktQRDJzdEQ3dlZWY19vR3Y0MlJkT2NnMF9vZ2piRm4xUmlIZDZLa3JVeXJTWHVCSUNBSnh4NlBsa1otVVFfWjB5d2x0X2JGQmRXa09nNlhiMmZ0UlI4N2ZEemlwcUdmYWR6T0pTUHc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782335785660-3",
+      "title": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock. - Yahoo Finance",
+      "excerpt": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock.  Yahoo Finance",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUllIam1nd3hzM1V6WDAtdnVoQ0l2cUhMSkI0MC02LUJvbTRIeWNCVFExeDQ2TjEwYUEyWXlIUEFfQkctUldoUHU2eWJIYTZVSlNoTzdYTi02aElwd2p6TWRkZnFSNzR6Q3dCXzJfUWlmWkxBQUwyTjExdjk0MFFRLWJrVDUwRjhXMzhpc3U3aGl4ZFJwN1lSNm5n?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782335785660-5",
       "title": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI - WSJ",
       "excerpt": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI  WSJ",
       "date": "2026-06-23",
@@ -9,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1782249838700-1",
+      "id": "en-1782335785660-4",
       "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC",
       "excerpt": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants  CNBC",
       "date": "2026-06-23",
@@ -951,19 +983,27 @@
       "date": "2026-05-24",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkpvbExDb0Q1NWthdlhTRUV6cWZNbHhfZTAyRWthSExWcTVDcFRBVC16a09uVldLSmRtRDFJcWRKbDI5bUpnQU9MWXNSa0ZmZ3F1YjREck1Mb243NWx4dUdhdGdIYWExOHYySm1HNzRBR0NzRmVldDlqZHJIM2FrOHd4OTc2Y2dnZGJVYzNWTnJDWmVtcm1ZYTVmbDczb3NjY3BuTmNzeHZybzE3NHhfcmRXbmF0MzdSOS1uRWwzMk3SAcYBQVVfeXFMTkFQUmxiYTVfYUE3aExTcWQ1NnoxaXZHS3NzbHFsRUZvbk84c0g2MFI3YjctWlVjMjVzaXczaHh4YkdWUmNvTGlfallWeENoSi16bnBIRnhGSDhpV2ZyaEVxNjNlWGFyQzFMYTdsZG1MU1YyWW1WbVZKWlRld1hVTmlVUnRVcUtZa01XLUl5UEl3MUFkV081VmdmNlhzNUR2Qi1aYzhJZzdyUXFEcEp3YmpxMW5OWnFvVXkwcEdLVVhsUFJ3TmtB?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1779918372020-4",
-      "title": "Oracle and the AI boom’s hidden debt bomb - Fast Company",
-      "excerpt": "Oracle and the AI boom’s hidden debt bomb  Fast Company",
-      "date": "2026-05-23",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWNUelhyWE03VWZWbnpTR2xYU3F4NjVLN0hSdzI5U1lRM0xIaFRXT1p1WmhxOUZXWlFkOC1ZZFlISEI5WXBJM3BremF0S3VRaWxkSEk4RGxIMjcxbzhDR1dJSlJQQ2ZlQjBqSmlWVXQyWlV6QW1adWtiZjFVcUVUZG93Yw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1782249839111-0",
+      "id": "ko-1782335786142-0",
+      "title": "인력 줄여 AI 인프라 비용 조달…오라클, 작년에만 2.1만명 감원 - IT조선",
+      "excerpt": "인력 줄여 AI 인프라 비용 조달…오라클, 작년에만 2.1만명 감원  IT조선",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WQlpheldxelMyNmQxR1FVYUt4ZEQwTVBSTjBlRjdIU3REOTR3TDRsUlhCSEhlR1B2SUttOWpBcHZzUWJJYjBKX0h1YjhUSkNQODdrbFZqLW4xcHJLUFlJZlRDMVVuNXZLOGp4d0NVLS1Bd0lQ0gF0QVVfeXFMTlZCWmF6V3F6UzI2ZDFHUVVhS3hkRDBNUFJOMGVGN0hTdEQ5NHdMNGxSWEJISGVHUHZJS205akFwdnNRYkliMEpfSHViOFRKQ1A4N2tsVmotbjFwcktQWUlmVEMxVW41dks4anh3Q1UtLUF3SVA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1782335786142-1",
+      "title": "美 빅테크 기업들, AI 투자 확대 속 감원 지속 - 헬로티",
+      "excerpt": "美 빅테크 기업들, AI 투자 확대 속 감원 지속  헬로티",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBud3RwMW9ZcE1MR1NYRXk4RU9pdXFrMEFkUGh0bmJta28yN3dkOVhYN09Qb0s1ZXJNNVNlSFdaUWR0a1N1dDJ0TmJ4OElBN3ZEQWFOLWVxVnpiX0xiSU5V?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1782335786142-3",
       "title": "오라클, AI 전환 속 2만1000명 감원 - 블로터",
       "excerpt": "오라클, AI 전환 속 2만1000명 감원  블로터",
       "date": "2026-06-23",
@@ -979,7 +1019,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782249839111-2",
+      "id": "ko-1782335786142-2",
       "title": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는? - v.daum.net",
       "excerpt": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는?  v.daum.net",
       "date": "2026-06-23",
@@ -995,7 +1035,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782249839111-3",
+      "id": "ko-1782335786142-5",
+      "title": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체 - 전자신문",
+      "excerpt": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체  전자신문",
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5dV9meXNkcjdtV3hFQ0tnZGd6aGlFYTJhNF9IYTkxT1NKZnhyRVNjd3R1dVh6YzU4VU9SV0FwLWNaWWtXc3U4VXJxdWptQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1782335786142-4",
       "title": "요기요, 오라클과 AI 기반 배달 서비스 혁신 아이디어 발굴 - 물류신문",
       "excerpt": "요기요, 오라클과 AI 기반 배달 서비스 혁신 아이디어 발굴  물류신문",
       "date": "2026-06-22",
