@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1782679914151-1",
+      "title": "Is Oracle’s Debt Simply Too Much to Justify the Risk? - 24/7 Wall St.",
+      "excerpt": "Is Oracle’s Debt Simply Too Much to Justify the Risk?  24/7 Wall St.",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmItaXZPQU40ZWl6enlhOTlsdkJ6WEhHWmJwazNpQjg0UktpNVBnOUhWMGhydlkybGlaUFh4NXVzNmwwUkgxeEFKSHNGQ0wyMkotanlleGZXQWZwcUpNU0R5dkowRTZWYzR5RWhrOU9GT1U3Y3U0YWlYLXdUTHZzaTN2MEp4LWRRR0tCbGY3emwyd2lUN0xZT3VMTQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782679914151-3",
+      "title": "Oracle Eliminates 21,000 Jobs As Tech Giant Replaces 13% of Global Workforce With AI - TIKR.com",
+      "excerpt": "Oracle Eliminates 21,000 Jobs As Tech Giant Replaces 13% of Global Workforce With AI  TIKR.com",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHU0NjVXclVRUlBYYVY5elVhbzF0SjVrSUxlQlFFaTU0VVctN1d6M0RhSlRBbFE5cjJxRzVTd192T2l4dTFHU0ctWFI4dUtabGVrdzNyZEhNYVR2TWlkYTN0aV9nNGd6cW44aUxLT25pdUZOREQtR1dpb1I2eVhMUlZCWXVVMjRjUFNySGZsQjg3TURLd1NBdkthdWl1V3cwdmRyOTZwOHMxZjI5WjFsNC04NFNPdzVzZTZTc2l4LTNoUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1782593449321-3",
       "title": "Oracle (ORCL) Expands AI Into Operating Rooms And Defense Programs - simplywall.st",
       "excerpt": "Oracle (ORCL) Expands AI Into Operating Rooms And Defense Programs  simplywall.st",
@@ -81,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1782422517375-2",
+      "id": "en-1782679914151-5",
       "title": "Oracle's AI-based layoffs may not be over - InformationWeek",
       "excerpt": "Oracle's AI-based layoffs may not be over  InformationWeek",
       "date": "2026-06-25",
@@ -137,7 +153,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1782335785660-4",
+      "id": "en-1782679914151-4",
       "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC",
       "excerpt": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants  CNBC",
       "date": "2026-06-23",
@@ -145,7 +161,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1782593449321-4",
+      "id": "en-1782679914151-2",
       "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI - BBC",
       "excerpt": "Tech giant Oracle cuts 21,000 jobs as it embraces AI  BBC",
       "date": "2026-06-23",
@@ -166,6 +182,14 @@
       "excerpt": "Oracle cuts 21,000 jobs as AI reshapes tech workforce  hcamag.com",
       "date": "2026-06-23",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0gyU0xmb0JoOWR2aWFObWFqVVgxQWZSLVZaR2FveVVIbERNQnRBaHk0Wm1yeldLanIzdkhZaDNCcnl6aHpMWEpyNWVacUZFUHZMd3FmeWpZUkNYTXVXak1tZm1FU2Vzd29mWTM0M1ptWEVRdEZTd0hsTGFqc253QnBWWGpkdkN4UFlFU3MzYm4tSGxRUmdiR0FlVWhOWGlZQ000aDZxVTNkTHVwTWZkY1ZDY2pPQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1782679914151-0",
+      "title": "Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database - Oracle Blogs",
+      "excerpt": "Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database  Oracle Blogs",
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkVZZmNNREs3dXBfaDloMXdIMXFDb3J5SlpxUnY4S1RjX2haWUNpeE0tQTdraGJpN1h4VEhyRURpZkJWYjZLZ0ZFVlBIUTNsQVhVTFZOc3JDVldjTV92Qkd2VFl4TG9jREFMdWU3OG14RFoxWUZDckJCM2hFenJ4WDFyblRrcnJCajFqMmI5V3c2bndBSjNDUjhRMEtBb2xxUktPMGN1Ym50eDZnU0ljMkpiZDd1WHZHaldyS3JtR000dw?oc=5",
       "category": "Industry News"
     },
     {
@@ -975,38 +999,6 @@
       "date": "2026-05-28",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTM5alJzcDhaaDZoclF0YU9HazdSTWE3S3Y0bzJYUXl5aXRSQVF2UXpRMHlmbE1keVlNajlkQ3laa0JmNDRINUk0RUc5VXNic2VtS3Y5dXpSWXJtU2xodkgySUJYOVBJa3Q4UXZYaXV5VURzeElpS2JPdWxDeDlPUWE2ZW5LekpPa3NRd3pwbF95U0hkOHdtVXVIVVJqUTRyVDBBZjI3cktIaDJpSkE?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-1",
-      "title": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI - Oracle Blogs",
-      "excerpt": "Introducing Cloudflare@Oracle Cloud Infrastructure: Supercharge Applications and AI Workloads on OCI  Oracle Blogs",
-      "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWG5iNldjaFcwaGJyRWFSZmFIUFAzZWlpakdNR3ZLTXBlbW9IbDlsb0RCSGlYZXhsN1VUNmVVeHZ1SHhVcVpBMXUtaFRqaHBNOGhoQW05QlpGX2N5bmZTZ3ZJTVFtMHhXS0tvcVlpSWxVWk9EN3c0bnZkYlZjVjQ3bkRsQS1yRER2?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780260540490-1",
-      "title": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story - simplywall.st",
-      "excerpt": "Oracle’s US$30b Cloud Role Reframes AI Infrastructure And Analytics Story  simplywall.st",
-      "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2pLYVhqYkxYRkM0Z0N6Z2Z0c1RKZDZoVVd2UDM3SWlkT1lDTV81ckV2S3czVUhlZkVvU0YwblNfYkFWSnlKaGJOZXRERU5JeFZYcGR1SEtHYWhOSzJVSkllUEZjblpYMlNUWERudzE5QTV4VURRT05RN05jd0VRZlRpZmhjb0M0RllMZDBLSHFQWmx4V2xfRnpRV1lJVTFIbHV1dU1HYXdVakFxZlFQWmd0Vmo1LWJ1djlfdjdyMkTSAcYBQVVfeXFMT1BQT0hMVFd3SFBIM2I3emxZajh0SWRDczY5U3ZQMW1YNjI1NU5iMmd6T2xINlNudS1KUkduUFdUMXM5UUZhdU95Sm9POFp1SEJFV3R4Nkdlb1NQU2hwTHZ0U05BZmVaVHlDOXNNX2JnMWEweERQeGpHUDctZ1cyUGs4dFpZYkxqY0twOGJoOXpuUHZaWmh2TE9VUTNyNEpNcnBlaE52N1FxU1ZhVzV5YlZlU1c1WEMzNGhabTg4R0lNSGNsVldn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779918372020-3",
-      "title": "Cloud and AI learning are the focus of Oracle Academy Cloud Day, Tanzania - Oracle Blogs",
-      "excerpt": "Cloud and AI learning are the focus of Oracle Academy Cloud Day, Tanzania  Oracle Blogs",
-      "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMzJNWHFYYlR5Vk1ELWs2eHA5bzFqOGU3Q2s5T1I5cTNTbmRRd0pPWmRBV28yTEg0eWNrVWRGa0JCTFEwQ280alhCT3Nia2ZKTnBSa0h3dXdZTlQzTDlQMlpYazgwUWpabTNyc3BoVC1JOFk1ekxPaVo1YWtrV3Q5TkkyR1ozaTdRQUlpRVRDQ2lHSzdpYzhrckpLNWNsVjBxdjVmbElMbXE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1779918372020-5",
-      "title": "Continuous Prediction Made Easy with OCI Data Science ADS Regression Operator - Oracle Blogs",
-      "excerpt": "Continuous Prediction Made Easy with OCI Data Science ADS Regression Operator  Oracle Blogs",
-      "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVcwUHVIUlgtWFlBSkZWS0RpU2g4VnFORWFQUkpDakRFQ2VoNHNDN1c2dV9XWG43TEk1dnN3ZTBibUZuVnExZUIwRVpNcVdPTFc2OEZiOVM4NWJoWXFhV0xQZFpCN0FTSC1aYXRqM1I0Yk1zUURvSS12MHVtRXhUSkRZYUlYb2VkVVg2VXRvMTJlTVU?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
@@ -1035,7 +1027,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782593449810-4",
+      "id": "ko-1782679914535-4",
       "title": "美 빅테크 기업들, AI 투자 확대 속 감원 지속 - 헬로티",
       "excerpt": "美 빅테크 기업들, AI 투자 확대 속 감원 지속  헬로티",
       "date": "2026-06-24",
@@ -1043,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782593449810-2",
+      "id": "ko-1782679914535-3",
       "title": "오라클, AI 전환 속 2만1000명 감원 - 블로터",
       "excerpt": "오라클, AI 전환 속 2만1000명 감원  블로터",
       "date": "2026-06-23",
@@ -1051,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782593449810-1",
+      "id": "ko-1782679914535-2",
       "title": "오라클, AI 전환 속 1년 새 2만1000명 감원… 인력 13% 축소 - 조선비즈 - Chosunbiz",
       "excerpt": "오라클, AI 전환 속 1년 새 2만1000명 감원… 인력 13% 축소 - 조선비즈  Chosunbiz",
       "date": "2026-06-23",
@@ -1059,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782593449810-0",
+      "id": "ko-1782679914535-1",
       "title": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는? - v.daum.net",
       "excerpt": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는?  v.daum.net",
       "date": "2026-06-23",
@@ -1080,6 +1072,14 @@
       "excerpt": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체  전자신문",
       "date": "2026-06-23",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5dV9meXNkcjdtV3hFQ0tnZGd6aGlFYTJhNF9IYTkxT1NKZnhyRVNjd3R1dVh6YzU4VU9SV0FwLWNaWWtXc3U4VXJxdWptQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1782679914535-5",
+      "title": "오라클, 주가 5% 하락…AI 투자 속 2만1000명 감원 - 글로벌이코노믹",
+      "excerpt": "오라클, 주가 5% 하락…AI 투자 속 2만1000명 감원  글로벌이코노믹",
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN01CNXhsS29LSTdhS0RUUGVaWXFENllWcmVzT3Uzanh6d0NHY3l2NDktZlE2M0ZFNEJmUG5UUVZpSENrcVhNbXRyZnQxWW9VTGZGMkpiZHdzajh6U1FycXNRWkNsM0pvMUNmLVVrWUZPeG9oODU1ejBFUDdwcnFwY3VVemVKeUo0?oc=5",
       "category": "Industry News"
     },
     {

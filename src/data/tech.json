@@ -1,6 +1,24 @@
 {
   "en": [
     {
+      "id": "auto-1782679913532",
+      "title": "[KR] 엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료 - 지디넷코리아",
+      "slug": "auto-1782679913532",
+      "summary": "(Korean Article) 엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료  지디넷코리아",
+      "content": "## 1. 개요\n엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료  지디넷코리아\n\n## 2. 기술 상세\n본 문서는 자동화된 시스템에 의해 [엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료 - 지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZFdFdDhMRGpKdVdHZDFERlllSFVJdE9BOXo1NGU4T3FtY1JHcEFUM1lkUGl6N1lyWjlQWThqMkttQllhV2xLSmI1N01vbGFrcWJyclBB?oc=5)에서 수집되었습니다.\n\n### 주요 시사점\n- 시스템 모니터링 및 성능 지표 분석이 중요합니다.\n- 클라우드 환경 및 온프레미스 데이터베이스의 최적화 사례를 참고해야 합니다.\n\n## 3. 권장 사항\n공식 문서를 검토하고, 변경 사항을 운영 환경에 적용하기 전에 반드시 테스트 시스템에서 검증하시기 바랍니다.",
+      "category": "Database News",
+      "tags": [
+        "Oracle",
+        "Database",
+        "Performance"
+      ],
+      "db_version": "19c/23c",
+      "os": "Linux",
+      "source_type": "rss_auto",
+      "source_raw_data_id": "CBMiVkFVX3lxTE4yZFdFdDhMRGpKdVdHZDFERlllSFVJdE9BOXo1NGU4T3FtY1JHcEFUM1lkUGl6N1lyWjlQWThqMkttQllhV2xLSmI1N01vbGFrcWJyclBB",
+      "date": "2026-06-27"
+    },
+    {
       "id": "auto-1782508318319",
       "title": "[KR] 엑셈, AI 활용 마이크로소프트 ‘SQL 서버’ 데이터베이스 튜닝 세미나 진행 - 디지털경제뉴스",
       "slug": "auto-1782508318319",
@@ -37,6 +55,24 @@
     }
   ],
   "ko": [
+    {
+      "id": "auto-1782679913532",
+      "title": "엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료 - 지디넷코리아",
+      "slug": "auto-1782679913532",
+      "summary": "엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료  지디넷코리아",
+      "content": "## 1. 개요\n엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료  지디넷코리아\n\n## 2. 기술 상세\n본 문서는 자동화된 시스템에 의해 [엑셈, AI 활용 'SQL 서버' 데이터베이스 튜닝 세미나 성료 - 지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZFdFdDhMRGpKdVdHZDFERlllSFVJdE9BOXo1NGU4T3FtY1JHcEFUM1lkUGl6N1lyWjlQWThqMkttQllhV2xLSmI1N01vbGFrcWJyclBB?oc=5)에서 수집되었습니다.\n\n### 주요 시사점\n- 시스템 모니터링 및 성능 지표 분석이 중요합니다.\n- 클라우드 환경 및 온프레미스 데이터베이스의 최적화 사례를 참고해야 합니다.\n\n## 3. 권장 사항\n공식 문서를 검토하고, 변경 사항을 운영 환경에 적용하기 전에 반드시 테스트 시스템에서 검증하시기 바랍니다.",
+      "category": "Database News",
+      "tags": [
+        "Oracle",
+        "Database",
+        "Performance"
+      ],
+      "db_version": "19c/23c",
+      "os": "Linux",
+      "source_type": "rss_auto",
+      "source_raw_data_id": "CBMiVkFVX3lxTE4yZFdFdDhMRGpKdVdHZDFERlllSFVJdE9BOXo1NGU4T3FtY1JHcEFUM1lkUGl6N1lyWjlQWThqMkttQllhV2xLSmI1N01vbGFrcWJyclBB",
+      "date": "2026-06-27"
+    },
     {
       "id": "auto-1782508318319",
       "title": "엑셈, AI 활용 마이크로소프트 ‘SQL 서버’ 데이터베이스 튜닝 세미나 진행 - 디지털경제뉴스",
