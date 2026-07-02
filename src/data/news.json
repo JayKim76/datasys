@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1782940684177-0",
+      "id": "en-1783025642773-1",
+      "title": "Oracle Makes the Case for AI Inside Everyday Leadership Workflows - The Futurum Group",
+      "excerpt": "Oracle Makes the Case for AI Inside Everyday Leadership Workflows  The Futurum Group",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZndOY3V6WDRPQThTYkhfaFlYZXhEVS13MnVteEtkN1VWY0piY2Jtc3lFZllLU08xVHVtaFc4bDlJRU85VXdNamRCdVhrOXRWMzBBM1E1Z01TeFJQaVZFS2pKZXNmYzRMSXgxZUpFUFFBanZpUUNSVGlCUE1kc2NSZ1g5bVlxQ1UyZHhYdFdGSV82U0xkZUdvVzNaaWFVRFFxcHc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783025642773-2",
+      "title": "Is The Market Ignoring The True Scale Of Oracle’s AI Expansion? - Forbes",
+      "excerpt": "Is The Market Ignoring The True Scale Of Oracle’s AI Expansion?  Forbes",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenh4S1VmaGdoaGV2Ym1OTTZSdEZhWGpwa09XeEJVTTIwVFVJX2t4ZzBnTWdsbmk4Zng0azlIVW5ZQl9PVmN6NWFkRDhjZS1IaWc2dzBNd2xqOUFORTVyT1ExUV9FX19lVzBVTHhOYmRNOXBpc0N4VTdtOElIYUgzcG9meVBGRjBmYW43cFdWNm1ncGY2dUtjU05JNnl3a0Vfemp1VmM5b1E2ME1tbU9UTEpZZG1NVU5LQXBSdw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783025642773-3",
+      "title": "Strengthen Security for On-Premises Oracle Databases with Oracle Data Safe - Oracle Blogs",
+      "excerpt": "Strengthen Security for On-Premises Oracle Databases with Oracle Data Safe  Oracle Blogs",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2MtN2hBTTVpNjB4RnJXZndSX2Q3REYwOVFJSHpDV1dNRGoxMWJ3S21zdDlYWDZMZzZwZTVJUjZKREQyZVRMdkRvdzRhUjlaRHdMMy1UVGpWN3BBa292RS1EM1VWV2IxMFMtdHBIYnl6U2JxRzdmYXFETHhURnRiN2VhRkhJekxvWFE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783025642773-4",
+      "title": "Own Cadence For AI? Oracle’s Backlog Demands A Look - Trefis",
+      "excerpt": "Own Cadence For AI? Oracle’s Backlog Demands A Look  Trefis",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkNGcUFPMVdmLTFJVC01ZWFSaE5OallXamJCRkxxS295ZndDc2tqTDV0RTdEamVkR2xQZThMdVJIaENfSi1uQWNQZWV0Q3VpZVZGX25FLWx2SGtmeWxVMVFlYWx3cGFnYVpUSV9odXRBSTlGWHBMbHU5eVdjQTFPN0FZaGxqY3h5S2swdk5FN3NwZ1F0eU1iTldHUUZ3RWZiS0xtcEZQOW1Hc0FQLXNZ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783025642773-5",
       "title": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom - Gizmodo",
       "excerpt": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom  Gizmodo",
       "date": "2026-07-01",
@@ -38,6 +70,14 @@
       "excerpt": "HN Original: Oracle's Tanya Pratt: Cloud was the foundation, AI is the decoration  Hospitality Net",
       "date": "2026-07-01",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObC1vM0xqYWY0blJ2WEhSTjNvYzYxbjJDN0ZBQ2lOcDJoSVZ0cFR5VGpocFpFZ1pWOGZVVkZFb1pNVkktMlNpM2RIZHBnQlJoWnYzcjFJV2ZVT3lFSDM5b1UzVzJ1YzJzMkROMWt4dDg3dXZ3RDBWWTd6RGx1Zm9Yd0VDdXc2cXNaNTh2dkI0OXJVQlAyX1JtYTV4eFFsa3BmNG0wLWZDdnZ0dU5mc3NNX0daQTY?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783025642773-0",
+      "title": "Oracle outlines all the ways it could lose the farm it bet on AI - The Register",
+      "excerpt": "Oracle outlines all the ways it could lose the farm it bet on AI  The Register",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXVNTnBtak85UTRaQURZQ1ZyTnhMdlZRQkZfaDFiWnN6YTc3RndEX0VZYXg4THFIVWoxVnViako5VDdqbWNCdllpUnFRWDdRa2dzMVB4Zy1oVVpOSkZsUU9yMlZ0WlBmTHF2WS1tNmVCbVAzMjBnbHpZdG15eWFfM1N5d1N2eEx6aFlpQWk2WWtCUkF1ZUdPSHBPd0lLSkNDMjNDeF9CRnBUdkQ2RnVlSEJZNWc3UXBIbHVMSzhB?oc=5",
       "category": "Industry News"
     },
     {
@@ -975,55 +1015,23 @@
       "date": "2026-06-02",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY01zQ0xpamhhbW9Ic1EyOEF4OG5takYxSzdiTm1GQkpTeUItaGZuRU1zczdJTzktNlpHYWZXYlI1NTNmR3dtQk9hcmktWVFfOGl5NGtnYkdSRXRUWXdhS1VHY2hrYTM2Z0ROaUhlYk5JYThNTXRqTnVhWjNKbU5mSFYwM0xJQXlCNkVRVEE5dmN0dGJmeDJPcy1nS1NlQ1dFRkdoTjZkYjhfS2M?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-0",
-      "title": "Oracle stock climbs to $225.78 on AI cloud infrastructure strength, up 10.8% - eciks.org",
-      "excerpt": "Oracle stock climbs to $225.78 on AI cloud infrastructure strength, up 10.8%  eciks.org",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZsSU9WZlhTeE9jX0NxSldfUHVVSmNSSnkzd3VvOHRVLU51ckhodVdLWlJ3b3l0dkhCejkxSkRzVmZnUzFjT2NHci15RjliQkE3NTNaWDY3ZVo2Z1l3S2FUWS1lZlVfWVlVRjdoNHhqdnEwSkx4NGdkdU1sXy0taFNMOEFTaklyanEtX29RR1RSdWd3RS11NHlod1ZNYzNrdzFnRw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-2",
-      "title": "Oracle Project Jupiter Data Center Expected to Create 4,000 Construction Jobs - Construction Owners",
-      "excerpt": "Oracle Project Jupiter Data Center Expected to Create 4,000 Construction Jobs  Construction Owners",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGp6Q3BSbGdxbUZtWl9UQnJabjU4LXYtYmFwY3dtS01yZDdDODhFRFNuRjRmVHJ0anU3TXhkVlBlVzJOeF9icG5RTXFsNk53UERHeGJXUUc4c19pU0VyODNfNWRCSDJLMk8xSU15VThQRF9CMW9uTE5LRUdXZnpqYlpTVmFOSlptM2I0dVdSWEpuWHR6WkZpcHhDaEpwLWFack01OW4xbVV6RlNaZkxLbk1OOFVoZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-3",
-      "title": "AI agronomic advisor turns fragmented farm data into multilingual, real-time decisions - Hortidaily",
-      "excerpt": "AI agronomic advisor turns fragmented farm data into multilingual, real-time decisions  Hortidaily",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTQ1REFBRXpJMXNFaEg0YVVSUms4Mm81cW8yb2RPTjFpckpRZjRJNFlEWWNNZ3JINkE3dnlLdXFud2RJNVEtVURPSExQV2NBWkRSd3lkMTVLaXAwQlM3ai1XdjdHSGlyZXBPa3BKSnpzTDN5Q1BvbzB4SmthamdQZ1BoVlpRR0tjTm9mdjc3NnJGQUgyTWJIdktiX3c3YU1vbGV0UjM5aXRZRHFSYzNveHdTelZfZXM0QUplQmhFdlVyUVd3SFQ1MA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-4",
-      "title": "Oracle (NYSE:ORCL) Valuation Check After AI Readthrough From Snowflake And Dell Earnings - simplywall.st",
-      "excerpt": "Oracle (NYSE:ORCL) Valuation Check After AI Readthrough From Snowflake And Dell Earnings  simplywall.st",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2pMaW4xcnpTdkg3VUFEcml3VUg4VEl5Z1l5UjBnWlA3RFpINU14ZE5uLXB2VEh2UjNQVWk1WXktQkxoZGk0MDFfUk1qbVJ5TjZwMmVDRnIzV0s1NHFkcDZjZmhmWEh0WjhQUTVCeEo0eTRCb2toQXVORW5tdjFMS0E5WUhGaHdnQVhFd0tHanRicmNJRy03aDBrQlhvLXRzLTJueGdNWlN6MzhOM0ZwRktPV3FXVlE4UHNwNjNENXbSAcYBQVVfeXFMUGRYV0o1eGI5RTd3NENfLWk0SXZGWThBaWlfbURsMHVad01Eb1RBY2tuTGo2ZkVXdjVTbk1JdzB2WVluQllJRDVfM25xZU91anhmclRsODViTFJGbHEwZXJ4eVlBYktud1BNSG1FbkNwcU5OQXZmMEhTMTFQRVR5R19LNFozZG9GRGpDR2hndHlnSUlld2tLRHZOTFpEVG1lMWVLSHlVTnJDYmZRSGFRTk1zeXFYZmhIZFNXaWp4alpnd2QxWUFB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780352988055-5",
-      "title": "Why is Oracle stock surging today? - Investing.com",
-      "excerpt": "Why is Oracle stock surging today?  Investing.com",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWl5SndiZVlNSk5hdWwyNTZVb0hRR2hUTmE3M05fcE1Ka1VmYjAwUXFkMjREQk1MYWRiLTEzcW5Fa3psZkk0SjVCX3cwUXhzRC1MZlEzanhiT2lCX2Nyd3hYZlB2NmtMMnYtc20yOW9CM2g1UEppcWc0RFprSmw2OVlVZUpPaVRJTERYSUVuODRTWHVKUlNoWW84QQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1782940684622-0",
+      "id": "ko-1783025643231-5",
+      "title": "오라클, ‘디펜스 에코시스템’에 10개의 국방 기술 기업 합류 - 디지털경제뉴스",
+      "excerpt": "오라클, ‘디펜스 에코시스템’에 10개의 국방 기술 기업 합류  디지털경제뉴스",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVWFMVzhpaEx0c00wOXRoRlViUmFJUFNGVjBuaUNZa1Q2X2x3Nmd3YmdJNzhmTGE0WDF1MmJ4RjAtQVdzdTlVOXg5OEdsU0ZvS3lnM0g4dFl2U2p3ZkRQVUV3QndxUUNVWWc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783025643231-1",
       "title": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류 - v.daum.net",
       "excerpt": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류  v.daum.net",
       "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtMFJzeTZHc284a3laSUNsRjg4M2VXTkVXWkFCLVhlQzBLanpvWEtMVzNtSGJRdE5pYWNlcGhTS29mR0RBTEFOdzVlbzFBVlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EWHQ1Z3VpaXFQbXNQZWU0RnRUWElwVTVPaXE5d3E2cFdaaF9wZHEwcy1nMTlUSUhCM1VjYVpWcUV3TUNtYUM4b1M5YkUtZUJUVjMzRg?oc=5",
       "category": "Industry News"
     },
     {
@@ -1043,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782940684622-3",
+      "id": "ko-1783025643231-3",
       "title": "오라클, 임무 수행용 클라우드·AI 역량 강화하며 국방 기술 지원 확대해 - elec4",
       "excerpt": "오라클, 임무 수행용 클라우드·AI 역량 강화하며 국방 기술 지원 확대해  elec4",
       "date": "2026-07-01",
@@ -1059,7 +1067,23 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1782940684622-4",
+      "id": "ko-1783025643231-0",
+      "title": "오라클 디펜스 에코시스템에 10개사 신규 합류 - 디일렉",
+      "excerpt": "오라클 디펜스 에코시스템에 10개사 신규 합류  디일렉",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zdjRpdUhpR2dWWElTS0xCVXktZmhkYjJLeWxaZS1JMEFrWWNCNWJwSTBzaEpEaC13WkwtVDB3OVYwODJrMUNnVTNRVEZKQklXZHA4dFU3SUNtazRhcVVxb0ZOUUVqdw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783025643231-2",
+      "title": "오라클, 국방 AI 생태계 확대…신생 방산 기술기업 임무 수행 역량 강화 지원 - 더테크",
+      "excerpt": "오라클, 국방 AI 생태계 확대…신생 방산 기술기업 임무 수행 역량 강화 지원  더테크",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00RHpxMU0zQWp5VXpkaEo1R0M0Q3NOYUczc09PcVdrc2hhWDdNS3h6MER2OVp3NXhNSzZBZlFhb1N0NnZmRkFZc1ZXa1VXOHdjU0lNZjRraHcxclJoR2VDN3dGNA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783025643231-4",
       "title": "[유미's 픽] 오라클 AI 인프라 확대에 비용 압박…국내 기업 고객 부담 커진다 - 지디넷코리아",
       "excerpt": "[유미's 픽] 오라클 AI 인프라 확대에 비용 압박…국내 기업 고객 부담 커진다  지디넷코리아",
       "date": "2026-06-30",
@@ -1456,30 +1480,6 @@
       "excerpt": "스코샤뱅크, AI 클라우드 포지셔닝에 Oracle 금융 소프트웨어 목표가 상향  Investing.com 한국어",
       "date": "2026-06-02",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IMVc0bDhhcDNYZ1pORUpiX2ZBTU04aC00LW1xbnZEa2gxU1A4QXpGbGJyZ2JYVUEyT3lwcTBoX2NJOTJZbEhRMlhXcWJyM2FmdkJSXzEzcnBtMkVrLTNRdlFDdkFHdmM5YTg4MmVjakowbmJ6?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1780694231036-3",
-      "title": "Oracle Corp (ORCL) 주식 움직였습니다 상승 5.56%에 6월1일: 변동 원인 - TradingKey",
-      "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 상승 5.56%에 6월1일: 변동 원인  TradingKey",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa200MlcxWVV5bWQzdjFheHRkSW1kVUFOT1YzUzIyNXBLMGNhcjRqckpBU3FtQ1cxbHMtOEUyRzFvUmxidTZfOG1uRHk4X0d0S2k1UWE5bmFicEtFRjhJX1ZpVmFLQUk2bjNYdlhnWEdqLXVWNkFURm9OWEl5b2FITnZUMVJVLWVlXzdUV2RhVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1780694231036-4",
-      "title": "오라클, 엔비디아 차세대 Vera CPU 핵심 파트너 선정…AI 인프라 경쟁력 강화 - 매일경제 마켓",
-      "excerpt": "오라클, 엔비디아 차세대 Vera CPU 핵심 파트너 선정…AI 인프라 경쟁력 강화  매일경제 마켓",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MHZkT2Jza1ZxN2VEWnVMLWZtU3NxRjdiMHctMGdZSXBvZTV5RzJRczNaNFBudkg3WUNiZTZGaGltRkMweURKRDdRdFVObVYweHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1780525407473-5",
-      "title": "메리트 토토 의 고급 기술: 전문가 수준으로 나아가기 - 전문가의 관점에서 - kmrk.ru",
-      "excerpt": "메리트 토토 의 고급 기술: 전문가 수준으로 나아가기 - 전문가의 관점에서  kmrk.ru",
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3JYazhxOElTVUZnRzA0YUR0cm1iQl81TkVvcmxxUk41cXVwemI4UFhjb1hSdm9wUzBOaW9Md0lwb2FKV2N4Mm0wRENRLWVvM25VamdwanV1VVROVnNwRUFyRy1HMXdVcEEwYTFLR19BeHNXZFlvVEZSclNuQWZfS1I2dHU3NnFfZEM4dW5oUUtabjc5U050MTNXeU1zTGY4U0VjQg?oc=5",
       "category": "Industry News"
     }
   ]
