@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1783372875277-0",
+      "title": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI) - Oracle Blogs",
+      "excerpt": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI)  Oracle Blogs",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlZFUmRod3VHb2c1aXJzX3IwZlJ2cHF1ZFdCSzVTSkFoeWhSMnNUZWhCVXlodkRQa0IzUGhVS191NGpqazdFRWc0N01ydm1KVFY1bC1jZEw5eVVDWnVsRzlsMUdRVGQ5ZGpHTkRBWjVlNnVxRGxiMXgzc3FYdm1Mc0JwTTFMWDVscWc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783372875277-1",
+      "title": "Why Oracle Stock Slipped 35% in June - The Motley Fool",
+      "excerpt": "Why Oracle Stock Slipped 35% in June  The Motley Fool",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHF4OFFtQ09uSjRmU0dqTVNtZUhlUzNkazZ0eXpPTkc5RHRFM2JMX0VyNjdmQ2ZYMWVWWUZlbGN1VE5jVzJPeWgwX2hnZGR5NkRTNjk5ZW1lRC1ucFFKN3R0bmlJUlRxMFFDVENCRHN6ZEhzbEd1ZWhKMXdoR0RVTDdObmk?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1783284425666-1",
       "title": "Oracle Stock Falls 43% From Its Highs Even as Its AI Backlog Hits $638 Billion - TIKR.com",
       "excerpt": "Oracle Stock Falls 43% From Its Highs Even as Its AI Backlog Hits $638 Billion  TIKR.com",
@@ -17,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1783111964033-1",
+      "id": "en-1783372875277-3",
       "title": "Is Oracle's New AI Agent Suite Quietly Rewriting Its Data Center Story (ORCL)? - Yahoo Finance",
       "excerpt": "Is Oracle's New AI Agent Suite Quietly Rewriting Its Data Center Story (ORCL)?  Yahoo Finance",
       "date": "2026-07-03",
@@ -57,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1783025642773-2",
+      "id": "en-1783372875277-5",
       "title": "Is The Market Ignoring The True Scale Of Oracle’s AI Expansion? - Forbes",
       "excerpt": "Is The Market Ignoring The True Scale Of Oracle’s AI Expansion?  Forbes",
       "date": "2026-07-02",
@@ -89,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1783284425666-4",
+      "id": "en-1783372875277-4",
       "title": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride - 24/7 Wall St.",
       "excerpt": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride  24/7 Wall St.",
       "date": "2026-07-01",
@@ -121,7 +137,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1783284425666-0",
+      "id": "en-1783372875277-2",
       "title": "Oracle outlines all the ways it could lose the farm it bet on AI - The Register",
       "excerpt": "Oracle outlines all the ways it could lose the farm it bet on AI  The Register",
       "date": "2026-07-01",
@@ -903,65 +919,57 @@
       "date": "2026-06-06",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUm5EaWJMb3NtSU0wUWVlS0ZxZ1ExR0dqM0ZQMU5TNmpINkIzQUs0QUU1Qm9sLVhNRXpyUExRajJ4LVB5Z0NnbTZTczRoMlJFOFNrNE10c1Fxc0VGajZrcGxDeWdlTWYyVzRCUGN5MHhBTGMtMFZIUFJXcWQ3OGRuanNUT3VRVkFhOE1IWmQ1Y0djbkZh?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1780694230605-0",
-      "title": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates - Arm Newsroom",
-      "excerpt": "Oracle Cloud Infrastructure joins the Arm AGI CPU ecosystem as agentic AI accelerates  Arm Newsroom",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1OMl9JbDdDVXh1Z0xHMjExYjN4bGhmczNfZy1ma3RYbG1IaW5saW5fdGpYbGdJcUh2ODZsVjVfcEVaMWQ4WVhiaGZ0V2NlNS1ibXE1VFBJNUFsWkJzUjEtTmc0WDlPY0hPQTFjdVFXWlliVDkwWGdyMVFOcTZpalp6bVJ6Yzg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780955062764-4",
-      "title": "The Rise of the FinOps Database Conversation - Oracle Blogs",
-      "excerpt": "The Rise of the FinOps Database Conversation  Oracle Blogs",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2FoM2E2YjNyQ2czako5dnZCWU5yVV9VVmlyQXhqQVVVVno2M002MmVRRk10VVB0WENESGZ3akxCai1mbm5qMlVUTG5qWnZhVlJNOWlxUGFwejI0QW9VcC10YjhNVngyMzlVaFMzdTZvOXpweGVxTDNXMTdlbmpWb0NqWVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780866037541-3",
-      "title": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative - ERP Today",
-      "excerpt": "IBM Closes Out 2026 Oracle AI World Tour with a Clear Message: AI Is Now an Operational Imperative  ERP Today",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWNPUmdtU0RGQ1ZDVFI4REd2UHV2N3VsTGcxUHliQXR6QVh2WEE0ZExSTU50UExsSC1KUks0VW5vc3VzaUFyUm9iUjNUcFB4a24wN1pVMHc3bjV6NWZkZmVzOGZmcHhpX0dBVW8yTDZpeHdsZXpibzJ3OW1lcndodUVSbUMwcy1VTWdkcHJB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780866037541-4",
-      "title": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings - Investor's Business Daily",
-      "excerpt": "Oracle Stock, A New AI Infrastructure Leader, Rallies Bullishly Ahead Of Earnings  Investor's Business Daily",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMy01OURoXzVZOFNjTmhuOUNlTkFmTEtuay1LQkNGWk03eWpBQkZiaFFhRXJhcDFRMVdtRGN1ekxUU2JRTXBrRDBYNDFYTUpiSHRuQVZSZHpnaFdLQXF2SktRVlVrd05LcEo0QnByV05qVjdPdm1qcHlBYjdZWjNsLWhHVTZWR1IxTlp5ZTBMZmwzSEllZndrTVVmcDBNd3NnQWYwaGRtN2Q4NFRfelM3SW5OMWdpajVsRGF5VjdJRTZ3RFB1cmN1a0NRbw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780694230605-4",
-      "title": "Oracle Q4 Earnings Preview: Expect AI Demand to Push ORCL Stock Even Higher - Barchart.com",
-      "excerpt": "Oracle Q4 Earnings Preview: Expect AI Demand to Push ORCL Stock Even Higher  Barchart.com",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjdyWGxXWDhpdThmUzBIZ2NMZi1GTHFZYjFSNXc1czk4Z0Q4MkpzdlZLU3VpcFY5Rm9FTVJZRUYtYUZIRVRvMmdkQXVGSURxY2lYTnZJVkw3TWZpSm9sUGd2QkdobUZfY3hQb2NILWtyRUJaVVRHMFhGVVpNVEcwYUkxR1FGSFFzTWJqUGJnUi1YWDBlUDZGRDNqM0lMNjRBSnU5dFozUm1BcWp0anlLVkQyUDRHVVZyZVE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780694230605-5",
-      "title": "Oracle's AI Spending Bill Keeps Growing: Capex Could Hit $100 Billion As Stargate Expands - Benzinga",
-      "excerpt": "Oracle's AI Spending Bill Keeps Growing: Capex Could Hit $100 Billion As Stargate Expands  Benzinga",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbE5MQ3pxa0RndWxHa1BJMGd0Uk9rZDVBbnpQR0VIRjBhblA2dm55OVNEc2xuTTZXOEVCWElnSXVyYm1rSGVCLW5aOUVDa01OajJ3UGpmT0FabDQ3YVRhb2xydnVWN2lsSzZfOXV2QzhGRWxUT0JwQU5uWmdyS0hVUnU5ZTBpNFV5NG5VTEs4am11cVJKUklsVUVnTmF2ZnRDRFZMS0NmcnRlQTZ4U2xCemRDeHBnQTVrejNnU1lLSTcta3U4ckVBVXg3ZFNURE9SZTUtUVl6c3Q5cllsM1FmOGlJdG93VGt0NU5vanhFRktndw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1780866037541-1",
-      "title": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings - Yahoo Finance",
-      "excerpt": "Oracle (ORCL) Is Up 16.0% After AI Data Center Capex Becomes Focus Ahead of Earnings  Yahoo Finance",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0xRdm5CeklWS09FcnFNOUJyTlRoOGNiRUhiUHZCRmpndExPbU5lRHppSGpaZG9XbWEyclZOTW13bU1ZWkZuT00tTWtGOGJtbHhQQVAwUTh2ZHNXT2N6Z0tKYnJyUVdiR0J4Uk1NcmVWMWE3am81ODRXdjBFLWJZNWJaa2huenlTaUlaeg?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1783372875687-0",
+      "title": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정 - 디일렉",
+      "excerpt": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정  디일렉",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fckRMWlI2eGVCamVJYnNKa0c3dnR1LVRlU25QU2dKaFlEMV94ZU43WVdnREpPSjNvdEx0YXkwbzY5UUhYVkFKdnVCTGJzRE1ZQl9lZ3dhaHBDZmdBWkJlMElVVmptdw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783372875687-1",
+      "title": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정 - 아이티데일리",
+      "excerpt": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정  아이티데일리",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qbHdMamNKWVJ3dTdLNmlCUnFuX2VQM1JVNlY2cjRBNnpVXzA1Tk80ZlJEd3otWUVXY1Y4R1JqTmRXZVppZHlMNjN2QmhjcHYxbGxGd3dCU2ZBV0l4TDczOUpXMG9nVXc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783372875687-2",
+      "title": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득 - 데일리시큐",
+      "excerpt": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득  데일리시큐",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Vclg2ZFNxU2JmclJ2X0FsRlVXYjBCaUR5S0dLUVRZbF9sekp4Vi16QnBad1pBTzRxRG5BTUV6d2t4MFBMNUFiTFRNY1ZGVjF5R2dqSENydUpWVFJoX3JyczZ5czFWdjhfX0haVQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783372875687-3",
+      "title": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정 - 테크월드",
+      "excerpt": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정  테크월드",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySmJ3WXBDQ3V5REtsNHRyRTUtNE9WZDdtcjhZSGtmRWhMUThCcnY4OGRvckdaSEVQV1JKNDd4RmhxYUI3MUVJU2V2RmRRcHV5a0d4X2VJWTZDczJxRjBNeVBITHFfWi1N?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783372875687-4",
+      "title": "오라클, ISG 2026 AI 및 데이터 플랫폼 바이어스 가이드 종합 리더 선정 - 위클리포스트",
+      "excerpt": "오라클, ISG 2026 AI 및 데이터 플랫폼 바이어스 가이드 종합 리더 선정  위클리포스트",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tNkthUHF0cWxhS0t3Q0hlZE5QRW5zaDdSVnlOem1PdGl2V09pRVFCTXIxWVROOWsxS2M5Z3dUMTdUbmRJQ1h1eGpwQkNqY1VEYXdkaTAxMm1sQlFYT0tGblFfOS1QWktRTlRR?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783372875687-5",
+      "title": "오라클, 글로벌 시장조사기관 선정 AI·데이터 플랫폼 리더 - 파이낸셜뉴스",
+      "excerpt": "오라클, 글로벌 시장조사기관 선정 AI·데이터 플랫폼 리더  파이낸셜뉴스",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTk9iaUx5SGJYcFpWRHJZVXhySHdPcmN4dGJTQTFkT3o0S1pINzk5RlEtMFg4aTdqc3lESjF5Mkt4MDdCcG1kUElNY0ZuWm9CLVVBOW8tc2JMZw?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1783197798349-1",
       "title": "오라클 주가가 이끄는 AI 인프라 창업자 주식 3선 - simplywall.st",
@@ -1424,14 +1432,6 @@
       "excerpt": "오라클은 클라우드 후발주가 아니라 AI 인프라 수주주로 재평가받고 있습니다! 차트분석을 통한 매매 대응전략 공개합니다! (zgYeQKEN6G)  Fathom Journal",
       "date": "2026-06-06",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52cG1kWDIyVmRKSmpsZTdPTFV6Yk5rRXBjNjJwVGJkNVhzT28tc3JieWw4YTFmdU1GUzZ0UVZuTm9ESGVPWWFZSnZzWHM3U201UmJUNzFYMFFmWkJqT2tNYVc4eGRBcUd2Njh3QU5YejFEMnVBUHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1781041263061-3",
-      "title": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어 - TradingKey",
-      "excerpt": "오라클 실적 전망: 시장은 OCI 성장과 주문 이행에 주목, 주가는 2026년까지 400달러까지 상승할 수 있어  TradingKey",
-      "date": "2026-06-05",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFpCLVhkeFgwNmRtalpXcWdhYnJYTEtXck5JOEZ3aFVHOGVZM1c1ckhFZWhseldxUVZobWN6VUhuSVAxc0daSzZ4QzJvVE10UzROLUtuenpjWEJ3elVIeEtGNUxvQV9GX0Rvc0RfcHlLeEkzbEJpNy1rQXN2TjZpbmktaEt1WTJjdl9pNTZmd1BEYnVJRGtjTmdWMXNmenBxaEdMQVFrajZ4d1k1RzRNV0NGNDZnd05VYWRxVEk1eV93RG4ycmVMN3Fja2N5bmRlcWFPV1hWVXdBODRRRVQ2amd2T3E?oc=5",
       "category": "Industry News"
     }
   ]
