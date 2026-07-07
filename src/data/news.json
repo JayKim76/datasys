@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1783458906854-0",
+      "title": "Announcing Oracle AI Database Vector Store Connector Support for Microsoft Agent Framework - Oracle Blogs",
+      "excerpt": "Announcing Oracle AI Database Vector Store Connector Support for Microsoft Agent Framework  Oracle Blogs",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTlpSE9oSHBEWXR6U3k4WFRaa21yaGZqUk5OaXRiTXdiWTVjbGpXSjlOUEsxRDZ4Rkp3NWtVUVN3NHZwNGMtQ29HbFV4NHVtZ2xIbmNYVDcwalVWSjdYTmh4ODlXdFJfQ0RwV2ExcDR1R2NUenN0NVJJbFVjU2RQVFpRZ01QRWpKVE8ycXAyVEFpelVRdEFQWTdvZEtVdXlWYXU4cTdvUTFkOGlweTdWMkh4WmRIcnd3TXgtZlBldVN5b0Fp?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783458906854-1",
+      "title": "Why the Next Wave of Enterprise Strategy is Industry Clouds - Harvard Business Review",
+      "excerpt": "Why the Next Wave of Enterprise Strategy is Industry Clouds  Harvard Business Review",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVcyekJvVDlra0dWSmJ4U0NvTFlYR3RmN2cyMFE4N0JwSWJUdFNEcVo4TlNObE5ubzBNam5PdFFtRkhnS2lzQmtOVmd0YmxpVW1KSnFybnZ1a2NKOE84TFppdGF1NC13cTdIMWpLVFNOTFRBZjZSRmt4Q196Ul96bmxSZVU5c1NUZ0s1ZFNXN2d5WUFQSVhpWA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783458906854-2",
+      "title": "Cloudflare Is Up 9% Today: Is It Outperforming Other AI Cloud Stocks Like Oracle, CoreWeave, and Snowflake? - 24/7 Wall St.",
+      "excerpt": "Cloudflare Is Up 9% Today: Is It Outperforming Other AI Cloud Stocks Like Oracle, CoreWeave, and Snowflake?  24/7 Wall St.",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajhtMHR1Nm9LOG0wWFlrbFNTMlJ5VWx1R1NtT1d2QkpyTW5NSE5PM05Kd1ZPWU1NMVVOaWRyWkZoV2lEWVd0YmtObnQyUVBobThraGFlUkJlQkd3SVJsRUY5MXlxc0M1d051V3NDTlN3Y2RxU0xya2tCeXk4Rm52b0RZUkJyMEJaT0wtTHdTLXpkRE9FMlZKYlNCQkgwV3JhcWlaeExPRVdDTVBhSkttWUlFd0d6TVVsWjJnV0kybDMzRFNsTlMycGtQcS1JSGQ4YzJyXzR5cC10VHJQazE0?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783458906854-3",
+      "title": "Oracle Stock Leads 3 AI Infrastructure Picks For Retail Investors - simplywall.st",
+      "excerpt": "Oracle Stock Leads 3 AI Infrastructure Picks For Retail Investors  simplywall.st",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX1VCOHcxU2p5RjBZTjhCc3ktS3N3M0lkbXRWdE01Rnpzd3hzOGRLdkl5b1lldjJ2WGFLNFVtRlhJRkgzMnh0bWpSeUV0eS1TZERFeVRLVXJNMDRnYjVRM3ZnRTVmLUlLM3daWHhrdURicnJ1T3Q0SGh3YVdaTzJ2azZocDk2Z2F0UGNmd0l1NS1RR2lQdjBOZC1VUzhfbFJhSTVVTGtnMWVNWnh1SE9xa3BOTHFILUFFMGkxZzJmQUEyTEhSS2x4c3VVbS1SRVQy0gHWAUFVX3lxTFBGZFJnZEZsWTctdTFWNnJpNkVsaVExV2l3QXQtSWpXcXNCckFvWTdrN3pLcG92WGJOSE16dzlYbVNORzFnMmpfSFd6Y2hWeGRXeWZrM3piMnFCLU5kaFBMYWpOYWpjblk4RjZRX0JEV2FxaDlic2VMTkpjZFlpSno3dWRpZnZpTXhwSkVGQTBYd3NWV2tjUGJpLTh1Y2xGcDRVZ1F1VWd5aTJBNWw3YTlWbFFwVFo3dXJDVXBOTXBHN0xvQmFxNGFMVmhEZDJjV2hCZzlmdGc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783458906854-4",
+      "title": "Oracle Globally Distributed AI Database: Resilient Where It Matters - Oracle Blogs",
+      "excerpt": "Oracle Globally Distributed AI Database: Resilient Where It Matters  Oracle Blogs",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUC1QSU5IclBMQnVFV0todkhGRUF3WFlDZ01mZHRPU3VoUmw4TlM4TTNjUzdBMkVzcDI2eXlLR2RHR0IxaFhPRTN5clJQSHFFTHhMbmJsYmZmWnowSnRZcjFJbkNib3AzV3g5aVlGNnZDRTBzNWk5ckpwRVYwT045SFQ3c0t6ZDYwZDJLdHpLcDJjNnRjdkhNRFBLblJaeEVqRGc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783458906854-5",
+      "title": "Oracle: It's About To Get Worse And I Doubt It'll Get Better (NYSE:ORCL) - Seeking Alpha",
+      "excerpt": "Oracle: It's About To Get Worse And I Doubt It'll Get Better (NYSE:ORCL)  Seeking Alpha",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzFrUWFhWGJqTU5idnNTN18za200bzNyWjNsdXR6UGxrVEJKNUxWMk5aN1prYS04S2E4alZhaXc2cEJJcVdoNFNaUmVTVFVzZC1JSDNfcmZJcjdoWTJ1QkhnZU45TXJxakxrdTI2dWIzQlJaNWNxc3FrTTBjVExEVkl5LXk2T3ZVYl9reGhndFktWVkwbjlwcmlmcmU5WGs?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1783372875277-0",
       "title": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI) - Oracle Blogs",
       "excerpt": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI)  Oracle Blogs",
@@ -911,19 +959,19 @@
       "date": "2026-06-08",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkFWUkZUMHV1SEhnQXctZG8wUGxDcmxpTGJlVXlub1owNkVPRnRtREoxRElsc2NOei1WOWlsajk5OFNhRWNpcElMQlNkSEQwNWphd0MwU0c4Uk1zS09rMWlpR3pid09wZWRGdmlSbFdoajYyTEprSmFwMzVHaFQ5S25VUVlYWHl2UlhPZkVLV1MzMHcwNEs1TmgtbzdhdENXYm0xTTVOZ2ozUGNnbm5uMmhB?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1780955062764-5",
-      "title": "Oracle and the AI Boom’s Hidden Debt Bomb - inc.com",
-      "excerpt": "Oracle and the AI Boom’s Hidden Debt Bomb  inc.com",
-      "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUm5EaWJMb3NtSU0wUWVlS0ZxZ1ExR0dqM0ZQMU5TNmpINkIzQUs0QUU1Qm9sLVhNRXpyUExRajJ4LVB5Z0NnbTZTczRoMlJFOFNrNE10c1Fxc0VGajZrcGxDeWdlTWYyVzRCUGN5MHhBTGMtMFZIUFJXcWQ3OGRuanNUT3VRVkFhOE1IWmQ1Y0djbkZh?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1783372875687-0",
+      "id": "ko-1783458907264-1",
+      "title": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 등극 - 헬로티",
+      "excerpt": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 등극  헬로티",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYkhMdUNTeDd3ZGZIM0tLbm5rYVlDbmhmZXVKOVRqaWszaGx2c2lLWFlTOUtDTGluYjZySXhKSGQ0VkZOd0ZXUnA1LU0wdmZfY3llX3F5b1ZjelAyM2Fr?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783458907264-2",
       "title": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정 - 디일렉",
       "excerpt": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정  디일렉",
       "date": "2026-07-06",
@@ -931,7 +979,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783372875687-1",
+      "id": "ko-1783458907264-3",
       "title": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정 - 아이티데일리",
       "excerpt": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정  아이티데일리",
       "date": "2026-07-06",
@@ -939,7 +987,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783372875687-2",
+      "id": "ko-1783458907264-4",
       "title": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득 - 데일리시큐",
       "excerpt": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득  데일리시큐",
       "date": "2026-07-06",
@@ -947,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783372875687-3",
+      "id": "ko-1783458907264-5",
       "title": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정 - 테크월드",
       "excerpt": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정  테크월드",
       "date": "2026-07-06",
@@ -968,6 +1016,14 @@
       "excerpt": "오라클, 글로벌 시장조사기관 선정 AI·데이터 플랫폼 리더  파이낸셜뉴스",
       "date": "2026-07-06",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTk9iaUx5SGJYcFpWRHJZVXhySHdPcmN4dGJTQTFkT3o0S1pINzk5RlEtMFg4aTdqc3lESjF5Mkt4MDdCcG1kUElNY0ZuWm9CLVVBOW8tc2JMZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1783458907264-0",
+      "title": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정 - Oracle",
+      "excerpt": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정  Oracle",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTJYQjdkYVRNdHdPaGFXc1hxYkNoR0NyWU95VkpUWHRaZFVZYnNCTDFfYnFCT0IwVVBpNmw1QkxlaUJ4UldleHlURGRTZjF3RGJaNWRVU0U3dHE1V19uOVlQVTRnM0pjdllJTkNLbm9QbHY2Rjh3c3VsWUpjaks4QkhKUWo0QlhSM1VpbHpBMVF6RTBnNDRJMUJRSlNvMkdDZG9QTDVRNWxfdktvRnBuRnRJaFBqc2p1clJj?oc=5",
       "category": "Industry News"
     },
     {
@@ -1416,22 +1472,6 @@
       "excerpt": "[美특징주]오라클, 오픈AI 비공개 상장 신청에 따른 파트너십 재조정 우려에 주가 3%↓  이데일리",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGlFX0gyTV9OQnFtNzVOSjRNNEFpaWhDa25teTg0Mm5INVA0SzNVSDlISFVxbV9hODBJeVVDV3lDNVlOQVZudzNFb0gyZ3o3MElocVdOQ3VJTnVlRndVLWU4UTZDRVpmSHlXV2xYX2tTVzM1aHA3NE9SRm1TRW85Wg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1781041263061-4",
-      "title": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\" - 뉴스웍스",
-      "excerpt": "\"EDB, '오라클 대체제'에 머물지 않고 분석·AI 플랫폼으로 사업 확산\"  뉴스웍스",
-      "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qcXgwOGp5d0piR0h1MkV5MUs3MmR3QkhTYkt2VzhQd21UamxnZWhZUGtUM2NZRlRGY3l4WVY3YnBtVjloNm55UU1CbFJFWUpTQ3pydnV4LVVPMTdYYm5JLXQwMUVja3NXNHZ2TzJHVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1780955063214-2",
-      "title": "오라클은 클라우드 후발주가 아니라 AI 인프라 수주주로 재평가받고 있습니다! 차트분석을 통한 매매 대응전략 공개합니다! (zgYeQKEN6G) - Fathom Journal",
-      "excerpt": "오라클은 클라우드 후발주가 아니라 AI 인프라 수주주로 재평가받고 있습니다! 차트분석을 통한 매매 대응전략 공개합니다! (zgYeQKEN6G)  Fathom Journal",
-      "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52cG1kWDIyVmRKSmpsZTdPTFV6Yk5rRXBjNjJwVGJkNVhzT28tc3JieWw4YTFmdU1GUzZ0UVZuTm9ESGVPWWFZSnZzWHM3U201UmJUNzFYMFFmWkJqT2tNYVc4eGRBcUd2Njh3QU5YejFEMnVBUHc?oc=5",
       "category": "Industry News"
     }
   ]
