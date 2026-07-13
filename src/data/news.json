@@ -1,6 +1,46 @@
 {
   "en": [
     {
+      "id": "en-1783975764608-0",
+      "title": "One Database for the Whole LangChain Ecosystem: Memory, Persistence, and Deep Agents on Oracle AI Database - Oracle Blogs",
+      "excerpt": "One Database for the Whole LangChain Ecosystem: Memory, Persistence, and Deep Agents on Oracle AI Database  Oracle Blogs",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXp0UFhmS3JuVy00MUxCbzY0MnlmVGJCb0RzNnNQbGNLTmhiQjI5ZDVHaGJIbGVXMkYwclBzZU1GVHJlX0V0SjlPYm9MejZvSDRnVFVwRUJRcVlCWm5SMEJwbjlCZGhBaTBiWUFpRU8wQjVLWHBJcTdtcE5uTkVkVEVjU0hRM2x2bnFhOXp5eklzUTdaMGNldlVSUFJTZUFoLWdfb29Dd3BjQzVHVWUxRVJqR0s1Z3NxYTZFdDN5MF9PbF9FSk9QbHJieHZLLVEzazdfNDJB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783975764608-1",
+      "title": "Oracle Targets Faster Patching as AI Threats Intensify | Cloud Wars Live - Cloud Wars",
+      "excerpt": "Oracle Targets Faster Patching as AI Threats Intensify | Cloud Wars Live  Cloud Wars",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXZuTXgxX2x1TDI4WEJRV1ByWTVZQVVVWUVoWjZFQmMwVFBOaFYteG1SR2ZFVHNFYkRuSjBkbUdzY1E1bW1YWmdxV3F1LUFTLXhtcmVtODFLS05UTFhydW9rSG9jUFhkVzFCd2E2MUt5X0FHNUdvVXk5VURjZTNVTTJrRWVpUjF2Z2VTX1JoMW9aZjY4SmtBeWNya0k?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783975764608-2",
+      "title": "Oracle: Perfectly Positioned For Next-Generation, AI-Focused Workloads (ORCL) - Seeking Alpha",
+      "excerpt": "Oracle: Perfectly Positioned For Next-Generation, AI-Focused Workloads (ORCL)  Seeking Alpha",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHM5SVU0N1RHTFNJNnZHaTE3bktQeXJPUEtKMGZ3ekdCNnZuam9XcnlIVjV0NVV2LXlFZUFNUTlkbUFHY3o4eXZkRHdXTElQU1RSbnNRM21WTEhQbDVuWm9vbnp5a1FzeDY5WHdRVXRhbndiSkZ4NXc3VVVxR1FEM1N6c09qNFVkZ2hLZkhnSmd6SGMxRmV0X2lPbXlmZll4QTdIcjB5WEM?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783975764608-3",
+      "title": "Oracle Stock (ORCL) Opinions on AI Data Center Buildouts - Quiver Quantitative",
+      "excerpt": "Oracle Stock (ORCL) Opinions on AI Data Center Buildouts  Quiver Quantitative",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmRtQmxHeHFhcnBNQXhqUWdjcGd0QWFjaHY5bTlDR2hiWktFWV82WTNzRlpFblBJMUFFNkRvNmp4RjhGT0pPXy1BQnVlVWxHUEtuYk0zT0kxMWY4NzV2eHd0dFlvOUxOMEduajlwME9ha1U3ZTlfeTd1bmxkRmF6U3Z2ZHNYdkcwVk9UTDZVN1hJLXZOczk2QQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1783975764608-4",
+      "title": "Oracle exec says trust is the key to unlocking AI value - Fierce Network",
+      "excerpt": "Oracle exec says trust is the key to unlocking AI value  Fierce Network",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmZNN3ZzcnMwNlJ2RzRaUGxLcHhOVkdOTGJBTXU2UzdKWEJxcmV0V1AzRVlGUUtvZkdtdWxBTnNDR0NsS1REamx5bWR4VjVuaTB1cGlZbGlXSFdQQ2N1V1o3TERlb0g3LXNBR3dwRWJCRFVMWUNma0dRYkNfbU5PRzFmOXpxemhBMEE?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1783717165920-0",
       "title": "Oracle AI Agent Memory 26.6: Fast, Accurate Memory - Oracle Blogs",
       "excerpt": "Oracle AI Agent Memory 26.6: Fast, Accurate Memory  Oracle Blogs",
@@ -57,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1783888511296-1",
+      "id": "en-1783975764608-5",
       "title": "AI projects expand Oracle database migration value - SiliconANGLE",
       "excerpt": "AI projects expand Oracle database migration value  SiliconANGLE",
       "date": "2026-07-09",
@@ -847,54 +887,6 @@
       "date": "2026-06-13",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMG5nSkdQSHRWNW9Wa1gzbnBBbUpVbTZUVjZaOFBqYlJ5VnBKZEJmc3p5Vk94Umw5eEF3R0hTM3FHSlpKQ0xkNnpScGpla2xkOXJod1JZZGZQWnA1WjliVHRNYjBKQ01lQ3ZJWGY1U2RKNkUxaF9EU3JPOWhsdXFHaHdodUVZTVlEWUZnYW1nRDZSejUwcldDSjJVc0Q2Ukpsb3dobFJ4TEpDX3FvRWdWMzc4eTlCSlYzeWs3WkM2djdzSlFZbmNV?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1781561410996-4",
-      "title": "Oracle Is an AI Success. It May Not Be Enough. - Barron's",
-      "excerpt": "Oracle Is an AI Success. It May Not Be Enough.  Barron's",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUZyQUFZNkVRekNlVVVLOUlMOEJ0a1dqVzY5ZXVjVGN0TkJwaGNGY1p4Ym56NGRhb3NnaEhLeHEwRlZud3pEbUJSb1pDMlVzRko0amQ1cEI1UjBrR0I0WlpPdXE2elVtQ0xDc1dXUVJKd0hZcm5UVDlFdzVmOEh2YmloUzd6UQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1781299439794-1",
-      "title": "From Visibility Gaps to Agentic Operations: Building an AI-Powered Supply Chain Tower - Oracle Blogs",
-      "excerpt": "From Visibility Gaps to Agentic Operations: Building an AI-Powered Supply Chain Tower  Oracle Blogs",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHNEVHVwT09qUXlXc1JiSnZhaW1KVGtULWZTOVJYZGdkS1lrRURlbm1ZRWhKMm9tcnBXVWhmd3c0djZLTGVNUnNlQ1dMTm1sa2FLR3ljODlJOFFMc2YzOTFVUTllQ05xVnJtY3pEMDZnbHZCOWpqcmlCYjJZalVJSzFsMnhPNmxEWnFmQVFON1d2QWM2Mi1xeFhqczQ2b2pqYVpvaWkxNzZWSVh2eElOX3NRUjdkam9SS3c?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1781299439794-2",
-      "title": "Oracle Q4 FY 2026: AI Workloads Accelerate Cloud and Database Growth - The Futurum Group",
-      "excerpt": "Oracle Q4 FY 2026: AI Workloads Accelerate Cloud and Database Growth  The Futurum Group",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanctcVptN3pROEo4Q1ZkYlk5QzRNN3FXZThkMXJVWVhVbW9GNWpuUUxRRGJMZ0RYZ0RzMGxMUVgxWjRsYVdSUGZzSU42OWlkYTA3LTZnM2U2UldCeEdIcGVFZk55bkxnWi0wU3h4NmJYeUhfQWp1a0xqT3l3UjBrb3I5WU0yM2FXdEFQX20wLV8zb05qcTFfbzFjZzNjUVRBZkhPdA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1781299439794-3",
-      "title": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To Predict - The Next Platform",
-      "excerpt": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To Predict  The Next Platform",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTRrVERTdmJJTVdWb1Q1bVVyc3l0ZUVJakx3N01WZjJpVk5hdG00TllFWTI3bEhFTEU4T3QwTWpGa0U1eHI3a0xxZzJTNjlnZ2tUdmhBeHl2Q0IzSHY1SjdFOTNUS0tibi10Vm9iMUlITUFWZmYzY193c0lGeG04bEZpaWd3aC1BTkRKRlRJMXIzdTBCWl9EQWZ2UkVXbVAyczdtUXZJQXRPb1Azc3pHdU9fTDdkOGxkLVJVbUM3LTc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1781299439794-4",
-      "title": "TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata - Tata Consultancy Services",
-      "excerpt": "TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata  Tata Consultancy Services",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkJKTU5CY3JFSklPdHUtMlJrSGViNEVpZk52SGRNaUVVc005NmZIRzRiamVfQU1JVllqbzRDRzh4UmRxQnF3bnRkNFBDVlVfVU9PUW55UXlPWllRTDI4RkY5Z2VSQ0RIWm82RXRYSE1DcDlacWhPVmpDcWxIdm1Dd09pcGwxOFVkbWJ1S1JRQXowLTdMcFNJVkdudjk5YlJRU0dFRll0YVpJalJidnh4Z1R5TzZldXZPTWlRNTBYbC02NVk5UXJWRzkzcnJ5N1UyN2twcVFR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1781470847410-2",
-      "title": "Microsoft Build recap – enabling developers to build AI apps grounded in secure, governed data - Oracle Blogs",
-      "excerpt": "Microsoft Build recap – enabling developers to build AI apps grounded in secure, governed data  Oracle Blogs",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRWN0QzBzOWp4MGpRWDR5aFhZc0VFR1ZBcWxiOGUwOGZPUThkMjZFYXRXR1JHZjItQkI0UTJIWjZCbGxDcWZfMHlMVmFFTkpWSG1HdjliMWtTNHVuOXlHZWtNQm5HZ2Y4SXRZQmVLT2d0QmlRZHc?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
@@ -907,7 +899,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783888511711-1",
+      "id": "ko-1783975765072-1",
       "title": "오라클(ORCL), 국방 AI 클라우드 파트너십과 전용 생태계 확대에 나서다 - simplywall.st",
       "excerpt": "오라클(ORCL), 국방 AI 클라우드 파트너십과 전용 생태계 확대에 나서다  simplywall.st",
       "date": "2026-07-10",
@@ -915,7 +907,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783888511711-2",
+      "id": "ko-1783975765072-2",
       "title": "AI 시대 DB 주도권 흔들리자… 오라클, 마이SQL 문턱 낮췄다 - 천지일보",
       "excerpt": "AI 시대 DB 주도권 흔들리자… 오라클, 마이SQL 문턱 낮췄다  천지일보",
       "date": "2026-07-08",
@@ -923,7 +915,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783888511711-3",
+      "id": "ko-1783975765072-3",
       "title": "AI 시대 DB 경쟁 격화…오라클, MySQL ‘개방형 거버넌스’로 속도전 - 디지털데일리",
       "excerpt": "AI 시대 DB 경쟁 격화…오라클, MySQL ‘개방형 거버넌스’로 속도전  디지털데일리",
       "date": "2026-07-08",
@@ -955,7 +947,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783888511711-5",
+      "id": "ko-1783975765072-5",
       "title": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정 - 디일렉",
       "excerpt": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정  디일렉",
       "date": "2026-07-06",
@@ -1003,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783888511711-0",
+      "id": "ko-1783975765072-0",
       "title": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정 - Oracle",
       "excerpt": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정  Oracle",
       "date": "2026-07-06",
@@ -1115,7 +1107,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1783111964464-3",
+      "id": "ko-1783975765072-4",
       "title": "[유미's 픽] 오라클 AI 인프라 확대에 비용 압박…국내 기업 고객 부담 커진다 - 지디넷코리아",
       "excerpt": "[유미's 픽] 오라클 AI 인프라 확대에 비용 압박…국내 기업 고객 부담 커진다  지디넷코리아",
       "date": "2026-06-30",
@@ -1328,14 +1320,6 @@
       "excerpt": "오라클, 400억달러 투자 부담에 급락…증권가는 \"성장 논리 유효\"  마켓인",
       "date": "2026-06-13",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYTnVKeVJKU2t3eHI4SE45R1N2QVZ0WEpzMnRIZGxaNjhuTXo4RXJvRmtGUTNoYUduZlpMZlVxOEpSUnJ5c0lGRDI1TTQzM1k4NzQxZG55ZDVIeS1hMTA5enpnUmNIRUVuNmE2aWZ3a2VJRHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1781733189835-3",
-      "title": "오라클, AI 투자 비대화에 마진 잠식 우려 속 소프트웨어 부문 부진에 보합세 - 마켓인",
-      "excerpt": "오라클, AI 투자 비대화에 마진 잠식 우려 속 소프트웨어 부문 부진에 보합세  마켓인",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UYkN4SXZHRlF2WkpwWVcyWmlFVmRIRVZfendDUE1uNzd6V1hHTXphODA0d09YLXhxbVYtY3ZYNUcxQ0phaHV0WFJrdmxYZVhmb1FiR05MX1pzbUV1NnJEdnR4dG12WWxWM1J0SUJLbDhUa0k?oc=5",
       "category": "Industry News"
     }
   ]
