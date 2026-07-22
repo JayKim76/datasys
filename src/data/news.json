@@ -1,7 +1,47 @@
 {
   "en": [
     {
-      "id": "en-1784667473189-0",
+      "id": "en-1784753725384-0",
+      "title": "Announcing Oracle Base Database Cloud@Customer - Oracle Blogs",
+      "excerpt": "Announcing Oracle Base Database Cloud@Customer  Oracle Blogs",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc01TZTd1ME40Y3J1TW9pYzBraEluenJGTC1NWmlmZGNMYzJCV1ZBdG05TWpBTFFtN01qdUJ1TFdUNGRnRnRWUmhEU1dkR0xvRU1WTFoxRkNZVXF6N3otblhzUlpHOVVLelJSeUVmczhkREpnN1pnbXlCd2RFYXJ3RlM4UWZDZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784753725384-1",
+      "title": "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle - Yahoo Finance",
+      "excerpt": "Oracle severed 21,000 employees during an AI spending spree, then hit a $7 billion Wisconsin power hurdle  Yahoo Finance",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm80OEMwY1J1Mk5LeUNzUG1ORnRHWm5NdEd0YzRtZG9xMENoMTJDcU9pRGRXc181aW5GT0R1M3FOYVFPMmhhU3RvbmpfYzJkVDEyUFhvam12Vkx0b0xNbnNlVmVfRnFaWlEzTFM5TXBxRFMtbzI3WEdILUJ5UGwtckZMckdwT3hmREVqUGZSU2lHZ0kyWE1oUlhZRQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784753725384-2",
+      "title": "Oracle expands Cloud@Customer with new database service for mid-sized workloads - cio.com",
+      "excerpt": "Oracle expands Cloud@Customer with new database service for mid-sized workloads  cio.com",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVdxdkpsUkI0X0hKNVg4dHJVby1ibDRZN1NqVVNzeXBkMEJxM0E5UDBvUC1NWnl6eW92ZWhfRU0zVHZwOUxkYjFRQ0NwZ01CWEZwTU1oNTV4QVZreC1lRzJCUDR3cWpiemN3MG5HY3pGTE1NWHF2Sld3dFp6aVlOUXpOazlvZmFYRVhKSDVnaDdCdlByWDMyaTJXckEtWTNGdnJibUhHVTl3Rklac19XRVlzYmo2MjR3VVJn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784753725384-3",
+      "title": "Analyst Perspectives on Oracle Base Database Cloud@Customer - Oracle Blogs",
+      "excerpt": "Analyst Perspectives on Oracle Base Database Cloud@Customer  Oracle Blogs",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXhReUkxU3R2Qjg1aW8wcUhkWlpPMHNBV1lMSTBVWWlrQUZQamFPVnVJN3pJSENHZ0cyX0hRQk5jaWFnTWpoSlJ1X29ZTnBoX3hPQlhVem03MlFrRmV0TFVHMmQtTlUtUEhYUW1sSzR1Q0ZwVjhoa3JFdXN6b3FXWkU0MU42V05oV25BLUd4eTFXS2hxbHRJ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784753725384-4",
+      "title": "Oracle’s Worst Stock Crash in 25 Years: Only Time Will Tell If It Can Recover from Its AI Spending Gamble - Barchart.com",
+      "excerpt": "Oracle’s Worst Stock Crash in 25 Years: Only Time Will Tell If It Can Recover from Its AI Spending Gamble  Barchart.com",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWQ5c3F6bzdObGxDZUxxOTBvZ2YxVUMyMzZncEIxVXhlS1RvOXFhNENtSzlQLUVDUVB0a2xKZGJGVDUxWXJkakNHREQtaWY2RVJta1U0RDJtYWxaTjU5czV2cnpwcGk1N29BRmZHemxpRzRhWEpXam42NldTR2NOVlNOOXFHb091cjh5cFhZUFIxMHZ3MEU1eWIxZFpuWXVVazA5ZFo1SXVQRFdBVFpUbVNCaXZxWUI2OGxvbnU3QzRrUzhURzd6YXlpYXhvcXNBcUFvVDRweWY2UVZpOW1WZA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784753725384-5",
       "title": "Nebius Explodes 16% Higher on NVIDIA Stake Stunner; CoreWeave Surges 8%, Oracle Adds 5% as AI Cloud Plays Pay Off - 24/7 Wall St.",
       "excerpt": "Nebius Explodes 16% Higher on NVIDIA Stake Stunner; CoreWeave Surges 8%, Oracle Adds 5% as AI Cloud Plays Pay Off  24/7 Wall St.",
       "date": "2026-07-21",
@@ -967,19 +1007,35 @@
       "date": "2026-06-22",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejE0cjJaU3ZkWkR6YjZrb2RjcXFndWh1WTNnblJYYkp2UFAyWVByNFFHc0ppQVZMbVY3TkdRTmRabGI1eWlxS0ZUZ2hfVjVMemxnUUtqaUM5YjZmcllnbENYWm1iZWdldGljaWdiRDRyWWJPQkxKSTZLN3ZYX0VSLWpReWJPNzN6REhVdjVzeFNlWTNwemNaanJYRkxHMW5rYmFtOGMzYUJiNElF?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1782075883963-5",
-      "title": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign? - The Motley Fool",
-      "excerpt": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign?  The Motley Fool",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdk5qazdFSll6VzVwaTNtQ2stTmRXMnFhNVB4M2tNWGw2eXpVb0tvZzZjQXg2XzFJMHJBVnYyTldXTEpxZmN3eUc5MWdvdlQwTkMxOFZFVGZnQnBhODZ6anBJdHRRd29sRVdVUndIbjJVbGw1NzZYaFVybmZGY1luMm1KM3Y4bERWaW5MUFhBaEtERnQ5dWwxMw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1784667473616-0",
+      "id": "ko-1784753725884-0",
+      "title": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항' - 서울경제TV",
+      "excerpt": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항'  서울경제TV",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nS1BiRTJkSkhmZGVsdklhNXNKN3RxeG5jTlRfXzNvbTJKSU9Qb21FUk1CdU1LYWtWci04eEdrNzZEX0lKNWpkY2YtZEhmTzFuZGdfQ1F0VVU4akJEbGRKaVdQRlc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784753725884-1",
+      "title": "오라클, AI 데이터센터에 70억달러 규모 담보 부담 - IT조선",
+      "excerpt": "오라클, AI 데이터센터에 70억달러 규모 담보 부담  IT조선",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xWFk0Z2xUbjFnaVhvdExhallMekh1OHV5Mmo1Z0VpeklZSDhjYlBVY2xITWlDbFU2Szloc3RnX3JrTUN1QlpENTJVcjlMSnk0NU4zN1I1cGFpMF92amFIanI1ZV9jVFAwdGdVTXE3MFoyM0RO0gF0QVVfeXFMT3FYWTRnbFRuMWdpWG90TGFqWUx6SHU4dXkyajVnRWl6SVlIOGNiUFVjbEhNaUNsVTZLOWhzdGdfcmtNQ3VCWkQ1MlVyOUxKeTQ1TjM3UjVwYWkwX3ZqYUhqcjVlX2NUUDB0Z1VNcTcwWjIzRE4?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784753725884-2",
+      "title": "오라클, 미토스 등 AI 활용해 역대 최대 보안 업데이트…334개 제품서 1,449건 패치 - 데일리시큐",
+      "excerpt": "오라클, 미토스 등 AI 활용해 역대 최대 보안 업데이트…334개 제품서 1,449건 패치  데일리시큐",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqejN0cWxLellJd0RIdHBIeWJ5eVFJRlhDb24tT09uVWYxX3Z3ZGFoSzVueExrbTNFLWxlVGhFazRhcXlVeW1SZ2hqbFF2UWtuMmZhQWhGTTEzcjhnTkI3Tl9aODl0M3ZmM05vaw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784753725884-3",
       "title": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' | - 연합인포맥스",
       "excerpt": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' |  연합인포맥스",
       "date": "2026-07-21",
@@ -987,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784667473616-1",
+      "id": "ko-1784753725884-5",
       "title": "[위클리AI] 구글·오라클, 기능 고도화에 집중···앤트로픽은 교육 시장 진출 - 동아일보",
       "excerpt": "[위클리AI] 구글·오라클, 기능 고도화에 집중···앤트로픽은 교육 시장 진출  동아일보",
       "date": "2026-07-21",
@@ -1056,6 +1112,14 @@
       "excerpt": "오라클, 'AI 네이티브 빌더 환경' 추가…에이전틱 앱 구축∙운영 지원  아이티비즈",
       "date": "2026-07-16",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94ZUdnTG5mZlFoN3lHN25pNzBZVXpSaW5USlNDVE5vejh1eTViZVBBQUhsRllEY0hNdW9DNjFyQkpiRWkxX3FPd0ZzWEhlRlpNLWdqU2NIMHhNMkZFMDliN3lveERZLUU?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784753725884-4",
+      "title": "오라클, AI 네이티브 빌더 환경 공개… 오라클 퓨전 애플리케이션 내에서 에이전틱 애플리케이션 개발 및 실행 지원 - Oracle",
+      "excerpt": "오라클, AI 네이티브 빌더 환경 공개… 오라클 퓨전 애플리케이션 내에서 에이전틱 애플리케이션 개발 및 실행 지원  Oracle",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1p2TFo0UEhNY3RSWER3UEh2QzJOTkJKX2VBZmEycVp1eWlRLW9oSDh0dnNXTnF0VzYxcC12OE9jY19hci1iMFlaWktWS1BCM2Y2RjZ2cF9qVnpqdEs1RXF6V0ppU2FYWElWNzJxS3pVUUZEZk91aWE2SUV1dnA2TGNRcmlIdWFteWRxZHdRX3VmaEpHVEFia0ZWNU9xMC1xOThlag?oc=5",
       "category": "Industry News"
     },
     {
@@ -1488,14 +1552,6 @@
       "excerpt": "오라클, 1년새 2만1000명 감원…\"일부는 AI로 대체\"  이데일리",
       "date": "2026-06-22",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTA1Sl9VUHBYTUtXZlZrcGwxTVlaZGxaQ0hyRG9WNDZjMU5NSl9IbXdRb180bzdvOTBWa0xiQlUtalp1Q1E0TjNLX1ZtTGpzdXhYVFdGeGpNMVBtRGMyWldQZWJUdGpSRGFDZUFlVGNTRUtYY1N4dVBQNmo5WXpDUw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782165319540-5",
-      "title": "오라클, ERP·EPM 클라우드에 스마트 AI 적용 - 아이뉴스24",
-      "excerpt": "오라클, ERP·EPM 클라우드에 스마트 AI 적용  아이뉴스24",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TMEZmemhDU0ZKQkFEOXV1cVI5Wmd6blptdUxoUG9JS3pjZ0hWaWNScG5CWnBoR3g2UVBDYzljR2RMNXRFSmF2anRva3BjWl84VEozTHVR?oc=5",
       "category": "Industry News"
     }
   ]
