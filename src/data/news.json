@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1784839888117-0",
+      "title": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35% - Oracle Blogs",
+      "excerpt": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35%  Oracle Blogs",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUZDc1M3OV9NbFdnY0V6LUtLU1dIUkQ3THFzeTRMWFI4bVBobDdYZFdldTRrVW5ueUU2MjByS3ZmOEM5RHZaR3NHQ1RZeUVCcTc1WU9ubjRBYUZkOGE0eXE5YTQwa3lrWXBEeHFVR3B0ZkJySTZFWkpCS0ZLOHFoUjBpRWE5N3ZxOEkxT1c1dWNXWW9jWVlyMldaVQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784839888117-1",
+      "title": "New Oracle AI database targets cost, data residency concerns - TechTarget",
+      "excerpt": "New Oracle AI database targets cost, data residency concerns  TechTarget",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWhOWlpFSm02MHV0TldubE0xLXNaakU4TU5yaDlDYWxVcEx1THk0NTNJbkVZZnY3U2NqTEltbDBFWlVDcmtnbklaUVQwcWJLLWVZeXp4UERaeHFCVTJ2cWlIcnJtaDhvT2hfaGJGZWswcDYyTXR2T2tjNXUtdVpnd0xCS0RZX1ZNajlmZlByUUFicU1haHJWbUNEaUlLa1dCREJhQkJyUTRsN0tlRVYxQjhXTlZvMEdsMXc0cFB5cw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784839888117-2",
+      "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
+      "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnNxMjFJeHUyM3hUZWttY2xvMm0yeDc5bl9XLXU4T3ZmeGI1M2tMUDIwcC1SaUFlQ2lCMGdJbHBDUFo0VWREdlQwcDRXRDFob1pfdDNueFVKTEI0S09pTnZVY25oOTFXMXZkRkU3NzlZSktRZDl0UDlpNU4xc3B6dVJEY2xZZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784839888117-3",
+      "title": "Oracle drops 1,449 security patches like it's the new normal - The Register",
+      "excerpt": "Oracle drops 1,449 security patches like it's the new normal  The Register",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHNJdm5VME9mTUFrY29DbGprVHEyY3hWY25NU3Jzc2pBYTJOQWdEZTFGNkxvb2VGZHdEMF9CdVRvNVMzWEM1YzFlclctNUtRX0xSMWRwTnRhQjhwLXRZcHdpUVREMGx1TUlMaERrWWRTa3otYkdPWjBScWFFaWVpTTRUcHk3Y3h0Z3RyejctbkdTeDdxc3pIcDQwLWVIMzdLd2JaYmx6SHFuOGV5eE8tdGpONDA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784839888117-4",
+      "title": "Oracle cloud hybrid-cloud service delivers databases across distributed footprint - SDxCentral",
+      "excerpt": "Oracle cloud hybrid-cloud service delivers databases across distributed footprint  SDxCentral",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3JVZVRKejdYMTg2M3RkcXB0VG9INlUwQWNCdXFscHFfVTdEOHZLcWNLenhkRDhPeURFMl9JYnZIX2JUeHlaS0FMV1dXbm1FcTA4ZXdHcHZLbnFjUnB5QUhlQndsUG9aZ1pVcy03cFpVaFo4MkJMbldSX19OU0FHRUxOM0pSSWU4blFBQnEwVk1xNnlkanlMOS1LQjYzSTZwaTA3c3NFenViMlFTSU5tanBDUVo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784839888117-5",
+      "title": "How Oracle Can Make The Right Call On AI Demand And Still Lose (NYSE:ORCL) - Seeking Alpha",
+      "excerpt": "How Oracle Can Make The Right Call On AI Demand And Still Lose (NYSE:ORCL)  Seeking Alpha",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTTNzMldfdHZ3RkRMVUdTMHVJZjNFam9Jck5yVmNUNzJFbmhEekxCWTF3NU5fVUdiZVF1Ry1qYTlOb250OERNTHgxNTc4MUxDaUhWQS1admhIUi1rbTRPS1lyMzAzSUxDVTJLSnNCUnREbHFxYmdvLUNYaHBQcGlCVGxBVEpQMU5KS0FqRHQ2VjEtdlk2NXUtN05MSQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1784753725384-0",
       "title": "Announcing Oracle Base Database Cloud@Customer - Oracle Blogs",
       "excerpt": "Announcing Oracle Base Database Cloud@Customer  Oracle Blogs",
@@ -951,67 +999,19 @@
       "date": "2026-06-23",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkVZZmNNREs3dXBfaDloMXdIMXFDb3J5SlpxUnY4S1RjX2haWUNpeE0tQTdraGJpN1h4VEhyRURpZkJWYjZLZ0ZFVlBIUTNsQVhVTFZOc3JDVldjTV92Qkd2VFl4TG9jREFMdWU3OG14RFoxWUZDckJCM2hFenJ4WDFyblRrcnJCajFqMmI5V3c2bndBSjNDUjhRMEtBb2xxUktPMGN1Ym50eDZnU0ljMkpiZDd1WHZHaldyS3JtR000dw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319037-0",
-      "title": "Oracle AI Database@AWS Now Available in Spain - Oracle",
-      "excerpt": "Oracle AI Database@AWS Now Available in Spain  Oracle",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmtpLWQwM1NFVnp1TG1laGw2U0xNY2lnMGhmbXdWM1hWRGRoMF9GVE13TkVxbFNkNF9yYmgzYnYzZXFObm1Jemx0cndPNzFTMVVfc1MzRnhUa2Jab0NRTF9hWU1VMGNwbHJ4c0ZvT05wdFBCTWpZMHk2dEQzYUFHdTNrWU1TMHZMc1lhUVotTlZmeW1meTZ2YVBvdmdWTWNzbkI4?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319038-1",
-      "title": "Oracle (ORCL) highlights cloud growth, AI focus and R&D surge in 2026 report - Stock Titan",
-      "excerpt": "Oracle (ORCL) highlights cloud growth, AI focus and R&D surge in 2026 report  Stock Titan",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnZESnBaUEs5eWJNcS13bTZ4d2tZS1NmY3FJQUhOSUxhQVFtM3dPN3FOXzEtVzJjd1NYY3ZoVVIzaG9UWmxmaFFRNGtfMkFnbVYwNXByaTlyYTJicDRQMXhfQXpNNk9ZM1QyWVhoRURQXzB2LU1CYm5IQUhVdlFtM1BVamVfWFppVk1IUjN2aC1zUm85V2dqRjl5d2FrYUU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319038-2",
-      "title": "As it cuts employees, Baystate Health expands AI-powered work with Oracle Health - MassLive",
-      "excerpt": "As it cuts employees, Baystate Health expands AI-powered work with Oracle Health  MassLive",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDJQbzlzM3AtbkZUZVNRbGlVbkdWdFM3eWVKc1Fkb1VKV1M1VnBleEJ1czdQakl4dHFfT0l6cFJwMlhBQXZYNl8tS0VvYXkyelc4Q0xJX1hndzN5dGk0alR0aDVTSk9RSVJ0ZWV5Rk5QMW02M0pKQ1lwQzQxYUxuWk45RjhZQ05zYVhIMlRDemtHNG9LWVVLYzRZUjlXdlFwSjRLZ2U5dkc3MlIzT2tLekp4d2ZXT09nUlRMTlo3OE1NQkNqOWNBZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319038-3",
-      "title": "Get more from AI Agent Studio with Content Intelligence - Oracle Blogs",
-      "excerpt": "Get more from AI Agent Studio with Content Intelligence  Oracle Blogs",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGUzZk5lZUhTalBtU1c5ekxRREFoLWJjNlUydzNXVWVBcm82bXZvV2pHMWFfNTI3RWRpcHpWdFJiMTJqaGdSdXR3WjhHRVhyTVNhbnFFTWFaa183MGxFUUxtYlBCZGJkWV91OUdxQllDZl9kTEF2dTF5TUx2X2Yyak16bU9nYV9YY1djZzBLUzV0NWtMWUJjSW1B?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319038-4",
-      "title": "Oracle vs. Penguin Solutions: Which AI Data Center Stock Is a Buy? - TradingView",
-      "excerpt": "Oracle vs. Penguin Solutions: Which AI Data Center Stock Is a Buy?  TradingView",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNpa2x1QWg5LVZxeDhSM203bHpCM2lWWWhVQUEtVG5vak1QSHQ3dnJsRWt1UjIxcGpUR3Z3Q1V5U2poQkNvMnhGRHdFc1hvemtOUTAyRzR0TkwxQlVkNHlPWkZseEEycE1TY29jenc5aWlBSWVFdFJOblp4eE5sUEMwWHExbXE2SlhDWERIUTgxSHVZcUVkN2t3NklKZGRDNmFRU1kyV2NlVFl6Y3Zwd2c2UGVhX3gwMXQ0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782165319038-5",
-      "title": "Can Oracle Reach $800 Per Share by 2030? Here’s How It Can Happen - 24/7 Wall St.",
-      "excerpt": "Can Oracle Reach $800 Per Share by 2030? Here’s How It Can Happen  24/7 Wall St.",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWRlSWs0ek1UVXd5Y1VqYjYwQmJvbDBFS1hzUVZjZE5RQWVXOE5YSmhYaGZ0M3VZenAxZEZqVTBWdDhOTXlMOGUwMGRMSFRmbUhVSXFfaC1yMHpzLS1OZExqU0V0cHJkM1gtR1JyZWJJNktkU2dMV1phMHdaYWI0cU9Qd0tiTlQ2R2ZwekhYTV9xYTg3aVllS3Nid2NJWHF6SGw1Nk9TMDU2UQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783284425666-5",
-      "title": "Oracle Agentic AI Foundations: Get skilled for the Agentic AI Era - Oracle Blogs",
-      "excerpt": "Oracle Agentic AI Foundations: Get skilled for the Agentic AI Era  Oracle Blogs",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejE0cjJaU3ZkWkR6YjZrb2RjcXFndWh1WTNnblJYYkp2UFAyWVByNFFHc0ppQVZMbVY3TkdRTmRabGI1eWlxS0ZUZ2hfVjVMemxnUUtqaUM5YjZmcllnbENYWm1iZWdldGljaWdiRDRyWWJPQkxKSTZLN3ZYX0VSLWpReWJPNzN6REhVdjVzeFNlWTNwemNaanJYRkxHMW5rYmFtOGMzYUJiNElF?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1784753725884-0",
+      "id": "ko-1784839888594-3",
+      "title": "\"수익은 나중, 비용은 지금\" 공격적 AI 인프라 베팅 나선 오라클, 재무·신용 압박 속 담보 부담까지 떠안아 - The Economy Korea",
+      "excerpt": "\"수익은 나중, 비용은 지금\" 공격적 AI 인프라 베팅 나선 오라클, 재무·신용 압박 속 담보 부담까지 떠안아  The Economy Korea",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVVNXejBIeGxrMGdMVTZoZ25wQVIxQXl0N2RKdWFhV1Vsa0pnV2FDenZjalZmdGEtbnBYWVBVMHJXdlE1ZHNIR003RTZwdXBrTndPM0duaEJGN28?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784839888594-0",
       "title": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항' - 서울경제TV",
       "excerpt": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항'  서울경제TV",
       "date": "2026-07-22",
@@ -1019,7 +1019,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784753725884-1",
+      "id": "ko-1784839888594-4",
       "title": "오라클, AI 데이터센터에 70억달러 규모 담보 부담 - IT조선",
       "excerpt": "오라클, AI 데이터센터에 70억달러 규모 담보 부담  IT조선",
       "date": "2026-07-22",
@@ -1035,6 +1035,14 @@
       "category": "Industry News"
     },
     {
+      "id": "ko-1784839888594-1",
+      "title": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼` - 디지털데일리",
+      "excerpt": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼`  디지털데일리",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54bEhDdzVPcTB2WE5jeU05UGo4TDc4SDU0WUNwS2Rqc2gwblRsQWMzZmxmdmJiT29zQUhIV3Y3SmhLUjBQcWtJSVh3VlQzVzV5cVc0eXY1d2xWelJQeHp0TUhB?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "ko-1784753725884-3",
       "title": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' | - 연합인포맥스",
       "excerpt": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' |  연합인포맥스",
@@ -1043,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784753725884-5",
+      "id": "ko-1784839888594-5",
       "title": "[위클리AI] 구글·오라클, 기능 고도화에 집중···앤트로픽은 교육 시장 진출 - 동아일보",
       "excerpt": "[위클리AI] 구글·오라클, 기능 고도화에 집중···앤트로픽은 교육 시장 진출  동아일보",
       "date": "2026-07-21",
@@ -1056,6 +1064,14 @@
       "excerpt": "커지는 AI 투자 불안감…‘풍향계’ 오라클 신용위험 역대 최고  서울경제",
       "date": "2026-07-21",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sbFVRWkxOX0kzQm9aQUFnRXpVaUtlLU9yWjNJR09EZV95NHNMVmZWNGV0UGNPVTg0Y1BzeWw5dDhqZURBYm1CZ0N6ZVBkaHgxVFHSAVNBVV95cUxQQXdLZk5PdXNFWWhkcV8zTUZLVjYzSWswX19SZ0Q4ZDVjS2Q4NWFxQnhTVFktX2gwNkV0bkZOMVEyOUdMN3NYaWJyY05xWndvMXQ4bw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784839888594-2",
+      "title": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' - 연합인포맥스",
+      "excerpt": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유'  연합인포맥스",
+      "date": "2026-07-21",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAteDQ3ZkoyM1poaXBwTkk5VlRkZEIyUTVXNHpaeHN1RVhrSnFBbEhMM3NMWkJTbG9SOUNGUzJ6YUNKTlFMQnFTZjA5UjRoV1pCdjh4eXRFZDhFa1VSbnB2WVpPYnVpY2J2VlRuZUFQQ0Q?oc=5",
       "category": "Industry News"
     },
     {
@@ -1504,54 +1520,6 @@
       "excerpt": "오라클, 주가 5% 하락…AI 투자 속 2만1000명 감원  글로벌이코노믹",
       "date": "2026-06-23",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN01CNXhsS29LSTdhS0RUUGVaWXFENllWcmVzT3Uzanh6d0NHY3l2NDktZlE2M0ZFNEJmUG5UUVZpSENrcVhNbXRyZnQxWW9VTGZGMkpiZHdzajh6U1FycXNRWkNsM0pvMUNmLVVrWUZPeG9oODU1ejBFUDdwcnFwY3VVemVKeUo0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782508319556-5",
-      "title": "요기요, 오라클과 AI 기반 배달 서비스 혁신 아이디어 발굴 - 물류신문",
-      "excerpt": "요기요, 오라클과 AI 기반 배달 서비스 혁신 아이디어 발굴  물류신문",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sS3JoMDJ0WGJxTjlyMjg0UDdNRmYxc19mN0R0U0RETUpqLVRJZXhfNUd6ZXpDRUlLajJIUm5IWF9Tck5ubHlJUTV1RW1lNlozcWVMeE9WdC04M052VFhOZ0drS21tZGxacG1F?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782165319540-1",
-      "title": "요기요, 오라클과 미래 배달 AI 아이디어 발굴 - v.daum.net",
-      "excerpt": "요기요, 오라클과 미래 배달 AI 아이디어 발굴  v.daum.net",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54QmxJVEtJVHBDZUdmeDdGT2M0MXY0aTF2YXVicXMwdTJFcmF1N3l5QlRlS0tiTXhIdmJlSG42c1I2S3pCRGlNY1FJLW4za3M?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782165319540-2",
-      "title": "요기요, 오라클 손잡고 AI 인재 찾기…서비스 혁신 아이디어 공모 - 디지털데일리",
-      "excerpt": "요기요, 오라클 손잡고 AI 인재 찾기…서비스 혁신 아이디어 공모  디지털데일리",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORmVYeWprWEtQYi1JLTRnUWlTblRnY3B4eWVUR214SHd4NlBxU2xkYWc5ZDNrQ2FpYTM5c0RyN21JN1Btd2pVUWxrNFN5eUJZakdQWDY2MmlSdS1TNG9uVW01eWw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782165319540-3",
-      "title": "요기요, 오라클과 AI 해커톤 개최…미래 배달앱 직접 만든다 - 전자신문",
-      "excerpt": "요기요, 오라클과 AI 해커톤 개최…미래 배달앱 직접 만든다  전자신문",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01LWdtOTZLNWxtOUk4ZVV6dkZMSHJNX1RuWk8xQkRaVExCWlJlRHlTSjFCR1ptZjgxX2hBOWFTMEtfSUFMYTRQYmZhSjdlQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782165319540-4",
-      "title": "요기요-오라클, AI 해커톤 개최…실전 적용 AI 아이디어 발굴 - 인더뉴스",
-      "excerpt": "요기요-오라클, AI 해커톤 개최…실전 적용 AI 아이디어 발굴  인더뉴스",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KM1c2d2ZKMkJOX2ZoYVRsUE5iSTBRMVBvXzdFR19oU3FaT3VlU05VWTJSQTB3aEhIeTlIMHAtaVJMMVhPM1RtMWRJdFpxdzRLa05oTDFWeDdpaXdLWjV4T19hNzc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782249839111-5",
-      "title": "오라클, 1년새 2만1000명 감원…\"일부는 AI로 대체\" - 이데일리",
-      "excerpt": "오라클, 1년새 2만1000명 감원…\"일부는 AI로 대체\"  이데일리",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTA1Sl9VUHBYTUtXZlZrcGwxTVlaZGxaQ0hyRG9WNDZjMU5NSl9IbXdRb180bzdvOTBWa0xiQlUtalp1Q1E0TjNLX1ZtTGpzdXhYVFdGeGpNMVBtRGMyWldQZWJUdGpSRGFDZUFlVGNTRUtYY1N4dVBQNmo5WXpDUw?oc=5",
       "category": "Industry News"
     }
   ]
