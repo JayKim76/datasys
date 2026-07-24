@@ -1,6 +1,46 @@
 {
   "en": [
     {
+      "id": "en-1784926508610-3",
+      "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
+      "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnNxMjFJeHUyM3hUZWttY2xvMm0yeDc5bl9XLXU4T3ZmeGI1M2tMUDIwcC1SaUFlQ2lCMGdJbHBDUFo0VWREdlQwcDRXRDFob1pfdDNueFVKTEI0S09pTnZVY25oOTFXMXZkRkU3NzlZSktRZDl0UDlpNU4xc3B6dVJEY2xZZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784926508610-0",
+      "title": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data - Forbes",
+      "excerpt": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data  Forbes",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkh1cUk3czdPd2x5Mm95QktHRnBMSnZzRlpiSjl3UFBySzZFWkdHNTIxT0Q0bWxGYUFGWFEtWFFxaUpOLUlUcnlNay1XaVlJSmFsQ2paWXhFbXlkOTNIVFRIMHNJckJsLWwzNDlLMlBZR0oteG1maWs1ZWFoX1JPZk5NS2JiWEJmNF9YTG9QUHBfYVlrdkNwdTVWaUZpOFBQMFpjMC0wdktBQm1XOWJia1R5M1ptcm1GYnlwV3V0Yw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784926508610-1",
+      "title": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads - The Futurum Group",
+      "excerpt": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads  The Futurum Group",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjFRSGRWLUFNZ01ZNFIzWjA2bDA3U2JsQjNQSFE5UnB3YnhNRmRYU3IwbVIxYXFiYUZYWHNWeFdpTzYyeHprU3E0bXoyaldCRHBLeHUyaEhuaGFsWTI4cTJDdlItbllxMjFpbGhnci1FUDRyS1VGSVJId2thRnhuWk9EMFQtbjQyZjBrS0xvYWJEUS05UlFmYmsyU0ZjMEJfc09jYkZlWUNyTWZGYk9JRkxER2pZZ0x6ZW44Nlp3ajJRZGNPcm52MFB5c2E2MUtCZnNpNjVLVl8yTjRkdUE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784926508610-2",
+      "title": "Vector Search for AI Memory: SQL, JSON Metadata, and Governance - Oracle Blogs",
+      "excerpt": "Vector Search for AI Memory: SQL, JSON Metadata, and Governance  Oracle Blogs",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdld4bmU3cEN0a0tKTERCWE1JZUR3eDlaUmU4UHZ1emdFdHFaWjlZd0JGRllScmJzS1dtRDNkQk04clBFa2xyaC0zaWhQVm56bUpIY2xkX1V2UDREaEMycjdxdU84UnI0bXRJVllydkRFckNJb1ZqaGNNdWZKcENGV1YycUNzbDllcU5lZ0ZFUC1fRlNYbWFGVEJtZFg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1784926508610-4",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+      "excerpt": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others  CNBC",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1784839888117-0",
       "title": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35% - Oracle Blogs",
       "excerpt": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35%  Oracle Blogs",
@@ -9,19 +49,11 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1784839888117-1",
+      "id": "en-1784926508610-5",
       "title": "New Oracle AI database targets cost, data residency concerns - TechTarget",
       "excerpt": "New Oracle AI database targets cost, data residency concerns  TechTarget",
       "date": "2026-07-23",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWhOWlpFSm02MHV0TldubE0xLXNaakU4TU5yaDlDYWxVcEx1THk0NTNJbkVZZnY3U2NqTEltbDBFWlVDcmtnbklaUVQwcWJLLWVZeXp4UERaeHFCVTJ2cWlIcnJtaDhvT2hfaGJGZWswcDYyTXR2T2tjNXUtdVpnd0xCS0RZX1ZNajlmZlByUUFicU1haHJWbUNEaUlLa1dCREJhQkJyUTRsN0tlRVYxQjhXTlZvMEdsMXc0cFB5cw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784839888117-2",
-      "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
-      "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnNxMjFJeHUyM3hUZWttY2xvMm0yeDc5bl9XLXU4T3ZmeGI1M2tMUDIwcC1SaUFlQ2lCMGdJbHBDUFo0VWREdlQwcDRXRDFob1pfdDNueFVKTEI0S09pTnZVY25oOTFXMXZkRkU3NzlZSktRZDl0UDlpNU4xc3B6dVJEY2xZZw?oc=5",
       "category": "Industry News"
     },
     {
@@ -951,57 +983,25 @@
       "date": "2026-06-24",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUllIam1nd3hzM1V6WDAtdnVoQ0l2cUhMSkI0MC02LUJvbTRIeWNCVFExeDQ2TjEwYUEyWXlIUEFfQkctUldoUHU2eWJIYTZVSlNoTzdYTi02aElwd2p6TWRkZnFSNzR6Q3dCXzJfUWlmWkxBQUwyTjExdjk0MFFRLWJrVDUwRjhXMzhpc3U3aGl4ZFJwN1lSNm5n?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1782767808600-4",
-      "title": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI - WSJ",
-      "excerpt": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI  WSJ",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0JFTG9SOEstT0NWbUQwd3BkTmJXQ2FWNjQ3ZGdzQmFXZVU4QnNmX2NuUC1HRkM3VlU2R3k5Sm9mc1BBeDZiNkJwVFdicDdfUjFLQlJuRjhVMzdrd2dodVQ1Nm9rRTExNjVWU0tYLVVOQ0xzRlRyWjlKTzlqVThXZ2ppaXJ3WUxjUWI4TGZoYUxHcWFKbkxIZXFmb0dHSU8wRW9j?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782679914151-4",
-      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC",
-      "excerpt": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants  CNBC",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZkFBanpNc1VYRWlEZ0ZIaHNyTV9NTzNtZTF6a2FIUGRXRVJ0dTkyNW1GV09XV2tlLXFabU1MLVhnZi1WeXhnbGFhelA0RXJoQmdXcU0xWVpKUXpNdEFfSjk5NktMZFJyZkMxd0lIa09aaVE5TVZWZtIBfkFVX3lxTE91LWZXY0xSeDUzYWh3SFpvWnJqdG1PWXVTNHdLeERReU1SZ0xfZTQ1Q29EeGVSNlJQZUFCMnR2bG1GLV9lUkROR0R1VmVqaXZvOFRsLUNzcS1IS1dFM2RYX3pqdlppN1c4bHNIV281NXpvRU9ZWEc0Q3ZyVmJ3Zw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782679914151-2",
-      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI - BBC",
-      "excerpt": "Tech giant Oracle cuts 21,000 jobs as it embraces AI  BBC",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bGZkSGwwVWhyc1FQWlV2a25oQ1I1Q2FNdHJtd0xQUGxRQUJFVFQ0U0FvQnhCaVRac3I0cDRxRnVDWm93cUZUNnRBNkRfUGx1RnhjcnEtUW8yQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782249838701-4",
-      "title": "Did Oracle Need To Fire 21,000 Because It Is In Trouble? - Yahoo Finance",
-      "excerpt": "Did Oracle Need To Fire 21,000 Because It Is In Trouble?  Yahoo Finance",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0JFTGN6UXkwT01XWnNvdlVDdElUWTM0UGhrUXVKSFlFSk82Z1hhSFFMUU1HSG5SdFZnby1TVGhubFFNSEZiSE14UGRpby1LeGhKUS1faW1xbkhVYWZocW1tQTUxaGpVQ1VfVlJXQlYtaXRDR0sxclU1bFJfRkk2U0NpWFhlb2tWWldtVmZwQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782249838701-5",
-      "title": "Oracle cuts 21,000 jobs as AI reshapes tech workforce - hcamag.com",
-      "excerpt": "Oracle cuts 21,000 jobs as AI reshapes tech workforce  hcamag.com",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0gyU0xmb0JoOWR2aWFObWFqVVgxQWZSLVZaR2FveVVIbERNQnRBaHk0Wm1yeldLanIzdkhZaDNCcnl6aHpMWEpyNWVacUZFUHZMd3FmeWpZUkNYTXVXak1tZm1FU2Vzd29mWTM0M1ptWEVRdEZTd0hsTGFqc253QnBWWGpkdkN4UFlFU3MzYm4tSGxRUmdiR0FlVWhOWGlZQ000aDZxVTNkTHVwTWZkY1ZDY2pPQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782679914151-0",
-      "title": "Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database - Oracle Blogs",
-      "excerpt": "Oracle Data Science Agent: Conversational Machine Learning in Autonomous AI Database  Oracle Blogs",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkVZZmNNREs3dXBfaDloMXdIMXFDb3J5SlpxUnY4S1RjX2haWUNpeE0tQTdraGJpN1h4VEhyRURpZkJWYjZLZ0ZFVlBIUTNsQVhVTFZOc3JDVldjTV92Qkd2VFl4TG9jREFMdWU3OG14RFoxWUZDckJCM2hFenJ4WDFyblRrcnJCajFqMmI5V3c2bndBSjNDUjhRMEtBb2xxUktPMGN1Ym50eDZnU0ljMkpiZDd1WHZHaldyS3JtR000dw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1784926509024-0",
+      "title": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다 - 인공지능신문",
+      "excerpt": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다  인공지능신문",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PODdmWmVfTXZQZ29tOXNIS2xianB5MDZXMURFUXNPc2ZBVWg0djRoSHAzTkU5eks5cEF1a3V3R01Fdk9YYkVPT0lMRVl1Qlp1bU5XdUtaa1NOQ09GalJ4S2RPeHhaU0k?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1784926509024-1",
+      "title": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까 - 지디넷코리아",
+      "excerpt": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까  지디넷코리아",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdFp1c3pqNmFuTm1uM1pPaEtzZ0hjSm11MnpOV1hkbVZjNTRqX01VQkpZSUFTUFlsb0JicnhaVWFJLTliVGVPeFRkWVJINWVaODRqQ09n?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1784839888594-3",
       "title": "\"수익은 나중, 비용은 지금\" 공격적 AI 인프라 베팅 나선 오라클, 재무·신용 압박 속 담보 부담까지 떠안아 - The Economy Korea",
@@ -1011,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784839888594-0",
+      "id": "ko-1784926509024-2",
       "title": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항' - 서울경제TV",
       "excerpt": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항'  서울경제TV",
       "date": "2026-07-22",
@@ -1019,7 +1019,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784839888594-4",
+      "id": "ko-1784926509024-4",
       "title": "오라클, AI 데이터센터에 70억달러 규모 담보 부담 - IT조선",
       "excerpt": "오라클, AI 데이터센터에 70억달러 규모 담보 부담  IT조선",
       "date": "2026-07-22",
@@ -1035,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784839888594-1",
+      "id": "ko-1784926509024-3",
       "title": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼` - 디지털데일리",
       "excerpt": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼`  디지털데일리",
       "date": "2026-07-22",
@@ -1067,7 +1067,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784839888594-2",
+      "id": "ko-1784926509024-5",
       "title": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' - 연합인포맥스",
       "excerpt": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유'  연합인포맥스",
       "date": "2026-07-21",
@@ -1472,54 +1472,6 @@
       "excerpt": "美 빅테크 기업들, AI 투자 확대 속 감원 지속  헬로티",
       "date": "2026-06-24",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBud3RwMW9ZcE1MR1NYRXk4RU9pdXFrMEFkUGh0bmJta28yN3dkOVhYN09Qb0s1ZXJNNVNlSFdaUWR0a1N1dDJ0TmJ4OElBN3ZEQWFOLWVxVnpiX0xiSU5V?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782767809142-5",
-      "title": "오라클, AI 전환 속 2만1000명 감원 - 블로터",
-      "excerpt": "오라클, AI 전환 속 2만1000명 감원  블로터",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZWxBRmV6R0Y1LUNvOWNDMGs2OEJwZkVuWl9DRUpSUHZGLUYwdlRjWWZQOUZoeXF1aE4xUHZMOWJGdUJCZExPR293ek9CREhibEppTE56anAyYnMzdkJTeEQyUFNHOTZP0gFsQVVfeXFMT1NsMGJmbnFTMEFkYnZ1SEZaZmZnZVhyQ1EtQWRiWEUyYjJqXzBfejdCdVJhdUk3NUZBcVpMYXBEWFJHUHBkNm9haXd3aWRkYW9QQ2wzUUFMR2xBaWV4UzZpa2xMNmktaTIyVTA5?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782679914535-2",
-      "title": "오라클, AI 전환 속 1년 새 2만1000명 감원… 인력 13% 축소 - 조선비즈 - Chosunbiz",
-      "excerpt": "오라클, AI 전환 속 1년 새 2만1000명 감원… 인력 13% 축소 - 조선비즈  Chosunbiz",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWgxVmVfUHBfeVVWVThZNFRvX1dLQU1LUmFJUzh6cURoWUgyNmtFbFVFUlVZdUNMUFQ3bVh3My1XZGwxakV2ajJVUkYyZTRlRzRRdTliNmEzRG1kQnJid1ZTREM5b2ZKWkVrekctdWJTNnVLalRYSENvaldxQ0hxcEdB0gGWAUFVX3lxTE5mWk5laEtkZUYxSlBaajdWdFpnb05RdEwydXhNQ0x6aFlhTHRKemVaMS12VWJzWjVlb0NzYUZTS2w0WDBzckpqM0prRFlIVENkY25FLXg4YTBjaUllemloT0g0MFBFeGt3aFJnUWgtckNDWXYxYkkta3RyOXZWUEFRWWk5aGc1OEQ2RENpUDlCbUxrc2NtUQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782767809142-4",
-      "title": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는? - v.daum.net",
-      "excerpt": "오라클, 'AI 직격탄'에 2만 명 감원…다른 IT 업체는?  v.daum.net",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HcmFRRFhfRWJmYTFCcUNEZ1VneFlRajNGUFhPYTFIVEZnNUpsMldINDNJY1BPSGpVMzk2R1d0bnJIRXdlSmJzYmd5OThlVEE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782249839111-4",
-      "title": "오라클, 1년 사이 직원 13% 감원…\"AI 도입에 조직 재편\" - 뉴스1",
-      "excerpt": "오라클, 1년 사이 직원 13% 감원…\"AI 도입에 조직 재편\"  뉴스1",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zODdrb3BzdjIxb050N0lsa192dW9fOWRHTnJmREZDUk9hakZNWW5ERE1SWDFKcUo2SUZkcHFiU3J2ODhwdjdZQWpKOVRpVkZ4ZndVVnpwaC1OR0dVSXhsS1Y0TGVoUE0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782593449810-5",
-      "title": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체 - 전자신문",
-      "excerpt": "오라클, 1년간 세계 임직원 2만명 감원…AI로 직무 대체  전자신문",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5dV9meXNkcjdtV3hFQ0tnZGd6aGlFYTJhNF9IYTkxT1NKZnhyRVNjd3R1dVh6YzU4VU9SV0FwLWNaWWtXc3U4VXJxdWptQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782679914535-5",
-      "title": "오라클, 주가 5% 하락…AI 투자 속 2만1000명 감원 - 글로벌이코노믹",
-      "excerpt": "오라클, 주가 5% 하락…AI 투자 속 2만1000명 감원  글로벌이코노믹",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN01CNXhsS29LSTdhS0RUUGVaWXFENllWcmVzT3Uzanh6d0NHY3l2NDktZlE2M0ZFNEJmUG5UUVZpSENrcVhNbXRyZnQxWW9VTGZGMkpiZHdzajh6U1FycXNRWkNsM0pvMUNmLVVrWUZPeG9oODU1ejBFUDdwcnFwY3VVemVKeUo0?oc=5",
       "category": "Industry News"
     }
   ]
