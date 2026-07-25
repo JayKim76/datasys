@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1785011997851-0",
+      "title": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off. - The Motley Fool",
+      "excerpt": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off.  The Motley Fool",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU29NNHZLeGZ5T1lqLVBwQXJCYVZMTWNTSmVmS1JJS0JpOTdnanB3a0N3bENwWnpZRkdyZkJaQ09SQ2VLeEp4bXhZWVlDdnlVQkhidy1QRGFUb1F5aWg0R2RnUXR4NWN6bERLZXFDa3pObXJUVnVzU1FlWGp3NDgyeXpmNWZueTB3bUY5dWE5bmFBbHNnaXhtag?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1785011997851-3",
+      "title": "Oracle (ORCL) Joins White House AI Data Center Power Cost Pledge - simplywall.st",
+      "excerpt": "Oracle (ORCL) Joins White House AI Data Center Power Cost Pledge  simplywall.st",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGdFUGVqaXRUekQzQVBNZ0xmTHo1eDNQRDhiZFhXcDNQcEMwaVp5MkpyalRCcVU3LW1ubVh2NFgydHJCN0Z0ZFR2eXBaWVpCLVkwQTlxUDFWc3RHaUFkcHdacWF2a3Q2Z0NQZmxzQzF4OXRHUlNmN3NPQ005WVZlSDVnMlFxUHVtSjBPWEJxS3RZTTBBdXB2N3Nrc2FqTHR6MVUtTFQ0LVVDQUh3czNwbEJKZTVvNlMzbDdjYl9yS28?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1784926508610-3",
       "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
       "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
@@ -9,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1784926508610-0",
+      "id": "en-1785011997851-2",
       "title": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data - Forbes",
       "excerpt": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data  Forbes",
       "date": "2026-07-24",
@@ -17,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1784926508610-1",
+      "id": "en-1785011997851-4",
       "title": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads - The Futurum Group",
       "excerpt": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads  The Futurum Group",
       "date": "2026-07-24",
@@ -41,6 +57,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1785011997851-1",
+      "title": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU - Oracle Blogs",
+      "excerpt": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU  Oracle Blogs",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ZuazgtZnZBU0dfZHpNNndXY003WDhhN2NPMTJxbUd5Wk9hbXhkSW95Zy1ldlZjZVdSVUhlSkh3MXliY1BWUTB2NWVjUHhNR1RiZFR0YmE2Y2ktdi0xY0VaUXdBX2V1WmNSTDhscm1HbFNfRlE5SWVSREMtWTlOWjI5Z3FOZG1rSWFCUw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1784839888117-0",
       "title": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35% - Oracle Blogs",
       "excerpt": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35%  Oracle Blogs",
@@ -49,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1784926508610-5",
+      "id": "en-1785011997851-5",
       "title": "New Oracle AI database targets cost, data residency concerns - TechTarget",
       "excerpt": "New Oracle AI database targets cost, data residency concerns  TechTarget",
       "date": "2026-07-23",
@@ -951,43 +975,11 @@
       "date": "2026-06-25",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzVVVDBzMzlydXVhV2hnVDN3VVJnREwxSkxaZjN5aTRNTnNzMjJiaFg0NHIyN3dvcUdIWXZwVnQtS3VrS0VPcXpFWk1OdFR6WS1fWjd1TWZjdEI0bkhmeEV1QlEyVjBxV29KSDBVUmRTVGNpZGd0T0tDNnlVdl9mOW5ZMERsMWNZdzVjcVZNbzl1dzM3?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1782335785660-0",
-      "title": "Scale ONNX Embedding Models with External Data in Oracle AI Database - Oracle Blogs",
-      "excerpt": "Scale ONNX Embedding Models with External Data in Oracle AI Database  Oracle Blogs",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVk1qZHpOS3VPbVNuNmc5U1hFejZoT2kzZnhGczhVSWQwUHg0RTY4bC1nMDFzT1ZaOWMwVHZRNi1QRmdXQlNjNnFyZjByaVh4dXJRRWp4Sk5uazRuTnlFLXpNU1ZQYjN4QVdrTTBRMFRGWnBmQ0JUdTItRkZCbU9sVUNaQ09uemdzWTBaMFV2bkdxVC1RZktEX2E2MGdaQ2RxUkQxZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782335785660-1",
-      "title": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock. - The Motley Fool",
-      "excerpt": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock.  The Motley Fool",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDNlYWpkNWtUclJXbzduVDNnYmlvaVdYai1xUXJZUzNXVVNMbEFVYWoxc0pHSHZLdEJHaXdZMjdfeHU1Wk5tRGFIdERtXy1kQ2NmZHJ2UkltT3B0dlQ3VlZzS243dXcxblI5UTg5dzBZSFhqRnd5a01CcGFlT2dwWG02N29zQkJ6LVJaUkdya2hIR09vOTJF?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782335785660-2",
-      "title": "Oracle Health Extends AI into the Operating Room in Collaboration with Theator - PR Newswire",
-      "excerpt": "Oracle Health Extends AI into the Operating Room in Collaboration with Theator  PR Newswire",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeFdIdFdNRmJ2a1JjUFpDaDY0b0V0N0xTbkdSZkVBYlZTT3lSei1YcG1zc2Z4eDlUQ3Vkd28wcWdNVUlkdnFYTENNT1NFRk5LODRsU2lLRlVfeDYzWl9MY0FPQXBZR1ZFNktQRDJzdEQ3dlZWY19vR3Y0MlJkT2NnMF9vZ2piRm4xUmlIZDZLa3JVeXJTWHVCSUNBSnh4NlBsa1otVVFfWjB5d2x0X2JGQmRXa09nNlhiMmZ0UlI4N2ZEemlwcUdmYWR6T0pTUHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782335785660-3",
-      "title": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock. - Yahoo Finance",
-      "excerpt": "Oracle's Headcount Fell by 21,000 as AI Reshapes Its Business. Here's What It Means for the Stock.  Yahoo Finance",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUllIam1nd3hzM1V6WDAtdnVoQ0l2cUhMSkI0MC02LUJvbTRIeWNCVFExeDQ2TjEwYUEyWXlIUEFfQkctUldoUHU2eWJIYTZVSlNoTzdYTi02aElwd2p6TWRkZnFSNzR6Q3dCXzJfUWlmWkxBQUwyTjExdjk0MFFRLWJrVDUwRjhXMzhpc3U3aGl4ZFJwN1lSNm5n?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1784926509024-0",
+      "id": "ko-1785011998329-0",
       "title": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다 - 인공지능신문",
       "excerpt": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다  인공지능신문",
       "date": "2026-07-24",
@@ -995,7 +987,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784926509024-1",
+      "id": "ko-1785011998329-2",
       "title": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까 - 지디넷코리아",
       "excerpt": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까  지디넷코리아",
       "date": "2026-07-24",
@@ -1011,7 +1003,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784926509024-2",
+      "id": "ko-1785011998329-1",
       "title": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항' - 서울경제TV",
       "excerpt": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항'  서울경제TV",
       "date": "2026-07-22",
@@ -1035,7 +1027,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784926509024-3",
+      "id": "ko-1785011998329-3",
       "title": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼` - 디지털데일리",
       "excerpt": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼`  디지털데일리",
       "date": "2026-07-22",
@@ -1067,11 +1059,19 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784926509024-5",
+      "id": "ko-1785011998329-5",
       "title": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유' - 연합인포맥스",
       "excerpt": "CLSA, 오라클 AI발 부채 우려로 투자의견 '보유'  연합인포맥스",
       "date": "2026-07-21",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAteDQ3ZkoyM1poaXBwTkk5VlRkZEIyUTVXNHpaeHN1RVhrSnFBbEhMM3NMWkJTbG9SOUNGUzJ6YUNKTlFMQnFTZjA5UjRoV1pCdjh4eXRFZDhFa1VSbnB2WVpPYnVpY2J2VlRuZUFQQ0Q?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1785011998329-4",
+      "title": "오라클 CDS 18년만의 최고…\"AI 투자 수익화 우려\" - 연합뉴스",
+      "excerpt": "오라클 CDS 18년만의 최고…\"AI 투자 수익화 우려\"  연합뉴스",
+      "date": "2026-07-21",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YMTBDRDZXUGVIX1NzM0ZycGpPY0tNemFKdmp0c2pVTUxUV0p6OVFrVEowNGMtUEotTTl1am5WX1J6SDJTRTh6TnNwalBtTURnUTZIZmdKeWpPR0nSAWBBVV95cUxOcXhUODdVM0c1UHcyRjJWMDF5aHBIanBXRkpKenlxNjZ5WjFpX1o0XzM2ZGZsUl80My12RVk0OXRZbVRfVlRYTXlRMnZQb0hjU0VIbTExSDRiTTRWU2NhS3I?oc=5",
       "category": "Industry News"
     },
     {
@@ -1456,22 +1456,6 @@
       "excerpt": "오라클 재팬, AI 및 클라우드 수요에 힘입어 매출 성장  Investing.com 한국어",
       "date": "2026-06-25",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONHZZRWdLSGxjQm83dDJITi1QQVRGNWR6cW10bDQ4RXRYeEVic3ZZRmk2MEd3VTB4MkZualo2VnBSWkdmaG02N1pPVU9ndUVTME9rdGl4M1VLdktmSGJQa2NHYmd5WWd3Q05n?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782767809142-3",
-      "title": "인력 줄여 AI 인프라 비용 조달…오라클, 작년에만 2.1만명 감원 - IT조선",
-      "excerpt": "인력 줄여 AI 인프라 비용 조달…오라클, 작년에만 2.1만명 감원  IT조선",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzT3NYbkRzWndRVFc3YWxxVnIzTmprem1fVEdxY1c4TFZoT2dRcE1uc3FsYkRseG9zUlZwX01tSnhxQnVSemdNalJ4dHhfb2NuLU9zTGJJaFVqaEVpaEpxVnk5TFY4UDJ4VnVYMVpaRUfSAXRBVV95cUxOVkJaYXpXcXpTMjZkMUdRVWFLeGREME1QUk4wZUY3SFN0RDk0d0w0bFJYQkhIZUdQdklLbTlqQXB2c1FiSWIwSl9IdWI4VEpDUDg3a2xWai1uMXByS1BZSWZUQzFVbjV2SzhqeHdDVS0tQXdJUA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782679914535-4",
-      "title": "美 빅테크 기업들, AI 투자 확대 속 감원 지속 - 헬로티",
-      "excerpt": "美 빅테크 기업들, AI 투자 확대 속 감원 지속  헬로티",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBud3RwMW9ZcE1MR1NYRXk4RU9pdXFrMEFkUGh0bmJta28yN3dkOVhYN09Qb0s1ZXJNNVNlSFdaUWR0a1N1dDJ0TmJ4OElBN3ZEQWFOLWVxVnpiX0xiSU5V?oc=5",
       "category": "Industry News"
     }
   ]
