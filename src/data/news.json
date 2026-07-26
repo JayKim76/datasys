@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1785098717750-3",
+      "title": "Oracle (ORCL) Is Down 9.0% After Nearly $7 Billion Pentagon Deal - Has The Bull Case Changed? - simplywall.st",
+      "excerpt": "Oracle (ORCL) Is Down 9.0% After Nearly $7 Billion Pentagon Deal - Has The Bull Case Changed?  simplywall.st",
+      "date": "2026-07-26",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2NjR2E1SVdUVWtUZ2NQN1lseVpHb1k1VHZPUWtPUGhJY2VXcmZKSzdXdVUyNk01RHJaYmljMWdjZGxHNXdweWtIbVF3U3hxYlhCQkpWeUZFRXBrSkpqNmlTOElYa3NBc2tnWDNNaEN2aDNSUzFJdFJ4OVF4SlhIN2tyTHN2cUJyQ3NrczdlcWoyMXY2enJZZHBOMVNnNHU5X0MxNkxGMWE5S2hRZmhMdDR4bFBUWjF1NnFLbnl2MNIBxAFBVV95cUxPbUVPdURQbkxrUFdKWVNETDQzU3RYTV9PTzRYblV6YWpFRW5pSEc4a2hULWp4cG4tTUdpNUJyR0xiZ3plaGhfZ2I4SlBZeE5mYWFka240YVFVSDlIR0F0dS1qXzA4c3JvZUNxSHpuV1RQRGU3M19yOGVpeW1GcVVaaDU5NHFaZUV3M2ZTb25vdXlxdGdUVUcyRDEwa0twZ01MR3JKLWJaUTJhS3ZXQmRBcGQ1Z0FNMFotVklGNUx2Z1hfQ3VH?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1785011997851-0",
       "title": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off. - The Motley Fool",
       "excerpt": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off.  The Motley Fool",
@@ -17,6 +25,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1785098717750-1",
+      "title": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off. - Yahoo Finance",
+      "excerpt": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off.  Yahoo Finance",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUVKRlo2dEpvcDRwR3VFVzMzZUlEbGJKaElKNlBIMlpXcXFHNDFtdTNoTjdFV0E2dmtzV0g5aGFSV3RrZXpESV9JeVdzcEFQZlhhM2F4dEp3V1E0ZVdfNW9sQzRBRzl4bG1NdEkzSTVscXBiVHg1SW9ZTnRhYlBvOVluMzdGREJsblh4Q3dhUjg1dUVvMFJvWU9wcw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1784926508610-3",
       "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
       "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
@@ -25,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785011997851-2",
+      "id": "en-1785098717750-2",
       "title": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data - Forbes",
       "excerpt": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data  Forbes",
       "date": "2026-07-24",
@@ -33,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785011997851-4",
+      "id": "en-1785098717750-4",
       "title": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads - The Futurum Group",
       "excerpt": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads  The Futurum Group",
       "date": "2026-07-24",
@@ -57,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785011997851-1",
+      "id": "en-1785098717750-0",
       "title": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU - Oracle Blogs",
       "excerpt": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU  Oracle Blogs",
       "date": "2026-07-24",
@@ -73,7 +89,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785011997851-5",
+      "id": "en-1785098717750-5",
       "title": "New Oracle AI database targets cost, data residency concerns - TechTarget",
       "excerpt": "New Oracle AI database targets cost, data residency concerns  TechTarget",
       "date": "2026-07-23",
@@ -943,43 +959,19 @@
       "date": "2026-06-26",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUt3Zk0wbXlBWVZPNlFtbXJ5VDZzc0NVdllzaGpxcVIyZ2F4eEZDRUNCaU9VSFFoYnJtM19obkUwQlV1MXVjRDUyb283ek1TNnMzT1FhVUpVNUVVa3lrZUNzSFhqblR0bml6Qkp0dFlPbDM0S1k5cVpJWHU3NGJGWTlFc3VNVTcyRjJpWXNMcl9JMDdzUXhmTUJ3?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1782422517375-0",
-      "title": "Predictable AI Training at Scale – First FLUX.1 MLPerf® on OCI’s 512 AMD GPUs - Oracle Blogs",
-      "excerpt": "Predictable AI Training at Scale – First FLUX.1 MLPerf® on OCI’s 512 AMD GPUs  Oracle Blogs",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWRNWnY0RVpVVXJielVhT2ZYbFRHVEllNm84dVJnRF92UTB1ZVByTUJnT2lKZEhUdVpUYXJlc1RrYll2X1RYekVlVE16akx0M0xTM2ZsUjdvVFExb2djSU9hdjZBNUFmbHJNYjU4QVI3eWdmcm5qZjQ0ck9uQVZUR0FR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782422517375-1",
-      "title": "Oracle Targets AI Security With Database-First Protection Strategy - Forbes",
-      "excerpt": "Oracle Targets AI Security With Database-First Protection Strategy  Forbes",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHcxcHBXOXJyd3h1Vll4NGlsTjhzUU5GTUFTN1o4QTZvaXZmVDFZSXA1by14dkU0UU5EMjlsM0d3QS1wd0tJblN5MDV3U1lySDNlejJtdWxndXkxMWpSeFdRQ24wbmRocXZPMXBWbmJJSEFuazgxX1Z4N3RWRUtqeDFzN3VORml0Uy1ObUhGTkxDYnBBaXBac0lWdy1RcG9pc2dqRFF4WDVfSjJtZ3pJemZVb1NLTDc2Ym52RDZB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782679914151-5",
-      "title": "Oracle's AI-based layoffs may not be over - InformationWeek",
-      "excerpt": "Oracle's AI-based layoffs may not be over  InformationWeek",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnpEYWRtckJwaDlWNmp5eTZOdC0tMjcxbjkwcW4tdnk2d01RVDVJVGhnMFR0SWMweDJ6UlIzRHNBZFR2UHprVkk0cVRuaWpoeEJmNTlfYjYxVlpCcGRmOXNYMTB0TE9kb2xuSWxfWlRjU1NscjlYNmgtNGZxUWZQOVFPNGVtdy1INGxfUFlpVS0?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782422517375-5",
-      "title": "Oracle Health and Theator partner to offer AI surgical intelligence in US - Medical Device Network",
-      "excerpt": "Oracle Health and Theator partner to offer AI surgical intelligence in US  Medical Device Network",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzVVVDBzMzlydXVhV2hnVDN3VVJnREwxSkxaZjN5aTRNTnNzMjJiaFg0NHIyN3dvcUdIWXZwVnQtS3VrS0VPcXpFWk1OdFR6WS1fWjd1TWZjdEI0bkhmeEV1QlEyVjBxV29KSDBVUmRTVGNpZGd0T0tDNnlVdl9mOW5ZMERsMWNZdzVjcVZNbzl1dzM3?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1785011998329-0",
+      "id": "ko-1785098718168-4",
+      "title": "오라클(ORCL) 백악관 AI 데이터센터 요금 보호 서약에 참여한 이유 - simplywall.st",
+      "excerpt": "오라클(ORCL) 백악관 AI 데이터센터 요금 보호 서약에 참여한 이유  simplywall.st",
+      "date": "2026-07-26",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHRXQTZEZDVYUTdIMjlKTThoeEtSeGxrSkowX1R1Ry0zMFpzZUFGVDRkTk5KWnBYYTE5M0tFODZQUlRELUE4RThFUWZqTF9rMDB2RW5QdXlucEM0VHczMnoyY0RzRkRDUWI1eXdkNDg0QlZHUTVPWDdHMG9kUGNnLWZUVWpDVnJ6VUHSAY8BQVVfeXFMTlFDajFLalU0X2JiNmp1Mk53SlktZTZUNDcyM2JuN1l3SWptRDNaeVUySUZ2Nm9lbndORlNhOWQwWThZbUtWUEwwSm1NRjlxVmJhdXZkUTE1Q21yTTFiUjN3dVlwWTNCeVE2bERfVVN4ZWY4YzlxaWdIZU9HTEk1aUF6LWxLcGRsQUs1alJOaTg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1785098718168-0",
       "title": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다 - 인공지능신문",
       "excerpt": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다  인공지능신문",
       "date": "2026-07-24",
@@ -987,7 +979,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785011998329-2",
+      "id": "ko-1785098718168-1",
       "title": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까 - 지디넷코리아",
       "excerpt": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까  지디넷코리아",
       "date": "2026-07-24",
@@ -1003,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785011998329-1",
+      "id": "ko-1785098718168-2",
       "title": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항' - 서울경제TV",
       "excerpt": "본사 위기에도…한국오라클, AI·클라우드 사업 ‘순항'  서울경제TV",
       "date": "2026-07-22",
@@ -1027,7 +1019,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785011998329-3",
+      "id": "ko-1785098718168-3",
       "title": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼` - 디지털데일리",
       "excerpt": "\"모델만으론 안 된다\"…오라클이 제안한 해결책 `AI 레디 데이터 플랫폼`  디지털데일리",
       "date": "2026-07-22",
@@ -1131,7 +1123,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1784753725884-4",
+      "id": "ko-1785098718168-5",
       "title": "오라클, AI 네이티브 빌더 환경 공개… 오라클 퓨전 애플리케이션 내에서 에이전틱 애플리케이션 개발 및 실행 지원 - Oracle",
       "excerpt": "오라클, AI 네이티브 빌더 환경 공개… 오라클 퓨전 애플리케이션 내에서 에이전틱 애플리케이션 개발 및 실행 지원  Oracle",
       "date": "2026-07-16",
@@ -1448,14 +1440,6 @@
       "excerpt": "오라클(ORCL), AI 전환 속 2만1,000명 감원으로 바뀌는 운영 방식  simplywall.st",
       "date": "2026-06-26",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0RSajJVcnFUMkdrVlVWOFhKdVdrU2Uwd3BtRUYxcE1JdW1mQnNvQy0tUmNheXc3QkxiSF9QeEhzblNpQTVkT01YQVBxOEhmZnFHdDcwOE9PSmg2MXpJaXJxQUpFbkJENUtGZ2VZSDY2YnlGem4wbkRVT0dONkZ2dDI0cmhILTdJZWlJVDBoMNIBjwFBVV95cUxQb0RSajJVcnFUMkdrVlVWOFhKdVdrU2Uwd3BtRUYxcE1JdW1mQnNvQy0tUmNheXc3QkxiSF9QeEhzblNpQTVkT01YQVBxOEhmZnFHdDcwOE9PSmg2MXpJaXJxQUpFbkJENUtGZ2VZSDY2YnlGem4wbkRVT0dONkZ2dDI0cmhILTdJZWlJVDBoMA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782854521760-4",
-      "title": "오라클 재팬, AI 및 클라우드 수요에 힘입어 매출 성장 - Investing.com 한국어",
-      "excerpt": "오라클 재팬, AI 및 클라우드 수요에 힘입어 매출 성장  Investing.com 한국어",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONHZZRWdLSGxjQm83dDJITi1QQVRGNWR6cW10bDQ4RXRYeEVic3ZZRmk2MEd3VTB4MkZualo2VnBSWkdmaG02N1pPVU9ndUVTME9rdGl4M1VLdktmSGJQa2NHYmd5WWd3Q05n?oc=5",
       "category": "Industry News"
     }
   ]
