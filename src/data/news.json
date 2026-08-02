@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1785703360690-0",
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - nytimes.com",
+      "excerpt": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?  nytimes.com",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1785616799949-1",
       "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble - The New York Times",
       "excerpt": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble  The New York Times",
@@ -33,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785616799949-0",
+      "id": "en-1785703360690-1",
       "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers - PR Newswire",
       "excerpt": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers  PR Newswire",
       "date": "2026-07-30",
@@ -57,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785616799949-5",
+      "id": "en-1785703360690-5",
       "title": "How Oracle Is Helping Customers Build and Customize Agentic AI - Cloud Wars",
       "excerpt": "How Oracle Is Helping Customers Build and Customize Agentic AI  Cloud Wars",
       "date": "2026-07-30",
@@ -81,11 +89,19 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785616799949-2",
+      "id": "en-1785703360690-2",
       "title": "Securing AI agents through platform controls and shared responsibility - Oracle Blogs",
       "excerpt": "Securing AI agents through platform controls and shared responsibility  Oracle Blogs",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU9Cd05KR1lpTEg2Y2daV2xhNjhjTGZpa0pfWThVblQ5RjI4SEpyTXJPRDFTMFVwUWZodFhMa0xvRmNoLWw1TmtGMWpzMFNvQ21oVE1zSnVNUjcxMUd5WThSRHo5b0s2c0pGUnlPYVNkZnh3Ui15QmktWl9RS0N5cHBvellyRTUxd2l3d2JB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1785703360690-4",
+      "title": "Nebius Soars 27%, CoreWeave Jumps 24%, Oracle Climbs 7% as AI Cloud Names Snap Back - Yahoo Finance",
+      "excerpt": "Nebius Soars 27%, CoreWeave Jumps 24%, Oracle Climbs 7% as AI Cloud Names Snap Back  Yahoo Finance",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVExVM0Vhal95TnExeGxhSDhjb3VjdEdLVDJzUFd5Qks5eUEzMmROaHlNNmZoNm9qWERKcldURWlEN3RGNzJBUVItMjZzVnBOQlJ4M0lkQno1RkNLZEtselNOV29OTjFfMHVjb0hQQzUyZDQ3RWNoR2VndVZZS0dJZVoxYm01R19idnVaQVEwYTgtYUdDNUZnUnJLSlA?oc=5",
       "category": "Industry News"
     },
     {
@@ -97,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785616799949-3",
+      "id": "en-1785703360690-3",
       "title": "AWS, Google, Oracle, Microsoft Top Gartner’s Cloud AI Infrastructure List For 2026 - crn.com",
       "excerpt": "AWS, Google, Oracle, Microsoft Top Gartner’s Cloud AI Infrastructure List For 2026  crn.com",
       "date": "2026-07-29",
@@ -967,62 +983,6 @@
       "date": "2026-07-02",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkNGcUFPMVdmLTFJVC01ZWFSaE5OallXamJCRkxxS295ZndDc2tqTDV0RTdEamVkR2xQZThMdVJIaENfSi1uQWNQZWV0Q3VpZVZGX25FLWx2SGtmeWxVMVFlYWx3cGFnYVpUSV9odXRBSTlGWHBMbHU5eVdjQTFPN0FZaGxqY3h5S2swdk5FN3NwZ1F0eU1iTldHUUZ3RWZiS0xtcEZQOW1Hc0FQLXNZ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1783284425666-2",
-      "title": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom - Gizmodo",
-      "excerpt": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom  Gizmodo",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXFrQ3ZyMndPWXltYUhaVm1RajNvRGN4TWQtMkdlWHBDeFhJNkN6TDlBVlNXSXZiWnZFS21RbHRoNkRySjFCVklVM1Bha3ZRYTh4MEs5eXFyU2RkdWJaRmtWOFhkY0RKam9QM0VnS0M0THlvbS0ya3BJaE4wWkE4bGdVTWluR0ZzOHo5a1BKZkt5NEZxLXN0NEZQV1ZkMW5ZdFhvdXVxWUU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783372875277-4",
-      "title": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride - 24/7 Wall St.",
-      "excerpt": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride  24/7 Wall St.",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlhyTWNuWHl3RjEzeXJSc1UwRzBpc2xYS3V4TUpBUkJnNk9QTzBUaTE0OWpTNGY2Q2ZYak54VG1LUXZ6amxtUUxSZHYtUG9jMDE2aVVHeGo4aldjeG8xb29kVHNtVEtUanFVeWtnOXNnM2hpSG5HRk1wUmNoVmp5enRpTlNfdzFHNmVpWFE4b2JDb3ptdkdwdFdTd21uRGJJRGs2bDJGSFVBUHllc1NBSjVIZHhDUnBRc2trYkV0OEpxQVFSMi1lczNBV3lLUkVpaFZybw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782940684177-2",
-      "title": "KeyBanc Raises Confidence in Oracle (ORCL) AI Cloud Expansion - Yahoo Finance",
-      "excerpt": "KeyBanc Raises Confidence in Oracle (ORCL) AI Cloud Expansion  Yahoo Finance",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVVYbWtxRHkxcXRsM0JTVU8xWmFDSVB2YXNuOTQ1dktLaHBvX3M4Y19wVGZYS2RXZVRVZnFLMFhUNGVfUzFaalE3eU9tbEZmc19jdDVUQ3JCUlBrNURBUlViT1NUamE5WHVzX0NMRU5ldWcyc2tOb29RaUY2YzFEeE5laWtkLW1ZNUJ4S01EUjJmODdFbm9ZOHp1SzFtd1NrTXJv?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782940684177-3",
-      "title": "Evaluating Agentic AI Across the Lifecycle on OCI - Oracle Blogs",
-      "excerpt": "Evaluating Agentic AI Across the Lifecycle on OCI  Oracle Blogs",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04VWYybkZQRDJSOXg5V1FmbGducG9lV2RRLWJZLWhkYmY0NElEUzVGQUVxaTFob2dWRU9PN0pDS2Yyb2YtSFRhQWFKOWtOM21FQzBnbGpuYjlIbjh3Y0NDenpoZVpIN3BFMUdfcXhMQ05KMjd5OWN0ZEtuRW1VNkU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1782940684177-4",
-      "title": "HN Original: Oracle's Tanya Pratt: Cloud was the foundation, AI is the decoration - Hospitality Net",
-      "excerpt": "HN Original: Oracle's Tanya Pratt: Cloud was the foundation, AI is the decoration  Hospitality Net",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObC1vM0xqYWY0blJ2WEhSTjNvYzYxbjJDN0ZBQ2lOcDJoSVZ0cFR5VGpocFpFZ1pWOGZVVkZFb1pNVkktMlNpM2RIZHBnQlJoWnYzcjFJV2ZVT3lFSDM5b1UzVzJ1YzJzMkROMWt4dDg3dXZ3RDBWWTd6RGx1Zm9Yd0VDdXc2cXNaNTh2dkI0OXJVQlAyX1JtYTV4eFFsa3BmNG0wLWZDdnZ0dU5mc3NNX0daQTY?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783888511296-4",
-      "title": "Oracle outlines all the ways it could lose the farm it bet on AI - The Register",
-      "excerpt": "Oracle outlines all the ways it could lose the farm it bet on AI  The Register",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXVNTnBtak85UTRaQURZQ1ZyTnhMdlZRQkZfaDFiWnN6YTc3RndEX0VZYXg4THFIVWoxVnViako5VDdqbWNCdllpUnFRWDdRa2dzMVB4Zy1oVVpOSkZsUU9yMlZ0WlBmTHF2WS1tNmVCbVAzMjBnbHpZdG15eWFfM1N5d1N2eEx6aFlpQWk2WWtCUkF1ZUdPSHBPd0lLSkNDMjNDeF9CRnBUdkQ2RnVlSEJZNWc3UXBIbHVMSzhB?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783111964033-4",
-      "title": "Consolidate more Oracle Databases with Exadata Cloud Infrastructure X11MV - Oracle Blogs",
-      "excerpt": "Consolidate more Oracle Databases with Exadata Cloud Infrastructure X11MV  Oracle Blogs",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWRvMmZNeDVqek5aMDg3Slh1c3hPR2JCLUh2TElDSmpWVGcxTDc1VmM0eTdQSi1iYWRUakkybkZlOXhnV2ZXR2xRRU9POGljZlVuYmJ3NUpwY3FLZEthcTlpd3d0QnlGVjRWc2xhWXVLZVVaSV9WenItWDNaMnZ0M0U2RW5fSkIwUFlKMnFIeTlSR19FLXBXM2hzSTh2akpGSVBCTWFyb29IQ28?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
@@ -1035,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785616800449-2",
+      "id": "ko-1785703361140-1",
       "title": "Oracle Financial Software 주가 3.3% 급등…구글 클라우드 AI 파트너십 확대 - Investing.com 한국어",
       "excerpt": "Oracle Financial Software 주가 3.3% 급등…구글 클라우드 AI 파트너십 확대  Investing.com 한국어",
       "date": "2026-07-30",
@@ -1043,7 +1003,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785357734440-1",
+      "id": "ko-1785703361140-5",
       "title": "오라클(ORCL), 잉그램 마이크로와 호주 클라우드 AI 유통 확대 추진 - simplywall.st",
       "excerpt": "오라클(ORCL), 잉그램 마이크로와 호주 클라우드 AI 유통 확대 추진  simplywall.st",
       "date": "2026-07-29",
@@ -1051,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785444954550-3",
+      "id": "ko-1785703361140-4",
       "title": "오라클, 구글 클라우드 파트너십 확대로 퓨전 및 넷스위트 엔터프라이즈 애플리케이션에 제미나이 모델 도입하며 8% 이상 상승 - TradingKey",
       "excerpt": "오라클, 구글 클라우드 파트너십 확대로 퓨전 및 넷스위트 엔터프라이즈 애플리케이션에 제미나이 모델 도입하며 8% 이상 상승  TradingKey",
       "date": "2026-07-29",
@@ -1115,7 +1075,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785616800448-0",
+      "id": "ko-1785703361140-0",
       "title": "국내 AI 스타트업 3사, 글로벌 AI 시장 공략 위해 오라클 클라우드 인프라스트럭처 도입 - Oracle",
       "excerpt": "국내 AI 스타트업 3사, 글로벌 AI 시장 공략 위해 오라클 클라우드 인프라스트럭처 도입  Oracle",
       "date": "2026-07-27",
@@ -1131,7 +1091,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785616800449-1",
+      "id": "ko-1785703361140-2",
       "title": "[인터뷰] “오라클, 데이터와 AI 연결에 집중…AI 데이터 플랫폼으로 구현” - 아이티데일리",
       "excerpt": "[인터뷰] “오라클, 데이터와 AI 연결에 집중…AI 데이터 플랫폼으로 구현”  아이티데일리",
       "date": "2026-07-27",
@@ -1243,7 +1203,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785011998329-4",
+      "id": "ko-1785703361140-3",
       "title": "오라클 CDS 18년만의 최고…\"AI 투자 수익화 우려\" - 연합뉴스",
       "excerpt": "오라클 CDS 18년만의 최고…\"AI 투자 수익화 우려\"  연합뉴스",
       "date": "2026-07-21",
@@ -1536,62 +1496,6 @@
       "excerpt": "[글로벌 핫스톡] 매출 21% 뛴 오라클…AI 인프라 투자 부담도↑  서울경제신문",
       "date": "2026-07-02",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPclZfc2xTcWRxUDZyYnhsUHZPaHVTQmMxaEhUU0JROTRkbVRiU3ZGWXRLV21IaW1keXNZbURPSlVQTjRRdmZvUFJXejZiMEx1aEHSAVNBVV95cUxQdEgzR1RtUFlpUllQTFJSRE1uV2E3ejUwZWpqcFpidUFHbGxkbUI5SHk5emI0M1Z1OHZyMXFpQm15R3VPNVJPYkpBOXpFUTAwYWxycw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783111964464-4",
-      "title": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류 - v.daum.net",
-      "excerpt": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류  v.daum.net",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtMFJzeTZHc284a3laSUNsRjg4M2VXTkVXWkFCLVhlQzBLanpvWEtMVzNtSGJRdE5pYWNlcGhTS29mR0RBTEFOdzVlbzFBVlE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782940684622-1",
-      "title": "오라클, 디펜스 에코시스템 확대 ··· 국방 AI 생태계 강화 박차 - 데이터넷",
-      "excerpt": "오라클, 디펜스 에코시스템 확대 ··· 국방 AI 생태계 강화 박차  데이터넷",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FLTlEY0REcV84ZTJqVlZ4d1ZXUzdsMXQ2dTJGczl1WURSVXB0YWFkc3ZUcjZ2ZzBVZldUandMaU15YlR1QnB5TjZreDhURzE5aGVaQVFwc1pCQ1g5MnhkN2Q0XzMtdVZuZTctSA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783197798349-4",
-      "title": "오라클, 국방 AI 생태계 확대… 방산 기술 기업 10곳 합류 - 조선비즈 - Chosunbiz",
-      "excerpt": "오라클, 국방 AI 생태계 확대… 방산 기술 기업 10곳 합류 - 조선비즈  Chosunbiz",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdldIY0lTdVk5cW5NbXo1Z0lBT2FhMTVkeVB5Z3FIMnZBOUozUHJqSEYwRFl2dlo3RVlQcTNielh5ZnotWFFQeGRydnE4RUlXenJ5SHFCQUUyb0l0MWsweENfS1oxRHVMbk1HY2NKX0xSZU5mQlBodnNFZExMeWFYTGlR0gGWAUFVX3lxTFA0Q3N1b2hETHlMdVFZT1ZrS24xV0R3c21vQUg4RzhSVGQwV210OEZsQlpnZm9wYlJCSkZmSzRUakFtZXBqcnVHZHZSQnlOYkZ3SEZuSnVDWkcwUFk2ak85X25xRDdhMDhEUnNGTV91c0lMZUtMZ3pYWjBXazl4UDFLZ2t5QWU1anRCTFVLMmxnTWh4cldKdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1782940684622-5",
-      "title": "오라클, 글로벌 국방 기술 기업 지원하는 세 번째 코호트 발표 - 데일리시큐",
-      "excerpt": "오라클, 글로벌 국방 기술 기업 지원하는 세 번째 코호트 발표  데일리시큐",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hU3N4cmY4NzBHakFEUUw5clFwSFNjZFBmNnpVOW9jS3JaN3pCTkFuZ1d0WHZwUDZNeVBtUGw1dGs5SWlOSklMNndsb3JBd1Jvb2NIWlNITkRYTFdtOFhQams4Nmp3WkxvNkEyVA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783284426110-1",
-      "title": "오라클 디펜스 에코시스템에 10개사 신규 합류 - 디일렉",
-      "excerpt": "오라클 디펜스 에코시스템에 10개사 신규 합류  디일렉",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zdjRpdUhpR2dWWElTS0xCVXktZmhkYjJLeWxaZS1JMEFrWWNCNWJwSTBzaEpEaC13WkwtVDB3OVYwODJrMUNnVTNRVEZKQklXZHA4dFU3SUNtazRhcVVxb0ZOUUVqdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783025643231-2",
-      "title": "오라클, 국방 AI 생태계 확대…신생 방산 기술기업 임무 수행 역량 강화 지원 - 더테크",
-      "excerpt": "오라클, 국방 AI 생태계 확대…신생 방산 기술기업 임무 수행 역량 강화 지원  더테크",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00RHpxMU0zQWp5VXpkaEo1R0M0Q3NOYUczc09PcVdrc2hhWDdNS3h6MER2OVp3NXhNSzZBZlFhb1N0NnZmRkFZc1ZXa1VXOHdjU0lNZjRraHcxclJoR2VDN3dGNA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783284426110-2",
-      "title": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류 - 지디넷코리아",
-      "excerpt": "오라클, 국방 AI 실전 배치 앞당긴다…방산기업 10곳 생태계에 합류  지디넷코리아",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Sjd3Q2pkQnE1cjNuNnVIdW5PVkZ5U05NYXpVcTN6QmE5Rk5OSXhodm5rVU1SVUlPeXF1OFpSYWpvQ2R5VzBrd3RwNlF2dGN6R3VqNTNn?oc=5",
       "category": "Industry News"
     }
   ]
