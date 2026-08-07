@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1786063822271-0",
+      "title": "Exascale Innovation: Faster Oracle AI Database at Lower Cost - Oracle Blogs",
+      "excerpt": "Exascale Innovation: Faster Oracle AI Database at Lower Cost  Oracle Blogs",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGxvYUdpR3ZFbmJuY0pLaFNyVzBWSG92ZE9OaUN4TXZqUVlSNU55ZXEwM1YteHBFblNUeldnMzRodnVHNS1yTTJBOURpcWdoUVUzT3FFNXB6M21VSlhqTTlkLXk4a3RxUWF2T0hpNm9kYy1DRjN5RGhSb0xxdjNhbFN6eUpsblNpOHpkQkJ0a0M5Xzk0VXZ0ZQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1786063822271-2",
+      "title": "Oracle exec: the wrong questions companies are asking about agentic AI - Fortune",
+      "excerpt": "Oracle exec: the wrong questions companies are asking about agentic AI  Fortune",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWFSNjc5T1lHcmZ2WU42dXJqRFk5RWxGM2Y3NENiZTlWX0s4dVgwTW84OTFXbFNSRnRPNy1ZZWZoR0hmajVZV2RkbGlTZ1F0c2VqV2ZrR0tqNm5JcWg0dG12LW1xOS1ldlVwYTBhaFBXa0cwcGZ4VDRBdlN6eTlWZDFOcnBrRHJiazJ4VXZJUTk?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1785963436283-0",
       "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - nytimes.com",
       "excerpt": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?  nytimes.com",
@@ -17,7 +33,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785877305970-0",
+      "id": "en-1786063822271-1",
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - The New York Times",
+      "excerpt": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?  The New York Times",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1786063822271-4",
       "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - Reuters",
       "excerpt": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  Reuters",
       "date": "2026-08-04",
@@ -73,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785963436283-5",
+      "id": "en-1786063822271-5",
       "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK - The Register",
       "excerpt": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK  The Register",
       "date": "2026-08-03",
@@ -86,14 +110,6 @@
       "excerpt": "'As the AI World Turns.' Oracle, OpenAI & Leopold. ARD #132  AI: Reset to Zero",
       "date": "2026-08-03",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yN0FSUHNTSlExajRVT3Q3djFfVTFmcGNLQUlWc2xlMGJWZkdHUHp4RFNaZDdGblFrUWNLQnFpY094Z2h3Vm9CSk9TX2dEcGF3TEp2MzM1M1B1TmtBcWI5RTNGeUt6dDJ3VnJ2dGJjR0ppN0JxdVZ0Q3owT3Q?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785877305970-4",
-      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? - The New York Times",
-      "excerpt": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?  The New York Times",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5",
       "category": "Industry News"
     },
     {
@@ -193,7 +209,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1785963436283-2",
+      "id": "en-1786063822271-3",
       "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers - Google Cloud Press Corner",
       "excerpt": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers  Google Cloud Press Corner",
       "date": "2026-07-30",
@@ -991,30 +1007,6 @@
       "date": "2026-07-07",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFgyQWllc3lUOV9GdnhJdjV6LTVMOE5MNEVWMWNub1J2WHJVN01XaE5zLUJHSlI4bXdkaTJ2eHkxeWZ6UDRrd2YxcHFHbm1ENk5nVUhmczR3M3l1OVVoaG1LdWZLTkNLSl90ZHRBUzBNcGVWU1pycURYN1NHa2t6R3dFeXk3YkxIRHptbkNkSHZjeXR5YkpUV3FWenN4VkJCRlo5bm92WTU?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1783372875277-0",
-      "title": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI) - Oracle Blogs",
-      "excerpt": "Schema Discovery Agent (Building the Data Foundation for Enterprise NL2SQL and Agentic AI)  Oracle Blogs",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlZFUmRod3VHb2c1aXJzX3IwZlJ2cHF1ZFdCSzVTSkFoeWhSMnNUZWhCVXlodkRQa0IzUGhVS191NGpqazdFRWc0N01ydm1KVFY1bC1jZEw5eVVDWnVsRzlsMUdRVGQ5ZGpHTkRBWjVlNnVxRGxiMXgzc3FYdm1Mc0JwTTFMWDVscWc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783372875277-1",
-      "title": "Why Oracle Stock Slipped 35% in June - The Motley Fool",
-      "excerpt": "Why Oracle Stock Slipped 35% in June  The Motley Fool",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHF4OFFtQ09uSjRmU0dqTVNtZUhlUzNkazZ0eXpPTkc5RHRFM2JMX0VyNjdmQ2ZYMWVWWUZlbGN1VE5jVzJPeWgwX2hnZGR5NkRTNjk5ZW1lRC1ucFFKN3R0bmlJUlRxMFFDVENCRHN6ZEhzbEd1ZWhKMXdoR0RVTDdObmk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1783284425666-1",
-      "title": "Oracle Stock Falls 43% From Its Highs Even as Its AI Backlog Hits $638 Billion - TIKR.com",
-      "excerpt": "Oracle Stock Falls 43% From Its Highs Even as Its AI Backlog Hits $638 Billion  TIKR.com",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFRnd3ExWXEyTjZKV2JLNGdSQmZyU1ROV2cxemtrMlY2ajFXZlhxM0RjTTBnY2Zwak10WC0tY0p3MzI1cjFRQ0JJTjFkaUdIZ0IzMkhxOWhuSFl3UzV1QzNlOVl3QmZ1VnlLYVhTTFV0dUpWaHM0U0ZsVGVnaWZJY3doRUpoTDVtUkQ0ZTQyaUp0N3RXLUoxUUdxZHo1UHpvU0dlSA?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
@@ -1035,7 +1027,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785963436675-0",
+      "id": "ko-1786063822683-0",
       "title": "오라클, 엔터프라이즈 애플리케이션 전반에 제미나이 모델 지원한다 - Oracle",
       "excerpt": "오라클, 엔터프라이즈 애플리케이션 전반에 제미나이 모델 지원한다  Oracle",
       "date": "2026-08-04",
@@ -1043,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785877306409-1",
+      "id": "ko-1786063822683-4",
       "title": "구글·오라클, AI 동맹 강화…제미나이 기업용 앱까지 확대 - mstoday.co.kr",
       "excerpt": "구글·오라클, AI 동맹 강화…제미나이 기업용 앱까지 확대  mstoday.co.kr",
       "date": "2026-08-04",
@@ -1067,7 +1059,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785963436675-5",
+      "id": "ko-1786063822683-3",
       "title": "구글 클라우드, 오라클 기업용 앱에 '제미나이' 지원한다 - AI타임스",
       "excerpt": "구글 클라우드, 오라클 기업용 앱에 '제미나이' 지원한다  AI타임스",
       "date": "2026-08-03",
@@ -1075,7 +1067,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785963436675-2",
+      "id": "ko-1786063822683-1",
       "title": "구글 클라우드-오라클, 파트너십 확대...제미나이로 에이전틱 AI 앱 구축 지원 - 헬로티",
       "excerpt": "구글 클라우드-오라클, 파트너십 확대...제미나이로 에이전틱 AI 앱 구축 지원  헬로티",
       "date": "2026-08-03",
@@ -1091,7 +1083,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1785790487380-4",
+      "id": "ko-1786063822683-5",
       "title": "구글 클라우드, 오라클 애플리케이션에 ‘제미나이’ 지원 - 아이티데일리",
       "excerpt": "구글 클라우드, 오라클 애플리케이션에 ‘제미나이’ 지원  아이티데일리",
       "date": "2026-08-03",
@@ -1104,6 +1096,14 @@
       "excerpt": "구글, 오라클 시스템에 '제미나이' 탑재…AI 자동화 시장 확대  v.daum.net",
       "date": "2026-08-03",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGSWktOVJWMmk0NG5UcXlkTmVUSHJWS0JhSEV0WkhJbDJZOEdmUjZVSDRYbTcxS2tSZ2ZzOURGaGNoalBGRXBWbV9FSHlsUE0?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1786063822683-2",
+      "title": "구글 제미나이, 오라클 앱 지원 확대 - thelec.kr",
+      "excerpt": "구글 제미나이, 오라클 앱 지원 확대  thelec.kr",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53bFJPQUJuOWtaQ29UZmd1UE54ZDhCMXhxS0ZfZEMyNzZXOThaYlVwaGE5RnRCclpFVnpuSlNINHVoNi1TeXA0dlVKWllRbXlwdFNjN0VRb2RsTVJrM1dWTzI0OXpxUQ?oc=5",
       "category": "Industry News"
     },
     {
@@ -1520,62 +1520,6 @@
       "excerpt": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 등극  헬로티",
       "date": "2026-07-07",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYkhMdUNTeDd3ZGZIM0tLbm5rYVlDbmhmZXVKOVRqaWszaGx2c2lLWFlTOUtDTGluYjZySXhKSGQ0VkZOd0ZXUnA1LU0wdmZfY3llX3F5b1ZjelAyM2Fr?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783975765072-5",
-      "title": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정 - 디일렉",
-      "excerpt": "오라클, ISG AI&데이터 플랫폼 가이드서 리더 선정  디일렉",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fckRMWlI2eGVCamVJYnNKa0c3dnR1LVRlU25QU2dKaFlEMV94ZU43WVdnREpPSjNvdEx0YXkwbzY5UUhYVkFKdnVCTGJzRE1ZQl9lZ3dhaHBDZmdBWkJlMElVVmptdw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783631543723-5",
-      "title": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정 - 아이티데일리",
-      "excerpt": "[AI 브리프] 오라클, ISG ‘AI·데이터 플랫폼’ 평가서 종합 리더 선정  아이티데일리",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qbHdMamNKWVJ3dTdLNmlCUnFuX2VQM1JVNlY2cjRBNnpVXzA1Tk80ZlJEd3otWUVXY1Y4R1JqTmRXZVppZHlMNjN2QmhjcHYxbGxGd3dCU2ZBV0l4TDczOUpXMG9nVXc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783458907264-4",
-      "title": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득 - 데일리시큐",
-      "excerpt": "오라클 AI 데이터 플랫폼, 기술 조사기관 ISG 평가 9개 부문 모범 등급 획득  데일리시큐",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Vclg2ZFNxU2JmclJ2X0FsRlVXYjBCaUR5S0dLUVRZbF9sekp4Vi16QnBad1pBTzRxRG5BTUV6d2t4MFBMNUFiTFRNY1ZGVjF5R2dqSENydUpWVFJoX3JyczZ5czFWdjhfX0haVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783458907264-5",
-      "title": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정 - 테크월드",
-      "excerpt": "오라클, ISG ‘2026 AI·데이터 플랫폼’ 종합 리더 선정  테크월드",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySmJ3WXBDQ3V5REtsNHRyRTUtNE9WZDdtcjhZSGtmRWhMUThCcnY4OGRvckdaSEVQV1JKNDd4RmhxYUI3MUVJU2V2RmRRcHV5a0d4X2VJWTZDczJxRjBNeVBITHFfWi1N?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783372875687-4",
-      "title": "오라클, ISG 2026 AI 및 데이터 플랫폼 바이어스 가이드 종합 리더 선정 - 위클리포스트",
-      "excerpt": "오라클, ISG 2026 AI 및 데이터 플랫폼 바이어스 가이드 종합 리더 선정  위클리포스트",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tNkthUHF0cWxhS0t3Q0hlZE5QRW5zaDdSVnlOem1PdGl2V09pRVFCTXIxWVROOWsxS2M5Z3dUMTdUbmRJQ1h1eGpwQkNqY1VEYXdkaTAxMm1sQlFYT0tGblFfOS1QWktRTlRR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783372875687-5",
-      "title": "오라클, 글로벌 시장조사기관 선정 AI·데이터 플랫폼 리더 - 파이낸셜뉴스",
-      "excerpt": "오라클, 글로벌 시장조사기관 선정 AI·데이터 플랫폼 리더  파이낸셜뉴스",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTk9iaUx5SGJYcFpWRHJZVXhySHdPcmN4dGJTQTFkT3o0S1pINzk5RlEtMFg4aTdqc3lESjF5Mkt4MDdCcG1kUElNY0ZuWm9CLVVBOW8tc2JMZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1783975765072-0",
-      "title": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정 - Oracle",
-      "excerpt": "오라클, ISG '2026 AI 및 데이터 플랫폼 바이어스 가이드' 종합 리더 선정  Oracle",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTJYQjdkYVRNdHdPaGFXc1hxYkNoR0NyWU95VkpUWHRaZFVZYnNCTDFfYnFCT0IwVVBpNmw1QkxlaUJ4UldleHlURGRTZjF3RGJaNWRVU0U3dHE1V19uOVlQVTRnM0pjdllJTkNLbm9QbHY2Rjh3c3VsWUpjaks4QkhKUWo0QlhSM1VpbHpBMVF6RTBnNDRJMUJRSlNvMkdDZG9QTDVRNWxfdktvRnBuRnRJaFBqc2p1clJj?oc=5",
       "category": "Industry News"
     }
   ]
