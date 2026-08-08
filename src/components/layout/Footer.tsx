@@ -46,8 +46,13 @@ export async function Footer({ lang }: { lang: Locale }) {
                     <a href={`mailto:${dict.footer.email}`} className="text-primary hover:underline">{dict.footer.email}</a>
                 </div>
             </div>
-            <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-500 text-sm">
-                © {new Date().getFullYear()} {dict.footer.copyright}
+            <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-500 text-sm space-y-2">
+                <div>
+                    <Link href={`/${lang}/privacy`} className="hover:text-white transition-colors underline underline-offset-4">
+                        {dict.footer.privacy}
+                    </Link>
+                </div>
+                <div>© {new Date().getFullYear()} {dict.footer.copyright}</div>
             </div>
         </footer>
     );
