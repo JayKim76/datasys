@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Locale } from '@/i18n-config';
 import { getDictionary } from '@/lib/dictionary';
 import { FileText, Database, Settings, Shield, Activity, Wrench, MoreHorizontal } from 'lucide-react';
+import { AdBanner } from '@/components/ads/AdBanner';
 import Link from 'next/link';
 
 const getCategoryIcon = (category: string) => {
@@ -77,6 +78,11 @@ export default async function TechPage({ params }: { params: Promise<{ lang: str
                     </Card>
                 ))}
             </div>
+
+            <AdBanner
+                slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_LIST}
+                className="mt-12"
+            />
         </div>
     );
 }

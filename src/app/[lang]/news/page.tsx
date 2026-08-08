@@ -2,6 +2,7 @@ import { getNews } from '@/lib/data';
 import { Locale } from '@/i18n-config';
 import { getDictionary } from '@/lib/dictionary';
 import { NewsList } from '@/components/news/NewsList';
+import { AdBanner } from '@/components/ads/AdBanner';
 // I'll use a simple span for category.
 
 export default async function NewsPage({ params }: { params: Promise<{ lang: string }> }) {
@@ -19,6 +20,11 @@ export default async function NewsPage({ params }: { params: Promise<{ lang: str
             </div>
 
             <NewsList news={newsData} lang={lang as Locale} />
+
+            <AdBanner
+                slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_LIST}
+                className="mt-12"
+            />
         </div>
     );
 }

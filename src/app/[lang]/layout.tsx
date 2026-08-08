@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
+import { AdSenseScript } from '@/components/ads/AdSenseScript';
 import { Locale, i18n } from '@/i18n-config';
 
 const inter = Inter({ subsets: ["latin"] });
@@ -28,6 +29,7 @@ export default async function RootLayout({
   return (
     <html lang={lang} className="scroll-smooth">
       <body className={inter.className}>
+        <AdSenseScript />
         <div className="flex flex-col min-h-screen">
           <Navbar lang={lang as Locale} />
           <main className="flex-1">

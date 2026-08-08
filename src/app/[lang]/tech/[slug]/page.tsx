@@ -3,6 +3,8 @@ import { Locale } from '@/i18n-config';
 import { notFound } from 'next/navigation';
 import { Badge } from 'lucide-react'; // Placeholder only, using text badges
 import { Button } from '@/components/ui/button';
+import { AdBanner } from '@/components/ads/AdBanner';
+import { CoupangPartners } from '@/components/ads/CoupangPartners';
 import Link from 'next/link';
 
 export async function generateStaticParams() {
@@ -68,6 +70,13 @@ export default async function TechDetailPage({
                     </p>
                 ))}
             </div>
+
+            <AdBanner
+                slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_ARTICLE}
+                className="mt-8"
+            />
+
+            <CoupangPartners lang={lang} />
 
             <div className="mt-8 pt-8 border-t flex flex-wrap gap-2">
                 {resource.tags.map(tag => (
