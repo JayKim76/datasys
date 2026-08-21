@@ -1,7 +1,23 @@
 {
   "en": [
     {
-      "id": "en-1787257041060-0",
+      "id": "en-1787343262560-0",
+      "title": "Build a Controlled Cursor MCP Workflow with Oracle AI Database - Oracle Blogs",
+      "excerpt": "Build a Controlled Cursor MCP Workflow with Oracle AI Database  Oracle Blogs",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM3dXMjI2c0VQWVNsR29IX0daV2tFTDhVOW8tWmdwN0NGbnZHM3FlM0VSUWFpVFBoZ2p4TDlDZG9yWm1Sc0txTVV6MkZGYU9nWWJkUTN1WmlrWEFMT0hscXFLcjlrOTFXd2stSngzZXN6SHpBVUFGY1lJeVZ4TlBWWWZ2UlpBblI2TFR0MG8xZlRaRjdNcjd6ZWk3TExJblU?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787343262560-4",
+      "title": "What we learned about letting agents into a production database - Oracle Blogs",
+      "excerpt": "What we learned about letting agents into a production database  Oracle Blogs",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEhjb2V1ZVNOR1FocW1Cd01adXQ1cFN3ZzE3Vk9kU2hrcE5NX3FXY0dWM19uRGFtWlRWOFBBSFpSWmxHRUFsVm8zcXl5dVV2RVhuVXlMcEkzbkpBX1B6dDFqVllLby1naUVVOUpWVG5HNjNJeVFpbTJfbFNBQXlscm9lbFJKeFNxQkhPQW9sRFlFcXdFeWJHRzdleDhObTlX?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787343262560-2",
       "title": "New AI capabilities from Oracle Health target workflow efficiencies - Healthcare IT News",
       "excerpt": "New AI capabilities from Oracle Health target workflow efficiencies  Healthcare IT News",
       "date": "2026-08-20",
@@ -9,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787257041060-1",
+      "id": "en-1787343262560-5",
       "title": "Oracle’s August Moves Put Its Database on AWS and Its AI Agents to Work - ERP Today",
       "excerpt": "Oracle’s August Moves Put Its Database on AWS and Its AI Agents to Work  ERP Today",
       "date": "2026-08-20",
@@ -41,7 +57,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787257041060-4",
+      "id": "en-1787343262560-1",
+      "title": "Oracle Corporation (ORCL) vs. Amazon.com (AMZN): Which AI Infrastructure Giant Is Better Positioned for Long-Term Growth? - Yahoo Finance",
+      "excerpt": "Oracle Corporation (ORCL) vs. Amazon.com (AMZN): Which AI Infrastructure Giant Is Better Positioned for Long-Term Growth?  Yahoo Finance",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2hZOTZUZ3pyd1ZDUGNBZWlhbC1DMDU4d3F5SWlBejR1WDhuTDFhN2M3SHEzanBVY2QyMGxHaVpqakJLN2hEOXpuY0Q2SWZYMWRkUGpZQ1dHQjgzVUJPdTJIc0l3R0E1VzZVTnV2UVB6Qm9oTF9oZ1pKdWsyaGc3UTg3ZEppeTBtZnZ6LXFQZXN2MDZJWWtXdGstWndFUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787343262560-3",
       "title": "Oracle Health Expands Clinical AI Agent with Automated Coding, Dictation, and Chart Review - PR Newswire",
       "excerpt": "Oracle Health Expands Clinical AI Agent with Automated Coding, Dictation, and Chart Review  PR Newswire",
       "date": "2026-08-19",
@@ -967,51 +991,11 @@
       "date": "2026-07-21",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2h5ZFNReU9yVFJpYXBiNjFwbWtta1g2NEdFQUYtd0FFQ2lVZkcwWlgtNWxDVEk3ZjBFNkt1Rk1mN2dXOEhoNVJqc1RaUWlfMkdvcFR2R0R6cmpUbXJVSnh2MFpoN0tjZ1ptNm9tVUtfS21WRFF3V0JFUjVMSVFDNFJEOTE0eFNZUlBEczhqd1FSOUtvUktzX2VYUXBTdS1xSGRDNnBKZXVCbGtxUDNOWmRRMkdUdjQx?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1784667473189-1",
-      "title": "Build a Self-Improving Second Brain on Oracle AI Database - Oracle Blogs",
-      "excerpt": "Build a Self-Improving Second Brain on Oracle AI Database  Oracle Blogs",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzF2X0VNVjV1M2JnYW0tcVZ5UDFJOTRlaTZQd1pvNEdJclZ5WG1QUm9IaW1Hb3AtdTc4WC1rQnVQa1ZtWWhWNjUwMkNHTTBLbHkweENKajlCQnJhRTIwdTZ2QVU0dThUZzBkMWhnRHl0cHRMalRyN3hZUzZNcVNtTHRuakNkb194em9jVEdRT2g4THJhRGZBcA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784581254777-1",
-      "title": "Will Oracle’s Fusion-Native Approach Solve Agentic AI Governance? - The Futurum Group",
-      "excerpt": "Will Oracle’s Fusion-Native Approach Solve Agentic AI Governance?  The Futurum Group",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2FuZFRFR1RJdzdEYVIwbTlVNzczc3FVT3FRQzdsMUl1ZmJHSUMzSlRlTFNTVi1nNnpvVjBRcmpjVktjYURETlRfczI0Vk9vVW8tdG5rck53VzZCajJsUW9TTW40SzJzWjVGbTJRaE4xb1VJcmYyUHp1NFRWSXV1Z0t1WjVvbTVZenpncDhXRUR3b3ZXcW5rbTQ0U002U28?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784581254777-2",
-      "title": "Oracle Stock Leads 3 AI Software Picks With Strong Growth Forecasts - simplywall.st",
-      "excerpt": "Oracle Stock Leads 3 AI Software Picks With Strong Growth Forecasts  simplywall.st",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm9vS3lSR3JFRUhoWk5lbFZFMWNTUm9UTDhDZjdqa29fWTgxWXA3VlJRUUZCSmdXRXlKQUR4VE5aQWh5dHg3ZEUtcWJiVzllQVl5WElvTkhORnR3Wk1sSTkxTWhjR3dBUEVsRzZIQnltVk5mcmpQUFg5MzNkMUJ6YXJSM1JRMHNaMVNQdEJidlpkVTF6cWVRTGlpbG5sbFdBenQyWUp3bWxHcU5uczVNaURxTGlvVXdrT1hZOVRjRzPSAcYBQVVfeXFMTUp1aUU0MlAyLVFMb1YtQlZPZThEbjh5NThUUDIybTJPV21NVldTUWhHa2YwbmVCaE9jc19tSmpRSDFqeHU4NkFkb1FHY3Y0Nld0eEkzZHJ2eGZPMFl6YnBnOVY3TVVhNG55UlRuMll0WDBEbk50OHlCUTFjZUM2N3pZaGFza2xiMGxOQndMZlJ4YVRJcURaZ0lybWU2MnVHUlJ0RXF2b0UxWTZMQ0FCUmFyS2F2WU9RMDB1aEV1SEdjOXlLU1ZR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784581254777-3",
-      "title": "#1 Palantir, #2 Google Cloud, #3 Oracle World’s Hottest Major Cloud and AI Vendors - Cloud Wars",
-      "excerpt": "#1 Palantir, #2 Google Cloud, #3 Oracle World’s Hottest Major Cloud and AI Vendors  Cloud Wars",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG1TSEZnenlmRndwc05WVmFnTFdJcExZNVN2aGM4SlF6OGh5OF9DSDdGNzM1TElfSFR4ckZWOXV4aDVYQlVYRnNoNlJQTzRhYU45UzRjU2xVcngxX0dPOTZOemI0VUdCaFc2S2RkdlRPVlA1bFQtNDlCcTlub0xRNDBlM2hSVTRoNHpVM2ZJSWVlMkpST2duenhxbi11aGhJX2FGVXdtMGpaUTZJWjZTSVd5UnVZY0ViOFVSLVJR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784581254777-4",
-      "title": "Oracle risks falling behind in AI race - The Seattle Times",
-      "excerpt": "Oracle risks falling behind in AI race  The Seattle Times",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHJ0NWFsY1IyMlUxTkR2ZzFLRWpHZ3RlV0pLTmp5VzNJZGtmTlRfUlRBblA5aEFoM0NYRGM2aTFuTmQ4WmdTc2d4T1JPX1pzbEhObFlRUU5acWpiblBRWEFPcWpKS3BPUkt6akVIVjQydzQyU2hLUEZxQllLT0Q1Q1M5cjZFQUpla2NxMFlPTjhOUklHX2VnZDRIOVNJSWJkS1lF?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1787257041550-0",
+      "id": "ko-1787343263563-0",
       "title": "오라클 클라우드, AI 에이전트 특화 인프라 전면공세 - 바이라인네트워크",
       "excerpt": "오라클 클라우드, AI 에이전트 특화 인프라 전면공세  바이라인네트워크",
       "date": "2026-08-20",
@@ -1035,7 +1019,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787257041550-2",
+      "id": "ko-1787343263563-3",
       "title": "AWS와 연대 강해진 오라클, 엑사데이터·AI 데이터베이스 확장 - 더에이아이",
       "excerpt": "AWS와 연대 강해진 오라클, 엑사데이터·AI 데이터베이스 확장  더에이아이",
       "date": "2026-08-18",
@@ -1043,7 +1027,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787257041550-3",
+      "id": "ko-1787343263563-1",
       "title": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장 - 지디넷코리아",
       "excerpt": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장  지디넷코리아",
       "date": "2026-08-18",
@@ -1059,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787257041550-5",
+      "id": "ko-1787343263563-2",
       "title": "오라클과 AWS, 전략적 협력 강화로 AI 데이터베이스 도입 촉진 - 데일리시큐",
       "excerpt": "오라클과 AWS, 전략적 협력 강화로 AI 데이터베이스 도입 촉진  데일리시큐",
       "date": "2026-08-18",
@@ -1075,7 +1059,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787257041550-4",
+      "id": "ko-1787343263563-4",
       "title": "오라클-AWS, 장기 전략 협력 계약 확대...엑사데이터 서비스 전면 개방·22개 리전 확장 - 헬로티",
       "excerpt": "오라클-AWS, 장기 전략 협력 계약 확대...엑사데이터 서비스 전면 개방·22개 리전 확장  헬로티",
       "date": "2026-08-18",
@@ -1088,6 +1072,14 @@
       "excerpt": "오라클–AWS, 클라우드 협력 확대하며 기업 AI 혁신 가속  캐드앤그래픽스",
       "date": "2026-08-18",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnllWWtldnZiYW5MZ0dRdnFwQXpmYlJfZUJoM1g2cC1HNm5sYzU3TmdEUWlxZkdhdFB5OXVZcGZfdEYyaW9HYmw5ZkZRa3plYjlJaUk3WmdlRjZzQUIxQnhfY3J0LTJFVnNwRDh0LWprYVpCNTh1Qno5aEdFeVdjc1phNDhqWVJNLWVXRXBB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1787343263563-5",
+      "title": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화 - 전자신문",
+      "excerpt": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화  전자신문",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZMjU1d245WUY4VkJua0dmbV93MzR5UmdIQUVXeWdnY2tTMzdXQWE0a0t2Zm1jWlBlZXJ3ZlZPY0hJZ0l0TDFKWlpQcXNpZw?oc=5",
       "category": "Industry News"
     },
     {
@@ -1592,14 +1584,6 @@
       "excerpt": "오라클 CDS 18년만의 최고…\"AI 투자 수익화 우려\"  연합뉴스",
       "date": "2026-07-21",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YMTBDRDZXUGVIX1NzM0ZycGpPY0tNemFKdmp0c2pVTUxUV0p6OVFrVEowNGMtUEotTTl1am5WX1J6SDJTRTh6TnNwalBtTURnUTZIZmdKeWpPR0nSAWBBVV95cUxOcXhUODdVM0c1UHcyRjJWMDF5aHBIanBXRkpKenlxNjZ5WjFpX1o0XzM2ZGZsUl80My12RVk0OXRZbVRfVlRYTXlRMnZQb0hjU0VIbTExSDRiTTRWU2NhS3I?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1784667473616-4",
-      "title": "오라클(ORCL) 주가 전망: AI 수주 성장은 강력하나 주가는 하락, 주가는 여전히 상승할 수 있을까? - TradingKey",
-      "excerpt": "오라클(ORCL) 주가 전망: AI 수주 성장은 강력하나 주가는 하락, 주가는 여전히 상승할 수 있을까?  TradingKey",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeDZaMERLVXVpNFRTUEdCZ09uYm50RXVyQTlGQzNnZjdGSXpaT1ZiNGxQc1Z3V3M3SGpjMHluS3lMempwQ0RSaUxlSV96TFZ6ZWNDc3hELVlIdllvTE1ldEtFcFEzcF9GdGlzcTMwdTRIRmVMelZfZHhvenlyZ0FuYkF3Yjc4bm9ZazRBTlh2WmtEbzNJR2RBREhrcFlmUF92d0JZR2NBVGVhT1lWRzFiNnR5SHFwZzhtU2t3aDlMSTYxOVhmUm9fc294bDEyaTlLSzJReTZKajl6RDcxalMybmo2WUliclgz?oc=5",
       "category": "Industry News"
     }
   ]
