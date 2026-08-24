@@ -1,7 +1,31 @@
 {
   "en": [
     {
-      "id": "en-1787515890834-0",
+      "id": "en-1787602711792-0",
+      "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain - The Register",
+      "excerpt": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain  The Register",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEVkdXI5MlNwLV9qbm9wU0lPYUxEZEtad2tEUTd1LUtXd0t6TmdzYjBnVVJ1bEIyWjRfN19MVHp1Qnpubjc0dnB2RW1wck5nZ3czNzV3eVU3RTVCbWt1QjdiNGVUb1VRMm92S1VyNC1wVTQyZHNQMnhoSXl4YW9uZmxvaldsZzFhWk42ZWdNdUxlQnVNbktqR2hRVzZ0Z042U3ZqMFBkdV8wbGFoMzByUkowX2Z4eVE2OHh5ZFlLLS0?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787602711792-2",
+      "title": "Oracle slides as investors stay focused on AI spending, leverage, and execution risk - Quiver Quantitative",
+      "excerpt": "Oracle slides as investors stay focused on AI spending, leverage, and execution risk  Quiver Quantitative",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTR5NWswc3VKR2tmNHh0MGpOVFpnREo2X0dOcWYyYTU2Sks4LUliQi0zdHg3U3g2QnRTdmdGbnI5b0tDTjlRQVJjSXFyYkdXR3lPdnlvcDM4dE5vT3Q5Vnlrd3JIMDZSQ1JIUHBYZGZlNkl5ZE51Y2hWZXFnWERlaW5KT1RRM3QzTHdEWV9lTGR6Q2h6eDB2SU1EaGdoQ0dvNkFtblNkZWFJWkRldUNJSXo0ZjNmcm9qSlpDbHdn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787602711792-5",
+      "title": "AWS emphasizing database security as AI powers new threats - TechTarget",
+      "excerpt": "AWS emphasizing database security as AI powers new threats  TechTarget",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmZVblo2MFNhTkNWZ0VwaXVwZXV1b2NoWlUzekhNbnE2cl9hWkdZMVUxbDZzdVVDU2hiQVpCUGNaUWhZN2FXT0dnWUNPRUx2b0V0ZUlSaXFvdEN2RXdwNy1Uc3pLVnFldzA3NkJfQkZlbEdJSTFEbUY3YjQyMEJvQ0c0elFtQmhzc1hQbVBaUmRqLUNqRXNDTTZJYV8zVjUxT3RKZEpuRXNUTEpYYTNNUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787602711792-3",
       "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - The Motley Fool",
       "excerpt": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?  The Motley Fool",
       "date": "2026-08-23",
@@ -9,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787515890834-1",
+      "id": "en-1787602711792-1",
       "title": "Build a Controlled Cursor MCP Workflow with Oracle AI Database - Oracle Blogs",
       "excerpt": "Build a Controlled Cursor MCP Workflow with Oracle AI Database  Oracle Blogs",
       "date": "2026-08-21",
@@ -25,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787515890834-2",
+      "id": "en-1787602711792-4",
       "title": "New AI capabilities from Oracle Health target workflow efficiencies - Healthcare IT News",
       "excerpt": "New AI capabilities from Oracle Health target workflow efficiencies  Healthcare IT News",
       "date": "2026-08-20",
@@ -879,51 +903,27 @@
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ZuazgtZnZBU0dfZHpNNndXY003WDhhN2NPMTJxbUd5Wk9hbXhkSW95Zy1ldlZjZVdSVUhlSkh3MXliY1BWUTB2NWVjUHhNR1RiZFR0YmE2Y2ktdi0xY0VaUXdBX2V1WmNSTDhscm1HbFNfRlE5SWVSREMtWTlOWjI5Z3FOZG1rSWFCUw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1784839888117-0",
-      "title": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35% - Oracle Blogs",
-      "excerpt": "How Nanoprecise migrated AI workloads to OCI and cut cloud costs by 35%  Oracle Blogs",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUZDc1M3OV9NbFdnY0V6LUtLU1dIUkQ3THFzeTRMWFI4bVBobDdYZFdldTRrVW5ueUU2MjByS3ZmOEM5RHZaR3NHQ1RZeUVCcTc1WU9ubjRBYUZkOGE0eXE5YTQwa3lrWXBEeHFVR3B0ZkJySTZFWkpCS0ZLOHFoUjBpRWE5N3ZxOEkxT1c1dWNXWW9jWVlyMldaVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785098717750-5",
-      "title": "New Oracle AI database targets cost, data residency concerns - TechTarget",
-      "excerpt": "New Oracle AI database targets cost, data residency concerns  TechTarget",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWhOWlpFSm02MHV0TldubE0xLXNaakU4TU5yaDlDYWxVcEx1THk0NTNJbkVZZnY3U2NqTEltbDBFWlVDcmtnbklaUVQwcWJLLWVZeXp4UERaeHFCVTJ2cWlIcnJtaDhvT2hfaGJGZWswcDYyTXR2T2tjNXUtdVpnd0xCS0RZX1ZNajlmZlByUUFicU1haHJWbUNEaUlLa1dCREJhQkJyUTRsN0tlRVYxQjhXTlZvMEdsMXc0cFB5cw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784839888117-3",
-      "title": "Oracle drops 1,449 security patches like it's the new normal - The Register",
-      "excerpt": "Oracle drops 1,449 security patches like it's the new normal  The Register",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHNJdm5VME9mTUFrY29DbGprVHEyY3hWY25NU3Jzc2pBYTJOQWdEZTFGNkxvb2VGZHdEMF9CdVRvNVMzWEM1YzFlclctNUtRX0xSMWRwTnRhQjhwLXRZcHdpUVREMGx1TUlMaERrWWRTa3otYkdPWjBScWFFaWVpTTRUcHk3Y3h0Z3RyejctbkdTeDdxc3pIcDQwLWVIMzdLd2JaYmx6SHFuOGV5eE8tdGpONDA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784839888117-4",
-      "title": "Oracle cloud hybrid-cloud service delivers databases across distributed footprint - SDxCentral",
-      "excerpt": "Oracle cloud hybrid-cloud service delivers databases across distributed footprint  SDxCentral",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3JVZVRKejdYMTg2M3RkcXB0VG9INlUwQWNCdXFscHFfVTdEOHZLcWNLenhkRDhPeURFMl9JYnZIX2JUeHlaS0FMV1dXbm1FcTA4ZXdHcHZLbnFjUnB5QUhlQndsUG9aZ1pVcy03cFpVaFo4MkJMbldSX19OU0FHRUxOM0pSSWU4blFBQnEwVk1xNnlkanlMOS1LQjYzSTZwaTA3c3NFenViMlFTSU5tanBDUVo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784839888117-5",
-      "title": "How Oracle Can Make The Right Call On AI Demand And Still Lose (NYSE:ORCL) - Seeking Alpha",
-      "excerpt": "How Oracle Can Make The Right Call On AI Demand And Still Lose (NYSE:ORCL)  Seeking Alpha",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTTNzMldfdHZ3RkRMVUdTMHVJZjNFam9Jck5yVmNUNzJFbmhEekxCWTF3NU5fVUdiZVF1Ry1qYTlOb250OERNTHgxNTc4MUxDaUhWQS1admhIUi1rbTRPS1lyMzAzSUxDVTJLSnNCUnREbHFxYmdvLUNYaHBQcGlCVGxBVEpQMU5KS0FqRHQ2VjEtdlk2NXUtN05MSQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1787515891262-0",
+      "id": "ko-1787602712240-1",
+      "title": "AI는 오라클(ORCL), 투자 매력은 아마존(AMZN)...5년 승부 갈렸다 - 코인리더스",
+      "excerpt": "AI는 오라클(ORCL), 투자 매력은 아마존(AMZN)...5년 승부 갈렸다  코인리더스",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zQ3ByVFpYYklKOVZ1WEdNY2pQWnkwa05uQzFyNDBRUGM1dmZ4NTc4OGU3N095WDVOenIyZGJMQUN3OVp5MFpoSW13?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1787602712240-2",
+      "title": "메타커뮤니케이션센터, 오라클과 AI글래스 'InterAI Lens'로 CES 혁신상에 도전한다 - elec4",
+      "excerpt": "메타커뮤니케이션센터, 오라클과 AI글래스 'InterAI Lens'로 CES 혁신상에 도전한다  elec4",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZzg5N2FtWUdGRkRwOW1vVTRTczJIRWpSSk1qZnA5cWlrLXJCS2duZmc4bnc2SzRMWURNZUtjS1JEZ3cyOEk2SDhudVBvd1RFLURfQ1J2VlloUE1nRWdVbkpKX3NJOGtGTUNfR3pB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1787602712240-0",
       "title": "오라클 클라우드, AI 에이전트 특화 인프라 전면공세 - 바이라인네트워크",
       "excerpt": "오라클 클라우드, AI 에이전트 특화 인프라 전면공세  바이라인네트워크",
       "date": "2026-08-20",
@@ -939,7 +939,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787515891262-4",
+      "id": "ko-1787602712240-5",
       "title": "오라클-AWS, ‘오라클 AI 데이터베이스@AWS’ 확산 가속화 - 디지털경제뉴스",
       "excerpt": "오라클-AWS, ‘오라클 AI 데이터베이스@AWS’ 확산 가속화  디지털경제뉴스",
       "date": "2026-08-19",
@@ -955,7 +955,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787515891262-1",
+      "id": "ko-1787602712240-3",
       "title": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장 - 지디넷코리아",
       "excerpt": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장  지디넷코리아",
       "date": "2026-08-18",
@@ -1059,7 +1059,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1786997707662-0",
+      "id": "ko-1787602712240-4",
       "title": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는? - 디일렉",
       "excerpt": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는?  디일렉",
       "date": "2026-08-12",
@@ -1432,14 +1432,6 @@
       "excerpt": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까  지디넷코리아",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdFp1c3pqNmFuTm1uM1pPaEtzZ0hjSm11MnpOV1hkbVZjNTRqX01VQkpZSUFTUFlsb0JicnhaVWFJLTliVGVPeFRkWVJINWVaODRqQ09n?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1784839888594-3",
-      "title": "\"수익은 나중, 비용은 지금\" 공격적 AI 인프라 베팅 나선 오라클, 재무·신용 압박 속 담보 부담까지 떠안아 - The Economy Korea",
-      "excerpt": "\"수익은 나중, 비용은 지금\" 공격적 AI 인프라 베팅 나선 오라클, 재무·신용 압박 속 담보 부담까지 떠안아  The Economy Korea",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVVNXejBIeGxrMGdMVTZoZ25wQVIxQXl0N2RKdWFhV1Vsa0pnV2FDenZjalZmdGEtbnBYWVBVMHJXdlE1ZHNIR003RTZwdXBrTndPM0duaEJGN28?oc=5",
       "category": "Industry News"
     }
   ]
