@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1787689045191-0",
+      "title": "Google Cloud and Oracle Sittin’ in a Tree, K-i-s-s-i-n-g - Cloud Wars",
+      "excerpt": "Google Cloud and Oracle Sittin’ in a Tree, K-i-s-s-i-n-g  Cloud Wars",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG9KeS1zc1JJNE9HOXhHVE4wV1FPMmc2aWFHTm1Zamo0NnplQ2RiN3dySVZ6eTZDQ08zWjBCa3FZZXpUbUVSM1RkRzdBUHduOWVFc0RnM01HYXZKaVFlTzBaX2toUE0wa1pHanA4SE8tUUs0TE4zVFFRbkNOMWgtUEJiV0NCdVk?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787689045191-1",
+      "title": "Oracle Stock Is Now An AI Infrastructure Play: Is The Price Of Admission Too High? - Trefis",
+      "excerpt": "Oracle Stock Is Now An AI Infrastructure Play: Is The Price Of Admission Too High?  Trefis",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLUs4UzFBbWkxNlQ1OFhhU29uT2lvZ0MyLXVoVmNfZkJEcjVzalNWSS1SOExsSDVfWEExendleWdWRmIzOTE5aGlWVHBxMXZhWTNXemlQSmlTaFFNejgwdVc1ZHZ4aXhTTzRDdklvdUV1aXpiNFpxc1VIQlBjY1YyZVQxVlFpVkFxQkJkUkdMdVp4LW5sVENqMzZEQ3JIVUpMc01zYjRYZHVGZUdxRDNsY2ZsQWhibXFGaDNxWnFfZEZ1QmhoTUVwNjdjb1ptNVh2UnJGcHd1clM?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787689045192-4",
+      "title": "Microsoft Stock and 2 AI Names Backed by Cloud Demand - simplywall.st",
+      "excerpt": "Microsoft Stock and 2 AI Names Backed by Cloud Demand  simplywall.st",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLU5FYVhPUnJWZnZrMXBHYmEzLWhYX1J3U3U5YjVzQ183b2t5RlE1U2hSWUNGZ3gxR0oxRWhQenU5eGNRMk1yRldERU5FZGtvZ3JKMTRHRGZyQzVQZlg3T0ttQ21lcVRLT0pTdm8wYXdad2JrQUIySld1RTZyaGlvVDdIMlc1VzNTZWtuVUMzV0xQU2tEa2k4MXUza0hFREoxbHRoQWRUSV9uakRoZnI0T1huQ2NjSkhzZzg5anFB0gHDAUFVX3lxTE9ON0twb0UzaUVYa1dqd1FuMWFBNEE3Zzc3cmVWN3lCMDhHMndzbW80bW9wVHB2cWFRcmJWaDFqVjhPcE5TcWRFdFc4TnFaOXlVcXphREZSSzRWR0RlbDlBV3d2ZXNVSzZZMUx0cmFxVGxKM0V3cEJIajVrVkdsTlFvT1hwQjZ5eXAwQXFqYmNaUjZoTzRjZ29vTF9NSjJiSHljNngwR2s4VmtfRlVicUs0SmNBaW9EQVVaNUk3SjZOZ1RfYw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1787602711792-0",
       "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain - The Register",
       "excerpt": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain  The Register",
@@ -25,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787602711792-3",
+      "id": "en-1787689045192-5",
       "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - The Motley Fool",
       "excerpt": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?  The Motley Fool",
       "date": "2026-08-23",
@@ -33,7 +57,15 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1787602711792-1",
+      "id": "en-1787689045191-3",
+      "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - Yahoo Finance",
+      "excerpt": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?  Yahoo Finance",
+      "date": "2026-08-23",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2ZQQWlpYUx6d3M0U0xjQzJwYU9NelhkMkh3MlZuUW5zR0xtRXJqLU5RdnVwNWpyb0RxTlpLSVUwd2YzRjRhaGd5WkFyalk0Tklmd2hLVFQ5VGJsR2JsdDF3WU9jbXk4RGp2VkxnLTJWU0RmcWgyT2NtU0xTQ3FNaTRUOHBtTTRvVFJOTGRYZTV5TVBI?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1787689045191-2",
       "title": "Build a Controlled Cursor MCP Workflow with Oracle AI Database - Oracle Blogs",
       "excerpt": "Build a Controlled Cursor MCP Workflow with Oracle AI Database  Oracle Blogs",
       "date": "2026-08-21",
@@ -855,59 +887,11 @@
       "date": "2026-07-25",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUVKRlo2dEpvcDRwR3VFVzMzZUlEbGJKaElKNlBIMlpXcXFHNDFtdTNoTjdFV0E2dmtzV0g5aGFSV3RrZXpESV9JeVdzcEFQZlhhM2F4dEp3V1E0ZVdfNW9sQzRBRzl4bG1NdEkzSTVscXBiVHg1SW9ZTnRhYlBvOVluMzdGREJsblh4Q3dhUjg1dUVvMFJvWU9wcw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1784926508610-3",
-      "title": "AI bet goes awry: Oracle fires 21,000 employees - The Jerusalem Post",
-      "excerpt": "AI bet goes awry: Oracle fires 21,000 employees  The Jerusalem Post",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnNxMjFJeHUyM3hUZWttY2xvMm0yeDc5bl9XLXU4T3ZmeGI1M2tMUDIwcC1SaUFlQ2lCMGdJbHBDUFo0VWREdlQwcDRXRDFob1pfdDNueFVKTEI0S09pTnZVY25oOTFXMXZkRkU3NzlZSktRZDl0UDlpNU4xc3B6dVJEY2xZZw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785186142351-4",
-      "title": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data - Forbes",
-      "excerpt": "Oracle Base Database Cloud@Customer Brings Private AI Closer To Data  Forbes",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkh1cUk3czdPd2x5Mm95QktHRnBMSnZzRlpiSjl3UFBySzZFWkdHNTIxT0Q0bWxGYUFGWFEtWFFxaUpOLUlUcnlNay1XaVlJSmFsQ2paWXhFbXlkOTNIVFRIMHNJckJsLWwzNDlLMlBZR0oteG1maWs1ZWFoX1JPZk5NS2JiWEJmNF9YTG9QUHBfYVlrdkNwdTVWaUZpOFBQMFpjMC0wdktBQm1XOWJia1R5M1ptcm1GYnlwV3V0Yw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785186142351-5",
-      "title": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads - The Futurum Group",
-      "excerpt": "Solving the Distributed AI Dilemma: Oracle Base Database Cloud@Customer Brings OCI Automation to Local Workloads  The Futurum Group",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjFRSGRWLUFNZ01ZNFIzWjA2bDA3U2JsQjNQSFE5UnB3YnhNRmRYU3IwbVIxYXFiYUZYWHNWeFdpTzYyeHprU3E0bXoyaldCRHBLeHUyaEhuaGFsWTI4cTJDdlItbllxMjFpbGhnci1FUDRyS1VGSVJId2thRnhuWk9EMFQtbjQyZjBrS0xvYWJEUS05UlFmYmsyU0ZjMEJfc09jYkZlWUNyTWZGYk9JRkxER2pZZ0x6ZW44Nlp3ajJRZGNPcm52MFB5c2E2MUtCZnNpNjVLVl8yTjRkdUE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784926508610-2",
-      "title": "Vector Search for AI Memory: SQL, JSON Metadata, and Governance - Oracle Blogs",
-      "excerpt": "Vector Search for AI Memory: SQL, JSON Metadata, and Governance  Oracle Blogs",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdld4bmU3cEN0a0tKTERCWE1JZUR3eDlaUmU4UHZ1emdFdHFaWjlZd0JGRllScmJzS1dtRDNkQk04clBFa2xyaC0zaWhQVm56bUpIY2xkX1V2UDREaEMycjdxdU84UnI0bXRJVllydkRFckNJb1ZqaGNNdWZKcENGV1YycUNzbDllcU5lZ0ZFUC1fRlNYbWFGVEJtZFg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1784926508610-4",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
-      "excerpt": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others  CNBC",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785098717750-0",
-      "title": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU - Oracle Blogs",
-      "excerpt": "Announcing: Accelerating Enterprise AI with OCI Dedicated Cloud Customer-Owned GPU  Oracle Blogs",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ZuazgtZnZBU0dfZHpNNndXY003WDhhN2NPMTJxbUd5Wk9hbXhkSW95Zy1ldlZjZVdSVUhlSkh3MXliY1BWUTB2NWVjUHhNR1RiZFR0YmE2Y2ktdi0xY0VaUXdBX2V1WmNSTDhscm1HbFNfRlE5SWVSREMtWTlOWjI5Z3FOZG1rSWFCUw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1787602712240-1",
+      "id": "ko-1787689045638-4",
       "title": "AI는 오라클(ORCL), 투자 매력은 아마존(AMZN)...5년 승부 갈렸다 - 코인리더스",
       "excerpt": "AI는 오라클(ORCL), 투자 매력은 아마존(AMZN)...5년 승부 갈렸다  코인리더스",
       "date": "2026-08-24",
@@ -915,7 +899,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787602712240-2",
+      "id": "ko-1787689045638-1",
       "title": "메타커뮤니케이션센터, 오라클과 AI글래스 'InterAI Lens'로 CES 혁신상에 도전한다 - elec4",
       "excerpt": "메타커뮤니케이션센터, 오라클과 AI글래스 'InterAI Lens'로 CES 혁신상에 도전한다  elec4",
       "date": "2026-08-24",
@@ -955,7 +939,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787602712240-3",
+      "id": "ko-1787689045638-3",
       "title": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장 - 지디넷코리아",
       "excerpt": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장  지디넷코리아",
       "date": "2026-08-18",
@@ -971,7 +955,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787515891262-2",
+      "id": "ko-1787689045638-5",
       "title": "오라클과 AWS, 전략적 협력 강화로 AI 데이터베이스 도입 촉진 - 데일리시큐",
       "excerpt": "오라클과 AWS, 전략적 협력 강화로 AI 데이터베이스 도입 촉진  데일리시큐",
       "date": "2026-08-18",
@@ -1003,7 +987,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787515891262-5",
+      "id": "ko-1787689045638-2",
       "title": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화 - 전자신문",
       "excerpt": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화  전자신문",
       "date": "2026-08-18",
@@ -1059,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1787602712240-4",
+      "id": "ko-1787689045638-0",
       "title": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는? - 디일렉",
       "excerpt": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는?  디일렉",
       "date": "2026-08-12",
@@ -1416,22 +1400,6 @@
       "excerpt": "오라클(ORCL) 백악관 AI 데이터센터 요금 보호 서약에 참여한 이유  simplywall.st",
       "date": "2026-07-26",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHRXQTZEZDVYUTdIMjlKTThoeEtSeGxrSkowX1R1Ry0zMFpzZUFGVDRkTk5KWnBYYTE5M0tFODZQUlRELUE4RThFUWZqTF9rMDB2RW5QdXlucEM0VHczMnoyY0RzRkRDUWI1eXdkNDg0QlZHUTVPWDdHMG9kUGNnLWZUVWpDVnJ6VUHSAY8BQVVfeXFMTlFDajFLalU0X2JiNmp1Mk53SlktZTZUNDcyM2JuN1l3SWptRDNaeVUySUZ2Nm9lbndORlNhOWQwWThZbUtWUEwwSm1NRjlxVmJhdXZkUTE1Q21yTTFiUjN3dVlwWTNCeVE2bERfVVN4ZWY4YzlxaWdIZU9HTEk1aUF6LWxLcGRsQUs1alJOaTg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1786480443911-5",
-      "title": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다 - 인공지능신문",
-      "excerpt": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다  인공지능신문",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PODdmWmVfTXZQZ29tOXNIS2xianB5MDZXMURFUXNPc2ZBVWg0djRoSHAzTkU5eks5cEF1a3V3R01Fdk9YYkVPT0lMRVl1Qlp1bU5XdUtaa1NOQ09GalJ4S2RPeHhaU0k?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1785098718168-1",
-      "title": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까 - 지디넷코리아",
-      "excerpt": "[유미's 픽] \"AI 투자 부담에 가려졌다\"…오라클, AI 에이전트 타고 재평가 받을까  지디넷코리아",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdFp1c3pqNmFuTm1uM1pPaEtzZ0hjSm11MnpOV1hkbVZjNTRqX01VQkpZSUFTUFlsb0JicnhaVWFJLTliVGVPeFRkWVJINWVaODRqQ09n?oc=5",
       "category": "Industry News"
     }
   ]
