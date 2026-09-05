@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1788644865497-1",
+      "title": "What’s New in Oracle AI? September 2026 Edition - Oracle Blogs",
+      "excerpt": "What’s New in Oracle AI? September 2026 Edition  Oracle Blogs",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTZMdUJwTm8tTEZrQWEtUERHY2V6MGlOc0xvblRpVnhZWktNMmtMa3Z1ZEZzRU9LVFlmeFZsbkVHTTZPeWtfdThGZXR2YlRQNXpRNVZhMERoNnRMRlRxUlN3VXd2cVFPR3BoQjdfdWp6OU1LNWlWSkdoSVYwbGU4R21FQmZ2MTBoOGc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1788644865497-2",
+      "title": "Securing data against AI-enabled attacks: How Oracle protects the database estate at the source - Omdia",
+      "excerpt": "Securing data against AI-enabled attacks: How Oracle protects the database estate at the source  Omdia",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2NBQU1jVGlwS3pDXzZtTTNSOFpmdnBOUTRNdU1pTEVTTHQ4SHRDazRHaU4tQWx1R2x2V3FiOTJvdjY3djZQbnZhcElCd1pURm56Uzk0ejNLZThNdGRUZWtPTnFmZ2IxOXQzai1BZ3FyRmpoN1A1ZVFHQ0hqZDZydXpuUlNsTzh3Mm9KVlhVMHZ0VkJFWUZnU3JYWS1YSEhxeXdWOEFvMlpVbUlaUW9aTHh0UzJLWmduejQ2LXN5cDlPcUxKaWxkVXQ0bjFuTmIydm5aaWJlNA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1788644865497-3",
+      "title": "Oracle's Successive Layoffs to Generate Funds for AI Infrastructure Buildout Carry Execution Risk, RBC Says - Yahoo Finance",
+      "excerpt": "Oracle's Successive Layoffs to Generate Funds for AI Infrastructure Buildout Carry Execution Risk, RBC Says  Yahoo Finance",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXNZSi0takJwMDFhSGc3VE1BZXRpd00zM2wyQWo4UENGd2lEa3NtZ3FNcF9kU2hDTTJma05NMXhib3JYUGNWZUxqcTF0LXExcllRRVYxOTFnT3B3Q3diRFljQkg0X3loSWhQQ1huS2ZEbGFfWFhLMWV3RDJpOGlKVmdURW9YMEJMRTdaMDlSOGI1NHh3cjlaMjgtWEt4YTZZVkdOTERn?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1788472827691-1",
       "title": "Oracle To Face Earnings Test After Wild Year Riding AI Wave - Investor's Business Daily",
       "excerpt": "Oracle To Face Earnings Test After Wild Year Riding AI Wave  Investor's Business Daily",
@@ -41,6 +65,14 @@
       "category": "Industry News"
     },
     {
+      "id": "en-1788644865497-5",
+      "title": "Interview: Oracle accelerates Middle East cloud expansion as demand for sovereign AI rises - Computer Weekly",
+      "excerpt": "Interview: Oracle accelerates Middle East cloud expansion as demand for sovereign AI rises  Computer Weekly",
+      "date": "2026-09-03",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWprZTN4WGVwX2NmQWhLY0lrMnRFRmpGODR5MmNCOWotdjMtVV9helJ5bjZnY2U1NWJ3aXhlYTBFcnVxWkxfVk9FaVFodlNJMjhjQ1RhSnlURUNKMllZeDR4VjFZemEyWkZsZDJBV0NUSEFuZTNNbFZxN0hhNWI2YzJ1NXN5aFZCYXVuaGppMUVmSFBQem93OXR5eXZkVjQzVWRQQl9McW9aZW1Qbi1fWEZpSGdsR2F1Xzl5bU5xcnFxWkRSaXF3Q1dMTVI1dERT?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1788386949666-0",
       "title": "Develop A2UI and MCP Apps with Oracle AI Database and the Java MCP Toolkit running in Google Gemini Enterprise App, ChatGPT, and Claude - Oracle Blogs",
       "excerpt": "Develop A2UI and MCP Apps with Oracle AI Database and the Java MCP Toolkit running in Google Gemini Enterprise App, ChatGPT, and Claude  Oracle Blogs",
@@ -49,7 +81,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1788386949666-1",
+      "id": "en-1788644865497-0",
       "title": "AI trade faces test with next week's Oracle earnings - CNBC",
       "excerpt": "AI trade faces test with next week's Oracle earnings  CNBC",
       "date": "2026-09-02",
@@ -129,7 +161,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1788386949666-4",
+      "id": "en-1788644865497-4",
       "title": "Oracle AI Database@AWS for cloud modernization and AI - PwC",
       "excerpt": "Oracle AI Database@AWS for cloud modernization and AI  PwC",
       "date": "2026-08-31",
@@ -815,46 +847,6 @@
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3b25tYTV5SW12WWpoanVObDdYX0VOLW1QWWFwNHdZVWNIM2N2am4tX3Z3VnVRS3Y2ZkxpOEZ0el9rX0hUNGhaVjBabF9LRmVlUlBuY3VkSFJ2aThVOWR3aTI3d19XcFB3ZUQyeGdnbXB6UnZhNlpHV0p1SDc?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1786220256506-5",
-      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - Reuters",
-      "excerpt": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  Reuters",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785877305970-1",
-      "title": "Oracle’s AI Build-Out Is Squeezing Gross Margin, Not Its Valuation - Trefis",
-      "excerpt": "Oracle’s AI Build-Out Is Squeezing Gross Margin, Not Its Valuation  Trefis",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlItQ3FEWjhLTnQ5bkNVUHpYaVBLcW9FbUk5TEl4WVVUOFdEUmJxWTFjVG9Zb1VyYUJnWGg0ekZMbzRyLUktWTFxOVVtZk1NTk1nMWdfbWw0M0dGTzJhMTlLVzRzZHVTb3N5c3p0YnJuUDg2aTZxeWJkamdXcFNUSGdRdzE5M240ZUdwVHY4bUw3X09oaTdOUG1zWTBYanprcHkwb1hWZVduQjFmTnh6VmtpazFLaHF0azFQZ0pHZjZPS00?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785877305970-3",
-      "title": "Google Gemini Expands Reach Into Oracle Enterprise Applications - thelec.net",
-      "excerpt": "Google Gemini Expands Reach Into Oracle Enterprise Applications  thelec.net",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xbmdpNzBKakxzX2phUlMxZTZ1MEdnS0xNUzFPdzZiU2lhZjV3UUVKZU5MMi1OVDBWMFVwQlJfYnZpakR3c295UDM5VDQ4bmxoMmlaNG9CVVcyeFREYVlyaFlhYmVaVkE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785877305970-5",
-      "title": "Oracle’s AI Data Center Funding Tests OCI Delivery Timelines - TechRepublic",
-      "excerpt": "Oracle’s AI Data Center Funding Tests OCI Delivery Timelines  TechRepublic",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14V19xbFIxX2FUbnBaS1IyamRNTGVIMTluUFdKWUVXZHA2NjV0NHloZFVBcHJJVm40Z1B2NS1XN2tvc1BFX1VTcGhkTmVsZ2RsMUNGbUlGbTlScjJOSUcyOFptcVhJdm5uLUtENlRLY21yY2RRMnA1VVNlZUo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1785963436283-3",
-      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - reuters.com",
-      "excerpt": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  reuters.com",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
@@ -875,7 +867,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1788559011297-2",
+      "id": "ko-1788644865910-3",
       "title": "엑셈, 2026년 하반기 오라클 기술 세미나 성료 - 지디넷코리아",
       "excerpt": "엑셈, 2026년 하반기 오라클 기술 세미나 성료  지디넷코리아",
       "date": "2026-09-04",
@@ -888,6 +880,22 @@
       "excerpt": "엑셈, ‘오라클 데이터베이스 SQL 튜닝 세미나’ 성료  디지털경제뉴스",
       "date": "2026-09-04",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTVdFQmxhdkVfaFJ4VGI5SnFtNHV1Wno0RFBraVFGVExJM2htU3V4TmZyb01pNko0YzM3Y3c0c1dLaXo4R2VTbFl1X1ZyNkdROVdZSFJ2aFMzcW9MakRzemJRRDVtRjhXU1E?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1788644865910-0",
+      "title": "오라클, 6,380억 달러 수주 쌓았지만 적자 현금흐름의 역설 - leadeconomy.co.kr",
+      "excerpt": "오라클, 6,380억 달러 수주 쌓았지만 적자 현금흐름의 역설  leadeconomy.co.kr",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sZmc1c2pEQ2VkR05jM1ZrSHNMQWRfLThwQjZYSnI3ZllhVHNYN0FXQUpTcXplaUZ4Yk1mNnNqMUR6dUpzWnVaNWNiS2wtRi1TMHJKbDNSbHhGZlcwcXB5TEJuSEZMVG5uRlhZeDhqZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1788644865910-2",
+      "title": "번스타인 리서치 보고서 분석: OCI 매출 알리바바 클라우드 상회, 오라클 AI 데이터센터가 FY27 성장 가속화 견인 - 深潮TechFlow",
+      "excerpt": "번스타인 리서치 보고서 분석: OCI 매출 알리바바 클라우드 상회, 오라클 AI 데이터센터가 FY27 성장 가속화 견인  深潮TechFlow",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14M3hYaHdTemRwLUJGcWJFVkYtZnZmSUFjQVBwRGJmZkN0UEZmQ0pBNmMtWnBCQVpXWlN3N3gxMVJJR0x3Z2NOcDFGdk1yeHJTSnFlZjgxd1hjb2Zw?oc=5",
       "category": "Industry News"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "Industry News"
     },
     {
+      "id": "ko-1788644865910-5",
+      "title": "오라클-AWS, 장기 전략 협력 계약 확대...엑사데이터 서비스 전면 개방·22개 리전 확장 - hellot.net",
+      "excerpt": "오라클-AWS, 장기 전략 협력 계약 확대...엑사데이터 서비스 전면 개방·22개 리전 확장  hellot.net",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMWpFeG9mUHFibzE5VF9wNXpNenhTcG1xYWJ5Y3lHRDFGaVhNQkVtZEM3WWRhX0pDZFFVdjdHVFRXSVpfbllmemJRQk9PNmhpbWlqS3FYb0t4TzlfMHYw?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "ko-1786997707662-3",
       "title": "오라클(ORCL), 어닝 서프라이즈에도 주가 '뚝'...130조 투자에 발목 잡히나 - 코인리더스",
       "excerpt": "오라클(ORCL), 어닝 서프라이즈에도 주가 '뚝'...130조 투자에 발목 잡히나  코인리더스",
@@ -1091,7 +1107,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1788472828113-0",
+      "id": "ko-1788644865910-1",
       "title": "오라클-AWS, 전략적 협력 강화… 오라클 AI 데이터베이스@AWS 기업 도입 가속화 - Oracle",
       "excerpt": "오라클-AWS, 전략적 협력 강화… 오라클 AI 데이터베이스@AWS 기업 도입 가속화  Oracle",
       "date": "2026-08-13",
@@ -1107,7 +1123,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1788472828113-3",
+      "id": "ko-1788644865910-4",
       "title": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는? - 디일렉",
       "excerpt": "오라클 \"데이터가 있는 곳에 AI를\"…EDB와의 차이는?  디일렉",
       "date": "2026-08-12",
@@ -1256,30 +1272,6 @@
       "excerpt": "오라클(ORCL), 핌코와 160억 달러 데이터 센터 금융 재편과 캐나다 헬스 확대  simplywall.st",
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakhuQ2dlZmJpbGRVd2t1a3h1MllOYUdMMGhnYUl6bHViRTZULXgxOTRYVHJDZGExdmFhS2FIRVk2cUV3NkpURV83UVh0cllKU0hPYjhxdGhJR3o2QzZZRS16TDNBdEUxX0dhZnJCYWhBbC1NalJzTDRBQTM1UlRlWUFaNGhHcHl4ZHR4TDVfVdIBjwFBVV95cUxOakhuQ2dlZmJpbGRVd2t1a3h1MllOYUdMMGhnYUl6bHViRTZULXgxOTRYVHJDZGExdmFhS2FIRVk2cUV3NkpURV83UVh0cllKU0hPYjhxdGhJR3o2QzZZRS16TDNBdEUxX0dhZnJCYWhBbC1NalJzTDRBQTM1UlRlWUFaNGhHcHl4ZHR4TDVfVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1787783740414-1",
-      "title": "오라클, 엔터프라이즈 애플리케이션 전반에 제미나이 모델 지원한다 - Oracle",
-      "excerpt": "오라클, 엔터프라이즈 애플리케이션 전반에 제미나이 모델 지원한다  Oracle",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3c2Q25sYmJmVUkyZ3VnYUJzeUhkVEFTXzVnVEFtTlAtamp5SUlDUkRPTlg0RnMyczZyS1l3aW02RWdmWU9PRXl3SmFrb3dHd3ZKNXdua1g0TFFsLWp3MzRVamFDcUd6X1JpQzA3MXRFSm0xd2lvNHZFQURqOGVHUFhpUy0tZUtHSnp1UEctSm8wMEZWNkx2V2ln?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1786306796097-2",
-      "title": "구글·오라클, AI 동맹 강화…제미나이 기업용 앱까지 확대 - mstoday.co.kr",
-      "excerpt": "구글·오라클, AI 동맹 강화…제미나이 기업용 앱까지 확대  mstoday.co.kr",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hU01SakIxMFNWclJHMnBNMHdjeVY4ai11WFpsXzR6bjlNYkVzaVpUNlRUYW1rRkV4RnB4MVN2N3FmSlVXS2FReFltS0RLOTA2UTBuWHJQOW9kWnlUclVQR1R0UjdGTjBWdnlVSQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1785877306409-4",
-      "title": "[글로벌] 구글·오라클, 기업용 AI 협력 확대...ERP·업무 시스템에 제미나이 적용 - 테크M",
-      "excerpt": "[글로벌] 구글·오라클, 기업용 AI 협력 확대...ERP·업무 시스템에 제미나이 적용  테크M",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sT3RLSnR3Yk5yTHJKMXQwelcwOUlJSVczaUpvZ0FHcC12MUlmM1lfdU80cTVZQXZjMjFvSEtYQU40dkFobGZtb18tOWpqYTlrWHFfVjRsWFFKbC1XbHVTMTJ5X1pJR1BCd0HSAWpBVV95cUxObE90S0p0d2JOckxySjF0MHpXMDlJSUlXM2lKb2dBR3AtdjFJZjNZX3VPNHE1WUF2YzIxb0hLWEFONHZBaGxmbW9fLTlqamE5a1hxX1Y0bFhRSmwtV2x1UzEyeV9aSUdQQndB?oc=5",
       "category": "Industry News"
     }
   ]
