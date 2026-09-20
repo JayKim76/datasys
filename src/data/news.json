@@ -1,7 +1,23 @@
 {
   "en": [
     {
-      "id": "en-1789854968447-0",
+      "id": "en-1789941750620-0",
+      "title": "Oracle CEO tells employees AI has not sped up product delivery - thenewstribune.com",
+      "excerpt": "Oracle CEO tells employees AI has not sped up product delivery  thenewstribune.com",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hbHV2RFQyMm5MVGZ4VDRSeDlROVlLRE1VckNKNTZRbE12ZUY4UWx6a09OTU5nSVE1QllLTFlYeXhUbm1PU3JxSEVNdGloRFc0Skk0VFk4WUstUTQxTXh2ZUF5UHI4UUltdmdpM2o4NWphcTFE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1789941750620-2",
+      "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver? - Yahoo Finance",
+      "excerpt": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?  Yahoo Finance",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSktscXlTcVZUeHBHdVRyT1FNTHVwZlhBb1RiY2toTk83NkFTcldrUEdBZWJIRE9fLXd5T21hTWFJWTBRZkVSNG9xQlFCTWVfbVEtTnlVdTRlYnMtSFktbFZSbHJNWGJrZGs1anNucGxXMjFqWkp4NjlRNlg5VlRjSDJuVkJCNGpOWmgxbkZubmF4RHV2Z2tTZWxKOA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1789941750620-3",
       "title": "Enterprise security shifts to the data layer at Oracle - SiliconANGLE",
       "excerpt": "Enterprise security shifts to the data layer at Oracle  SiliconANGLE",
       "date": "2026-09-19",
@@ -49,7 +65,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1789769026417-2",
+      "id": "en-1789941750620-4",
       "title": "Oracle Stock What Changed After AI Cloud Wins - simplywall.st",
       "excerpt": "Oracle Stock What Changed After AI Cloud Wins  simplywall.st",
       "date": "2026-09-18",
@@ -97,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1789854968447-2",
+      "id": "en-1789941750620-1",
       "title": "Scaling 1,000 AI Agents on Oracle Cloud Infrastructure Kubernetes Engine and File Storage - Oracle Blogs",
       "excerpt": "Scaling 1,000 AI Agents on Oracle Cloud Infrastructure Kubernetes Engine and File Storage  Oracle Blogs",
       "date": "2026-09-17",
@@ -257,7 +273,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1789597736442-3",
+      "id": "en-1789941750620-5",
       "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion - CNBC",
       "excerpt": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion  CNBC",
       "date": "2026-09-11",
@@ -935,51 +951,35 @@
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2hZOTZUZ3pyd1ZDUGNBZWlhbC1DMDU4d3F5SWlBejR1WDhuTDFhN2M3SHEzanBVY2QyMGxHaVpqakJLN2hEOXpuY0Q2SWZYMWRkUGpZQ1dHQjgzVUJPdTJIc0l3R0E1VzZVTnV2UVB6Qm9oTF9oZ1pKdWsyaGc3UTg3ZEppeTBtZnZ6LXFQZXN2MDZJWWtXdGstWndFUQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1787515890834-3",
-      "title": "Oracle Health Expands Clinical AI Agent with Automated Coding, Dictation, and Chart Review - PR Newswire",
-      "excerpt": "Oracle Health Expands Clinical AI Agent with Automated Coding, Dictation, and Chart Review  PR Newswire",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERiQllDeXFjTjBYYU5TMFl6S1NLWktHRnpMUGVKVVlwdmdVRDVJcjl5MUMyNnN3M1JEOGtBVndiQUZacFNrU0J4SnJiYTNhZjR6cE5WQk1BZ1RKblpteGJtS1RLMjJ0cC1lWlF2WEN1LTZTb1hSSUVlRlBwZXluN3RpeDktQXdtMEY0U29Zd3lUOXFUNW9KWmFfZU5oZk43dmNfaF9kMlFLRUI4MnhkVGFhczA1OEtJMEhoZlpiSTFsRDdsWDJmdGEwSEpCak5PZTdKTGt0SzNCV2sw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1787170534808-1",
-      "title": "AI-Powered App Development with APEX 26.1 - Oracle",
-      "excerpt": "AI-Powered App Development with APEX 26.1  Oracle",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OOTE4S3hNNW5jVWU3VTVvV2ZXSUFRZ2NnMkg0VXZzd2xHUWk2SFNaTFNEdEJuYW1mVl9SbmhTR2IwSmwyZnlTUGdHanR1ZkpS?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1787170534808-2",
-      "title": "Oracle Health upgrades AI agent with coding, charting features - TechTarget",
-      "excerpt": "Oracle Health upgrades AI agent with coding, charting features  TechTarget",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0hIMWF2ZUlzaVI0ZS1CMWp2cFlTX0dvcFFncUlLT1htaU1aOWdMZDZJdDdIQWx3dE96S25uRTdoVEdBUmxyajBYT0htV0RyWVhsVDRqU2pXTVF3VU51bjhaV3lsMjhjUXE2RFhnQk03TWgzZ0owcEQxY2hhRXI4RFRQbVRZQmJheUwxenFMdFBhNHJCMTMybkJPdnNGUEdxVE55Ty10RWFONGZyWThsZG9IWlBDNEQyZGc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1787170534808-3",
-      "title": "Oracle vs. Microsoft: Which Enterprise AI Stock Is the Better Buy? - TradingView",
-      "excerpt": "Oracle vs. Microsoft: Which Enterprise AI Stock Is the Better Buy?  TradingView",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3hCTC1FMU9xdkhkR3BZU2hxUWhJWmxIWVY3SVZJQUpFSWNrM055UFR4VWt5bTBWMFRGblR0UWxUeUg1NzZmWXdyXzRMR21kTjRIR3VhdFlHdFB3OEJ4WjF0VXdVLXRoaU1NREZkQ3lmOFQ5NmhQZFhGTFRlSXRkODEwaW51UG9FUmRUNFluaXctT1VpejRXak9IdE5GMEFLb2EzTTFoZzl6UjRydTBQVlVYS2tMUmpIVDFJ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1787170534808-5",
-      "title": "Can Oracle (ORCL) Stay Cheap If AI Growth Meets Buildout Risks? - simplywall.st",
-      "excerpt": "Can Oracle (ORCL) Stay Cheap If AI Growth Meets Buildout Risks?  simplywall.st",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJYc1gybExXR3pzRk8xZWdaNGRlVTlNekIwY0ZUOXFieGdyWHdSYThRVGp3QUtsZmZtZHV0RXZfX3pVYldzcGNBcl9mT1dhcUNKREJVU0taY2lOTUl5WW1QYlhzYTJfWHFDdnJ3b2pHZWdERENxZEhxdFdkV25reWVYNUNzemVTbVhSRlBBYzdMcFJtZUNzWXpNMTFwNHl0dUlHSHZ4dHRJNXNmaXlfUUZsNlg4SWNaSUNmc3JuVTLSAcYBQVVfeXFMUDJJVnNyeUgxNlF4ek5PSzEyRE05ajNXN1RBc093RTF1cEN2dHBtUjVSSlJxaGtnQXNZTDBQRXg4YlZHLXV6U3U5NUlQNkpRZ0FaTmcyYmgzYXh1V3dmNGs3Q2puWDk1RnppR2M1Nkw0cThnTlZ1NDZqVjRmS2ZTOFpjQkVmeTlyZXR5S2prVXE1TU9lUmV0ZDNGRE1ZMTNLTmdjekxHUjBOanZ5YW1PRUZrWGpEZzg0ZDlueWJrYi1TRi1lYTF3?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1789854968967-1",
+      "id": "ko-1789941751083-0",
+      "title": "오라클, AI 인프라 지출 압박에 글로벌 인력 13% 감축 - 글로벌이코노믹",
+      "excerpt": "오라클, AI 인프라 지출 압박에 글로벌 인력 13% 감축  글로벌이코노믹",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUdNZDQ1NTYtOUhmOVk0NlRGaEhGMDNxZnRTdmx0OG1WQkN1LWJZUDZtSjhtNjlDSW1NQnRqcms5UEJWZW8yX2wteEZ0cjVpZmhCWHo0QnFsSzVVbEhQY0ZQangtUWpvUkc4bVRUYkE5WEZjMG9GLXY1VEtWdmRzaXEtb095TjQz?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1789941751083-2",
+      "title": "오라클, 코드 작성 1주일로 줄였지만 제품 출시는 그대로 - 토큰포스트",
+      "excerpt": "오라클, 코드 작성 1주일로 줄였지만 제품 출시는 그대로  토큰포스트",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBX3VmSG9HdS1HSVB3VXJpRms3M29JRHNUR0ZTejhOU0RpXzQ2QmpQOTBCMWwzUDYxajRzNVlUazhIMF8wU2pEOTFtS0pZUk40?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1789941751083-5",
+      "title": "오라클의 두 번째 도전: 소프트웨어 판매에서 AI 컴퓨팅 파워 판매로, 가장 큰 우려가 해소되고 있다 - TradingKey",
+      "excerpt": "오라클의 두 번째 도전: 소프트웨어 판매에서 AI 컴퓨팅 파워 판매로, 가장 큰 우려가 해소되고 있다  TradingKey",
+      "date": "2026-09-19",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZXZrSG5Ka2hhUEVxTFdhWHpEYV9aUXktUVo1cGtQaFUydE0xM1o5djFSZ1JvSXpwYm5PcnBLeVV6OTJVQTVyelJpWV92SnpqMTduczgzVXVuYmVWcmdKUEtOdUJHamJHcXB4SGx3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1789941751083-4",
       "title": "‘자바 27’ 공개…오라클, AI 시대 겨냥한 포스트양자 암호화 강화 - 인공지능신문",
       "excerpt": "‘자바 27’ 공개…오라클, AI 시대 겨냥한 포스트양자 암호화 강화  인공지능신문",
       "date": "2026-09-18",
@@ -987,7 +987,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1789769026936-1",
+      "id": "ko-1789941751083-3",
       "title": "오라클 주가, AI 클라우드 수주 이후 어떤 변화가 있었나 - simplywall.st",
       "excerpt": "오라클 주가, AI 클라우드 수주 이후 어떤 변화가 있었나  simplywall.st",
       "date": "2026-09-18",
@@ -1011,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1789854968967-0",
+      "id": "ko-1789941751083-1",
       "title": "오라클, 자바 27 출시… 포스트 양자 암호화 지원 강화 - Oracle",
       "excerpt": "오라클, 자바 27 출시… 포스트 양자 암호화 지원 강화  Oracle",
       "date": "2026-09-16",
@@ -1464,22 +1464,6 @@
       "excerpt": "오라클 클라우드, AI 에이전트 특화 인프라 전면공세  바이라인네트워크",
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUjJCY0luWTBMZW8xVlgyVXZ3Nk0tQXV4ZmJHZVFIYUlaMFFqNGdteDFScnJuS1kzS1AtWENvcW42Q2RaUk51aEVkd2VHajQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1787170535285-0",
-      "title": "AI 성장세가 인프라 구축 위험과 맞닥뜨릴 경우, 오라클(ORCL)의 주가는 여전히 저평가 상태를 유지할 수 있을까? - simplywall.st",
-      "excerpt": "AI 성장세가 인프라 구축 위험과 맞닥뜨릴 경우, 오라클(ORCL)의 주가는 여전히 저평가 상태를 유지할 수 있을까?  simplywall.st",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWs1LURJc2Y3ZnE4Nk5GckpYUXJuandOVXo4QmFwMUZ6R1NXS2dIRkpnVmxvZTJhUDNmMXhQVkVPcGRPdEYwUUFkX044QnN4OUpPQ3E0WGJLckd3Wnh0M0xNRS1KaWtzYVZuOWhpYnpRMzdiU2VQNzNIM2w5ODY0aDBSV0FQelR3S3fSAY8BQVVfeXFMTTlSaDJnTm51NTRxUnMtb2FrSzh2NGpkLVk2c0h2ZzFlQldCNW5LenpPYzM0cTc4b1hGYks1RVFrbjlCM19CeWJmbXd1aEJvTkxSdnQ0T09Sdlg3ZEE2LWNJbVZUbGhYMDdST3ZNamtiQVVBd1MxTHBwNmxvVHByYmJtT3h2a3YxaTJNUkxaRzQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1787602712240-5",
-      "title": "오라클-AWS, ‘오라클 AI 데이터베이스@AWS’ 확산 가속화 - 디지털경제뉴스",
-      "excerpt": "오라클-AWS, ‘오라클 AI 데이터베이스@AWS’ 확산 가속화  디지털경제뉴스",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vVGwtWkQxNHllOW9MbHd6YzJvOGNZeTJpNkJuZTJfdlN3VEdtdWpIYmhmU21fWFlBZlZmT1NCQ1ByaXVlQWRDa3lITGRqTTVjeWVMRmgtQ0lzOUtPR1dkaWpJVGJpU2dLSkE?oc=5",
       "category": "Industry News"
     }
   ]
