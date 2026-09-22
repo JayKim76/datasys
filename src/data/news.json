@@ -1,7 +1,39 @@
 {
   "en": [
     {
-      "id": "en-1790031378615-0",
+      "id": "en-1790116302629-0",
+      "title": "Oracle cloud layoffs hit developers, engineers hardest - Yahoo Finance",
+      "excerpt": "Oracle cloud layoffs hit developers, engineers hardest  Yahoo Finance",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM052NGROMGhPQzg5RldCWVVSbGg0VFhsUU93eW42NTM3bWFMU3NxemVMaWlyNVFNcWRvamlIcXVaVWwtSHZOSV9ORmhNc3BYM1dHbHhURFIxMTJDdks2U1dLd3dmb2gtbEkwYVJydFFxNjFvV0pQRUt5UWV4UFZvdFBiNW9Mdi02ZXVJNklzdFRSUUZKdlRVRzRKSk8?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1790116302629-1",
+      "title": "New Oracle layoff data reveals heavy cuts among cloud workers - calcalistech.com",
+      "excerpt": "New Oracle layoff data reveals heavy cuts among cloud workers  calcalistech.com",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNGREWHRaYXIwd0I2UTE5RFZacVUxRnRydHRGS3VDanotc055aEJiSWxhZl9RZkFIeDczQkxsUGZGQkdDaHZiMDRPWGpjMTRxVy1XWEZXSGlrZ0thTjN2RjQ1aVlmMFU?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1790116302629-2",
+      "title": "Revealed: the Oracle Cloud Roles Hit Hard by Layoffs - Business Insider",
+      "excerpt": "Revealed: the Oracle Cloud Roles Hit Hard by Layoffs  Business Insider",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzFPZ0g3RHVHZ2w0akJLSU42N0pYZ0dyeE9SUTA3Y0NVb01yZ192eEJEMVoxR25vd2g4UzB5T0tJd2hBMEUwTWsyRi1KalRVcWhqb0FJZE5TaW41c2hjQlotVGozYUV4dGRkdzUtUU9oWjZlQUJKMkdjOFBfcUJvOS03SnI4V3lSY01FZk1BYks2LWVXeFR3QXh0Y3k?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1790116302629-4",
+      "title": "How is Oracle Health’s Nurse AI Agent Different? - MedCity News",
+      "excerpt": "How is Oracle Health’s Nurse AI Agent Different?  MedCity News",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWtmVlFIRVNJRGEtWk9xLWVOTXBnQmE1bE45NThIVmszNGctQ1hpcjJQd3hvb2NWZXMyWTZ2VGpDZGJVYXY1WDdxTlFkUHJYUTdNTHhOUkloRUp6bDVsTHpUNnpaeVlEUVFiaTJ1eGstU1ZnRkMzQ2VhR3RFdlBxT0JZTUwyUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1790116302629-3",
       "title": "Must-Attend Exadata Sessions at Oracle AI World 2026 - Oracle Blogs",
       "excerpt": "Must-Attend Exadata Sessions at Oracle AI World 2026  Oracle Blogs",
       "date": "2026-09-21",
@@ -382,6 +414,14 @@
       "excerpt": "Watch Oracle’s AI Cloud Growth Eases Buildout Concerns  Bloomberg.com",
       "date": "2026-09-11",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUNDc1dZczh0dXBnZ19DSVVmXzNIV3RLSWZwSVNtRGdDMkMybHItVFlFNVFlVmxuRm5OUkZCYUZQTmxrMEZXNXRFSW1kM0RSWHhZbEdqUEZCUzVkbHdXT2pjQnBFNU9DTC0wNEZ0RWZfdkhrUjZVRldWY2VPc2h0c0hWLXpQbEhyNEhMZkRQUkhpMGlpWGRZSnlPVW1BeUd6VExyOW9R?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1790116302629-5",
+      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion - cnbc.com",
+      "excerpt": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion  cnbc.com",
+      "date": "2026-09-11",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03bWRldmRDa3pmTDdxb0k3UUFKbXNNcnJGQVBCNkN5SVRwdnBnQTgxa3dxU2RERmxGbVJtRi16Y0wtZTZ3dWtvcXJPbTlwOG9COGpOcGhPMkFzZ1U1aEE1Q2Q0RkFuc01CeXhHdzc2WWhtSVNRYTNvRFZB?oc=5",
       "category": "Industry News"
     },
     {
@@ -927,25 +967,33 @@
       "date": "2026-08-23",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2ZQQWlpYUx6d3M0U0xjQzJwYU9NelhkMkh3MlZuUW5zR0xtRXJqLU5RdnVwNWpyb0RxTlpLSVUwd2YzRjRhaGd5WkFyalk0Tklmd2hLVFQ5VGJsR2JsdDF3WU9jbXk4RGp2VkxnLTJWU0RmcWgyT2NtU0xTQ3FNaTRUOHBtTTRvVFJOTGRYZTV5TVBI?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1787689045191-2",
-      "title": "Build a Controlled Cursor MCP Workflow with Oracle AI Database - Oracle Blogs",
-      "excerpt": "Build a Controlled Cursor MCP Workflow with Oracle AI Database  Oracle Blogs",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM3dXMjI2c0VQWVNsR29IX0daV2tFTDhVOW8tWmdwN0NGbnZHM3FlM0VSUWFpVFBoZ2p4TDlDZG9yWm1Sc0txTVV6MkZGYU9nWWJkUTN1WmlrWEFMT0hscXFLcjlrOTFXd2stSngzZXN6SHpBVUFGY1lJeVZ4TlBWWWZ2UlpBblI2TFR0MG8xZlRaRjdNcjd6ZWk3TExJblU?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1787343262560-4",
-      "title": "What we learned about letting agents into a production database - Oracle Blogs",
-      "excerpt": "What we learned about letting agents into a production database  Oracle Blogs",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEhjb2V1ZVNOR1FocW1Cd01adXQ1cFN3ZzE3Vk9kU2hrcE5NX3FXY0dWM19uRGFtWlRWOFBBSFpSWmxHRUFsVm8zcXl5dVV2RVhuVXlMcEkzbkpBX1B6dDFqVllLby1naUVVOUpWVG5HNjNJeVFpbTJfbFNBQXlscm9lbFJKeFNxQkhPQW9sRFlFcXdFeWJHRzdleDhObTlX?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1790116303104-0",
+      "title": "씨라이프사이언스랩, 한국오라클과 수산물 구매 AI 개발·실증 - 머니투데이 - 머니투데이",
+      "excerpt": "씨라이프사이언스랩, 한국오라클과 수산물 구매 AI 개발·실증 - 머니투데이  머니투데이",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UN1J1VU1ZemQwdFZqSnFoUFhvZVk0b0hna1B4VERVcVJRSXZILTRZNGlyTFhBcVY3QlIyV29VbGY2aUQ5NzJOVTlyaTlaLV9fWHpUZlB4dlp6YXJoV3RNMUV0YUVTQ2pTaFlyMm56NzRQUdIBckFVX3lxTE5UN1J1VU1ZemQwdFZqSnFoUFhvZVk0b0hna1B4VERVcVJRSXZILTRZNGlyTFhBcVY3QlIyV29VbGY2aUQ5NzJOVTlyaTlaLV9fWHpUZlB4dlp6YXJoV3RNMUV0YUVTQ2pTaFlyMm56NzRQUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1790116303104-1",
+      "title": "친절한누나들, AI·RPA로 보험 업무 혁신…오라클 협업프로그램 선정 - livesnews.com",
+      "excerpt": "친절한누나들, AI·RPA로 보험 업무 혁신…오라클 협업프로그램 선정  livesnews.com",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbEhvQ21YYndfWFZ6dWwyUHhqY0dyd2NGa2VBaTROajJZN0ZUc1cxRWFoWVZzZDRCeTVVc3hDMmd1emhFYU5waUlnTmFuUC1NbWg2NnBzOUduV1hT?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1790116303104-2",
+      "title": "오라클이 이끄는 고성장 내부자 지분주 3선 - simplywall.st",
+      "excerpt": "오라클이 이끄는 고성장 내부자 지분주 3선  simplywall.st",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ01mMk9lNVlrYmhDSTd5OW1MMW5KVmRSbFZ3bHRJWkdhMGZhNXFkcUE1cG9WdGdSekVKdlVQME1LWm5WcEtENnlJWHNtOWt3VmoybnBYR05IN1pNNnM0U0NlMDM3dGEtYXZzVjA0UzNZZld6bk9GR1BIUm9WbERoUHR1V0pkM3plSjVUbC1vY9IBjwFBVV95cUxOZ01mMk9lNVlrYmhDSTd5OW1MMW5KVmRSbFZ3bHRJWkdhMGZhNXFkcUE1cG9WdGdSekVKdlVQME1LWm5WcEtENnlJWHNtOWt3VmoybnBYR05IN1pNNnM0U0NlMDM3dGEtYXZzVjA0UzNZZld6bk9GR1BIUm9WbERoUHR1V0pkM3plSjVUbC1vYw?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1790031379571-0",
       "title": "오라클, 'AI 열풍' 속 혹독한 감원 칼바람…\"AI 코딩 빨라졌는데 제품은 제때 안 나온다\" - aipostkorea.com",
@@ -971,6 +1019,14 @@
       "category": "Industry News"
     },
     {
+      "id": "ko-1790116303104-3",
+      "title": "오라클, AI 인프라 지출 압박에 글로벌 인력 13% 감축 - 초이스스탁US",
+      "excerpt": "오라클, AI 인프라 지출 압박에 글로벌 인력 13% 감축  초이스스탁US",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1VWRmbldqUzM2TTZKS05tODhqaHQyOXFrR3BFOWc4NDNHbkRKbnpyb3JPMVBTTEZzeFFnR0dTMEl6UjhSSHd2U0ZENS1CeDNOZUJsMUhmc281YjBaYThPNG81bzYzWXM?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "ko-1789941751083-5",
       "title": "오라클의 두 번째 도전: 소프트웨어 판매에서 AI 컴퓨팅 파워 판매로, 가장 큰 우려가 해소되고 있다 - TradingKey",
       "excerpt": "오라클의 두 번째 도전: 소프트웨어 판매에서 AI 컴퓨팅 파워 판매로, 가장 큰 우려가 해소되고 있다  TradingKey",
@@ -979,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1790031379572-2",
+      "id": "ko-1790116303104-5",
       "title": "‘자바 27’ 공개…오라클, AI 시대 겨냥한 포스트양자 암호화 강화 - 인공지능신문",
       "excerpt": "‘자바 27’ 공개…오라클, AI 시대 겨냥한 포스트양자 암호화 강화  인공지능신문",
       "date": "2026-09-18",
