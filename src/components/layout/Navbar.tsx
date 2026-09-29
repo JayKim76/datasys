@@ -20,6 +20,7 @@ export async function Navbar({ lang }: { lang: Locale }) {
                 <div className="hidden md:flex items-center gap-8 font-medium text-muted-foreground">
                     <Link href={`/${lang}`} className="hover:text-primary transition-colors">{dict.nav.home}</Link>
                     <Link href={`/${lang}/#services`} className="hover:text-primary transition-colors">{dict.nav.services}</Link>
+                    <Link href={`/${lang}/solutions`} className="hover:text-primary transition-colors">{dict.nav.solutions}</Link>
                     <Link href={`/${lang}/#clients`} className="hover:text-primary transition-colors">{dict.nav.clients}</Link>
                     <Link href={`/${lang}/news`} className="hover:text-primary transition-colors">{dict.nav.news}</Link>
                     <Link href={`/${lang}/tech`} className="hover:text-primary transition-colors">{dict.nav.tech}</Link>

@@ -8,6 +8,7 @@ import { getDictionary } from '@/lib/dictionary';
 import { NewsSection } from '@/components/home/NewsSection';
 import { TechSection } from '@/components/home/TechSection';
 import { CtaSection } from '@/components/home/CtaSection';
+import { SolutionsSection } from '@/components/home/SolutionsSection';
 import newsData from '@/data/news.json';
 import techData from '@/data/tech.json';
 
@@ -97,6 +98,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           />
         </div>
       </section>
+
+      {/* Solutions Section */}
+      <SolutionsSection lang={lang as Locale} />
 
       {/* News Section */}
       <NewsSection news={news} lang={lang as Locale} />

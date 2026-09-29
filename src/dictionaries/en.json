@@ -2,6 +2,7 @@
     "nav": {
         "home": "Home",
         "services": "Services",
+        "solutions": "Solutions",
         "clients": "Clients",
         "news": "News",
         "tech": "Tech Resources",
@@ -41,6 +42,58 @@
         "title": "Ready to Transform Your Data?",
         "description": "Join hundreds of companies that have modernized their infrastructure with DATASYS.",
         "button": "Contact Sales"
+    },
+    "solutions": {
+        "title": "DB_optimon Solutions",
+        "description": "Ultra-lightweight precise database monitoring solution minimizing resource usage",
+        "features": [
+            {
+                "title": "Standalone Execution",
+                "desc": "Operates independently with a single executable file (<50MB) without external dependencies",
+                "details": [
+                    { "title": "Independent Execution Build", "text": "Operates independently with a single execution file without installing external programs, making management very easy." },
+                    { "title": "Ultra-lightweight Resource Occupancy", "text": "Maintains CPU occupancy of 0.1~2% and memory below 30MB~120MB based on 8 cores with an executable file size of less than 30MB." },
+                    { "title": "Disk IO Suppression Logic", "text": "Fundamentally blocks system occlusion by applying unique logic that suppresses Disk IO while running built-in SQLite for statistical collection." },
+                    { "title": "Cost Reduction", "text": "There is no need to build a separate external data collection server, so no additional infrastructure costs are incurred." }
+                ]
+            },
+            {
+                "title": "Integrated Backup Solution",
+                "desc": "Flexible backup scheduling with comprehensive support for Oracle RMAN and DataPump",
+                "details": [
+                    { "title": "Flexible Backup Schedule", "text": "Simultaneously provides daily to weekly schedule backups and immediate manual backup functions." },
+                    { "title": "Oracle Exclusive Backup Support", "text": "Supports Pump backup method along with Full, Increment, and Archive backups." },
+                    { "title": "History and Recovery Management", "text": "Automatically records detailed backup history and supports supervised Restore for safe recovery." }
+                ]
+            },
+            {
+                "title": "Closed Network Security",
+                "desc": "Enterprise security designed for air-gapped environments, completely eliminating external connections",
+                "details": [
+                    { "title": "Perfect Internet Blocking Response", "text": "Fundamentally removed external connection points with designs specific to intranets, air-gapped networks, and closed network environments." },
+                    { "title": "Bit Operation Security", "text": "Enhanced security to the highest level by applying bit-level operation processing even to internal data structures." },
+                    { "title": "Optimon_gateway Separated Communication", "text": "Communication for external notification and external control is safely separated into a separate gateway pipeline." }
+                ]
+            },
+            {
+                "title": "Processor Lock",
+                "desc": "Next-gen OS process security that blocks unauthorized processes and prevents resource exhaustion",
+                "details": [
+                    { "title": "Block Unauthorized Processes at the Source", "text": "Instantly detects the creation of unauthorized processes such as WebShell, cryptocurrency mining scripts, and ransomware in seconds." },
+                    { "title": "Perfect Threat Removal (Tree Kill)", "text": "Completely eliminates not only parent processes but also child and orphan processes hidden in the background in reverse order." },
+                    { "title": "Ultra-lightweight Operation & Real-time Notification", "text": "Maintains a constant CPU occupancy of less than 0.5% with Delta CPU operation and caching algorithms." },
+                    { "title": "Baseline Freezing & 1-Click Exception Management", "text": "Detects changes by saving normal running OS process snapshots as a baseline (Baseline Lock)." }
+                ]
+            },
+            {
+                "title": "One Page Viewer",
+                "desc": "Intuitive one-page dashboard aggregating all core monitoring metrics to minimize navigation",
+                "details": [
+                    { "title": "One-Page Intensive Layout", "text": "Minimizes page movement and manipulation by concentrating all core monitoring points on one screen." },
+                    { "title": "Intuitive Color Classification", "text": "You can immediately grasp emergency situations at a glance by assigning intuitive colors to each important control item." }
+                ]
+            }
+        ]
     },
     "footer": {
         "description": "Empowering businesses with intelligent data solutions and next-generation AI infrastructure.",
