@@ -1,19 +1,59 @@
 {
   "en": [
     {
+      "id": "en-1791589335240-2",
+      "title": "AI roundup: New products from Oracle, athenahealth, Suki and others - Healthcare IT News",
+      "excerpt": "AI roundup: New products from Oracle, athenahealth, Suki and others  Healthcare IT News",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZyX05UV0lIYWpLWnZ5ZnJ0U1NuYkpCYzB0RjM3UVdIaGRXeDA2dFozNmtWVndsVVFjWmxsY0hJbTdOR2txSlhJaVlLOWpuWG5PUEJfcmtMbk1IRGE3Sk81OGhoYjFjaTJvRnVOWFlrQWNXSVdsbFY0eXhUVGNtZ3JrREg4VjdTUFJVZkZFbm1CaEtUOWtJMU40azZWZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1791589335240-0",
+      "title": "What’s New in Oracle AI? October 2026 Edition - Oracle Blogs",
+      "excerpt": "What’s New in Oracle AI? October 2026 Edition  Oracle Blogs",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZEhBUXhMcUd6enFYVXkxcXMzcWxiVHpEREgxLTRUQzR1cGpTMFVfU2ItdzRzYTF5a0tvRFZXaGt4a1RNODllTnVmRXZYVkQ0ZFkyY1JyWV82V2tHVjRIODZGNzBGd0tvY2JGdHBaRnFSWFRmMUxKY2twU0dUM2U4dkVwOXdVQQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1791589335240-1",
+      "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world - The Register",
+      "excerpt": "Oracle lets AI agents do the work, provided you stay in Big Red's world  The Register",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDVpdXp3NVJyZnFuVUprUW1tY1J2WXdOZDA2Tkktemx2RkhJSjdVcjNFYk52c0pHWVY1OVlnWnB5eGI0TVJtZ2pxUDQtS3kwc0FKU0hBeFVIYVJnZ1JaLXIwdFVSNUx2RGZWcUU4eDZPb3JiWnBjNEQ1d1RfMFd0SFN6VXlucWwtaWstWkZjeHBfNGRfN1hpeF85dlEyRWhGc3R6SmViSnNaSVdWNkhMLVVNWjM3UlZia0J1SWVJRUw4MUNa?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1791589335240-3",
+      "title": "Oracle's AI Story Just Got a Lift - TradingView",
+      "excerpt": "Oracle's AI Story Just Got a Lift  TradingView",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDVRYmNEbGctQ1NaX21Sd3hFVXJiVUFWa3ptTExpd2xhVlYwdWRES2ZkSk1ieFh5MGRFc0cyd3psbW0tbXc0TThuZzZlTXg5MHgwZ0dLZGZhaWhsUjRJUVRMajdSUjVaY1FkU0d6VXRjUEdCTWVJZG9nUlp5WXAySHptdXhGb1FMQ1FocERNYUx3Y3lLVEFwUg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1791589335240-4",
+      "title": "Oracle is trucking natural gas to AI data centers as pipeline delays threaten key projects - Quartz",
+      "excerpt": "Oracle is trucking natural gas to AI data centers as pipeline delays threaten key projects  Quartz",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LQ3pmMmdYbFFHc0dlXzlyNGJERENDbURwUUkyN0Y5TmZLRzlFcGQ3TUdPaGhYRFJaNHFjRXlPRnJBU2dIT1RXb2RPWVliekpwTGlGNmpZY3diVUVoeEdGVVFGWnNQQ25ZdURCTl9WcEhVT1E?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1791589335240-5",
+      "title": "C3.ai, Dynatrace, Amplitude, and Oracle Shares Skyrocket, What You Need To Know - StockStory",
+      "excerpt": "C3.ai, Dynatrace, Amplitude, and Oracle Shares Skyrocket, What You Need To Know  StockStory",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZU42MVBLUlBvMTJIbU9SQU4zcG9RdklfbUVDajVZaXFhSnJveFVPYUZEbTVYOUpsRXdUeHF2OHpBYktlem5YeWtLeUpGVUFacGxESENZOWppUHlqU1pVQl9rWlRDUnU0WHNtRTlYV01kajVaZW5PTHdiTUFoZmRQS2N3S0hLem1saDRHZVlublVhVE4yYTI4OE9xa0NuVXZXeV9aVnBZXzhsUTV2dVp5SzYtbXQ4bXhaWHNUbWtwRkVQVVJ3WUk0bERDcTA?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1791504185747-0",
       "title": "Must-Attend Mission-Critical Database Sessions at Oracle AI World 2026 - Oracle Blogs",
       "excerpt": "Must-Attend Mission-Critical Database Sessions at Oracle AI World 2026  Oracle Blogs",
       "date": "2026-10-08",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnM4OF9scERPSk94eWl1eks2b1NYdGNzM1d4cFdlOG40Q1NqNW9fcFItVktMcDZFcGFUYjg4VWVVamVfd1pacTFKRUllbUcydll3Zzd5TXFRRkVYWldUUDJqT3psVEtOU3VTenNGNDdRX1BQZ1MteTJQZHZ1bEtBdElfd2tLZUlIU3REc2dUNFdJdkdveURqWndndjhmRDk3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791504185747-2",
-      "title": "AI roundup: New products from Oracle, athenahealth, Suki and others - Healthcare IT News",
-      "excerpt": "AI roundup: New products from Oracle, athenahealth, Suki and others  Healthcare IT News",
-      "date": "2026-10-08",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZyX05UV0lIYWpLWnZ5ZnJ0U1NuYkpCYzB0RjM3UVdIaGRXeDA2dFozNmtWVndsVVFjWmxsY0hJbTdOR2txSlhJaVlLOWpuWG5PUEJfcmtMbk1IRGE3Sk81OGhoYjFjaTJvRnVOWFlrQWNXSVdsbFY0eXhUVGNtZ3JrREg4VjdTUFJVZkZFbm1CaEtUOWtJMU40azZWZw?oc=5",
       "category": "Industry News"
     },
     {
@@ -1091,7 +1131,15 @@
   ],
   "ko": [
     {
-      "id": "ko-1791504186145-0",
+      "id": "ko-1791589335651-0",
+      "title": "기본 규칙을 다시 확인하고 싶은 분을 위한 와이파이 필요없는 아이패드 게임 - Calgary Roughnecks",
+      "excerpt": "기본 규칙을 다시 확인하고 싶은 분을 위한 와이파이 필요없는 아이패드 게임  Calgary Roughnecks",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOME1NSGFNSVpNOW96V1hralVtdmxOQ2VFVU5XSVRZdGxXRzh2ZDFyX2hfSVItcVc2MEx5T290NlAwYnVKekVhdnZId3p3SzBsRXpleUtKRW9WaTdoekdON3BiUHdOSl90UFYtV19TNk00WDN2VFA1Q3MzbEJfX0VqTTRiOUNKM2F0d29JakI2TGdFREpUTmJ0N2ZFalJkR1B0czRESE5malFpaVo3YUk4?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1791589335652-1",
       "title": "오라클, AI 칩 사려다 ‘빚더미 덫’…오픈AI 쇼크 겹쳐 주가 5.4% 급락 - 글로벌이코노믹",
       "excerpt": "오라클, AI 칩 사려다 ‘빚더미 덫’…오픈AI 쇼크 겹쳐 주가 5.4% 급락  글로벌이코노믹",
       "date": "2026-10-08",
@@ -1107,7 +1155,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1791504186145-2",
+      "id": "ko-1791589335652-3",
       "title": "오라클, AI 수요 급증에 '탑픽'…자본 조달 리스크도 존재-미즈호 - 이데일리",
       "excerpt": "오라클, AI 수요 급증에 '탑픽'…자본 조달 리스크도 존재-미즈호  이데일리",
       "date": "2026-10-08",
@@ -1123,7 +1171,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1791504186145-5",
+      "id": "ko-1791589335652-4",
       "title": "[미국 특징주] 오라클·브로드컴·스페이스X, AI 칩 구매에 수백억달러 차입 추진 - 뉴스핌",
       "excerpt": "[미국 특징주] 오라클·브로드컴·스페이스X, AI 칩 구매에 수백억달러 차입 추진  뉴스핌",
       "date": "2026-10-08",
@@ -1155,7 +1203,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1791504186145-4",
+      "id": "ko-1791589335652-2",
       "title": "투자자들이 오라클(ORCL)의 AI 및 클라우드 신제품 출시에 어떻게 반응할까 - Simply Wall Street",
       "excerpt": "투자자들이 오라클(ORCL)의 AI 및 클라우드 신제품 출시에 어떻게 반응할까  Simply Wall Street",
       "date": "2026-10-05",
