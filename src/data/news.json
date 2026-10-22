@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1792709534469-0",
+      "title": "9 executive interviews reveal what’s ahead for enterprise AI at Oracle AI World - SiliconANGLE",
+      "excerpt": "9 executive interviews reveal what’s ahead for enterprise AI at Oracle AI World  SiliconANGLE",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2dDMXA5aWtxWHpUUEtLQk8ycHNCTTY5dDhKbEtuZHVrWWJDM3p0aGFLN2Y4ZG9NQ2dkSDBwQ19jNjlGbVV6N2ZoYkhldy1JeE5TT3Zmb3h1Yk9vaWZOV2NVZmVKeUtvQjdRalZoTmE1ZjFtbXpKREx6bHVsd0VKUDlfaHcya01VbFpreEh5MXZVZzBQSlpr?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792709534469-1",
+      "title": "Oracle University Launches Two New OpenAI Codex Courses - Oracle Blogs",
+      "excerpt": "Oracle University Launches Two New OpenAI Codex Courses  Oracle Blogs",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzlXV3BLRnVKbHZ4blp3SlJzQnZUS2doZWg5cHdXbmlFNm1HNzY1YU5GRWRZV2EwOWQyWmlPVGRVTFNSMFNuNDk2R0FQYWx6ODI3U0xpZ01RaWVrVElic0ZVVzA4NDlqRmlGaHBfeWNBZFYtWEhCOFhpXzlyQnBjcDNHQzEybkJfaTVjbkpOQkMtMkVmNVZkTlgtNHhjdw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792709534469-2",
+      "title": "Gary Miller on Oracle’s AI Transformation Strategy | Cloud Wars Live - Cloud Wars",
+      "excerpt": "Gary Miller on Oracle’s AI Transformation Strategy | Cloud Wars Live  Cloud Wars",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeE5HVU4yOGNaN3ZpWXZmLVFCUmN2bXpnM29VMkViclQwQkJpcGItdGVnVF9BZVNrUDRnckg5UGhEM2M4Z3p6TXR1ZHREMXU1MzQyYUZ4UEZBUWFZd1E1MzNZajNKRjFvQV9lNG9NZWx3Mi1zblBqdFpKYkNVNERSdE9FRG5QaThsV0lXVmlzVXEyUlI5emYwOFNLRXBZWlB5bDZteW9hM1lJMnFzRGpJ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792709534469-3",
+      "title": "Oracle Lobbying Rises Amid Federal AI and Privacy Policy Debate - Legis1",
+      "excerpt": "Oracle Lobbying Rises Amid Federal AI and Privacy Policy Debate  Legis1",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTZvdkxVM2c1QVNOMVZhN3ljek5UaE5rY1l2VFZtLW1zUEs5X2dXM2xBVW9DUG9yTmZqOS1qZTFMby1hbWpIUWlUeGdJXzdVMVl3MGNwZ0pUNlhZTXVtVHdpVFdydW43aFFXSkJuM2gxaG51Vmc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792709534469-4",
+      "title": "Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt - Yahoo Finance",
+      "excerpt": "Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt  Yahoo Finance",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzRxd1QyQU1lOTJJdjgwTmMyLWpPYk01WjVaTjU2TWxFUk1vWFQ4QlhMV3l6SXdPakEwNzUzdDdBRUNhelNaaWdjOUxYdE1WakkwemVGd0Mtbm9XYk9PQXZBcnNHMExjX2RuWEZ4MjN6M0tETkdtWC1YN0kwVVpHRTdzcG9Ba0J5eUZYSnphTmQ5Y045bTFwTHNZbw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792709534469-5",
+      "title": "Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt - 24/7 Wall St.",
+      "excerpt": "Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt  24/7 Wall St.",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUy1PZm1rR2R6Z2psQVlnWGNKZkRnYk1SRFRpVkR6YV9teVl4QmpQWWh5anRLck82MW4wN3N1Y2VmTU15bGlqX2N2SnFsajhxZVBydExCdG1YdHptRHZSakczNnJZbVhFVGNHa0JMRFR0eVVqNzZXdzdRaDF2Um1kTGZMS0ZQQXR0Z05yY2dKaE1yempUeFFLYVlYTG9yUHFXSFg2VGh6V2NKQllW?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1792623220524-0",
       "title": "What’s new in MLE 23.26.4: WebAssembly lands in Oracle AI Database - Oracle Blogs",
       "excerpt": "What’s new in MLE 23.26.4: WebAssembly lands in Oracle AI Database  Oracle Blogs",
@@ -1015,35 +1063,35 @@
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWtmVlFIRVNJRGEtWk9xLWVOTXBnQmE1bE45NThIVmszNGctQ1hpcjJQd3hvb2NWZXMyWTZ2VGpDZGJVYXY1WDdxTlFkUHJYUTdNTHhOUkloRUp6bDVsTHpUNnpaeVlEUVFiaTJ1eGstU1ZnRkMzQ2VhR3RFdlBxT0JZTUwyUQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1790116302629-3",
-      "title": "Must-Attend Exadata Sessions at Oracle AI World 2026 - Oracle Blogs",
-      "excerpt": "Must-Attend Exadata Sessions at Oracle AI World 2026  Oracle Blogs",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1dTOGRDc1F2eVZFYVdNNlpMV21aMVY4aFhaWjgxRXQ1cnZiUXBRRUVuLVZBYjVKcEk4TTdBZnJTSzRoWnZMWGF0NlgyQnN5MGo2bEFjU3NsbmkwYmUzUXJORjBwVGRNLWlWcThDazA1WF92bXR0ZVhCM1VXVmQ3QlFuNGRmTW9KQ2pSN0Nn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790031378615-1",
-      "title": "Oracle Cloud Boom Meets Cost Cuts: Targeting the Tension With ORCU - ETF Database",
-      "excerpt": "Oracle Cloud Boom Meets Cost Cuts: Targeting the Tension With ORCU  ETF Database",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EU2l1aVBqMzhDU1NZQkZ0ajBRRWl1eTFkUG83bXQ5MmtrY3BvYXp5SGNuam5BWUFWTjV0MU5ITlkzbjFLVnBJLVdKaUZxdWxYNlpjU1gybnpVYkRqYTF6QlZHanhCMnhCdFVXREtOMmZxZ1hhNzZR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790031378615-2",
-      "title": "Broadcom and Oracle as AI infrastructure plays amid the agentic chip rally - Investing.com",
-      "excerpt": "Broadcom and Oracle as AI infrastructure plays amid the agentic chip rally  Investing.com",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVEZndk9ubmpZOXlaREtkaFB5djJtQy1OMF9PajQxYkRlTVBQdFNfZ25PaklOZlBqdFgwald3V2REb3FkTXpIc09HWFNqMUJPRWV5RGFxSFBVRzNnVnhVOWt5b3M4aXRucGxrSmFhRkZXaXpDTXhka1NWRm5Sb1g0QjJRcU5oazdwdFlfQzVPZEdMMmlQS1F3ZUpvSnhmU2ZVeEw3dnJJNGdSRVpNOHdHU0ZmYzdUblBKaF9GYmNfUUJUWnZ0VkQ0Yk92TWRBWlJ4cnc?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1792623220975-0",
+      "id": "ko-1792709534949-0",
+      "title": "오라클, 기업 AI 확산 키워드로 보안·데이터·에이전트 통제 정조준 - 디지털투데이",
+      "excerpt": "오라클, 기업 AI 확산 키워드로 보안·데이터·에이전트 통제 정조준  디지털투데이",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wLXF2NGd1b1RqbzdjMW9iWjF6YXJSMk9STWdNLVYzMVZHLWhCYlRSUk4xdzQwMlE4RjBVLUlJclJVQm5HZmxjYUh1eVY0U2xkTVM0UWdUUFlUYkZWNW52SU1Dcl9wMEk3d3EzSXdyc255czg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1792709534950-3",
+      "title": "아스트라제네카·오라클, AI 활용 임상 환자 발굴 협약 - 바이오타임즈",
+      "excerpt": "아스트라제네카·오라클, AI 활용 임상 환자 발굴 협약  바이오타임즈",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YekdhYW5wWVZfMTQ5dVNPWEtUNU1LY3R1WUZPbE9ZMjRtQ1RpNWdqR1ozSlk1ZmgzNkNiRWZTRWtqR194Xy1ueXExbWJlOUhWWW5BOVR1RGszWEt1RGlBTXc1SWJlMk5aUkdmbA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1792709534950-4",
+      "title": "오라클 AI 에이전트 스튜디오 산업 앱 확대…적격 고객엔 추가 비용 없이 제공 - 토큰포스트",
+      "excerpt": "오라클 AI 에이전트 스튜디오 산업 앱 확대…적격 고객엔 추가 비용 없이 제공  토큰포스트",
+      "date": "2026-10-22",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4VEdHcTBudE0yMTJkbVJZXzZ4cEE2NmJiNnJsbmxRWFhPN0NRSGRLU1NEOWhPd0otekVnUXdFLWJTWEF1VUVUREstbmZLQ0FYREl5OWhB0gFWQVVfeXFMUDhUR0dxMG50TTIxMmRtUllfNnhwQTY2YmI2cmxubFFYWE83Q1FIZEtTU0Q5aE93Si16RWdRd0UtYlNYQXVVRVRESy1uZktDQVhESXk5aEE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1792709534949-1",
       "title": "아스트라제네카·오라클, AI 활용 임상시험 환자 발굴 협력 - 히트뉴스",
       "excerpt": "아스트라제네카·오라클, AI 활용 임상시험 환자 발굴 협력  히트뉴스",
       "date": "2026-10-21",
@@ -1051,7 +1099,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1792623220975-1",
+      "id": "ko-1792709534950-5",
       "title": "오라클, 아스트라제네카와 AI 기반 임상시험 환자 발굴 협력 - 조선비즈 - Chosunbiz",
       "excerpt": "오라클, 아스트라제네카와 AI 기반 임상시험 환자 발굴 협력 - 조선비즈  Chosunbiz",
       "date": "2026-10-21",
@@ -1075,7 +1123,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1792623220975-2",
+      "id": "ko-1792709534950-2",
       "title": "레드햇, 오라클 클라우드서 리눅스 직접 공급 - 지디넷코리아",
       "excerpt": "레드햇, 오라클 클라우드서 리눅스 직접 공급  지디넷코리아",
       "date": "2026-10-20",
@@ -1480,14 +1528,6 @@
       "excerpt": "오라클이 이끄는 고성장 내부자 지분주 3선  simplywall.st",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ01mMk9lNVlrYmhDSTd5OW1MMW5KVmRSbFZ3bHRJWkdhMGZhNXFkcUE1cG9WdGdSekVKdlVQME1LWm5WcEtENnlJWHNtOWt3VmoybnBYR05IN1pNNnM0U0NlMDM3dGEtYXZzVjA0UzNZZld6bk9GR1BIUm9WbERoUHR1V0pkM3plSjVUbC1vY9IBjwFBVV95cUxOZ01mMk9lNVlrYmhDSTd5OW1MMW5KVmRSbFZ3bHRJWkdhMGZhNXFkcUE1cG9WdGdSekVKdlVQME1LWm5WcEtENnlJWHNtOWt3VmoybnBYR05IN1pNNnM0U0NlMDM3dGEtYXZzVjA0UzNZZld6bk9GR1BIUm9WbERoUHR1V0pkM3plSjVUbC1vYw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790031379571-0",
-      "title": "오라클, 'AI 열풍' 속 혹독한 감원 칼바람…\"AI 코딩 빨라졌는데 제품은 제때 안 나온다\" - aipostkorea.com",
-      "excerpt": "오라클, 'AI 열풍' 속 혹독한 감원 칼바람…\"AI 코딩 빨라졌는데 제품은 제때 안 나온다\"  aipostkorea.com",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoWXdxSm11RHFJcThPOGMwa2lsSTRXZjJYWXBNRm0yNlUyTldhX253N3ZNVTFXOVBBUjlMM014cElEX3psR05OMDVrZ25JWldoNG01MG1kc2tmeFExOXYwQmEzTkJYOGRVMllIXzNB0gFyQVVfeXFMT0h6czFqaEFlUDMzREVqQzhPLXB6ZkdJWENaZTdydEpIVlNtTXQtbGpTOU1uQ1FKdkdDeHN0ZFpyaHREZzkzZnNsMlJXd0M0ZHJja2E3LTE2TnZBME14em5mMExfUXpXRXZwTDRHZXYzaUdB?oc=5",
       "category": "Industry News"
     }
   ]
