@@ -1,7 +1,15 @@
 {
   "en": [
     {
-      "id": "en-1792795492910-0",
+      "id": "en-1792879609460-0",
+      "title": "Oracle (ORCL) Commits $1 Billion To Partner AI Growth - Yahoo Finance",
+      "excerpt": "Oracle (ORCL) Commits $1 Billion To Partner AI Growth  Yahoo Finance",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM09zNzROQXNCOHRjMkNWb0NNWWNTUkgtb3ppZkhYYk5JZXI1SUk3Q0NHMmZkVDQ3UnkwUVR4SnNudkYxUEJjYWJmM3llUFNjOHYwOGdPeUJnOFpVTGFQb1NHbkxoSWdXd3lTdnFGb251N0lRY3ExVnhuTUlfMk9qNzJGRENkd1JGOGtkbTBQUWxXRDRveEkxUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1792879609460-1",
       "title": "Database modernization: Oracle’s path to AI at scale - SiliconANGLE",
       "excerpt": "Database modernization: Oracle’s path to AI at scale  SiliconANGLE",
       "date": "2026-10-23",
@@ -17,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1792795492910-2",
+      "id": "en-1792879609460-3",
       "title": "Oracle pledges $1B over four years to partners that sell its AI tools - The Next Web",
       "excerpt": "Oracle pledges $1B over four years to partners that sell its AI tools  The Next Web",
       "date": "2026-10-23",
@@ -65,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1792709534469-2",
+      "id": "en-1792879609460-4",
       "title": "Gary Miller on Oracle’s AI Transformation Strategy | Cloud Wars Live - Cloud Wars",
       "excerpt": "Gary Miller on Oracle’s AI Transformation Strategy | Cloud Wars Live  Cloud Wars",
       "date": "2026-10-22",
@@ -97,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1792623220524-0",
+      "id": "en-1792879609460-2",
       "title": "What’s new in MLE 23.26.4: WebAssembly lands in Oracle AI Database - Oracle Blogs",
       "excerpt": "What’s new in MLE 23.26.4: WebAssembly lands in Oracle AI Database  Oracle Blogs",
       "date": "2026-10-21",
@@ -105,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1792623220524-1",
+      "id": "en-1792879609460-5",
       "title": "Oracle vs. Microsoft: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - The Motley Fool",
       "excerpt": "Oracle vs. Microsoft: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?  The Motley Fool",
       "date": "2026-10-21",
@@ -1031,59 +1039,27 @@
       "date": "2026-09-24",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ja3h1MEhNelZnS0daYWIzUVZsRFpFUVAzRGpSQVd1OThBN0JOSFVuenV5R2s2cnFmaFBKMkRyWkhVS3N4TWhNY1RlOWNXQnhKWDl3V0VQNEI1eUxZVDlFLXFDVUgxUVdNT1FtMzZ6OVNMM3pucHNj?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1790202806088-0",
-      "title": "What's New in Oracle AI Agent Memory: Graph-Aware Retrieval, Image Memory, and Enterprise Controls - Oracle Blogs",
-      "excerpt": "What's New in Oracle AI Agent Memory: Graph-Aware Retrieval, Image Memory, and Enterprise Controls  Oracle Blogs",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDY4ODJDSUhMS1JCR3Q2VDQwTkZ4WnQ5aTRnNHJKUjFEWEF1OFlOeFhPaGtoMHlNTTdZeDRlbkl2Vmdlc1RpVUFuNVpNNktKWlRTRXc5UjV0bE5Ea0tjazczWjg5Q0VPRVJ3Y05SNnNXWU9xaWk2aHIyUXhJYnhEeHRZc2tkOGVEbU92YnpYWDRncDRvekpVR0N2aDVXN0ZiUElFcmN3cU9FRnBPdFFRYmlXZ2I1ZHhsSTVQWkN4VEhpUjFCUHlnZzJR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790548924817-1",
-      "title": "Oracle puts database security controls beneath AI agents - SiliconANGLE",
-      "excerpt": "Oracle puts database security controls beneath AI agents  SiliconANGLE",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzV4b1RJeC1yQko4bHd2emRxcHhjalM0bTFabzdZeHBaRXkyVDVNNXRrc2lDdFVxcVItWjlQUDJRQXRKcGl1aDZoZDZmSWVLdUdRdzduTG5PeHIyZVVQOFlYNjdXMkw2TThNV01fT2ZzLVdUQjJodVE3RTMwNzB5cHk1N1Y1cWNfTGN4TWZKM2tsUHpBN3dBS2Z5dGs1N29qOUtCSV92TEFCY0RXcU1LM1dITTAtQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790202806088-2",
-      "title": "FlashGrid adds support for Oracle AI Database 26ai deployments on native IaaS cloud services - PR Newswire",
-      "excerpt": "FlashGrid adds support for Oracle AI Database 26ai deployments on native IaaS cloud services  PR Newswire",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQREtmdFVIV0FVdVFNN0J3eHFKclBWNjQyU2kxdWVrYUU3UW91M0dRR1lCNlBuUzRxYWpPcnA2MzBGbi1FOVljUUhMOTVLWnh0T3U3bUZ4VDJCWTJ6VFd4SVJPX1FXQUtKbWlmUVRoT1lCaXhsMTNaTklHdmJ6Z1NpSno1bXZJdnVtNGZ3UGdyaGROU2JpZE5UYThZOTlPN0tsaDNYQnk0TTg5UXR6c1NCd29PcF9WaGJ2MXMxZWs1eW15cUZ1WXhfVHdaWm5xcVNDeUdDY3dKQXE2cjdzVXlaN0ZR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790202806088-3",
-      "title": "Oracle deepens life sciences push with AI agents, real-world data analytics - Fierce Healthcare",
-      "excerpt": "Oracle deepens life sciences push with AI agents, real-world data analytics  Fierce Healthcare",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG5sUWhVM0VpNjN6QXpBc0ZFRi1yNXcycW81ckh2QjVmM2k1YWd6LUZ1VVlzYnhtNjFPeFRjYVpMNGdaTFhCbjBjV1h4UE9KTHJvME5JWURVbk5ybjk3ZHBJRmFsV3hTVE1aTVhMRzFlSHdHWFZzNGhUWDVsWUYyaVNuYUxqTEY1SUFsZlFHQ2pKUlVLY0RTUXNrMmY4OHE4YlQ5M3NXRTh4N3JWaDY5ZWxYM3dzN0dmeldtbmZrTnN1SDF6alBtbDVR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790202806088-4",
-      "title": "Oracle layoffs top 2,500 workers as AI spending surges - thestreet.com",
-      "excerpt": "Oracle layoffs top 2,500 workers as AI spending surges  thestreet.com",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckVxM2tMMzh6bEYtdjRtSHBlTmtNT2w2YUhUeDVxTXRhQm10NVlZNks5dm5ESzNsNEdaQ2RGY1VKcE1Ycnp4Y2EzZzhrWDM4UXU0c1pFckY4SnVNV1lJc1ZVZXBEb0x2blJLV0czblBqVVZmU29Zd1VKRXlmNzN1SzVUZy10MGdQZWdkYllsclYtZEc4alE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790202806088-5",
-      "title": "Oracle Drops as AI Debt Carries a 37-Basis-Point Premium - Yahoo Finance",
-      "excerpt": "Oracle Drops as AI Debt Carries a 37-Basis-Point Premium  Yahoo Finance",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVVnaDF2akxQcUNZbWQwTnVVdDFVZFNTcUI4VGNQc2lrZFdUZ29vS2UwSi12UkU2a0NVa2hzR2lXMWtjdERzTWNJY2pKaVZuUV9Qd2RySWQwRm1hN2xxMDVBMWxMaEhRTHA1M3E4bVprSS1VVmVpUS1aZWh4eHFxNENkWU9JaWc0aWNfT0w5Q1FOVnhfbUs0?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1792795493369-0",
+      "id": "ko-1792879609908-1",
+      "title": "오라클, ‘AI 월드 2026’ 개최…AI 현장 적용 전략 공개 예고 - 디지털데일리",
+      "excerpt": "오라클, ‘AI 월드 2026’ 개최…AI 현장 적용 전략 공개 예고  디지털데일리",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BdUZIREN4RUlGa0llczhXc0MtcUJiTUFrTUhkSHQ3RVkxTUpXdE16amNuNldoOUtiNDBOTDhCRDhLSHdLTTZvYjlpRk9NMjNRRlNYQXJHSkVFTk5ZTkpIU293?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1792879609908-5",
+      "title": "HPE와 오라클, 네트워킹 협력 확대로 AI 인프라 구축 가속화 해 - elec4",
+      "excerpt": "HPE와 오라클, 네트워킹 협력 확대로 AI 인프라 구축 가속화 해  elec4",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80amYxS3lIMVU3LVpYUUloMWt0azZmWXZMaG5OX1BzSmdsc25oSjdWVWt2WDRtc2VYeHJZcDhqNktPdEhFdzh4aFlBcjZjSmFYT2M2V2FZYXQtbXZJUHJ3czVWdzZBWDV2NFFBSV91cHFNV2t6UU5OQTNfR1dzQzQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1792879609908-0",
       "title": "[인터뷰] 나정옥 한국오라클 부사장 \"AI 월드 2026, 비전 넘어 성과\" - 지디넷코리아",
       "excerpt": "[인터뷰] 나정옥 한국오라클 부사장 \"AI 월드 2026, 비전 넘어 성과\"  지디넷코리아",
       "date": "2026-10-23",
@@ -1099,7 +1075,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1792795493369-1",
+      "id": "ko-1792879609908-2",
       "title": "오라클, 기업 AI 확산 키워드로 보안·데이터·에이전트 통제 정조준 - 디지털투데이",
       "excerpt": "오라클, 기업 AI 확산 키워드로 보안·데이터·에이전트 통제 정조준  디지털투데이",
       "date": "2026-10-22",
@@ -1107,7 +1083,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1792795493369-4",
+      "id": "ko-1792879609908-4",
       "title": "아스트라제네카·오라클, AI 활용 임상 환자 발굴 협약 - 바이오타임즈",
       "excerpt": "아스트라제네카·오라클, AI 활용 임상 환자 발굴 협약  바이오타임즈",
       "date": "2026-10-22",
@@ -1123,7 +1099,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1792795493369-2",
+      "id": "ko-1792879609908-3",
       "title": "아스트라제네카·오라클, AI 활용 임상시험 환자 발굴 협력 - 히트뉴스",
       "excerpt": "아스트라제네카·오라클, AI 활용 임상시험 환자 발굴 협력  히트뉴스",
       "date": "2026-10-21",
@@ -1528,14 +1504,6 @@
       "excerpt": "처음부터 외울 필요 없는 토토 고액 환전 제로 기본 용어  Calgary Roughnecks",
       "date": "2026-09-24",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcTlOeDFqVUVVY0lwVHJDS2JlV3NUV09MRERGWDlYdDNKTzFYLVFhaDVRYi1oUjU3eDNZTTN2dGIzSHFDLVZjV1E5enctZnJ3b0pVdFgwUzBudGdHemdvOUVSaURBZmdkZndBM3p0NHRhMXNvT3FuYW1WcTdSSmVnSTlKRDd0Q0ExQ3NXTzM2ZVJHU2Exbkl6RFdsOUo2bGdJWVVXQXM1MTNrTHo2ZG9GRg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790460944094-4",
-      "title": "친절한누나들, 오라클 '미라클' 최종 선정…AI 보험 운영 기술 고도화 - 전자신문",
-      "excerpt": "친절한누나들, 오라클 '미라클' 최종 선정…AI 보험 운영 기술 고도화  전자신문",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Va01CMk1HUVR2U0hLY1dyb3VzdFV0eWg4X1d0WWVlNUd2M0ZQT1pWY0FrM1lZX2hockwyRElYQlFqYjRoSWFLQlhETk9NQQ?oc=5",
       "category": "Industry News"
     }
   ]
