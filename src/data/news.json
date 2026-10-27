@@ -1,6 +1,54 @@
 {
   "en": [
     {
+      "id": "en-1793143244855-0",
+      "title": "Oracle AI Database@Google Cloud: What's new at Oracle AI World - Google Cloud",
+      "excerpt": "Oracle AI Database@Google Cloud: What's new at Oracle AI World  Google Cloud",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlU0SDVJYVNBMHhpM1VBd0tfcjdjWDFsOW1kOWI2cUNnbmVveE5wSGxNQmlMeXBXTldYRXJwNk1ZVjZOT2k3d01ZMzhOS0NHT3g5VFdzd1Qyekx1NDdDT2FGVExLWHhNQVVQNUxfeE5XdnFKdEJKd3F2c0VxU0pVb3owWWRrSGlwc3hER3otUzVreklFWUNKTEE2VVV4QWxDUG5fM3B2TWZOMFR1?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793143244855-1",
+      "title": "Snowflake and Oracle Expand Their Partnership to Bring the Snowflake AI Data Cloud to OCI - Snowflake",
+      "excerpt": "Snowflake and Oracle Expand Their Partnership to Bring the Snowflake AI Data Cloud to OCI  Snowflake",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0hka2xDYmJGNWVmcDQ0RjVXNHd1ZGpXLU92aU9WTlhPY0RYZGpkYzBHM2haN3ZJbk9TZDh3a0tlMjdOd0VXdGNfWUJyLWdWalRJQ3k4d1ZmRmltMVJYdV9zQ2dab2VHNER5WXBVSUU1UkFvb2I2NmZhSnZvUFN6cks5VXVOeE9F?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793143244855-2",
+      "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
+      "excerpt": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale  Oracle Blogs",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWtUUzhIa2JWRUo1ZUtLOFZUNU5PTFlsaUtyXzk4UkQ0a1NETHN0MG9vaTFUUnVXMFQ0Q3ROaC13emtucFhCcWFYYUpONnBwV25iLTBhXzZaWUZodzJZZ1E2S09Ub1N2NE5qazlnTjczSVlKd1pjbXVSYkpQZnNFeVpjOF8?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793143244855-3",
+      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup - CNBC",
+      "excerpt": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup  CNBC",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXNOakpZUWg2elFlZ2k0VXcxVHlybzUtYTJxWmZIUEw1QmM4a0xiRmdrdjZFZGloUU5HZG1DTFp0Ry1FcC1PMFVrY2gxYmlrb0E2dUFaaHF6Z2NGSV9mRW5wVkh2TTI4Yy1ZeU42X003YjdrZjhaem1XOEh4eXk5MTVn0gGHAUFVX3lxTE1aMnIwbG5ZZUoxd1NqT0hCeS1hdFdCbnVzWVdBUkUyb1lzZzVQRXU5WHNJTEhUOXd1eG11RGVZajFHazZnaWZ1MS03eHNCVUlPaTl1dXN0WW50Q0w4ZERuR3hOd25TRmV0VEYtckN3TmlIZ2dFdkhueFN6dy1lWVlDd2FQTmMxRQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793143244855-4",
+      "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova - Yahoo Finance",
+      "excerpt": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova  Yahoo Finance",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGFVTVNjTklMQTVqWjhmaVNOSzM5dC1BbWFnRTRPTG51b2xOSFhmamF0RkN2RWJjcVdhbGFQaEZPaUdkMnRjcW5aWFROYVhZblFFUkVaVVBtOV9HRHpoeUdmZTJNYnh0UWxKWFZtSVJRMkZ5NjBDSDR0eXRLN1hLM21PWDg2V1dSckZ0Q1hTN3hheUlPdzhHNml1QnBPT2FBdGlITDZWV3d0V1pZTjRsNlRZNkhnTTJmUXM2Vnptc3o4V0t6dmU4bzRUc2hybnc0c3kxMDZPTFhROUZmZEdjbmpSZXNEdHhCU3c?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793143244855-5",
+      "title": "Oracle to Offer Cerebras Computers in AI Cloud Service - Bloomberg.com",
+      "excerpt": "Oracle to Offer Cerebras Computers in AI Cloud Service  Bloomberg.com",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUR1NDVQclBsT2Z5bG9oLTV3VVZ3MDBmLVVVUmFfWWE5VHA2Ul8yLXVKSDFBVEdKQmlNVDNlbFlzYmV2bjBqTlpxRFlHLVRRZVdGWmk0amV0Uk56bFJpTDJERmoydnU2QVhzalZGZ1RhU1VJWVctY3RxY21IOGZjb0dqc1VJMUo2SzRLaWQ3MWN3clNGWkNSOXMxYkRFN2J6WHlfNE5CbHJFcnRyRnNVd1NEOA?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1793057252782-0",
       "title": "Introducing Oracle AI Database Agent Engine - Oracle Blogs",
       "excerpt": "Introducing Oracle AI Database Agent Engine  Oracle Blogs",
@@ -967,41 +1015,57 @@
       "date": "2026-09-27",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDc1aU5neUFIenNEV3VHZllDUzhlTFhRMVR2ckRqanM2ZTRyVXotZ1RRMTI5LU5FS1lTZTRtN1FsTFhyaERfOGpGVlRfaDE3NWstck5abHNKSGV5amhVQjI0OFFfZVAyU2tsWHVCVExzZFpxbkNsb0V5ajUxVE14RDhWVTNJdw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-1",
-      "title": "Oracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy? - Yahoo Finance",
-      "excerpt": "Oracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy?  Yahoo Finance",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEV4dF9JamhwNWhpS3dfNDhwQ3BXRkJNdkJNSzJWc21KUTh3cTYtdEQtQ3FXYWxZLXVYbFl5RE5Mc3pQem1HQWs3Z2U4eVJ5U0lTRXZCZ2Jyak1LZ0RNZ3lhQWtyaHp3TzBjdW9PbGdET0w4ZG5ocUFIWm9TXzJhRXIwWE1ndU94T2JwR2xyVHlEVlp3blE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790640203283-2",
-      "title": "LiveKit Agents Framework: Real-Time Outbound Voice AI on Oracle Cloud Infrastructure - Oracle Blogs",
-      "excerpt": "LiveKit Agents Framework: Real-Time Outbound Voice AI on Oracle Cloud Infrastructure  Oracle Blogs",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0c5d0laVFU0djY3ajNkUWNoN0VvTEZ1cUU1UDVKdHRHbE4wbjA0TDVLZ29laldRVGxPZGtXNDlhaXJYSjZMb3g4dFZjQko1VW90LVdIeDB4elJLdVBzeGxEZjlQVmpaQzQ0ZDlLSTJfbUhXSWlqWjhaWVRzd0dDbkpvSDVqb0tOLWlyTg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790460943460-3",
-      "title": "Oracle layoffs 2026: Company cuts 546 cloud workers jobs in US as AI spending rises - The Indian Express",
-      "excerpt": "Oracle layoffs 2026: Company cuts 546 cloud workers jobs in US as AI spending rises  The Indian Express",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU25vbjlhZndXX1BVeERJa0V4Z3k0XzJ0a2l1R3NkWjdMdWlUSFk5dWYzVnloUGxTNUFxeUVPdzd2Q2dXVktRQ3dkb29Geksxa1ZQaDhpYzZaYUVYemZGTExXZ0taem5ZVkp0c2wyQ3J5WlAyRkZhME5MaWNLRHRleC1lMDRoMzlyeWxsUk5kNHRqYktpSUFzVTRCLVdhS2o4cjFpZFI0M05mNm5admJfSjRHOTJOcEpEc0hr0gHCAUFVX3lxTE45NjZrRG4wNlpnV0h5Um45QWg0aW0xTzRCVlNyaC0tNWp3VVZVRjdGOHpIWDdzbnFLNG9mNmpTcDJ4YmVtbUR3dGoxWXNGNmhjYkRSX2xfV2NGTERMVUpRVDhSeXhNck5FLWhqQnBmMk9Qbk1FTWFJSkNGMEhTS2dQRC0zdDJzYWk3cDE4R3ZuRVFQRkItQTQ5ZmNlMDJCUnpXcjFsdnJmcHBZTkFxU21ZbGUydlpkeUNmOTNYS2Y4bkF3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790460943460-5",
-      "title": "The AI borrowing binge is back in the spotlight - Axios",
-      "excerpt": "The AI borrowing binge is back in the spotlight  Axios",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BSXpIVWtIQ05XallfWVF6RG94bXRrQ0NmRXdwWHdFaW1ERGtITVhra0lFU2lFN1RWVXhVekZLZE5WcFpnd0xsN0NudWJ2eXVlTFJzN0U3UGFTeXFKZlpLRmFJN3FKMmlv?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1793143245414-0",
+      "title": "\"해외 시장 잡아라\"…韓 스타트업 3사, 오라클 AI 월드 출격 - 지디넷코리아",
+      "excerpt": "\"해외 시장 잡아라\"…韓 스타트업 3사, 오라클 AI 월드 출격  지디넷코리아",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWQU90ckF0UmwwTHpKQXpvSGdNMzFCT21vR2NZZmZKUlRHX1lrM3dWUVhoQ1F5S04wWVpHMlpfdHBOLWF6SWltTGNQVi02eU5ETEUwaHF3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793143245414-1",
+      "title": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다 - 바이라인네트워크",
+      "excerpt": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다  바이라인네트워크",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ck1HbUtPUFRfdTJoUmN3SG5UbmZjb1JFWm5ibnFDTG9wdEtId2ZoSWJrNl9wczVfUUZaZVZNS1Y3alZUZkZYM1V6X1pmS2c?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793143245414-2",
+      "title": "오라클, 자사 클라우드에 구글·오픈AI 칩 도입…AI 인프라 협력 확대 - KB Think",
+      "excerpt": "오라클, 자사 클라우드에 구글·오픈AI 칩 도입…AI 인프라 협력 확대  KB Think",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tbGI1YUNqbl9Nb3RLeVJPeThtM3Y4MzNKZ290LWRJTDRWS3RMejlRbUpzYnFYbEF5cmVyblV4UktXakNmMTZUZkYzeFRsLVhqeHpGVkZsZ2libUJyQlg3RC1DMy1GTUlUb1g4OFZMV2s5QQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793143245414-3",
+      "title": "[오라클AI월드] 오라클, `액셀러론` 클라우드 전체 확대…세레브라스·오픈AI 칩도 OCI에 - 디지털데일리",
+      "excerpt": "[오라클AI월드] 오라클, `액셀러론` 클라우드 전체 확대…세레브라스·오픈AI 칩도 OCI에  디지털데일리",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpTkVhck9lWEp5cm5uczhDN0RRWFpEU2JvdzJQaWFmUXNLZVVpdUdnaDAtb3d0VzFMbmZJeTlLaEVtVXFUdHpKbmlkdUcxTTk1cnRNVGRtZ0tqT2NGVVc3d1ZDTFg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793143245414-4",
+      "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침 - 전자신문",
+      "excerpt": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침  전자신문",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lY242RFRxd1Y4eUpHeXJkcVFmYlQzWVhaU2RqVWpJVW53M0RtTWlBQVhVaE5fQjRmR2oxNEVyN0V6TG11a1c1dkNha1BjZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793143245414-5",
+      "title": "오라클, ‘자율운영 AI 레이크하우스’ 고도화 - 디지털경제뉴스",
+      "excerpt": "오라클, ‘자율운영 AI 레이크하우스’ 고도화  디지털경제뉴스",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBockxTbDBib21Qelo3NXpwa0NocHdVYS1XbnRxZmFYVU9TcFVWdW1LM2d6OUExcnFxN2NQV0JqaEpuVXRwdWh0Y1F6QzJLdmhBTm54SWVFZHlJYWFoS3VYaWNybmRxc1d6VXc?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1793057253289-0",
       "title": "마이크 시실리아 오라클 CEO \"SW 조작은 AI…사람은 업무 집중\" - 지디넷코리아",
@@ -1496,22 +1560,6 @@
       "excerpt": "오라클 '보유 현금 고갈' 어떻게 이겨낼 수 있을까  KB Think",
       "date": "2026-09-28",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZVRuS0Y4dXpSMnFFTGpiREFIcTJ0LTZrRm4tOWViRVlvaVNmX0J0eG5IbmFNVjVBczBzMmVWaENieHFHd0ZtLUtpNWFqaGlLdXY4N0c5cjVyWGYzRjJERTh0WEo0SDZfbzJWemZYR2QtQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790640203740-1",
-      "title": "오라클 '불가항력' 통보에 오픈AI 투자 반토막...AI버블 경고음 잇따라 - v.daum.net",
-      "excerpt": "오라클 '불가항력' 통보에 오픈AI 투자 반토막...AI버블 경고음 잇따라  v.daum.net",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVGRMU2hZY3FqT2NWcjIwV1VfQlFqMXZPWDhpbXIyMEotQnlBRW00X05XOXFHY3JacGJMczlnQ0xoVklaaWtEb3hoREh6UVk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790640203740-5",
-      "title": "오라클(ORCL), AI 암 진료와 디지털 자산 확장이 판을 바꿀까? - simplywall.st",
-      "excerpt": "오라클(ORCL), AI 암 진료와 디지털 자산 확장이 판을 바꿀까?  simplywall.st",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV29BZWZiMDJ5SndDeExRbGxad0EzSU1HZC1uOFpVWEhsRkNVSW1IVkhVRmFuVk9kTFFDSWJQTFplM0tJS1NFdUVDZFpMSVZidWV5RnVlaGpSTXVNblhuZHp2bGdHYk1MQS1FNGkzWXRzTWFnbHlKSF82eWlyekJjck9YTzdjSFp5eHfSAY8BQVVfeXFMUGE5cVFzUjZ6ZDBLT0s3Q21QNF82RXB6Ty1BdzE1YTFOWkRyOGZURFc1aEFWUl9QVVRBUXByb3lSOU15Zl93VGxRbUY2a3R5NGZySVdMbUR3UTJXamNBUHVwS2J5MGsyUUtpeUt2ZGR3dWQtVEtfOVZ6QnNmNmthT3FWRTl3Mno1Nlp1NU1RWFU?oc=5",
       "category": "Industry News"
     }
   ]
