@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1793402527423-0",
+      "title": "Building trusted access for AI agents with OCI IAM - Oracle Blogs",
+      "excerpt": "Building trusted access for AI agents with OCI IAM  Oracle Blogs",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmUwQmxxeTk4dXZzb0MzZkR6OTFpNlFRdFJkYThTVmhmSF9pbFVIdmxpUTRDZXRUTmJmSUI1WnJnRHJxY2hsVzZzZGMtQlIwWHlSNlRpV0Jud2NVdUtNV19rSHRTbmlVOHBXbmpDMlU1WjI5aGRHWWdLVnVjT3RqOENJd1hnTUdWdThZOHdqdVV0aEpGMmd6RWNWX24?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793402527423-2",
+      "title": "Bonnie Tinder Reveals What Oracle AI Customers Really Need to Succeed | Cloud Wars Live - Cloud Wars",
+      "excerpt": "Bonnie Tinder Reveals What Oracle AI Customers Really Need to Succeed | Cloud Wars Live  Cloud Wars",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0c3amU0d3BWbG5xdkJWVVZUMm5EbVUtOTctYTl5WXdKSXlMUFNfLUx6c1g3V2hOYktjM2tmakFpSkFKeFljb0tXM1BOV1pJMlowOFlPM3JCTTZPclFVN05FZU5IS0QyVlRGMGFGV2gwSUlRVFpJTXFXeGVUaDJGVVBPZ09Gbkw1QzhjN1RYVEtnRFB3bEI3a3BTRFhFa1dUTGV2b3czdjBybXRqTHVHWA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793402527423-3",
+      "title": "Oracle Just Told Investors What Many Already Knew - 24/7 Wall St.",
+      "excerpt": "Oracle Just Told Investors What Many Already Knew  24/7 Wall St.",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdV9fbGNYd2FPdGFHSzJFajJKNEdIbF81RDA2RlJFanFheDN3UUU4cVNKVm9UcFBfZnhoZmtQZXE2aHhZODFpNHc4WFVmY2Z6TmZMWVk3ZmpkT2xpTE5qVVpYdjgwajNqUzlGcFExbnZDX3FzTG1Xb1Nyenc5Wjk5cmZRU0wxYzBIYlpoMzZ5Ymh6RENwb21CWQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1793317344987-0",
       "title": "AI Cloud Stocks Fall as Big Tech Capex Comes in Light: Fastly Sinks 6%, Oracle and Nebius Drop 3% - 24/7 Wall St.",
       "excerpt": "AI Cloud Stocks Fall as Big Tech Capex Comes in Light: Fastly Sinks 6%, Oracle and Nebius Drop 3%  24/7 Wall St.",
@@ -89,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793317344987-3",
+      "id": "en-1793402527423-4",
       "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup - CNBC",
       "excerpt": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup  CNBC",
       "date": "2026-10-27",
@@ -113,11 +137,19 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793317344987-2",
+      "id": "en-1793402527423-1",
       "title": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure - Google Cloud",
       "excerpt": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure  Google Cloud",
       "date": "2026-10-27",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWRibmpLV1RyczRyQ2RRMGZaeDVFbEZwNWhvMjZJY0Iwa1JnVHp4UWJHbi1CWTAxU0ZDaW9qMm5SeEd5LXczXzJvRXpGbmhWV2FMcDBISHpRSkRLQk94X3hPOWRjanJIb1J2ZzNpMm5TWTUtLVJSaVhmV242VFNrcE1IYmpTaWxLeFBiNUdnOVc4RE1FN3FQeGxDQ0p3YktNOS0xN1ExbHo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793402527423-5",
+      "title": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference t - Cerebras",
+      "excerpt": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference t  Cerebras",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUxkYkQ4RmluMmdsT1dMT3duQjJ6MnlVVkNFQXZqbXo1OERWeW5FRnE0ZmczV2JHMFVNdkVQV3BfLTNEaW9EcjJDaTlweFlLYXpFdV91WmFwSVBZb1c5OFFRQ1VYSmstNUhyUXFXVU03RDZCT2RCejBBbFcweUREX3QwcE9hblBhSW81TzJRZHZvT1BzeTdJbXMxaXA1VFF1cmlxYzBJdWthNHVUc19rX0FBZTlyRGZyaUpRNkVhaW1RUQ?oc=5",
       "category": "Industry News"
     },
     {
@@ -975,75 +1007,27 @@
       "date": "2026-09-30",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nMnotNmtpcXFqZWxuYWk2QmtidWJMZ0NRR1N6eC05U2lkU1FzU1dSOTkyd3lBVHlpSXNvSHJYOXRCU0s5N05KWEg3N0dmSWdHYUdlY01Ncld2cXNoamljT0NBbmFJR0l6V29CeDhCdC1rZw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1791153423097-1",
-      "title": "Oracle's AI Cloud Contracts Surge: Is Revenue Visibility Rising? - Yahoo Finance",
-      "excerpt": "Oracle's AI Cloud Contracts Surge: Is Revenue Visibility Rising?  Yahoo Finance",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVhDQ0J3YjUyV3h6U3lON3VEZlU1Q1dJRi1mYWF4a1h4Q1Rrc003MlA2bi1hTVNXNWpLdW9uNVZDam94eVllbFNTd2ZPdWY1eFlZY0x1TTQxUFc1U19jay1FNGZzSlR4SE5lWVRXWURUTXBmeHgwTjdUMHdweU1TcjJtcjNLY1ZOY1JPbVktdG9WcHE3QlRFSkZYTGo?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790723792812-1",
-      "title": "Oracle Extends Fusion Agentic Applications with Introduction of Fusion Claw - Oracle",
-      "excerpt": "Oracle Extends Fusion Agentic Applications with Introduction of Fusion Claw  Oracle",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWUtVVpfR1dKcm13YmE5aGZEbHVpOVRwaDFOcGphZk5NbG8xLUs5cGYyUXUxQnRCQ29SXzN6ajl1Um94bHh2UUFfZ3RBQ2labkVyYjgwLWVXY0RXMVM2X0JtejZHOVlrWHlDcUhfMDZQNTdrUUxWMXY3ZGhnRGlPMEhWQW9iSGY4WWE2SnZGUUxJYTUzVFB5Q0tSNkpRT1gyTW5iS0kyUW1SNDQya3lqWF82bVNBZVNoV2FCMFNxQm9QUlVfZjdF?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-5",
-      "title": "Oracle Fusion Claw Adapts OpenClaw’s Agentic AI Approach For Enterprises - Forbes",
-      "excerpt": "Oracle Fusion Claw Adapts OpenClaw’s Agentic AI Approach For Enterprises  Forbes",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFFfV1ZuR0o1MVE0VmhxT2R6b1d5QTN1b2RXYkgxOU5yUGl1YTd3clhTMHVEdmxlZnZEVmd5Rnh0YTZlLTFFZGlEWHUxaTRBNkNPWl9wOW1ocDRGOS0waVNOdVVJd3FDOG1rZ1kxM0Y4RF94ZWFkNERDNTRnRTk1b2p3aU1kcG9USUl4Tk5LakYyWGFrTW5RQVJsTWpaME5ZeUtRWV96dFg1YmVRMUdYa2pZMDdTa0JRYTNPYnRVSQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790723792812-3",
-      "title": "Oracle expands AI agent features with Fusion Claw - SiliconANGLE",
-      "excerpt": "Oracle expands AI agent features with Fusion Claw  SiliconANGLE",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajFnUmdLU0VfVTZXNGtyRjNvejVXa2JWSFMxaGpmSHZuVFktX2Y5WjZxOE03eU82b3JZZmhvTm9jNE5SYm5MV0RVemxWZ1VBNUQxQTZWc1VlTG8zMXZWUmFlcndVWDZXWWl6Z2VYU1RMOUJUVEs5RXJTOTlfRUNzUklTQlUzYkpTX1FxLWJ0dGgwbHJ2SHc?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790723792812-4",
-      "title": "Oracle Fusion Claw pinches AI costs, tightens grip on policies - cio.com",
-      "excerpt": "Oracle Fusion Claw pinches AI costs, tightens grip on policies  cio.com",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGVLa2hpU2lMeWlMNHpDeU14MXhJakZiZnJUS1k3UVMxazhTVHpNZVZ2R3BXNmNjUWoyZkpXWnZ2RC1GdkFJRXNRR0VWNXNFQjgxekFZTnJvelFtOW4tUTJXV2tKNWxnQjZrUjQ3OFBvcFpwdU13elMxRmM4d0tKWkhnLWhDVk9OMjYzdWdmal9fQVZNUER6ZlJuMXdFOWN0dW00eg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790723792812-5",
-      "title": "With Fusion Claw, Oracle Is Betting Businesses Will Let AI Act Without Asking First - The AI Economy | Ken Yeung",
-      "excerpt": "With Fusion Claw, Oracle Is Betting Businesses Will Let AI Act Without Asking First  The AI Economy | Ken Yeung",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWR4Q2t5Ni1iNkg4V0p0bkZRcTA3V0QzNUhDb2NGdW5yQ2d5N21VUTQ5UERqSElUQUlrSHgzbTNDeHAyWktTck5odVpJd3dkVFJVOTRIMEVMUmVURmY2STJUbUdtZE0zRV9wV2VrclFhWDZ5cWZabllHY2tSNEctX1MtWQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791153423097-0",
-      "title": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service for Demanding AI and Enterprise Workloads - Oracle",
-      "excerpt": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service for Demanding AI and Enterprise Workloads  Oracle",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWUk3NXZZclZyUUZPNDVYdlVKeDdNVl9nVHRmU0FnU0ZWN0xjY2NRTUU1RUpvVGtHMFktUlZrb3dJTF9DN1hqbW11aXV2TTlxdGdXTkFyVkRGZV9CaktKeUNCZjhjdmVVcmN1cERNY282bkN6QjVqanB4b3B1czN3WTFyMXctVWhwQldKOVY0VjQ2dEtnUXEtTnphakc2b2NxR0twY1A4QWY3LW1XbXBaeGc1bmFYX2J5OEhSSWRUcmFid2tlU1FVZ25Ea1pkZUFmY2ZEVlItbVF0MHJaZ3Y1OWJSYWhDQUgyTzBVejdvaw?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790897636946-3",
-      "title": "Oracle's AI Cloud Contracts Surge: Is Revenue Visibility Rising? - finance.yahoo.com",
-      "excerpt": "Oracle's AI Cloud Contracts Surge: Is Revenue Visibility Rising?  finance.yahoo.com",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVhDQ0J3YjUyV3h6U3lON3VEZlU1Q1dJRi1mYWF4a1h4Q1Rrc003MlA2bi1hTVNXNWpLdW9uNVZDam94eVllbFNTd2ZPdWY1eFlZY0x1TTQxUFc1U19jay1FNGZzSlR4SE5lWVRXWURUTXBmeHgwTjdUMHdweU1TcjJtcjNLY1ZOY1JPbVktdG9WcHE3QlRFSkZYTGo?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1793317345500-0",
+      "id": "ko-1793402527805-0",
+      "title": "오라클, AI 데이터 플랫폼 강화…기업 AI에 ‘비즈니스 컨텍스트’ 연결 - 테크월드",
+      "excerpt": "오라클, AI 데이터 플랫폼 강화…기업 AI에 ‘비즈니스 컨텍스트’ 연결  테크월드",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxekF0UmNPYzlTU2lfNzU2amZWQk9KZk53eU9oQUhLWUdVaG1SWUdMZ2o5c0xaUnE3Nk4wSk9rTkk3ZFczdFIyY3RrRHBOQkhIVVMtUE0zN0k2bjV3aEE3NzZsVlNqZ2lo?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793402527805-2",
+      "title": "오라클의 위험한 AI 승부수 [박신영의 월가 아나토미] - 한국경제",
+      "excerpt": "오라클의 위험한 AI 승부수 [박신영의 월가 아나토미]  한국경제",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeUFTYW1UZllLTGNoT0RfOFFEV2paU0FEVjF4VHhfQUptOE0tZXpNYi1IbVl1cnVya3hyNWpWeGtlemdWTl9DTFN2b09BNWExdjl1RTZiSzhVUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793402527805-4",
       "title": "연례행사 키워드로 본 오라클 5년…DB서 AI 에이전트로 - 블로터",
       "excerpt": "연례행사 키워드로 본 오라클 5년…DB서 AI 에이전트로  블로터",
       "date": "2026-10-29",
@@ -1083,7 +1067,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793317345500-1",
+      "id": "ko-1793402527805-1",
       "title": "오라클, 구글 TPU까지 품는다… AI 클라우드 반도체 다변화 - Chosunbiz",
       "excerpt": "오라클, 구글 TPU까지 품는다… AI 클라우드 반도체 다변화  Chosunbiz",
       "date": "2026-10-28",
@@ -1139,7 +1123,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793143245414-1",
+      "id": "ko-1793402527805-5",
       "title": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다 - 바이라인네트워크",
       "excerpt": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다  바이라인네트워크",
       "date": "2026-10-27",
@@ -1163,7 +1147,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793143245414-4",
+      "id": "ko-1793402527805-3",
       "title": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침 - 전자신문",
       "excerpt": "[오라클 AI 월드 2026]오라클, '일하는 AI'로 기업 혁신…보안·통제로 신뢰 뒷받침  전자신문",
       "date": "2026-10-27",
@@ -1616,22 +1600,6 @@
       "excerpt": "오라클, 에이전틱 AI 실행 런타임 ‘퓨전 클로’ 공개 ··· 25개 애플리케이션 출시  데이터넷",
       "date": "2026-09-30",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GQTRIbU1Qa0FaMkxrQmE4ZmZZR3ZJN09USGJKNGxVRGcxVXMtekt4SGlLWEtKMG5jS1B0OEM5aUFtVTlDVExneVdPUlh6QWY1Z0tBRnkyNWtJZFFfdkF1RmpUTmJzODJWUWNOVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790983509267-4",
-      "title": "[美특징주]오라클, AI 에이전트 ‘퓨전 클로’ 공개…주가 4%↑ - edaily.co.kr",
-      "excerpt": "[美특징주]오라클, AI 에이전트 ‘퓨전 클로’ 공개…주가 4%↑  edaily.co.kr",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlQzSVpBdDJhalZpdUR5X05sTFgtNUt4eERzdmtMTDlRZUVHN19JWXF5ME9Ha2pxdlpVbmdMUnZnb05NVWpobjg3MkJEczhyM0xIemEza0U3TXoycGRvcVpFTmg1VVVodS1GTEZPQ1ZpbmpXdkNSRzcwS0RTY2xfcQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790897637446-0",
-      "title": "오라클, ‘퓨전 클로’ 공개… 퓨전 에이전틱 애플리케이션 기능 확대 - Oracle",
-      "excerpt": "오라클, ‘퓨전 클로’ 공개… 퓨전 에이전틱 애플리케이션 기능 확대  Oracle",
-      "date": "2026-09-29",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb21NUWpldDVQTmZnc0VyUXB4WkdlUzBMenkyLWMzUGJSR2pXVEpaTExVaG5jX3MxSXVPUENOTEM5OVNwWGRoaEY5aHFGVXZmUXZiUVNWQ3plbEI2cnhNQmdneUg2WVhKbURzWWZ1dUppZWtsQndHb3BvdkxhckR0bUdaMlByUzVwT1FFM1NQMDV6NzhNbDREVEFTbndMQTZlYnpyU0J0VEFNU2gwWElTMEJYZS1Ya0t3THEyd1ViampfLW9jcW9zY25rNA?oc=5",
       "category": "Industry News"
     }
   ]
