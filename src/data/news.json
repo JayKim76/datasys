@@ -57,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793317344987-5",
+      "id": "en-1793487326030-2",
       "title": "Oracle eases AI spending worries with plan to turn cash flow positive - Reuters",
       "excerpt": "Oracle eases AI spending worries with plan to turn cash flow positive  Reuters",
       "date": "2026-10-28",
@@ -97,7 +97,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793143244855-1",
+      "id": "en-1793487326030-3",
       "title": "Snowflake and Oracle Expand Their Partnership to Bring the Snowflake AI Data Cloud to OCI - Snowflake",
       "excerpt": "Snowflake and Oracle Expand Their Partnership to Bring the Snowflake AI Data Cloud to OCI  Snowflake",
       "date": "2026-10-27",
@@ -105,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793143244855-2",
+      "id": "en-1793487326031-5",
       "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
       "excerpt": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale  Oracle Blogs",
       "date": "2026-10-27",
@@ -113,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793402527423-4",
+      "id": "en-1793487326030-1",
       "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup - CNBC",
       "excerpt": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup  CNBC",
       "date": "2026-10-27",
@@ -145,11 +145,19 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1793402527423-5",
+      "id": "en-1793487326031-4",
       "title": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference t - Cerebras",
       "excerpt": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference t  Cerebras",
       "date": "2026-10-27",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUxkYkQ4RmluMmdsT1dMT3duQjJ6MnlVVkNFQXZqbXo1OERWeW5FRnE0ZmczV2JHMFVNdkVQV3BfLTNEaW9EcjJDaTlweFlLYXpFdV91WmFwSVBZb1c5OFFRQ1VYSmstNUhyUXFXVU03RDZCT2RCejBBbFcweUREX3QwcE9hblBhSW81TzJRZHZvT1BzeTdJbXMxaXA1VFF1cmlxYzBJdWthNHVUc19rX0FBZTlyRGZyaUpRNkVhaW1RUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1793487326030-0",
+      "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud - Google Cloud",
+      "excerpt": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud  Google Cloud",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlU0SDVJYVNBMHhpM1VBd0tfcjdjWDFsOW1kOWI2cUNnbmVveE5wSGxNQmlMeXBXTldYRXJwNk1ZVjZOT2k3d01ZMzhOS0NHT3g5VFdzd1Qyekx1NDdDT2FGVExLWHhNQVVQNUxfeE5XdnFKdEJKd3F2c0VxU0pVb3owWWRrSGlwc3hER3otUzVreklFWUNKTEE2VVV4QWxDUG5fM3B2TWZOMFR1?oc=5",
       "category": "Industry News"
     },
     {
@@ -967,49 +975,17 @@
       "date": "2026-10-01",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQVd4NFBOR1pTMWY0U2NLRklGT2J3WEpiRDJWb3V0N1FieXk3TGxaSUdrLUhCSkhtMWFsd2ZCZ0hYRnNvamh6OEdaTUQwMEkyNURjZFFTc08yQTZESjFGaFBPcm1VRjIwZVhySzIwWjhfNXN4aHpMUkQyZVdmZ2M?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-0",
-      "title": "Your AI Agent wants your data - Oracle Blogs",
-      "excerpt": "Your AI Agent wants your data  Oracle Blogs",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wOVBBc3NDYVdubU9VejhMVFoxWEVJUGpRLVUzdWtCZ1ZZWlJ1U0liZ3BGcDREdlBZM2hTcEs5QXNRamhub3l0Uy1oTmhpZzhjRHZBd3EyaDh0ZDBSNnZsTzlhdmZmSjRjeWRZSEJzdF9WNUE?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-2",
-      "title": "Second quarter GDP growth is brought to you by the letters A and I - marketplace.org",
-      "excerpt": "Second quarter GDP growth is brought to you by the letters A and I  marketplace.org",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXplT1o4MjNIRWxVa0hKUVV3SjN1Q011VDRuSmdfUGtoV256dGhKTkk1SEhSQUxWcWs0ZzdkTjZPVE9YUjVpXzdBcjVnTUlpQVF4dWZGSDYtUktsZGlJUlktS2RnZng2aGVMSjdmOUloQk9aQzRtcTVrMkVoRnJWN3lsNEkyWTB1LTFvNi1YNA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-3",
-      "title": "Data resiliency: how Oracle protects enterprise data - SiliconANGLE",
-      "excerpt": "Data resiliency: how Oracle protects enterprise data  SiliconANGLE",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDRQMmk4QVI4aUN2UVpKdkhTcXFJUHpXTExkejhTNlhDUThWNHlUMy0tRzFsMXRGeWR2V29jd1dPZEJoZTAtbzZKWWM3eTZrN1ZiUm9PR3U5UHNESDhGZnFOZVJMRVZzek80X0xVNlVVQ2V1Q0s1ZDhmU0t1eVZXT3dXbGxIbW54MGcwSUxRb1RBOFRpNVp0Y2EtT25OQzdsdW9z?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1790810377416-4",
-      "title": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum - Investor's Business Daily",
-      "excerpt": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum  Investor's Business Daily",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmt2clJ5aWp1eEwzSE42R0V0MVVaNy1zdG9SV1dBTlVKRFNCQmpJeEY2YmJCNUotWThQTHI5ZV85ZS1JbFJMaGZNTDdSbjlLdlJleG1zRF9OclU5aUJaTlZEaXRfMW9OWlNrdy1xejl3NkdoNGdBdjFxU2tiMmVTa2I5SURJSUxsV3VUdERLLWZsdEhsQlVNaWlmNlMwSUk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791153423097-3",
-      "title": "Oracle AI World 2026 Oct 25 – 28, 2026 - Fujitsu Global",
-      "excerpt": "Oracle AI World 2026 Oct 25 – 28, 2026  Fujitsu Global",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nMnotNmtpcXFqZWxuYWk2QmtidWJMZ0NRR1N6eC05U2lkU1FzU1dSOTkyd3lBVHlpSXNvSHJYOXRCU0s5N05KWEg3N0dmSWdHYUdlY01Ncld2cXNoamljT0NBbmFJR0l6V29CeDhCdC1rZw?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
+    {
+      "id": "ko-1793487326411-0",
+      "title": "오라클, 구글·오픈AI AI칩 품는다… 클라우드 경쟁력 강화 - 금강일보",
+      "excerpt": "오라클, 구글·오픈AI AI칩 품는다… 클라우드 경쟁력 강화  금강일보",
+      "date": "2026-10-31",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MWWdHN0xCU3cyZVJqYnpuM190UmlNMlAtTXFSZ0VPRE03UXFLY0w4RDBSV3VHMjM0VEQ3eHl1YjZXS3ZMbEVqR29QdzAzVWJKVk9vak1KZmp3NXdmWDRfOXVmV3ExWHJH?oc=5",
+      "category": "Industry News"
+    },
     {
       "id": "ko-1793402527805-0",
       "title": "오라클, AI 데이터 플랫폼 강화…기업 AI에 ‘비즈니스 컨텍스트’ 연결 - 테크월드",
@@ -1019,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793402527805-2",
+      "id": "ko-1793487326411-3",
       "title": "오라클의 위험한 AI 승부수 [박신영의 월가 아나토미] - 한국경제",
       "excerpt": "오라클의 위험한 AI 승부수 [박신영의 월가 아나토미]  한국경제",
       "date": "2026-10-30",
@@ -1027,7 +1003,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793402527805-4",
+      "id": "ko-1793487326411-4",
       "title": "연례행사 키워드로 본 오라클 5년…DB서 AI 에이전트로 - 블로터",
       "excerpt": "연례행사 키워드로 본 오라클 5년…DB서 AI 에이전트로  블로터",
       "date": "2026-10-29",
@@ -1067,7 +1043,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1793402527805-1",
+      "id": "ko-1793487326411-2",
+      "title": "시장 작아도 놓칠 수 없다…오라클이 '소버린 AI'에 공들이는 이유 - 지디넷코리아",
+      "excerpt": "시장 작아도 놓칠 수 없다…오라클이 '소버린 AI'에 공들이는 이유  지디넷코리아",
+      "date": "2026-10-29",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ZXBTZktJLTFvU0JYT3BsNW5HSzVUa3gtLXQ3dnF0ekdWZzB1dnFvUXQ1eHJYLUYtV3VqTk9kRFEzWktSM0IxSHZRazRJQ2ZLOG1wQVhn?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793487326411-1",
       "title": "오라클, 구글 TPU까지 품는다… AI 클라우드 반도체 다변화 - Chosunbiz",
       "excerpt": "오라클, 구글 TPU까지 품는다… AI 클라우드 반도체 다변화  Chosunbiz",
       "date": "2026-10-28",
@@ -1160,6 +1144,14 @@
       "excerpt": "오라클, ‘자율운영 AI 레이크하우스’ 고도화  디지털경제뉴스",
       "date": "2026-10-27",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBockxTbDBib21Qelo3NXpwa0NocHdVYS1XbnRxZmFYVU9TcFVWdW1LM2d6OUExcnFxN2NQV0JqaEpuVXRwdWh0Y1F6QzJLdmhBTm54SWVFZHlJYWFoS3VYaWNybmRxc1d6VXc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1793487326411-5",
+      "title": "오라클, 자사 클라우드에 구글·오픈AI 칩 도입…AI 인프라 협력 확대 - 연합인포맥스",
+      "excerpt": "오라클, 자사 클라우드에 구글·오픈AI 칩 도입…AI 인프라 협력 확대  연합인포맥스",
+      "date": "2026-10-27",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5keExHZklyMmVvOXlydVh0X1I2QkRLOWdtSGd1SkVyV3FaLU1HWVFHX21UdGViXzVtVG5BZHdMWmotR1BPcGw1VEE4SEptN3YxRWR0MlljUkx1anNaWUpUVU1lMnJqelZEdE5ROUtOMUI?oc=5",
       "category": "Industry News"
     },
     {
@@ -1592,14 +1584,6 @@
       "excerpt": "\"중국 내 AI칩 부족\"…텐센트, AI칩 10만개 오라클(ORCL.N)서 빌린다  알파경제",
       "date": "2026-10-01",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oMjZBTVpZdWZFUUNEX1VqcjZhdTBUbFFWTkJCWlVoSmw4T0hsVERoOTMzNHBKb1R6TlJDbEMybkVnZ3daT3h5MmlIMmNzZVFYdHF2ZllWeTVZQ2UxbmlpdmZTMENjcHpSeC1hMFZ3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1790810377856-3",
-      "title": "오라클, 에이전틱 AI 실행 런타임 ‘퓨전 클로’ 공개 ··· 25개 애플리케이션 출시 - 데이터넷",
-      "excerpt": "오라클, 에이전틱 AI 실행 런타임 ‘퓨전 클로’ 공개 ··· 25개 애플리케이션 출시  데이터넷",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GQTRIbU1Qa0FaMkxrQmE4ZmZZR3ZJN09USGJKNGxVRGcxVXMtekt4SGlLWEtKMG5jS1B0OEM5aUFtVTlDVExneVdPUlh6QWY1Z0tBRnkyNWtJZFFfdkF1RmpUTmJzODJWUWNOVQ?oc=5",
       "category": "Industry News"
     }
   ]
