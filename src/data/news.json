@@ -1,6 +1,14 @@
 {
   "en": [
     {
+      "id": "en-1794179850990-3",
+      "title": "Oracle Falls 4% as Microsoft Reportedly Ends AI Deal [2026] - tech-insider.org",
+      "excerpt": "Oracle Falls 4% as Microsoft Reportedly Ends AI Deal [2026]  tech-insider.org",
+      "date": "2026-11-08",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHBhTkZXYmhpcFZFRG1YNnBySkVuMEN0ZUZaNVRoQjVaUVVpWEVPY0ZlWXNCQ1hUNWlMYlc1Z21qTHBVT2JFTmpXUWdpclNJT0tpc0NIMkl1c2hJNmNEcTlwRFkwUWZNSEtMMC1CUVE4SnBBX01UTlVRSVl5NUxmSkpfQ1daQnY1bnZvUTNoQm1HNlFGWkFtSGln?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794093300599-3",
       "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal - 24/7 Wall St.",
       "excerpt": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal  24/7 Wall St.",
@@ -17,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794093300599-0",
+      "id": "en-1794179850990-0",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
       "excerpt": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports  Reuters",
       "date": "2026-11-06",
@@ -33,7 +41,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794009155930-2",
+      "id": "en-1794179850990-5",
       "title": "Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report - Barron's",
       "excerpt": "Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report  Barron's",
       "date": "2026-11-06",
@@ -41,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794093300599-2",
+      "id": "en-1794179850990-2",
       "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal - Yahoo Finance",
       "excerpt": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal  Yahoo Finance",
       "date": "2026-11-06",
@@ -68,6 +76,14 @@
       "id": "en-1794093300599-1",
       "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com",
       "excerpt": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity  Bloomberg.com",
+      "date": "2026-11-06",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794179850990-1",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg",
+      "excerpt": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity  Bloomberg",
       "date": "2026-11-06",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
       "category": "Industry News"
@@ -105,7 +121,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794093300599-4",
+      "id": "en-1794179850990-4",
       "title": "Oracle Deep Trust AI Brings Agent Governance To The Database - Forbes",
       "excerpt": "Oracle Deep Trust AI Brings Agent Governance To The Database  Forbes",
       "date": "2026-11-04",
@@ -1007,51 +1023,35 @@
       "date": "2026-10-08",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1791417373579-0",
-      "title": "Oracle Globally Distributed AI Database and Oracle True Cache at Oracle AI World 2026 - Oracle Blogs",
-      "excerpt": "Oracle Globally Distributed AI Database and Oracle True Cache at Oracle AI World 2026  Oracle Blogs",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnIzNV9hQUkwWk1sX2lhNG1BM2piOEU3U0VrUEkySEpvb0h2T2JoQkFaaFhWR05Fa0RsbnZWYlFCMVhrbjAyeXh6TVVCMmJlbE9jUFpjSWl2M0VsYVhVcGR5MjVXMUk0ekR5VHVBeVhOTEpqOW4wblZTQzFxSnBVT2NIWmszR3lZaEpQSjd0VTBtQ2tEOXNwV2MydjZ4T3N0bHhJaEhQTjdfZWR4cy1qcnM1cTJHVTUyU284?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791504185747-1",
-      "title": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips - WSJ",
-      "excerpt": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips  WSJ",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791417373579-2",
-      "title": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum - ChartMill",
-      "excerpt": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum  ChartMill",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckM3NmZIaDBJaGt4Rlo4LU9hLUhqQncyMjlnRWxoMnVBVzlYYmpjbG91aTZsZl9IREpaT3A5YjN3Qm1obHhURzFkOThQNnVwMWV3VG1CbGVHZnJpSjJYUHdwUFpFU0tWUWVuc0cwVDlfSmlPUUctcXZ1ZEpvNDI5WkxLVS03TlZBNjJfSGdRV3FsM2NrWXUtX2oxVllVTXM3ZHRzQ2tfUFY2RG5KbUdETGRPdHdJSThHbFZobWF2LUZPc3M?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791417373579-3",
-      "title": "High-Beta AI Play: Cerity Partners' Jim Lebenthal Views Oracle Pullback as Buying Opportunity - Benzinga",
-      "excerpt": "High-Beta AI Play: Cerity Partners' Jim Lebenthal Views Oracle Pullback as Buying Opportunity  Benzinga",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXFReWZiLXV3WG5BcjE2ZTN5RVpsWmwwdUNaMlV2UDlfdGNZYWRtRlB3dU9aVGJmbHRnUndqZklmNUdmU0R4eVlsSWlIbEx5TG1CdmdjTHo4a1Q5b1UyRTJnUjNGZjFGdk96N2xmaG9ZejBfZnhoald5TkdQalE4NVY2b3lOOF84dVpiaFhDZ3lkaGNFTWI0UEJ6TW95T2NDMG1MS2dqODUxWS1uZUJ0cUhVUTh5WEpFVlR6UTloRzFxMG5vUkVWMVJCdHliVmI5VElXeVplTkRoZFV6?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791760727586-4",
-      "title": "Oracle is cutting jobs worldwide. In Israel, it is still hiring - CTech",
-      "excerpt": "Oracle is cutting jobs worldwide. In Israel, it is still hiring  CTech",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjTU41N1U4Q3NScW95WkJIZEQ0R0hpMmo2OXZjWlB1UmJOOW1tZS12UGI2Ump2NG1ZUDByXzQ4N1VadVBvUThqT1luWm1JTFdVd001VnAwaVlUbVJQcjFKd21tcTJZaTg?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1794093300981-0",
+      "id": "ko-1794179851285-0",
+      "title": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려 - 이데일리",
+      "excerpt": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려  이데일리",
+      "date": "2026-11-08",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGRSV3ZBd1dlT2dULUw5YV80MGg4V2hMRVpfSE9tbXZ5WEV0cUJYQl84bktUVnpFQXdTbVpWUFowVDJGeDhRQjFWSjlfdzhkdVpJX3hWak0yYXJHeVpVODdGdUt4UUd1czZTc2lEb0UxYWxaamdGdDgwbG4ydHJXUA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794179851285-1",
+      "title": "Microsoft, Oracle의 AI 클라우드 용량 임대 계약 단계적 종료 중 - GeekNews",
+      "excerpt": "Microsoft, Oracle의 AI 클라우드 용량 임대 계약 단계적 종료 중  GeekNews",
+      "date": "2026-11-08",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kMHRmbXNPWWJLZDlhZDVPN2Z2aHlHTU5odm1aYjVnempIM1E2M2w3UjNNX3oxNGo0ci0xbnkybTJaMFBLYnNSXzdOOA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794179851285-4",
+      "title": "MS, 오라클 데이터센터 임차 중단 수순…네오클라우드 전략 재점검 - 전자신문",
+      "excerpt": "MS, 오라클 데이터센터 임차 중단 수순…네오클라우드 전략 재점검  전자신문",
+      "date": "2026-11-08",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYXVnR3lYVkd3OUlBdGdVdzFMWEFYQWwyUjVRNGNocXNCUEpvazdobkZGMkFFWElwT3dsWElhSnVkcGJOeFpoNHZJSHRLZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794179851285-2",
       "title": "뉴욕 | MS, 오라클 AI 계약 접는다…클라우드 시장에 균열 - OBC 뉴스",
       "excerpt": "뉴욕 | MS, 오라클 AI 계약 접는다…클라우드 시장에 균열  OBC 뉴스",
       "date": "2026-11-07",
@@ -1059,7 +1059,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794093300981-1",
+      "id": "ko-1794179851285-3",
       "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아 - AI타임스",
       "excerpt": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아  AI타임스",
       "date": "2026-11-07",
@@ -1067,7 +1067,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794093300981-2",
+      "id": "ko-1794179851285-5",
       "title": "마이크로소프트, 오라클 AI 클라우드 임대 단계적 축소 - AI 매터스",
       "excerpt": "마이크로소프트, 오라클 AI 클라우드 임대 단계적 축소  AI 매터스",
       "date": "2026-11-07",
@@ -1752,22 +1752,6 @@
       "excerpt": "[미국 특징주] 오라클·브로드컴·스페이스X, AI 칩 구매에 수백억달러 차입 추진  뉴스핌",
       "date": "2026-10-08",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DWVV3azZZZmJiRUJ5cXE3YXRCV1JRbHRILXozY2JRQlE4RUYyd3BNM29LZGthV3p1S1RfMElfNlFwR3dOQXVKUUI0WjZlVVVXa0xnMWtkX0dZOTdk?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1791760728055-3",
-      "title": "AWS, 데이터베이스 전환에 AI 투입…코드 변환·검증까지 자동화 - 지디넷코리아",
-      "excerpt": "AWS, 데이터베이스 전환에 AI 투입…코드 변환·검증까지 자동화  지디넷코리아",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Dd2tORWcyQjhLU1V3VmtYM0dWXzdvLU5fM0RuLW5zaGlOMWFhOUFGSWFSQlJxOXl2empDa29US2xJSzZ0UFBreDh2UGpGZl9aMnVYVnF3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1791417374075-3",
-      "title": "토토 가입 머니 10000 마케터를 위한 서비스 디자인 핵심 방법 - Calgary Roughnecks",
-      "excerpt": "토토 가입 머니 10000 마케터를 위한 서비스 디자인 핵심 방법  Calgary Roughnecks",
-      "date": "2026-10-07",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXEwLWtjRWNFNDJHSEZLM2xQUjYtWlBtY3hBQUR4VTVkMGl6UENRS3pCcGJ6MmlIWThGR0pBcGNkYm82dWs2eVE0NFNjbUxWWC1wQzJNZkNMTXo1SjB6dkZKTHZSVndTVUVhLThsQnU2SmJvdFh3UzhyLWdKQTVXTENaQ1FFUGNPR3BuNnRub2ZSNVVVOHA5cUg1VUZSUTEybDh1VDA3eURDZkNaNFYyOTJwZ2hsRFRZOXkxSnA1TU9XeDNv?oc=5",
       "category": "Industry News"
     }
   ]
