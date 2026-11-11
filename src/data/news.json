@@ -1,6 +1,30 @@
 {
   "en": [
     {
+      "id": "en-1794356319436-0",
+      "title": "LangChain Deep Agents now natively supports Oracle AI Database 26ai and OCI Generative AI - Oracle Blogs",
+      "excerpt": "LangChain Deep Agents now natively supports Oracle AI Database 26ai and OCI Generative AI  Oracle Blogs",
+      "date": "2026-11-10",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFBwazdTSG9PUG5zY0pEMlZScnAtemhBV3lCUGhNbjVfb3FsMm9vSlBDSXRwZm0zLUVuVWlJLWF6WFpxc1ZhQTRSU3NVbFNmR1NDdnlVUzRDOHBieUhDUVZTNVVfUUtZZDZDRDl2REoyX3c3R3M4YjdpejBaWV9oN05xMHdFNWN5cm9tSDJtZnc4akE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794356319436-2",
+      "title": "Oracle, Google Cloud Unveil Localized AI Infrastructure - Mexico Business News",
+      "excerpt": "Oracle, Google Cloud Unveil Localized AI Infrastructure  Mexico Business News",
+      "date": "2026-11-10",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTZIS09zRWVXTGRIaUxHcHMwTlJWUU1ralgzSXVBM0pqR0hUUWswNTBRLUNFLUZncEo2ZEZULW5GQUZxOVF2S282ZUVrX0paSDlaVkhwaXJ1cU5CNjZpdEY2aUZ5c0ZES21hZ2FOTXlJanlsM0xEaF9vcG8tajJnck8xY253RXhOVUlSZG9saVhycTAyeXcwYVdYVUN5bTNjV3c?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794356319436-4",
+      "title": "What happens to mathematics when AI becomes an oracle? - Ars Technica",
+      "excerpt": "What happens to mathematics when AI becomes an oracle?  Ars Technica",
+      "date": "2026-11-10",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTZveDY1YW5zNHBuZ0tSM2FyZjlYejJYbDNIVWJ0UUNpcS1FQ1JUanZVR2QzdUhUZTd0azgxQzVmbkNwWjl4cHc4TEdhOEpsVkRYUGJtU1Z0XzVPbmdyRHRRWlc5RG5GYU5uSk1ySnlGRDl3OTlvZkIwcUpSaTlla1VoSjFlSnpmZnRHUjhKM1c1M0h3clNBZjNn?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794277642885-5",
       "title": "Microsoft, Oracle, SAP considered 'AI winners' among software companies: Oppenheimer (MSFT:NASDAQ) - Seeking Alpha",
       "excerpt": "Microsoft, Oracle, SAP considered 'AI winners' among software companies: Oppenheimer (MSFT:NASDAQ)  Seeking Alpha",
@@ -33,7 +57,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794277642885-0",
+      "id": "en-1794356319436-1",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
       "excerpt": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports  Reuters",
       "date": "2026-11-06",
@@ -57,7 +81,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794277642885-2",
+      "id": "en-1794356319436-5",
       "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal - Yahoo Finance",
       "excerpt": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal  Yahoo Finance",
       "date": "2026-11-06",
@@ -81,7 +105,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794277642885-1",
+      "id": "en-1794356319436-3",
       "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com",
       "excerpt": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity  Bloomberg.com",
       "date": "2026-11-06",
@@ -927,35 +951,19 @@
       "date": "2026-10-12",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGNDYmRjY18zMDhRRm9ZTEtrVXU5Vnd6d21WaGI4OFVINzFnY2JwVkV6U05NWjhVYlBLOXVkY1NJNzFzRm1xTG11REJ3Tk9BX2RZTkZqaUcxeWE1cEpyUEp6Rm5zNHp6VHEtYk9heENZN0JLWWxSWDllZnFnWkwwbm13MVhEVUYwaE5iQmc0eWFZUmZxLWlv?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1791673561656-1",
-      "title": "Oracle’s ‘force majeure’ warning lands as AI power gets scarce - TheStreet",
-      "excerpt": "Oracle’s ‘force majeure’ warning lands as AI power gets scarce  TheStreet",
-      "date": "2026-10-10",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUndEOHp3LXVxVkFlUmVaNWJhbE40VlZJZ1VaNmRUMktrNDN4SnJqdXphUXdjeGNCX2dBSkRNUW5rbjRBc09iTmlFcVFZcUE1SXRjOWp6b01vOVZSeERRZmVobXRQdVpkR2xMd2M2TzR1OV9Na0FoUkV0MTBDcXVzaHlIQkp1SllTUTRHQkxGQXluX1E?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791673561656-5",
-      "title": "Opinion: Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle - MarketWatch",
-      "excerpt": "Opinion: Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle  MarketWatch",
-      "date": "2026-10-10",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791760727586-5",
-      "title": "Oracle AI World 2026 - Capgemini",
-      "excerpt": "Oracle AI World 2026  Capgemini",
-      "date": "2026-10-10",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WGZJN3hRekRKLXFLdGZwd2xvd2FlRjZoR29EUm9TUU9SbjVzZUlzcUVra2tmVHpHWUlreElvUzVPcGEwVzR5dmQ5UGRJNEwzTEgzNTFrd0E5c3RKUnN2NmNmZVgzUnFreUFfTQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1794277643253-0",
+      "id": "ko-1794356319811-0",
+      "title": "오라클, 슈퍼캣 게임 3종 클라우드 전환 지원…운영 비용 절감 - 지디넷코리아",
+      "excerpt": "오라클, 슈퍼캣 게임 3종 클라우드 전환 지원…운영 비용 절감  지디넷코리아",
+      "date": "2026-11-10",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MTVxeVJJLUIwZWdHbDdScXktTjBmemFxdl9pRVRTZ3R3MlV4TjFCQVJZeDVrdjR2Q1NTZHpuT0UtaGRldW9fZVpNZGVFSXJoWF9FTkx3?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794356319811-4",
       "title": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원” - 바이라인네트워크",
       "excerpt": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원”  바이라인네트워크",
       "date": "2026-11-09",
@@ -963,7 +971,15 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794277643253-3",
+      "id": "ko-1794356319811-5",
+      "title": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106 - FinanceFeeds",
+      "excerpt": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106  FinanceFeeds",
+      "date": "2026-11-09",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGhsY0JVZnNEZFNLMFBPUmU4aG5UcjNIbDZMZTl4QWZ0WXVPTlpyWWZBcXZVRFZjVnZsLVdfYVJ1dWZ4dkJydURkUmxFUThmTXBtdUw5MEpyalA0Uk9xOVZFOVV0TmpRek5UWWpJc2NFbHNMQl8zaDUxNVdzVWdaNjl2aw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794356319811-2",
       "title": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려 - 이데일리",
       "excerpt": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려  이데일리",
       "date": "2026-11-08",
@@ -987,7 +1003,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794277643253-1",
+      "id": "ko-1794356319811-1",
       "title": "뉴욕 | MS, 오라클 AI 계약 접는다…클라우드 시장에 균열 - OBC 뉴스",
       "excerpt": "뉴욕 | MS, 오라클 AI 계약 접는다…클라우드 시장에 균열  OBC 뉴스",
       "date": "2026-11-07",
@@ -995,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794277643253-2",
+      "id": "ko-1794356319811-3",
       "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아 - AI타임스",
       "excerpt": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아  AI타임스",
       "date": "2026-11-07",
