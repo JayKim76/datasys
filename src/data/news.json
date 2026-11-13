@@ -1,19 +1,43 @@
 {
   "en": [
     {
+      "id": "en-1794530861533-5",
+      "title": "Oracle bolsters cloud plumbing for distributed AI training - SDxCentral",
+      "excerpt": "Oracle bolsters cloud plumbing for distributed AI training  SDxCentral",
+      "date": "2026-11-12",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMVNjZVpDSXpxYm5rOG1yWUsxb0pKdEN6azJaZzdyY3ZOdnJLRG4xUzkxajJxTXlGajNiTWhZWjVEN1pUMVpITWlYUWlRUWdJVFZmaUZWY3YwdDN2WjRHa3hiMjJwbW1nUGVFcXBuYlJXYlRLcW93OUFTSEswbUhrQ202enBQVWw4Y3dHSnR4YnpfVDBOb1E?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794530861532-0",
+      "title": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier - Oracle Blogs",
+      "excerpt": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier  Oracle Blogs",
+      "date": "2026-11-12",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX21oblZCcGtqa2hITlRNblpBV1lLZ24xQ0UyVUpMTWE1dm12ZTNaQkphSkZHMTB2eGpEQ0tVVDNXTjhZZFh4b0NBSGlZV0RLWUpJaVJxQ0NHNGMzQkZxeVI0OHJUWnpTZGZTUXd3MWpnS2RfdjVpNGNmWTJRQVdvdnVFN2ZlcXhfckRZ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794530861533-1",
+      "title": "OpenAI Talks, Oracle Cloud, Grid Limits: The Week in AI & Data - Mexico Business News",
+      "excerpt": "OpenAI Talks, Oracle Cloud, Grid Limits: The Week in AI & Data  Mexico Business News",
+      "date": "2026-11-12",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWdhUkZkbWh3OVl6NFktdmxWRlhnTFhsREpQczJ6ZHE3WUhuQ1lzN082X0VRQlpEMi1yTzZVb2tIN2oyQTQ0NTU2dkVNM3dNVHhLUTVDRV8tV0JPdkZkaXZqVFJIU0Z3by1PeFE0a0FCR1Uyc1ZsVTJQa1I1c0d2NXhYckRTRWN4VWdJUkNUa3A4Z0phYVc2NG9mMVQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794530861533-2",
+      "title": "Oracle OCI President Mahesh Thiagarajan on AI Infrastructure and Explosive Cloud Demand | Cloud Wars Live - Cloud Wars",
+      "excerpt": "Oracle OCI President Mahesh Thiagarajan on AI Infrastructure and Explosive Cloud Demand | Cloud Wars Live  Cloud Wars",
+      "date": "2026-11-12",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlhDbndiVXhzOWdncEN4dnZySnY4RV9BLW9wMzQtWnJUYWU0OWM3dUowNVR5Rk05R0xINlF4cWlYZWtGanVST1FFQVhPZjZCWmlrNGVOTm5UNkw3VjNyck5YZkc4QW1objJ5MXNPYVRhQ013LWkyNzZwajlEdFRIdHhCWUpTUmJjb1RMS3pNazA0UjFVR1NqSW9Bc1lBNE1mOVptWkhOYk1JLUo3MzQ1N2NITW52aXZlQWUyNGlIWXk1cGthZEpqSEF6Ums?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794447839912-0",
       "title": "AI to Manage Oracle Cloud Infrastructure with OCI Atlas - Oracle Blogs",
       "excerpt": "AI to Manage Oracle Cloud Infrastructure with OCI Atlas  Oracle Blogs",
       "date": "2026-11-11",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pazV0T3poM2lpcWhkTlA4Z2Q4QW1lamFObzlneVUtT0hnUjBVbGtVaWJiRUg0cEExVlJQUnB4My1tRGwyTFVMYTM4NTR4bE5ZTmJGRU9Ib1RxRjd6VHBOMjRBTEdiRU5UNUF0UlVsWUxGMDVCNGNtZHRWVQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1794447839912-2",
-      "title": "Oracle bolsters cloud plumbing for distributed AI training - SDxCentral",
-      "excerpt": "Oracle bolsters cloud plumbing for distributed AI training  SDxCentral",
-      "date": "2026-11-11",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMVNjZVpDSXpxYm5rOG1yWUsxb0pKdEN6azJaZzdyY3ZOdnJLRG4xUzkxajJxTXlGajNiTWhZWjVEN1pUMVpITWlYUWlRUWdJVFZmaUZWY3YwdDN2WjRHa3hiMjJwbW1nUGVFcXBuYlJXYlRLcW93OUFTSEswbUhrQ202enBQVWw4Y3dHSnR4YnpfVDBOb1E?oc=5",
       "category": "Industry News"
     },
     {
@@ -89,7 +113,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794447839912-1",
+      "id": "en-1794530861533-3",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
       "excerpt": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports  Reuters",
       "date": "2026-11-06",
@@ -137,7 +161,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794356319436-3",
+      "id": "en-1794530861533-4",
       "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com",
       "excerpt": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity  Bloomberg.com",
       "date": "2026-11-06",
@@ -959,35 +983,19 @@
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nTXR4SGZxbl80NldLTXlRWVU0SGdvbUhFQUM3XzdJcHZmZTJjZ3dMTHdiSEdyT2V5N280djNicVd0cFJCUnZYMDl2YnE3clZFZk9KVlUzcEd4Zm1lSDZJNG4xc2RWQ2o1UU9acXo0amdrRHRMaEJtekJhQQ?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1791855814481-1",
-      "title": "Oracle Is Trucking In Natural Gas to Keep Its AI Data Centers on Schedule - 24/7 Wall St.",
-      "excerpt": "Oracle Is Trucking In Natural Gas to Keep Its AI Data Centers on Schedule  24/7 Wall St.",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRktJWVVPMDR1anR5cUVvRExxS1gtTUQzY016dmxvMHZheXNNUWJFak5iWDM4Rkszcnpvd1MtdDl4UnRPV3BldmZjQjNNMkR1SUM3a0prRThveWVBYS16T2trMmhpRGNEQUpaZ041Mzc4b3diTmQ1OW9Gc1BjRk5ZMWdzT2N0Q2RuVFhPRUREekhPRmg3dnpqS3hQUTZnaDNNUUQxQUZRVU80X3FYRzRWUVlSUngxUkFn?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791855814481-3",
-      "title": "Oracle's AI Boom Has a Power Problem - TradingView",
-      "excerpt": "Oracle's AI Boom Has a Power Problem  TradingView",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVmUXJrVEN0eWVRc0RoOVZSbksyN0tQUFpGUEtTYlRwTFFsb3ljR2tRbFcxRURuNG1QaUVSdjBveWkxd3UzX0FfcEJrbmxOd2lLbFhvTS1mMWFPR0VqcXFMRDlDRVIxZ2lEV2ZyVzNZUVdBcXZBY0xIYWdzb1RKWGhkYTFtNE1CQWxNV2tZX3V3bzM5MTQ0SV9rdDI?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1792104392810-5",
-      "title": "Oracle (ORCL) Faces AI Balance Sheet Risk Warning - Yahoo Finance",
-      "excerpt": "Oracle (ORCL) Faces AI Balance Sheet Risk Warning  Yahoo Finance",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGNDYmRjY18zMDhRRm9ZTEtrVXU5Vnd6d21WaGI4OFVINzFnY2JwVkV6U05NWjhVYlBLOXVkY1NJNzFzRm1xTG11REJ3Tk9BX2RZTkZqaUcxeWE1cEpyUEp6Rm5zNHp6VHEtYk9heENZN0JLWWxSWDllZnFnWkwwbm13MVhEVUYwaE5iQmc0eWFZUmZxLWlv?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1794447840273-0",
+      "id": "ko-1794530861856-0",
+      "title": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담 - 제민일보",
+      "excerpt": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담  제민일보",
+      "date": "2026-11-12",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55M0Vla092akQybXk3eFNqSndRN2VqMV8tMUYyODJ5TzJCY3Qzb3poQjdVRTlQU2UzcDlTd1hnXzA5cE5DU3Y2S0Z1VHdOQjJQbERFTmI5c2F0b1BvMVZOa1VKTkpKbDA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794530861856-2",
       "title": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장 - 더에이아이",
       "excerpt": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장  더에이아이",
       "date": "2026-11-11",
@@ -995,11 +1003,27 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794447840273-1",
+      "id": "ko-1794530861856-5",
       "title": "AMD, 6세대 서버 CPU ‘에픽’ 출시… 메타·MS·오라클 AI 인프라 공략 - Chosunbiz",
       "excerpt": "AMD, 6세대 서버 CPU ‘에픽’ 출시… 메타·MS·오라클 AI 인프라 공략  Chosunbiz",
       "date": "2026-11-11",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDVJaEY3RTRCMkp1cDZGTF9OR0c0M3l1Y0RURk9CbGRmTHk5Y0xSQTRuZjJjbGNkVHk3Wm1oQkFPVzV5WmVxbWxHOTl6aWplWEJTYzhPSmhDb2Nkdzd2WThFUG1vVnVrTUR0SWZyMlJ1MS16cEluWnIyYVFNUklaNF930gGWAUFVX3lxTFBTT1JnUkRfNjA4ckhDN1R2dUozX044XzdobV9ldFljQUNiZzRTUTVsTW9OaVliNkhFVnJ3Y0s0SGZuMU5iVFFudGd0dWNnVVp1dXdMSXFZaVVOcU1ORXBaSkF0UEppNW94R1lPd2VMRTZ1aFRuWUdtX2c5RkNsSWczOFJnSUpWbXdkZ2RfaVlvRHpRLWZOUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794530861856-1",
+      "title": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력 - Oracle",
+      "excerpt": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력  Oracle",
+      "date": "2026-11-11",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTE5tejJuUS1NSEx5bUVCQzRIMUVwdUZILUVDQzdHNlktWFBLVmFBY2NPcEZtV0txR010NG1zMGxEaHhiTUFpUXRwMjBDX0ptNkVOc3hpbGEtWXBPN0FEbk5IVDB0ck4zcEdONDdlcnZtOWlFc3J5R1NSMFlQNkhXb09telQycXpGT0hxVHRCOW8zVEFZZTJGTUphSFdzZndYU2h5S1VmZUZ5d0ZobW5uNE5MU2VFS3R6T003dVFzUFYydk10d0RkakItOVB2UkVmeGIxTy1GbFBTMXJTYmEwNVN4cHE0NFVPNnc?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794530861856-4",
+      "title": "오라클 주가 전망: 번스타인, 시장이 데이터센터 및 핵심 데이터베이스 사업 저평가… 주가 132달러까지 반등 전망 - TradingKey",
+      "excerpt": "오라클 주가 전망: 번스타인, 시장이 데이터센터 및 핵심 데이터베이스 사업 저평가… 주가 132달러까지 반등 전망  TradingKey",
+      "date": "2026-11-11",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNk5QS3liQl9YRUEyVUJFalhfcGJOcGtwZUFMNUtCU05Qd0NSN3hURlFHMGJBUlNVREdCS1hObzVvbFNNdEhPTUNFdkU5N3RDeGFEeUhybXF6WEplWWxyTUxZSWZrdEg3anE3MjJlS0FlWURoTnliNUlGbjN6TDVPeGpWMk5SdVlJY1ZEb0Vlbk54RUVUTjFQM3pGcTBPTUx6bnRVU3hmc0F5U0pXajFUY2YzazItc05ka0VTU2NnVXl5WlVLWHJsUThnZWR6VG96MFhKNlB5UG1jZWt0ckdR?oc=5",
       "category": "Industry News"
     },
     {
@@ -1011,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794447840273-3",
+      "id": "ko-1794530861856-3",
       "title": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원” - 바이라인네트워크",
       "excerpt": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원”  바이라인네트워크",
       "date": "2026-11-09",
@@ -1672,30 +1696,6 @@
       "excerpt": "배당표를 펼친 뒤 무엇을 볼까요? 토토 광고 문자 비 타임  Calgary Roughnecks",
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUEYtQUFxRjhodENzejJUTkVZSmN6aGhzVTJLM1JCSHFpTnRFbE0xS01xeUNpWnJfVy1kXzVOR1NSMW5GekxCemFYZnAtWHFsTEdMbUZ1V0p6U3lZWWZ0ekpWZWU1Z2QtRjh5Zk9BZ1FVbklSX1RBZjFLeFNHbXJSZGJrbnZ1WjhHS0hDaXhOX08xb0FfaW84aFFzTHpRWm1aS1gyM01abi1MWnJSWkdOdFh6LTlsZmdOYldLN0tWNkxIY09rSnJsSnZsV0ZhRVhybHM5bk9RV1pMZGRQdG9TMjJRQVVLMDN3dm94NkdwdUwxVG5UQks0ay1kZFh6WFdoLWdlWTNtNHJ6MlN3S0huOFhpU1NjMmcx?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1792189188485-3",
-      "title": "투자자들이 오라클(ORCL)의 에이전틱 AI 출시 소식에 어떻게 반응할까 - Simply Wall Street",
-      "excerpt": "투자자들이 오라클(ORCL)의 에이전틱 AI 출시 소식에 어떻게 반응할까  Simply Wall Street",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkRITkQzQThvYzAwa3dRSmFTMmlmSWRmVlpjYWJQeEdpaF9wYWpKZll5WkRZaHFPN1lCbzl0QlZMSW9DdnJRbnVBRmpyZ3M5RU9SZFJVa0RNNXhKVENERFlfQTBzVGR2SWxKczlxZnFoT2pSTF9aUTZUQ2FuWFZIX3pna1VsVFYzdXfSAY8BQVVfeXFMUC14dFRua21rQjZKSVl3WE9qZWMwU2lvdVVrT2FDVURNV3FnQ1hiOWluYVdRa3JIOWYzM0RKLUNiblUwZl80QnhNZERUYXEyVnJxYktJNDJrTlBlNXdZWFdFVnF0eXdwRUJ5V1diRUxMY0dEcWE5WWxGRHVhaUtUdm1HNG40OGFPdkVYRFRsM0E?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1791855814897-1",
-      "title": "버튼을 길게 누르는 기능이 있나요? 에그 슬롯 슬롯보증 - Calgary Roughnecks",
-      "excerpt": "버튼을 길게 누르는 기능이 있나요? 에그 슬롯 슬롯보증  Calgary Roughnecks",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaURqYWtLRGNoNFR2TEFHSW5yOUVoZTNlNkZKU2tMelR6OUFKaEV5OU9hdVY0WHRKakcwYnBfSHZvU2VIRjRYZ1ZQdzl5dU9OUUJVMGlYTlJNeUxmZllvXzU2VnBXLXpYWm5tRjNlbnM5RjdyczFsT3Z0bUZabmMzb3hySUNMM3VTWlVQRUFyVlVZQXpCbXlmNEdXLUw5ejFLUTZDUV8wOVFYdmZwNmg5YWVpZ0FybkpKX3U4Z0JhN2xGWUM0eHFpcXJSM0xEdm1wTlQxbzl3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1792104393276-5",
-      "title": "브로드컴부터 오라클·스페이스X까지…어질어질한 AI 대출｜Global Money Club - 중앙일보",
-      "excerpt": "브로드컴부터 오라클·스페이스X까지…어질어질한 AI 대출｜Global Money Club  중앙일보",
-      "date": "2026-10-12",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iLUV1SzBhNmhlekl4SW9iSnkzWUhHb0FyZldsR0x2czFQbmgwMGhGZmxPX0Z5cGZXbDE5M2VZNlVSY2NRby1qbzNxT0pFbDdpTHNkU3JiUzFSZ28?oc=5",
       "category": "Industry News"
     }
   ]
