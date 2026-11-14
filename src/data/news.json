@@ -1,6 +1,22 @@
 {
   "en": [
     {
+      "id": "en-1794699015091-0",
+      "title": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs - Wccftech",
+      "excerpt": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs  Wccftech",
+      "date": "2026-11-14",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVM2Ynh0TU5uTXY2anNORURZTHJzOFFzTlJNdVpyYlJiTE5fbnJvVTdGSXZoOGVsTDVJU2ZKM0JzeTBYQ3dpQnllYWc3ZC1NRGVTY1dXUU1aZVJtYmpUeU9TT2xCclF3RFNCaGhzRTRSaThXUHQtWnZoSWFGYklReHZGRzNXSVFLZFdJaVVLWVE2QXlSLXhSR1JvMS1GcEY1QnFoZ21pZk01OW84eFHSAbMBQVVfeXFMTjI0eWhUc05UMVl1ei03YVpsYXRFZ0lkUEtWOHp3ajBhNUd6OC1TUmNrM1NuU0xwTmtURWdQLUZLMUxMaF9mSjRydXdYSFNaM3ltVm9jdDlhOU9BZi1BOVNudlpZSGlTUEhfQzZEVXVWQTUtS1hkVjFYWHV5WHFEcEJUVWZtREFtVUpVTGZHU1hlaXFCOVZ6NFYzTExaYlk3RENPTGpQOGttdm1GNE5UeGdBOVE?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794699015091-2",
+      "title": "Oracle (ORCL): Can Surging Cloud Revenue Outpace Its Financing Burden? - Yahoo Finance",
+      "excerpt": "Oracle (ORCL): Can Surging Cloud Revenue Outpace Its Financing Burden?  Yahoo Finance",
+      "date": "2026-11-14",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1FLRW1QRkRZb1V3R2dIeGdrcXd6WVA4TnRIZ0RaQjFQTkRQa0VQb2hhYTlLWVpkRkFZX1dOcWRVV1lIUjF0RWYzY0JKbmpYTk5wcUNGeXY1NnZ4TlFXdTJDQmNHaU9KUnNlSUdOaGducnZuOXRRQnVqZmZpbFNUM2ExM3FQVFJrdWRsRTFFWEFGR0swbXBVbkZB?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794616387033-0",
       "title": "What’s New in Oracle AI? November 2026 Edition - Oracle Blogs",
       "excerpt": "What’s New in Oracle AI? November 2026 Edition  Oracle Blogs",
@@ -9,7 +25,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794616387033-1",
+      "id": "en-1794699015091-3",
       "title": "From AI Adoption to Business Value: Oracle’s Mark Hura on Enterprise Transformation | Cloud Wars Live - Cloud Wars",
       "excerpt": "From AI Adoption to Business Value: Oracle’s Mark Hura on Enterprise Transformation | Cloud Wars Live  Cloud Wars",
       "date": "2026-11-13",
@@ -17,7 +33,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794616387033-2",
+      "id": "en-1794699015091-1",
       "title": "Run Local ETL and MLOps Pipelines with Oracle Autonomous AI Database - Oracle Blogs",
       "excerpt": "Run Local ETL and MLOps Pipelines with Oracle Autonomous AI Database  Oracle Blogs",
       "date": "2026-11-13",
@@ -57,7 +73,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794530861533-1",
+      "id": "en-1794699015091-5",
       "title": "OpenAI Talks, Oracle Cloud, Grid Limits: The Week in AI & Data - Mexico Business News",
       "excerpt": "OpenAI Talks, Oracle Cloud, Grid Limits: The Week in AI & Data  Mexico Business News",
       "date": "2026-11-12",
@@ -153,7 +169,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794616387033-4",
+      "id": "en-1794699015091-4",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
       "excerpt": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports  Reuters",
       "date": "2026-11-06",
@@ -979,7 +995,7 @@
   ],
   "ko": [
     {
-      "id": "ko-1794616387378-0",
+      "id": "ko-1794699015367-1",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인 - TradingKey",
       "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인  TradingKey",
       "date": "2026-11-13",
@@ -987,7 +1003,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794616387378-3",
+      "id": "ko-1794699015367-3",
       "title": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담 - 제민일보",
       "excerpt": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담  제민일보",
       "date": "2026-11-12",
@@ -995,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794616387378-2",
+      "id": "ko-1794699015367-2",
       "title": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장 - 더에이아이",
       "excerpt": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장  더에이아이",
       "date": "2026-11-11",
@@ -1011,7 +1027,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794616387378-1",
+      "id": "ko-1794699015367-0",
       "title": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력 - Oracle",
       "excerpt": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력  Oracle",
       "date": "2026-11-11",
@@ -1019,7 +1035,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794530861856-4",
+      "id": "ko-1794699015367-4",
       "title": "오라클 주가 전망: 번스타인, 시장이 데이터센터 및 핵심 데이터베이스 사업 저평가… 주가 132달러까지 반등 전망 - TradingKey",
       "excerpt": "오라클 주가 전망: 번스타인, 시장이 데이터센터 및 핵심 데이터베이스 사업 저평가… 주가 132달러까지 반등 전망  TradingKey",
       "date": "2026-11-11",
@@ -1043,7 +1059,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794616387378-4",
+      "id": "ko-1794699015367-5",
       "title": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106 - FinanceFeeds",
       "excerpt": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106  FinanceFeeds",
       "date": "2026-11-09",
