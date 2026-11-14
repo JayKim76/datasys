@@ -1,6 +1,46 @@
 {
   "en": [
     {
+      "id": "en-1794616387033-0",
+      "title": "What’s New in Oracle AI? November 2026 Edition - Oracle Blogs",
+      "excerpt": "What’s New in Oracle AI? November 2026 Edition  Oracle Blogs",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JTF9iQkhVaWJvUkNVUWdXaEdKUGZWZkZzRndkeTlsbnZ2RG1lTmo0S2JmWEtBUDAtLW11WEhzenFlYzJJRXFPWl9EU0NNeVNXa280R1dERjZNLVhHQ0d1WjlVLVhSM0doZ0MyUU1STEg1ZU1HQzgxNnRwanJDUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794616387033-1",
+      "title": "From AI Adoption to Business Value: Oracle’s Mark Hura on Enterprise Transformation | Cloud Wars Live - Cloud Wars",
+      "excerpt": "From AI Adoption to Business Value: Oracle’s Mark Hura on Enterprise Transformation | Cloud Wars Live  Cloud Wars",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXRHRzVHQWMzdi1seGdjbVh5bjhtLU5weXhFYkNEd01zeVJnWjB6TXB0Q2xmb3hWcHVZVmFqTzBpUDNnRDFzOWI5N21BODRya3Q5TXdkWlB1VVVGMHU0QjIwY0ZGZFNZY29uZEQtYlZCRlNSalBOaXR1S3FYZXhRcGZUd01BUjJsYXg4RkVGRDcxbkFCa2FIckpwdWhJUWt0TFozWS00LXl3eGxZejRFNnNzQmFXUHFQMmpfZVJfSXA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794616387033-2",
+      "title": "Run Local ETL and MLOps Pipelines with Oracle Autonomous AI Database - Oracle Blogs",
+      "excerpt": "Run Local ETL and MLOps Pipelines with Oracle Autonomous AI Database  Oracle Blogs",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2twWkpqV2M2NHpic0l0a3FtV1YtZ1VlNkJISHRSMkpVRkpoRzE3QS1CcTFZRUl4YmRnRHEtRkhYdEZHWlF0WTlObjZjVWowTlc3ekduTm84RjR3NmYwRWVwRVNQZEQzd2ppakdaWWxaLWZoU2hjcFJzUE9wZUdLTURyOURUdDhSVmprcg?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794616387033-3",
+      "title": "10 tech layoffs in 2026 and what drove the job cuts at each company - qz.com",
+      "excerpt": "10 tech layoffs in 2026 and what drove the job cuts at each company  qz.com",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MamFYbjJoTWxaWkJWNEg1emRPSFptMjNpWmlJUXp0WTRzR0thSTBKSGlROUhfNEkzdWpDUUh6TmE3UEI5QVpkLW5mNldQUmYtakJ3SlA5eElYVWswV1ZDZWQ3aTBZWEh5UFZzb1l3eUVKV29kUG1uMHpyZw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794616387033-5",
+      "title": "Oracle Launches AI-Powered Cloud Analytics to Transform Banking Treasury and Customer Insights - FF News",
+      "excerpt": "Oracle Launches AI-Powered Cloud Analytics to Transform Banking Treasury and Customer Insights  FF News",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSU8yUzNsdG5PWk45NGlYd0VTOFNtOUJGT1M1NTVOdm95ZGRTcjlCdDk4LXBqa3BkbHBsaVMwWHFUU2pOeXJPemQzUFgtOWlkdFo4MUt1Y1JXdFJlOUpna3k0dXQ1SUs1T19xM1lJZmF1d1NZZVlUV1Q0d3pLaDhtTEdYSQ?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794530861533-5",
       "title": "Oracle bolsters cloud plumbing for distributed AI training - SDxCentral",
       "excerpt": "Oracle bolsters cloud plumbing for distributed AI training  SDxCentral",
@@ -113,7 +153,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794530861533-3",
+      "id": "en-1794616387033-4",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
       "excerpt": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports  Reuters",
       "date": "2026-11-06",
@@ -935,59 +975,19 @@
       "date": "2026-10-14",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RqZ0FVLU1vNnVLWVNLb0M3alJDRVdTT1lqY2dJRkhuM015U1liRDllc21oWUdEZmU2dVo1TFk5azUwYlEyaVRnVlB2dFNhU1hDQ0ZON05mT1otWDJSN1JCUzE1SnkxUzVjSElnbktEclgzWElXZmZGZlNFY24xZ0hQR2tqNll6S0NOT0JWTHVzYUpuS1loaHowcmE3NElaaE4tUFJUdzVYd0FwdEZIZDZIQXE3X1VsRzByTnlNeDFrQ1pTQ2JNLXBnb0lSemVmbENGWmxvV3BMZFQ2bXJmVw?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1792360993489-4",
-      "title": "Can Enterprises Trust AI To Build Apps? Oracle APEX Makes The Case - Forbes",
-      "excerpt": "Can Enterprises Trust AI To Build Apps? Oracle APEX Makes The Case  Forbes",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2RqMVotcUVMRE1BY0hBVkZxMEk3Mjg5NXA0T1FZVVlUZVFfdTBKZXpqN0dkU1hCQlh1em84dnV2cDZmWVdLLWt3QThDcl83QWx5UlRaUFhwWUt3UXJtODdLSi1CS21fdWZtdUlMRVhLMlpjazJicmRIOUNrVUFQV05wUmRNMmw0SmRLNXJFV3JRM0xXa1ZGUy1lOVd3UUNMeHpfcGZ6eWpBZG9qQkRralJHdmI5YlpvTS1MRg?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791934264727-0",
-      "title": "Heathrow’s head of data and analytics gives an expert view on how AI is changing analytics - Oracle Blogs",
-      "excerpt": "Heathrow’s head of data and analytics gives an expert view on how AI is changing analytics  Oracle Blogs",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2xLRVNQSUJpZTAtMUR1Zl9qM1VLNWFzaTNnSHlqWGpnZEZXVlp4aXRjQ2pPRVdPdDNCZXJzd0lnVHgzX1haZEdWdllQRWhoeVhfcEp3Q0RRZUZHNEFCX0ZGZFp0aXAwaXI5VFhrRUU4RDJJcDRWbzVNM1lYdUVJeG5aM0JsbHVWcHVvQTJOS2dlNXJOZFBoM19lemx2Vkw2a1ZtOVdVTEdlTkhKVVMxWDJ0b2dacVltZ2RhM2g4RHluQQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1792189188038-5",
-      "title": "Is Oracle (ORCL) Undervalued After AI Cloud Growth Met Cash Flow Concerns? - Simply Wall Street",
-      "excerpt": "Is Oracle (ORCL) Undervalued After AI Cloud Growth Met Cash Flow Concerns?  Simply Wall Street",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS28wUEZ2QUQxYmRvelNUdjNCM3BzalV5bEtvNDdnQzIxVm9tbENlV1RpdjYyRFJNVlJJZnVvYlVXU2lUcDJseFBpTnpITGdvajNTaHd4LVVMMGJ3S1hCNkhmQVUtMVlxeS0wc0g1dFZQNFF2WHJWQkZhNTk4NzN2aDlhOXROMGNkMGFPb29ZOE9teXFwWmltNUcwOG1kN0hqTF80ZVJYYlNCS2V0OTRjc2w5WGpYVFJCYVFIdE9ZdnnSAcYBQVVfeXFMUEhKNEV5bEJ3bXI0NjBGNVB1cG4xSXpIT1BHU3lhYlg3UkZ2RHNGVkNwa05iXzBuZ1Fnck50eDl0WTlXRkVRVU1kY2ZtXy0yX1FCTExzaXZZTGdxVExtSUw0YjRNNHFxc251TVZ5aWFoRHFBUERvNnI1NExUMUFDRUhEWlFWM182eGJYUjlORDNsZFZoS3R2RHdlV3ZLTHVDeGZIa2VZWGJuQjlsWU5uUllzWEZmbkdjeVd6eWR3b3pCNTA5Z0R3?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791934264727-3",
-      "title": "Oracle uses AI to speed recruiting and internal reporting - TechInformed",
-      "excerpt": "Oracle uses AI to speed recruiting and internal reporting  TechInformed",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREJmUkRjaGNsa3VsaEZFb2JhZ3FGZm9HQzlmSk1iWUxycEkwQ0R6eGNFNmwxVVpxdFo5OFMwd1hWUEp3bFRqc0NuRVlnd1hSZ0xOTy0wRzFYdWVPLWpvUzFFRWt3RFNPTGJ6TXN3MHpFeERJQmtzcERxa0swdzFFLUxHN2ZIaTFueDln?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791934264727-4",
-      "title": "Oracle Stock Rallies As Massive AI Chip Deal Fuels Cloud Ambitions - Timothy Sykes",
-      "excerpt": "Oracle Stock Rallies As Massive AI Chip Deal Fuels Cloud Ambitions  Timothy Sykes",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RW04Q1BEZ2NsWS1zMi1udXcwNWJzTkg5eDFNcXV6SE5zejc2Y1FydmF0ZVBUTkxWblhHdDJmX2Y3am54c3ZSSFdUbWZqZ1RWSDVNOVBOOGlKd282WE00eGNVRnRwQTZJM3ZGOU5iREtlTEpRaVlCNUN0RUhEb0U?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1791934264727-5",
-      "title": "Oracle Stock Climbs As AI Chip Deals And Data Centers Scale Up - StocksToTrade",
-      "excerpt": "Oracle Stock Climbs As AI Chip Deals And Data Centers Scale Up  StocksToTrade",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nTXR4SGZxbl80NldLTXlRWVU0SGdvbUhFQUM3XzdJcHZmZTJjZ3dMTHdiSEdyT2V5N280djNicVd0cFJCUnZYMDl2YnE3clZFZk9KVlUzcEd4Zm1lSDZJNG4xc2RWQ2o1UU9acXo0amdrRHRMaEJtekJhQQ?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1794530861856-0",
+      "id": "ko-1794616387378-0",
+      "title": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인 - TradingKey",
+      "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인  TradingKey",
+      "date": "2026-11-13",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUTJ2a2FQQWxsbFNFa2czZUpqTHZhT252Z0FILTlpWU82RVdBZWtRbXNUZVhBRm9Ba1F3Wlp2NFhPQ2h2NGZrUThUd1g4MnYyNzhSWXJHMVJKTHAxSkdhS3luUl9RMTBfY0IyQWx1dWlqdExDcjNTekNZNk9DVEJfM29IZ2tfTWFZaFUza1Z2MA?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "ko-1794616387378-3",
       "title": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담 - 제민일보",
       "excerpt": "오라클, AI 매출 폭발에도 주가 발목…천문학적 투자비가 키운 재무 부담  제민일보",
       "date": "2026-11-12",
@@ -995,7 +995,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794530861856-2",
+      "id": "ko-1794616387378-2",
       "title": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장 - 더에이아이",
       "excerpt": "AMD, 6세대 에픽 서버 출하 시작...MS·오라클 클라우드로 확장  더에이아이",
       "date": "2026-11-11",
@@ -1011,7 +1011,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794530861856-1",
+      "id": "ko-1794616387378-1",
       "title": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력 - Oracle",
       "excerpt": "오라클-세레브라스, OCI에서 세레브라스 AI 추론 제공 위해 협력  Oracle",
       "date": "2026-11-11",
@@ -1043,7 +1043,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794447840273-5",
+      "id": "ko-1794616387378-4",
       "title": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106 - FinanceFeeds",
       "excerpt": "오라클 주가 $116.50, 마이크로소프트 AI 클라우드 임대 종료 후… 강세 $130 약세 $106  FinanceFeeds",
       "date": "2026-11-09",
@@ -1051,7 +1051,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794447840273-2",
+      "id": "ko-1794616387378-5",
       "title": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려 - 이데일리",
       "excerpt": "MS, 오라클 AI 클라우드 임차 계약 정리…AI 투자 엇갈려  이데일리",
       "date": "2026-11-08",
@@ -1688,14 +1688,6 @@
       "excerpt": "Oracle Corp (ORCL) 주식 시작했습니다 하락 6.61%에 10월14일: 변동 원인  TradingKey",
       "date": "2026-10-14",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUNCRzdFUENFaWVJM0x1dHZ3ZnhCZTIzLVhaZ0xaVG5WendnZy04bG1yOTBwWGdQRGxSY1JJOVVWSnhNOWsxXzc0Y2tiYm1URG1hZmt3enU2ZjR0MjRVVjNEWF8yM2NFTmFzbWhzMUw4Z04tTHpvZDVYZk5sWDRBR21HSjBjOWw0Z3ZJSmZ0OA?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "ko-1792273937914-5",
-      "title": "배당표를 펼친 뒤 무엇을 볼까요? 토토 광고 문자 비 타임 - Calgary Roughnecks",
-      "excerpt": "배당표를 펼친 뒤 무엇을 볼까요? 토토 광고 문자 비 타임  Calgary Roughnecks",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUEYtQUFxRjhodENzejJUTkVZSmN6aGhzVTJLM1JCSHFpTnRFbE0xS01xeUNpWnJfVy1kXzVOR1NSMW5GekxCemFYZnAtWHFsTEdMbUZ1V0p6U3lZWWZ0ekpWZWU1Z2QtRjh5Zk9BZ1FVbklSX1RBZjFLeFNHbXJSZGJrbnZ1WjhHS0hDaXhOX08xb0FfaW84aFFzTHpRWm1aS1gyM01abi1MWnJSWkdOdFh6LTlsZmdOYldLN0tWNkxIY09rSnJsSnZsV0ZhRVhybHM5bk9RV1pMZGRQdG9TMjJRQVVLMDN3dm94NkdwdUwxVG5UQks0ay1kZFh6WFdoLWdlWTNtNHJ6MlN3S0huOFhpU1NjMmcx?oc=5",
       "category": "Industry News"
     }
   ]
