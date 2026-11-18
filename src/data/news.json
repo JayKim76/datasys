@@ -1,6 +1,46 @@
 {
   "en": [
     {
+      "id": "en-1794967037645-3",
+      "title": "Oracle Stock Drops Amid AI, Cybersecurity and Outage Concerns - Benzinga",
+      "excerpt": "Oracle Stock Drops Amid AI, Cybersecurity and Outage Concerns  Benzinga",
+      "date": "2026-11-17",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTm5URVBHeWF5RkNqc3lmc0k4MVp6U2NLbTZjazNWMFVBVG1xQW1PRDdPT2dvWXZsYWFLQnd6Ri1VRS1fQXJOUUN5Tng3MnJTZ09tNV9IWkNRU2lXdjhVOVJkVW03Ni01RFJ5YVVVN1FyVmthLW1wYThqTU9ZdEZZQlQtNUdPSTVfTko1WDVHRTE4WVFqVEw5V1d3aHRhdnptNnkwU1d0RVZpV0lFQVFDTDJYbkVlandSbkdjNlFB?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794967037645-1",
+      "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now? - Yahoo Finance UK",
+      "excerpt": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now?  Yahoo Finance UK",
+      "date": "2026-11-16",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUE1UdnZTbmdZeWdtaHNzOEpUcUZhbVk2dndOZkoybUhCaFVFTWJZSmVNNXVGaVVILTJsb2RiYTdPNGdKYTBkcWFJYkxnNG1lakh3UGlHZ3V1d2xiNkpmcVNBRThEeEhhM0tLS24yUVFJd0o2U09iODhFV08wc3RpamlJQ2U?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794967037645-2",
+      "title": "Is Your Infrastructure AI-ready? - Oracle Blogs",
+      "excerpt": "Is Your Infrastructure AI-ready?  Oracle Blogs",
+      "date": "2026-11-16",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjJPOWotTDdWN3VzT19PQW95Nnl3MnBWMzFfWGRqQ003eGtDcEsySnRibFpvcEhyNHFOQ291ZXY0cjZIVVN0bVkwckFWbWZFUC0yMXAxQjlSaENGdF9IWFRTbUhycHR6SjZQVjRmeWpKMHhOTy1taXAzY3dVZ3lwSWxFbw?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794967037645-4",
+      "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now? - Zacks Investment Research",
+      "excerpt": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now?  Zacks Investment Research",
+      "date": "2026-11-16",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMi1EY3o1ckNlMHVmVTFSTl9NM3NZOTZVdS12ZnpqUXNQemROYV9sdVhzS2piejZjTVRpRXQtVTVSdy15R2kxTnhlcjhLNzdJbDJicWJwTDdmMkV4aWpZcWhYcE1GUzh0V0l4bkhqaFA2elI1dE1FSHVGck1WRzFucldjaUFhZmNjbk9YRy1GRXM0X1lDSVZkQnAzQUdkN2lqZVpmemNFZVNIUQ?oc=5",
+      "category": "Industry News"
+    },
+    {
+      "id": "en-1794967037645-5",
+      "title": "Oracle’s Hasan Rizvi on Multi-Cloud, Business-Ready AI, and Database Security | Cloud Wars Live - Cloud Wars",
+      "excerpt": "Oracle’s Hasan Rizvi on Multi-Cloud, Business-Ready AI, and Database Security | Cloud Wars Live  Cloud Wars",
+      "date": "2026-11-16",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnZ5VWFlYUJNVzhDWVJ0RlJ2b0RldTNqUUduY3lZQ2dfUTNtTEtkNVJmclFhT1RJODV0Wkt0eXlTWFdPbXZ0S1JiZWQxZWtUUk1iX1lkTFdHX0JQbUJxdkhVOTU2amxZM0JwWkVpR2cyS3lVQnpiVW9RMjVhTlJhdDY4WWsweWRpMmpmMGd3clZOcUkyN3ZFTFJnM0tMT2x1cm5CdE1Ndm1vcTNKR2RzVzlacWM2ekU?oc=5",
+      "category": "Industry News"
+    },
+    {
       "id": "en-1794785935547-3",
       "title": "Why Is Oracle (ORCL) Expanding Its Health Data Network With Federal Agencies? - Yahoo Finance",
       "excerpt": "Why Is Oracle (ORCL) Expanding Its Health Data Network With Federal Agencies?  Yahoo Finance",
@@ -9,7 +49,7 @@
       "category": "Industry News"
     },
     {
-      "id": "en-1794785935547-0",
+      "id": "en-1794967037645-0",
       "title": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs - Wccftech",
       "excerpt": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs  Wccftech",
       "date": "2026-11-14",
@@ -871,35 +911,11 @@
       "date": "2026-10-19",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWZyWVNYOUtyS3FWcTNDbmxYT3laUS1pdkxvM0F0dmdOOWFJTzFNaThaQmFucDhiS0RvU3UzVHUzLVhsRmFpNTRQamxaM2pZUkR1QloydTJaRFA0TXBnbzBLMmFxZjFOajBTWFg4UlpobFBwMXBYRXVmS0l5ekQ4MTlHalJMdUVZMTBhazVOMmZ2RV9BLTJiZXBFWFFKZ1U4T3NjSkxKNnVKQVRLMmdDWXFvV3pQN0FyQW50T1J5Zm5md0tkVldWUk5KdTd1dTFwNTBaNXR2ZEV3UU9XWEE?oc=5",
       "category": "Industry News"
-    },
-    {
-      "id": "en-1792273937492-1",
-      "title": "Oracle (ORCL) Rolls Out Free AI Finance Tool For Early Stage Startups - Simply Wall Street",
-      "excerpt": "Oracle (ORCL) Rolls Out Free AI Finance Tool For Early Stage Startups  Simply Wall Street",
-      "date": "2026-10-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakxhaW56STJxZEU5cmxTOWlpSEI5MWVRSWJsSXhBaFhlWFM3Wkh4c3g1U1V1UC1Ic2d1Qmd2S1NSelBETnpTeDU3YU1DR3g2dDhoWWN0d3NNTzhhbXB2VUMyNWtqVVJHM3FoSDBWT0Z3UlNEV2RUeGxaWnBXTnU1dGpobHNraUdTMTFTR3NrcE1na1V3cVpmNVBCQjlhMmo1LTVTZVhtRGR6bml4a3dzV3ZLN0NNcWZYU0xaYzNDYnTSAcYBQVVfeXFMTkZqOE5YamJMQlRqaUNhcWFnZlNCYnA2WFVnaEF5VldOVkxtVW1fTXBlUVEtbHhrdkZ2Q0ExLTNLcEsxN2dlNi03OGVad190Wk5RMkhQVHk3XzBDTkRTZTdYdDJzVDVNbTk2UEprMVhMb09yMXN3Q1YwS1owV1c2LXZDcFFfQmcwS3lQenZGTWlHYXlkaFFWcWwxS1hwZy1EUnBmQndaMlVyZ0hvRFlVcTBXSTJTbmFjbVAtUXROQkdmQ1g4V1VR?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1792273937492-3",
-      "title": "Oracle's Real Growth Story Is Hiding in Its $664 Billion Backlog - The Globe and Mail",
-      "excerpt": "Oracle's Real Growth Story Is Hiding in Its $664 Billion Backlog  The Globe and Mail",
-      "date": "2026-10-17",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPejFJR3hUN2tFU294Rnp4dTlaV1N6bFp5Z3p0XzhRZnRjS0xxeGpHdTltRm1jb3NBbzM0eEE4WlNVb0FjRVlHanJqWU9rUVBlTlBPU2hjTFprT2Z3SE5SV1prX2F4YkhqeElSUkVHc2tzNkZQYjdtZFBlYm92MVpab0RsSE1FZmZBNmtaSE00aE93UE5OU1RITVh1eE1ZaDhtZkJRZ0kwOFZhRDU0QldGVkJfTi1iR0FQQ1lDc0kwd3hFY0dQdEl6V21HSWkycDNSVFo2OHZQNUlNUQ?oc=5",
-      "category": "Industry News"
-    },
-    {
-      "id": "en-1792360993489-3",
-      "title": "Weak Links Start to Show in A.I. Borrowing - The New York Times",
-      "excerpt": "Weak Links Start to Show in A.I. Borrowing  The New York Times",
-      "date": "2026-10-17",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG5jQ0JtclR4S2w1dzdJeFNQWmdXLTlwaDJ0SWhseFFKTHdUb2tHaHIzd0R4cEhobmFjV21TRXVDdS1HeUVGZm5RbDRCcGRMYlhCMnB0QkYzV3FrX2hhLXB2X0lnSUI3c2QzQWpTREdxLVRaUjVfOEtHQ2VrMlZrV0c5VHNTNjV0OVE?oc=5",
-      "category": "Industry News"
     }
   ],
   "ko": [
     {
-      "id": "ko-1794883300561-0",
+      "id": "ko-1794967037893-0",
       "title": "유클릭스, DHP 2026서 오라클 클라우드 기술력 소개…의료 AI 시장 공략 강화 - 뉴스탭",
       "excerpt": "유클릭스, DHP 2026서 오라클 클라우드 기술력 소개…의료 AI 시장 공략 강화  뉴스탭",
       "date": "2026-11-16",
@@ -907,7 +923,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794883300561-1",
+      "id": "ko-1794967037893-3",
       "title": "유클릭스, ‘DHP 2026’ 후원 ··· 오라클 ‘OCI’ 전시 부스 운영 - 데이터넷",
       "excerpt": "유클릭스, ‘DHP 2026’ 후원 ··· 오라클 ‘OCI’ 전시 부스 운영  데이터넷",
       "date": "2026-11-16",
@@ -915,7 +931,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794883300561-2",
+      "id": "ko-1794967037893-5",
       "title": "유클릭스, ‘DHP 2026’에서 OCI 기반 클라우드·AI 솔루션 소개 - 디지털경제뉴스",
       "excerpt": "유클릭스, ‘DHP 2026’에서 OCI 기반 클라우드·AI 솔루션 소개  디지털경제뉴스",
       "date": "2026-11-16",
@@ -923,7 +939,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794883300561-4",
+      "id": "ko-1794967037893-2",
       "title": "유클릭스, ‘DHP 2026’서 OCI 기반 클라우드·AI 솔루션 소개 - 디지털데일리",
       "excerpt": "유클릭스, ‘DHP 2026’서 OCI 기반 클라우드·AI 솔루션 소개  디지털데일리",
       "date": "2026-11-16",
@@ -931,7 +947,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794883300561-3",
+      "id": "ko-1794967037893-1",
       "title": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인 - TradingKey",
       "excerpt": "Oracle Corp (ORCL) 주식 움직였습니다 하락 3.85%에 11월13일: 변동 원인  TradingKey",
       "date": "2026-11-13",
@@ -1451,7 +1467,7 @@
       "category": "Industry News"
     },
     {
-      "id": "ko-1794785935858-2",
+      "id": "ko-1794967037893-4",
       "title": "오라클, 국내 클라우드 사업 확대 속도…AI 스타트업 고객 확보 박차 - 지디넷코리아",
       "excerpt": "오라클, 국내 클라우드 사업 확대 속도…AI 스타트업 고객 확보 박차  지디넷코리아",
       "date": "2026-10-26",
